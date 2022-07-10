@@ -1,8 +1,8 @@
 # icon-db
 
 [Icon Database](https://marmooo.github.io/icon-db) for
-[Icon Search](https://marmooo.github.io/icon-search/). 100+ icon sets with
-100,000 icons.
+[Icon Search](https://marmooo.github.io/icon-search/). 120+ icon sets with
+130,000+ icons.
 
 Collections of SVG icons created by various authors, released under various free
 licenses. When using this collections, please see
