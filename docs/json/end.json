@@ -150,12 +150,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M28.25 28.4 21 21.15v5.15h-3V16h10.3v3h-5.2l7.25 7.25zM38.5 40q-2.25 0-3.875-1.625T33 34.45q0-2.25 1.625-3.85T38.55 29q2.25 0 3.85 1.6t1.6 3.9q0 2.25-1.6 3.875T38.5 40zM7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h34q1.2 0 2.1.9.9.9.9 2.1v15h-3V11H7v26h23v3z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h34q1.2 0 2.1.9.9.9.9 2.1v15h-3V11H7v26h23v3zm21.25-11.6L21 21.15v5.15h-3V16h10.3v3h-5.2l7.25 7.25zM38.5 40q-2.25 0-3.875-1.625T33 34.45q0-2.25 1.625-3.85T38.55 29q2.25 0 3.85 1.6t1.6 3.9q0 2.25-1.6 3.875T38.5 40z\"></path></svg>",
 		"outline,pin,end,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M28.25 28.4 21 21.15v5.15h-3V16h10.3v3h-5.2l7.25 7.25zM38.5 40q-2.25 0-3.875-1.625T33 34.45q0-2.25 1.625-3.85T38.55 29q2.25 0 3.85 1.6t1.6 3.9q0 2.25-1.6 3.875T38.5 40zM7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h34q1.2 0 2.1.9.9.9.9 2.1v15h-3V11H7v26h23v3z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7 40q-1.2 0-2.1-.9Q4 38.2 4 37V11q0-1.2.9-2.1Q5.8 8 7 8h34q1.2 0 2.1.9.9.9.9 2.1v15h-3V11H7v26h23v3zm21.25-11.6L21 21.15v5.15h-3V16h10.3v3h-5.2l7.25 7.25zM38.5 40q-2.25 0-3.875-1.625T33 34.45q0-2.25 1.625-3.85T38.55 29q2.25 0 3.85 1.6t1.6 3.9q0 2.25-1.6 3.875T38.5 40z\"></path></svg>",
 		"outline,pin,end",
 		"Material Symbols"
 	],
@@ -255,62 +255,72 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-bus-articulated-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21.5,6L20,7.5L21.5,9L20,10.5L21.5,12L20,13.5L21.5,15H12.5A3,3 0 0,1 9.5,18A3,3 0 0,1 6.5,15H2.5V8C2.5,6.89 3.39,6 4.5,6H21.5M18.5,7.5H15V10H18.5V7.5M13.5,7.5H9.5V10H13.5V7.5M8,7.5H4V10H8V7.5M9.5,13.5A1.5,1.5 0 0,0 8,15A1.5,1.5 0 0,0 9.5,16.5A1.5,1.5 0 0,0 11,15A1.5,1.5 0 0,0 9.5,13.5Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brackets-contain-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 4h4v16h-4\"></path><path d=\"M5 16h.01\"></path><path d=\"M9 16h.01\"></path><path d=\"M13 16h.01\"></path></svg>",
+		"brackets,contain,end",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-bus-articulated-end\" viewBox=\"0 0 24 24\"><path d=\"M21.5,6L20,7.5L21.5,9L20,10.5L21.5,12L20,13.5L21.5,15H12.5A3,3 0 0,1 9.5,18A3,3 0 0,1 6.5,15H2.5V8C2.5,6.89 3.39,6 4.5,6H21.5M18.5,7.5H15V10H18.5V7.5M13.5,7.5H9.5V10H13.5V7.5M8,7.5H4V10H8V7.5M9.5,13.5A1.5,1.5 0 0,0 8,15A1.5,1.5 0 0,0 9.5,16.5A1.5,1.5 0 0,0 11,15A1.5,1.5 0 0,0 9.5,13.5Z\"></path></svg>",
 		"bus,articulated,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-calendar-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M22 14V22H20V18L16 22V19H11V17H16V14L20 18V14H22M5 19L9 19V21L5 21C3.9 21 3 20.1 3 19V5C3 3.89 3.9 3 5 3H6V.998H8V3H16V.998H18V3H19C20.11 3 21 3.89 21 5L21 12H19V8H5V19Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-calendar-end-outline\" viewBox=\"0 0 24 24\"><path d=\"M5 9H19V12H21V5C21 3.9 20.1 3 19 3H18V1H16V3H8V1H6V3H5C3.9 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H9V19H5V9M19 5V7H5V5H19M16 17H11V19H16V22L20 18L16 14V17M20 14V22H22V14H20Z\"></path></svg>",
+		"calendar,end,outline",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-calendar-end\" viewBox=\"0 0 24 24\"><path d=\"M22 14V22H20V18L16 22V19H11V17H16V14L20 18V14H22M5 19L9 19V21L5 21C3.9 21 3 20.1 3 19V5C3 3.89 3.9 3 5 3H6V.998H8V3H16V.998H18V3H19C20.11 3 21 3.89 21 5L21 12H19V8H5V19Z\"></path></svg>",
 		"calendar,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-clock-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12,1C8.14,1 5,4.14 5,8A7,7 0 0,0 12,15C15.86,15 19,11.87 19,8C19,4.14 15.86,1 12,1M12,3.15C14.67,3.15 16.85,5.32 16.85,8C16.85,10.68 14.67,12.85 12,12.85A4.85,4.85 0 0,1 7.15,8A4.85,4.85 0 0,1 12,3.15M11,5V8.69L14.19,10.53L14.94,9.23L12.5,7.82V5M15,16V19H3V21H15V24L19,20M19,20V24H21V16H19\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-clock-end\" viewBox=\"0 0 24 24\"><path d=\"M12,1C8.14,1 5,4.14 5,8A7,7 0 0,0 12,15C15.86,15 19,11.87 19,8C19,4.14 15.86,1 12,1M12,3.15C14.67,3.15 16.85,5.32 16.85,8C16.85,10.68 14.67,12.85 12,12.85A4.85,4.85 0 0,1 7.15,8A4.85,4.85 0 0,1 12,3.15M11,5V8.69L14.19,10.53L14.94,9.23L12.5,7.82V5M15,16V19H3V21H15V24L19,20M19,20V24H21V16H19\"></path></svg>",
 		"clock,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-contain-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7,17V15H9V17H7M11,17V15H13V17H11M15,17V15H17V17H15M22,3V21H16V19H20V5H16V3H22Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-contain-end\" viewBox=\"0 0 24 24\"><path d=\"M7,17V15H9V17H7M11,17V15H13V17H11M15,17V15H17V17H15M22,3V21H16V19H20V5H16V3H22Z\"></path></svg>",
 		"contain,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-ray-end-arrow\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M1,12L5,16V13H17.17C17.58,14.17 18.69,15 20,15A3,3 0 0,0 23,12A3,3 0 0,0 20,9C18.69,9 17.58,9.83 17.17,11H5V8L1,12Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-ray-end-arrow\" viewBox=\"0 0 24 24\"><path d=\"M1,12L5,16V13H17.17C17.58,14.17 18.69,15 20,15A3,3 0 0,0 23,12A3,3 0 0,0 20,9C18.69,9 17.58,9.83 17.17,11H5V8L1,12Z\"></path></svg>",
 		"ray,end,arrow",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-ray-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20,9C18.69,9 17.58,9.83 17.17,11H2V13H17.17C17.58,14.17 18.69,15 20,15A3,3 0 0,0 23,12A3,3 0 0,0 20,9Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-ray-end\" viewBox=\"0 0 24 24\"><path d=\"M20,9C18.69,9 17.58,9.83 17.17,11H2V13H17.17C17.58,14.17 18.69,15 20,15A3,3 0 0,0 23,12A3,3 0 0,0 20,9Z\"></path></svg>",
 		"ray,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-ray-start-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M4,9C5.31,9 6.42,9.83 6.83,11H17.17C17.58,9.83 18.69,9 20,9A3,3 0 0,1 23,12A3,3 0 0,1 20,15C18.69,15 17.58,14.17 17.17,13H6.83C6.42,14.17 5.31,15 4,15A3,3 0 0,1 1,12A3,3 0 0,1 4,9Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-ray-start-end\" viewBox=\"0 0 24 24\"><path d=\"M4,9C5.31,9 6.42,9.83 6.83,11H17.17C17.58,9.83 18.69,9 20,9A3,3 0 0,1 23,12A3,3 0 0,1 20,15C18.69,15 17.58,14.17 17.17,13H6.83C6.42,14.17 5.31,15 4,15A3,3 0 0,1 1,12A3,3 0 0,1 4,9Z\"></path></svg>",
 		"ray,start,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-ray-start-vertex-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 9C18.69 9 17.58 9.83 17.17 11H14.82C14.4 9.84 13.3 9 12 9S9.6 9.84 9.18 11H6.83C6.42 9.83 5.31 9 4 9C2.34 9 1 10.34 1 12S2.34 15 4 15C5.31 15 6.42 14.17 6.83 13H9.18C9.6 14.16 10.7 15 12 15S14.4 14.16 14.82 13H17.17C17.58 14.17 18.69 15 20 15C21.66 15 23 13.66 23 12S21.66 9 20 9\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-ray-start-vertex-end\" viewBox=\"0 0 24 24\"><path d=\"M20 9C18.69 9 17.58 9.83 17.17 11H14.82C14.4 9.84 13.3 9 12 9S9.6 9.84 9.18 11H6.83C6.42 9.83 5.31 9 4 9C2.34 9 1 10.34 1 12S2.34 15 4 15C5.31 15 6.42 14.17 6.83 13H9.18C9.6 14.16 10.7 15 12 15S14.4 14.16 14.82 13H17.17C17.58 14.17 18.69 15 20 15C21.66 15 23 13.66 23 12S21.66 9 20 9\"></path></svg>",
 		"ray,start,vertex,end",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-source-commit-end-local\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9M11,5V3H13V5H11Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-source-commit-end-local\" viewBox=\"0 0 24 24\"><path d=\"M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9M11,5V3H13V5H11Z\"></path></svg>",
 		"source,commit,end,local",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-source-commit-end\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12C7,9.58 8.72,7.56 11,7.1V3H13V7.1C15.28,7.56 17,9.58 17,12M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-source-commit-end\" viewBox=\"0 0 24 24\"><path d=\"M17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12C7,9.58 8.72,7.56 11,7.1V3H13V7.1C15.28,7.56 17,9.58 17,12M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z\"></path></svg>",
 		"source,commit,end",
 		"Material Design"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M14 12L26 24L14 36\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M34 12V36\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 12L26 24L14 36\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M34 12V36\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"arrows,go,end",
 		"IconPark Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M6 5V30.0036H42V5\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 37L24 43L18 37\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M24 30V43\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18.9604 10.9786L23.9972 15.9928L18.9604 21.0903\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M29 10.002V22.0001\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 5V30.0036H42V5\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M30 37L24 43L18 37\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M24 30V43\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18.9604 10.9786L23.9972 15.9928L18.9604 21.0903\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M29 10.002V22.0001\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
 		"charts,end,time,sort",
 		"IconPark Icons"
 	],

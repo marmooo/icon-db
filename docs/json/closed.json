@@ -415,7 +415,7 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M12.3 8H39q1.15 0 2.075.925Q42 9.85 42 11v26.7l-3-3V11H15.3zm21.25 19.45v-.35q0-.3.225-.525.225-.225.525-.225h1q.3 0 .525.225.225.225.225.525v1.2q0 .65-.425 1.075-.425.425-1.075.425h-.45l-2.35-2.35zm-5.8-9.4h6.8q.6 0 1.05.45.45.45.45 1.05v1.5q0 .3-.225.525-.225.225-.525.225h-1q-.3 0-.525-.225-.225-.225-.225-.525v-.5h-4.8v3.9l-2.5-2.5v-2.4q0-.65.425-1.075.425-.425 1.075-.425zm-.6 4.8zm-6.3 2.3zm-2.8-7.1 2.5 2.5H14.5v6.9h5.1v-.5q0-.3.225-.525.225-.225.525-.225h1q.3 0 .525.225.225.225.225.525v1.5q0 .65-.425 1.075-.425.425-1.075.425h-7.1q-.6 0-1.05-.45-.45-.45-.45-1.05v-8.9q0-.6.45-1.05.45-.45 1.05-.45zm-9.9-9.9L11 11H9v26h23.7L1.3 5.6l2.15-2.15L43.8 43.8l-2.15 2.15L35.7 40H9q-1.2 0-2.1-.9Q6 38.2 6 37V11q0-1 .625-1.775Q7.25 8.45 8.15 8.15z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M12.3 8H39q1.15 0 2.075.925Q42 9.85 42 11v26.7l-3-3V11H15.3zm21.25 19.45v-.35q0-.3.225-.525.225-.225.525-.225h1q.3 0 .525.225.225.225.225.525v1.2q0 .65-.425 1.075-.425.425-1.075.425h-.45l-2.35-2.35zm-5.8-9.4h6.8q.6 0 1.05.45.45.45.45 1.05v1.5q0 .3-.225.525-.225.225-.525.225h-1q-.3 0-.525-.225-.225-.225-.225-.525v-.5h-4.8v3.9l-2.5-2.5v-2.4q0-.65.425-1.075.425-.425 1.075-.425zm-.6 4.8zm-6.3 2.3zm-2.8-7.1 2.5 2.5H14.5v6.9h5.1v-.5q0-.3.225-.525.225-.225.525-.225h1q.3 0 .525.225.225.225.225.525v1.5q0 .65-.425 1.075-.425.425-1.075.425h-7.1q-.6 0-1.05-.45-.45-.45-.45-1.05v-8.9q0-.6.45-1.05.45-.45 1.05-.45zm-9.9-9.9L11 11H9v26h23.7L2.35 6.65Q1.9 6.2 1.9 5.575T2.35 4.5q.45-.45 1.075-.45T4.5 4.5l38.25 38.25q.45.45.45 1.05 0 .6-.45 1.05-.45.45-1.075.45t-1.075-.45L35.7 40H9q-1.2 0-2.1-.9Q6 38.2 6 37V11q0-1 .625-1.775Q7.25 8.45 8.15 8.15z\"></path></svg>",
 		"rounded,closed,caption,disabled",
 		"Material Symbols"
 	],
@@ -790,117 +790,122 @@
 		"heroicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-git-pull-request-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><desc>Download more icon variants from https://tabler-icons.io/i/git-pull-request-closed</desc><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 8v8\"></path><path d=\"M18 11v5\"></path><path d=\"M16 4l4 4m0 -4l-4 4\"></path><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-git-pull-request-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 8v8\"></path><path d=\"M18 11v5\"></path><path d=\"M16 4l4 4m0 -4l-4 4\"></path><circle cx=\"6\" cy=\"18\" r=\"2\"></circle><circle cx=\"6\" cy=\"6\" r=\"2\"></circle><circle cx=\"18\" cy=\"18\" r=\"2\"></circle></svg>",
 		"git,pull,request,closed",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-blinds-horizontal-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H13.25C13.25 21.97 14.03 22.75 15 22.75S16.75 21.97 16.75 21H22V19H20M18 11H16V9H18V11M14 11H6V9H14V11M14 13V15H6V13H14M16 13H18V15H16V13M18 7H16V5H18V7M14 5V7H6V5H14M6 19V17H14V19H6M16 19V17H18V19H16Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-blinds-horizontal-closed\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H13.25C13.25 21.97 14.03 22.75 15 22.75S16.75 21.97 16.75 21H22V19H20M18 11H16V9H18V11M14 11H6V9H14V11M14 13V15H6V13H14M16 13H18V15H16V13M18 7H16V5H18V7M14 5V7H6V5H14M6 19V17H14V19H6M16 19V17H18V19H16Z\"></path></svg>",
 		"blinds,horizontal,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-blinds-vertical-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H22V19H20M13 5H14.5V19H13V5M11 19H9.5V5H11V19M6 5H7.5V19H6V5M16.5 19V5H18V19H16.5Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-blinds-vertical-closed\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H22V19H20M13 5H14.5V19H13V5M11 19H9.5V5H11V19M6 5H7.5V19H6V5M16.5 19V5H18V19H16.5Z\"></path></svg>",
 		"blinds,vertical,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-closed-caption-outline\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M5,4C4.45,4 4,4.18 3.59,4.57C3.2,4.96 3,5.44 3,6V18C3,18.56 3.2,19.04 3.59,19.43C4,19.82 4.45,20 5,20H19C19.5,20 20,19.81 20.39,19.41C20.8,19 21,18.53 21,18V6C21,5.47 20.8,5 20.39,4.59C20,4.19 19.5,4 19,4H5M4.5,5.5H19.5V18.5H4.5V5.5M7,9C6.7,9 6.47,9.09 6.28,9.28C6.09,9.47 6,9.7 6,10V14C6,14.3 6.09,14.53 6.28,14.72C6.47,14.91 6.7,15 7,15H10C10.27,15 10.5,14.91 10.71,14.72C10.91,14.53 11,14.3 11,14V13H9.5V13.5H7.5V10.5H9.5V11H11V10C11,9.7 10.91,9.47 10.71,9.28C10.5,9.09 10.27,9 10,9H7M14,9C13.73,9 13.5,9.09 13.29,9.28C13.09,9.47 13,9.7 13,10V14C13,14.3 13.09,14.53 13.29,14.72C13.5,14.91 13.73,15 14,15H17C17.3,15 17.53,14.91 17.72,14.72C17.91,14.53 18,14.3 18,14V13H16.5V13.5H14.5V10.5H16.5V11H18V10C18,9.7 17.91,9.47 17.72,9.28C17.53,9.09 17.3,9 17,9H14Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-closed-caption-outline\" viewBox=\"0 0 24 24\"><path d=\"M5,4C4.45,4 4,4.18 3.59,4.57C3.2,4.96 3,5.44 3,6V18C3,18.56 3.2,19.04 3.59,19.43C4,19.82 4.45,20 5,20H19C19.5,20 20,19.81 20.39,19.41C20.8,19 21,18.53 21,18V6C21,5.47 20.8,5 20.39,4.59C20,4.19 19.5,4 19,4H5M4.5,5.5H19.5V18.5H4.5V5.5M7,9C6.7,9 6.47,9.09 6.28,9.28C6.09,9.47 6,9.7 6,10V14C6,14.3 6.09,14.53 6.28,14.72C6.47,14.91 6.7,15 7,15H10C10.27,15 10.5,14.91 10.71,14.72C10.91,14.53 11,14.3 11,14V13H9.5V13.5H7.5V10.5H9.5V11H11V10C11,9.7 10.91,9.47 10.71,9.28C10.5,9.09 10.27,9 10,9H7M14,9C13.73,9 13.5,9.09 13.29,9.28C13.09,9.47 13,9.7 13,10V14C13,14.3 13.09,14.53 13.29,14.72C13.5,14.91 13.73,15 14,15H17C17.3,15 17.53,14.91 17.72,14.72C17.91,14.53 18,14.3 18,14V13H16.5V13.5H14.5V10.5H16.5V11H18V10C18,9.7 17.91,9.47 17.72,9.28C17.53,9.09 17.3,9 17,9H14Z\"></path></svg>",
 		"closed,caption,outline",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-closed-caption\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M18,11H16.5V10.5H14.5V13.5H16.5V13H18V14A1,1 0 0,1 17,15H14A1,1 0 0,1 13,14V10A1,1 0 0,1 14,9H17A1,1 0 0,1 18,10M11,11H9.5V10.5H7.5V13.5H9.5V13H11V14A1,1 0 0,1 10,15H7A1,1 0 0,1 6,14V10A1,1 0 0,1 7,9H10A1,1 0 0,1 11,10M19,4H5C3.89,4 3,4.89 3,6V18A2,2 0 0,0 5,20H19A2,2 0 0,0 21,18V6C21,4.89 20.1,4 19,4Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-closed-caption\" viewBox=\"0 0 24 24\"><path d=\"M18,11H16.5V10.5H14.5V13.5H16.5V13H18V14A1,1 0 0,1 17,15H14A1,1 0 0,1 13,14V10A1,1 0 0,1 14,9H17A1,1 0 0,1 18,10M11,11H9.5V10.5H7.5V13.5H9.5V13H11V14A1,1 0 0,1 10,15H7A1,1 0 0,1 6,14V10A1,1 0 0,1 7,9H10A1,1 0 0,1 11,10M19,4H5C3.89,4 3,4.89 3,6V18A2,2 0 0,0 5,20H19A2,2 0 0,0 21,18V6C21,4.89 20.1,4 19,4Z\"></path></svg>",
 		"closed,caption",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-curtains-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M23 3H1V1H23V3M2 22H11V4H2V22M22 4H13V22H22V4Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-curtains-closed\" viewBox=\"0 0 24 24\"><path d=\"M23 3H1V1H23V3M2 22H11V4H2V22M22 4H13V22H22V4Z\"></path></svg>",
 		"curtains,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-door-closed-lock\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M16 11H18V13H16V11M12 3H19A2 2 0 0 1 21 5V19H22V21H2V19H10V5A2 2 0 0 1 12 3M12 5V19H19V5M6.2 5H2.8V4.5A1.7 1.7 0 0 1 6.2 4.5M7 5V4.5A2.5 2.5 0 0 0 2 4.5V5A1 1 0 0 0 1 6V10A1 1 0 0 0 2 11H7A1 1 0 0 0 8 10V6A1 1 0 0 0 7 5\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-door-closed-lock\" viewBox=\"0 0 24 24\"><path d=\"M16 11H18V13H16V11M12 3H19A2 2 0 0 1 21 5V19H22V21H2V19H10V5A2 2 0 0 1 12 3M12 5V19H19V5M6.2 5H2.8V4.5A1.7 1.7 0 0 1 6.2 4.5M7 5V4.5A2.5 2.5 0 0 0 2 4.5V5A1 1 0 0 0 1 6V10A1 1 0 0 0 2 11H7A1 1 0 0 0 8 10V6A1 1 0 0 0 7 5\"></path></svg>",
 		"door,closed,lock",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-door-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M16,11H18V13H16V11M12,3H19C20.11,3 21,3.89 21,5V19H22V21H2V19H10V5C10,3.89 10.89,3 12,3M12,5V19H19V5H12Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-door-closed\" viewBox=\"0 0 24 24\"><path d=\"M16,11H18V13H16V11M12,3H19C20.11,3 21,3.89 21,5V19H22V21H2V19H10V5C10,3.89 10.89,3 12,3M12,5V19H19V5H12Z\"></path></svg>",
 		"door,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-electric-switch-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20.83 11A3 3 0 0 0 15.18 11H8.82A3 3 0 0 0 3.17 11H1V13H3.17A3 3 0 0 0 8.82 13H15.18A3 3 0 0 0 20.83 13H23V11M6 13A1 1 0 1 1 7 12A1 1 0 0 1 6 13M18 13A1 1 0 1 1 19 12A1 1 0 0 1 18 13Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-electric-switch-closed\" viewBox=\"0 0 24 24\"><path d=\"M20.83 11A3 3 0 0 0 15.18 11H8.82A3 3 0 0 0 3.17 11H1V13H3.17A3 3 0 0 0 8.82 13H15.18A3 3 0 0 0 20.83 13H23V11M6 13A1 1 0 1 1 7 12A1 1 0 0 1 6 13M18 13A1 1 0 1 1 19 12A1 1 0 0 1 18 13Z\"></path></svg>",
 		"electric,switch,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-package-variant-closed-minus\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M13 12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M23 18V20H15V18H23Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-package-variant-closed-check\" viewBox=\"0 0 24 24\"><path d=\"M12 2C11.8 2 11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3V12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.3V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M8.1 6.3L14 9.8L12 10.9L6 7.5L8.1 6.3M5 9.2L11 12.6V19.3L5 15.9V9.2M21.3 15.8L17.7 19.4L16.1 17.8L15 19L17.8 22L22.6 17.2L21.3 15.8Z\"></path></svg>",
+		"package,variant,closed,check",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-package-variant-closed-minus\" viewBox=\"0 0 24 24\"><path d=\"M13 12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M23 18V20H15V18H23Z\"></path></svg>",
 		"package,variant,closed,minus",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-package-variant-closed-plus\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M13 19.3V12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M20 15V18H23V20H20V23H18V20H15V18H18V15H20Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-package-variant-closed-plus\" viewBox=\"0 0 24 24\"><path d=\"M13 19.3V12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M20 15V18H23V20H20V23H18V20H15V18H18V15H20Z\"></path></svg>",
 		"package,variant,closed,plus",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-package-variant-closed-remove\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M13 12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M16.9 15.5L19 17.6L21.1 15.5L22.5 16.9L20.4 19L22.5 21.1L21.1 22.5L19 20.4L16.9 22.5L15.5 21.1L17.6 19L15.5 16.9L16.9 15.5Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-package-variant-closed-remove\" viewBox=\"0 0 24 24\"><path d=\"M13 12.6L19 9.2V13C19.7 13 20.4 13.1 21 13.4V7.5C21 7.1 20.8 6.8 20.5 6.6L12.6 2.2C12.4 2.1 12.2 2 12 2S11.6 2.1 11.4 2.2L3.5 6.6C3.2 6.8 3 7.1 3 7.5V16.5C3 16.9 3.2 17.2 3.5 17.4L11.4 21.8C11.6 21.9 11.8 22 12 22S12.4 21.9 12.6 21.8L13.5 21.3C13.2 20.7 13.1 20 13 19.3M12 4.2L18 7.5L16 8.6L10.1 5.2L12 4.2M11 19.3L5 15.9V9.2L11 12.6V19.3M12 10.8L6 7.5L8 6.3L14 9.8L12 10.8M16.9 15.5L19 17.6L21.1 15.5L22.5 16.9L20.4 19L22.5 21.1L21.1 22.5L19 20.4L16.9 22.5L15.5 21.1L17.6 19L15.5 16.9L16.9 15.5Z\"></path></svg>",
 		"package,variant,closed,remove",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-package-variant-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21,16.5C21,16.88 20.79,17.21 20.47,17.38L12.57,21.82C12.41,21.94 12.21,22 12,22C11.79,22 11.59,21.94 11.43,21.82L3.53,17.38C3.21,17.21 3,16.88 3,16.5V7.5C3,7.12 3.21,6.79 3.53,6.62L11.43,2.18C11.59,2.06 11.79,2 12,2C12.21,2 12.41,2.06 12.57,2.18L20.47,6.62C20.79,6.79 21,7.12 21,7.5V16.5M12,4.15L10.11,5.22L16,8.61L17.96,7.5L12,4.15M6.04,7.5L12,10.85L13.96,9.75L8.08,6.35L6.04,7.5M5,15.91L11,19.29V12.58L5,9.21V15.91M19,15.91V9.21L13,12.58V19.29L19,15.91Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-package-variant-closed\" viewBox=\"0 0 24 24\"><path d=\"M21,16.5C21,16.88 20.79,17.21 20.47,17.38L12.57,21.82C12.41,21.94 12.21,22 12,22C11.79,22 11.59,21.94 11.43,21.82L3.53,17.38C3.21,17.21 3,16.88 3,16.5V7.5C3,7.12 3.21,6.79 3.53,6.62L11.43,2.18C11.59,2.06 11.79,2 12,2C12.21,2 12.41,2.06 12.57,2.18L20.47,6.62C20.79,6.79 21,7.12 21,7.5V16.5M12,4.15L10.11,5.22L16,8.61L17.96,7.5L12,4.15M6.04,7.5L12,10.85L13.96,9.75L8.08,6.35L6.04,7.5M5,15.91L11,19.29V12.58L5,9.21V15.91M19,15.91V9.21L13,12.58V19.29L19,15.91Z\"></path></svg>",
 		"package,variant,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-roller-shade-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H10.25C10.25 21.97 11.03 22.75 12 22.75S13.75 21.97 13.75 21H22V19H20M6 19V17H11V19H6M13 19V17H18V19H13Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-roller-shade-closed\" viewBox=\"0 0 24 24\"><path d=\"M20 19V3H4V19H2V21H10.25C10.25 21.97 11.03 22.75 12 22.75S13.75 21.97 13.75 21H22V19H20M6 19V17H11V19H6M13 19V17H18V19H13Z\"></path></svg>",
 		"roller,shade,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-umbrella-closed-outline\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C12.4 2 12.8 2.2 12.9 2.6L17.5 15H13V19C13 20.7 11.7 22 10 22S7 20.7 7 19V18H9V19C9 19.6 9.4 20 10 20C10.6 20 11 19.6 11 19V15H6.5L11.1 2.6C11.2 2.2 11.6 2 12 2M12 5.9L9.4 13H14.7L12 5.9Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-umbrella-closed-outline\" viewBox=\"0 0 24 24\"><path d=\"M12 2C12.4 2 12.8 2.2 12.9 2.6L17.5 15H13V19C13 20.7 11.7 22 10 22S7 20.7 7 19V18H9V19C9 19.6 9.4 20 10 20C10.6 20 11 19.6 11 19V15H6.5L11.1 2.6C11.2 2.2 11.6 2 12 2M12 5.9L9.4 13H14.7L12 5.9Z\"></path></svg>",
 		"umbrella,closed,outline",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-umbrella-closed-variant\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15 7L13 6V3.5C13 3.2 13.2 3 13.5 3S14 3.2 14 3.5V4H16V3.5C16 2.1 14.9 1 13.5 1S11 2.1 11 3.5V6L9 7L6 6L11.1 21.3C11.4 22.2 12.7 22.2 13 21.3C14.6 16.2 18 6 18 6L15 7M11 15L9 8.9L9.7 9.1L11 8.1V15M13 8.1L14.3 9.1L15 8.9L13 15V8.1Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-umbrella-closed-variant\" viewBox=\"0 0 24 24\"><path d=\"M15 7L13 6V3.5C13 3.2 13.2 3 13.5 3S14 3.2 14 3.5V4H16V3.5C16 2.1 14.9 1 13.5 1S11 2.1 11 3.5V6L9 7L6 6L11.1 21.3C11.4 22.2 12.7 22.2 13 21.3C14.6 16.2 18 6 18 6L15 7M11 15L9 8.9L9.7 9.1L11 8.1V15M13 8.1L14.3 9.1L15 8.9L13 15V8.1Z\"></path></svg>",
 		"umbrella,closed,variant",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-umbrella-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C11.6 2 11.3 2.2 11.1 2.6L6.5 15H11V19C11 19.6 10.6 20 10 20C9.4 20 9 19.6 9 19V18H7V19C7 20.7 8.3 22 10 22S13 20.7 13 19V15H17.5L12.9 2.6C12.7 2.2 12.4 2 12 2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-umbrella-closed\" viewBox=\"0 0 24 24\"><path d=\"M12 2C11.6 2 11.3 2.2 11.1 2.6L6.5 15H11V19C11 19.6 10.6 20 10 20C9.4 20 9 19.6 9 19V18H7V19C7 20.7 8.3 22 10 22S13 20.7 13 19V15H17.5L12.9 2.6C12.7 2.2 12.4 2 12 2Z\"></path></svg>",
 		"umbrella,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-valve-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M22 2V22H20V13H14.82A3 3 0 0 1 9.18 13H4V22H2V2H4V11H9.18A3 3 0 0 1 14.82 11H20V2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-valve-closed\" viewBox=\"0 0 24 24\"><path d=\"M22 2V22H20V13H14.82A3 3 0 0 1 9.18 13H4V22H2V2H4V11H9.18A3 3 0 0 1 14.82 11H20V2Z\"></path></svg>",
 		"valve,closed",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-window-closed-variant\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21 20V2H3V20H1V23H23V20M19 4V11H13V4M5 4H11V11H5M5 20V13H11V20M13 20V13H19V20Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-window-closed-variant\" viewBox=\"0 0 24 24\"><path d=\"M21 20V2H3V20H1V23H23V20M19 4V11H13V4M5 4H11V11H5M5 20V13H11V20M13 20V13H19V20Z\"></path></svg>",
 		"window,closed,variant",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-window-closed\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M6,11H10V9H14V11H18V4H6V11M18,13H6V20H18V13M6,2H18A2,2 0 0,1 20,4V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-window-closed\" viewBox=\"0 0 24 24\"><path d=\"M6,11H10V9H14V11H18V4H6V11M18,13H6V20H18V13M6,2H18A2,2 0 0,1 20,4V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2Z\"></path></svg>",
 		"window,closed",
 		"Material Design"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M6 6L15 15M42 42L33 33\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M42 6L33 15M6 42L15 33\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"24\" cy=\"24\" r=\"5\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M42 42L33 33M6 6L15 15L6 6Z\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6 42L15 33M42 6L33 15L42 6Z\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M24 29C26.7614 29 29 26.7614 29 24C29 21.2386 26.7614 19 24 19C21.2386 19 19 21.2386 19 24C19 26.7614 21.2386 29 24 29Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"connect,applet,closed",
 		"IconPark Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M24 35C29 35 31 31 31 31H17C17 31 19 35 24 35Z\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M32 17L29 20L32 23\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 17L19 20L16 23\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M24 35C29 35 31 31 31 31H17C17 31 19 35 24 35Z\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M32 17L29 20L32 23\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 17L19 20L16 23\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"emoji,grinning,face,with,tightly,closed,eyes,open,mouth",
 		"IconPark Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M17 31C17 31 19 35 24 35C29 35 31 31 31 31\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 16L19 19L16 22\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M32 16L29 19L32 22\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path d=\"M17 31C17 31 19 35 24 35C29 35 31 31 31 31\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 16L19 19L16 22\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M32 16L29 19L32 22\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"emoji,grinning,face,with,tightly,closed,eyes",
 		"IconPark Icons"
 	],
@@ -1265,7 +1270,7 @@
 		"Pepicons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g opacity=\"0.8\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.91662 8.91032C2.46807 9.23254 2.36566 9.85737 2.68788 10.3059C2.88621 10.582 3.11912 10.8444 3.38335 11.0914L2.25999 12.3274C1.88853 12.7361 1.91872 13.3685 2.32742 13.74C2.73612 14.1115 3.36857 14.0813 3.74002 13.6726L5.04237 12.2397C5.49676 12.4749 5.9873 12.6798 6.50619 12.8521L6.02986 14.7574C5.89592 15.2932 6.22168 15.8362 6.75747 15.9701C7.29327 16.1041 7.8362 15.7783 7.97015 15.2425L8.45007 13.3228C8.95377 13.4037 9.47216 13.4577 10 13.4831V15.5C10 16.0523 10.4477 16.5 11 16.5C11.5523 16.5 12 16.0523 12 15.5V13.4424C12.5215 13.3956 13.0314 13.3207 13.5246 13.2193L13.5301 13.2425L14.0301 15.2425C14.1641 15.7783 14.707 16.1041 15.2428 15.9701C15.7786 15.8362 16.1043 15.2932 15.9704 14.7574L15.4704 12.7574C15.4619 12.7234 15.4517 12.6902 15.44 12.6579C15.8733 12.4883 16.283 12.2945 16.664 12.0782L18.2929 13.7071C18.6834 14.0976 19.3166 14.0976 19.7071 13.7071C20.0976 13.3166 20.0976 12.6834 19.7071 12.2929L18.2666 10.8523C18.4334 10.6769 18.5851 10.4946 18.7207 10.3059C19.0429 9.85737 18.9405 9.23254 18.492 8.91032C18.0434 8.5881 17.4186 8.69052 17.0964 9.13906C16.7925 9.56205 16.3238 9.96553 15.7168 10.3159C14.4234 11.0625 12.6315 11.5 10.7043 11.5C8.7771 11.5 6.98518 11.0625 5.6918 10.3159C5.08478 9.96553 4.61607 9.56205 4.31221 9.13906C3.99 8.69052 3.36517 8.5881 2.91662 8.91032Z\" fill=\"currentColor\"></path></g><path d=\"M2.09394 8.01418C1.93283 7.78991 1.98404 7.4775 2.20831 7.31639C2.43258 7.15528 2.745 7.20648 2.90611 7.43076C3.25412 7.91522 3.77651 8.36491 4.44182 8.74895C5.81478 9.54147 7.69282 10 9.70428 10C11.7157 10 13.5938 9.54147 14.9667 8.74895C15.632 8.36491 16.1544 7.91522 16.5024 7.43076C16.6636 7.20648 16.976 7.15528 17.2002 7.31639C17.4245 7.4775 17.4757 7.78991 17.3146 8.01418C16.8783 8.62157 16.2485 9.16369 15.4667 9.61501C13.9345 10.4994 11.8842 11 9.70428 11C7.52431 11 5.47403 10.4994 3.94189 9.61501C3.16002 9.16369 2.53026 8.62157 2.09394 8.01418Z\" fill=\"black\"></path><path d=\"M10.5 11C10.5 10.7239 10.2761 10.5 10 10.5C9.72386 10.5 9.5 10.7239 9.5 11L9.5 13.5C9.5 13.7761 9.72386 14 10 14C10.2761 14 10.5 13.7761 10.5 13.5L10.5 11Z\" fill=\"black\"></path><path d=\"M6.00971 10.4019C6.06387 10.1311 6.32728 9.95553 6.59806 10.0097C6.86884 10.0638 7.04445 10.3273 6.9903 10.598L6.4903 13.098C6.43614 13.3688 6.17273 13.5444 5.90195 13.4903C5.63117 13.4361 5.45556 13.1727 5.50971 12.9019L6.00971 10.4019Z\" fill=\"black\"></path><path d=\"M13.9904 10.4019C13.9362 10.1311 13.6728 9.95553 13.402 10.0097C13.1313 10.0638 12.9557 10.3273 13.0098 10.598L13.5098 13.098C13.564 13.3688 13.8274 13.5444 14.0982 13.4903C14.3689 13.4361 14.5445 13.1727 14.4904 12.9019L13.9904 10.4019Z\" fill=\"black\"></path><path d=\"M16.3536 8.64645C16.1583 8.45118 15.8417 8.45118 15.6464 8.64645C15.4512 8.84171 15.4512 9.15829 15.6464 9.35355L17.6464 11.3536C17.8417 11.5488 18.1583 11.5488 18.3536 11.3536C18.5488 11.1583 18.5488 10.8417 18.3536 10.6464L16.3536 8.64645Z\" fill=\"black\"></path><path d=\"M3.44776 8.66371C3.63349 8.45936 3.94971 8.44426 4.15406 8.62999C4.35841 8.81572 4.3735 9.13195 4.18777 9.3363L2.37001 11.3363C2.18428 11.5406 1.86806 11.5557 1.66371 11.37C1.45936 11.1843 1.44426 10.8681 1.62999 10.6637L3.44776 8.66371Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_0_3659)\"><g opacity=\"0.8\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.91662 8.91032C2.46807 9.23254 2.36566 9.85737 2.68788 10.3059C2.88621 10.582 3.11912 10.8444 3.38335 11.0914L2.25999 12.3274C1.88853 12.7361 1.91872 13.3685 2.32742 13.74C2.73612 14.1115 3.36857 14.0813 3.74002 13.6726L5.04237 12.2397C5.49676 12.4749 5.9873 12.6798 6.50619 12.8521L6.02986 14.7574C5.89592 15.2932 6.22168 15.8362 6.75747 15.9701C7.29327 16.1041 7.8362 15.7783 7.97015 15.2425L8.45007 13.3228C8.95377 13.4037 9.47216 13.4577 10 13.4831V15.5C10 16.0523 10.4477 16.5 11 16.5C11.5523 16.5 12 16.0523 12 15.5V13.4424C12.5215 13.3956 13.0314 13.3207 13.5246 13.2193L13.5301 13.2425L14.0301 15.2425C14.1641 15.7783 14.707 16.1041 15.2428 15.9701C15.7786 15.8362 16.1043 15.2932 15.9704 14.7574L15.4704 12.7574C15.4619 12.7234 15.4517 12.6902 15.44 12.6579C15.8733 12.4883 16.283 12.2945 16.664 12.0782L18.2929 13.7071C18.6834 14.0976 19.3166 14.0976 19.7071 13.7071C20.0976 13.3166 20.0976 12.6834 19.7071 12.2929L18.2666 10.8523C18.4334 10.6769 18.5851 10.4946 18.7207 10.3059C19.0429 9.85737 18.9405 9.23254 18.492 8.91032C18.0434 8.5881 17.4186 8.69052 17.0964 9.13906C16.7925 9.56205 16.3238 9.96553 15.7168 10.3159C14.4234 11.0625 12.6315 11.5 10.7043 11.5C8.7771 11.5 6.98518 11.0625 5.6918 10.3159C5.08478 9.96553 4.61607 9.56205 4.31221 9.13906C3.99 8.69052 3.36517 8.5881 2.91662 8.91032Z\" fill=\"currentColor\"></path></g><path d=\"M2.09394 8.01418C1.93283 7.78991 1.98404 7.4775 2.20831 7.31639C2.43258 7.15528 2.745 7.20648 2.90611 7.43076C3.25412 7.91522 3.77651 8.36491 4.44182 8.74895C5.81478 9.54147 7.69282 10 9.70428 10C11.7157 10 13.5938 9.54147 14.9667 8.74895C15.632 8.36491 16.1544 7.91522 16.5024 7.43076C16.6636 7.20648 16.976 7.15528 17.2002 7.31639C17.4245 7.4775 17.4757 7.78991 17.3146 8.01418C16.8783 8.62157 16.2485 9.16369 15.4667 9.61501C13.9345 10.4994 11.8842 11 9.70428 11C7.52431 11 5.47403 10.4994 3.94189 9.61501C3.16002 9.16369 2.53026 8.62157 2.09394 8.01418Z\" fill=\"black\"></path><path d=\"M10.5 11C10.5 10.7239 10.2761 10.5 10 10.5C9.72386 10.5 9.5 10.7239 9.5 11L9.5 13.5C9.5 13.7761 9.72386 14 10 14C10.2761 14 10.5 13.7761 10.5 13.5L10.5 11Z\" fill=\"black\"></path><path d=\"M6.00971 10.4019C6.06387 10.1311 6.32728 9.95553 6.59806 10.0097C6.86884 10.0638 7.04445 10.3273 6.9903 10.598L6.4903 13.098C6.43614 13.3688 6.17273 13.5444 5.90195 13.4903C5.63117 13.4361 5.45556 13.1727 5.50971 12.9019L6.00971 10.4019Z\" fill=\"black\"></path><path d=\"M13.9904 10.4019C13.9362 10.1311 13.6728 9.95553 13.402 10.0097C13.1313 10.0638 12.9557 10.3273 13.0098 10.598L13.5098 13.098C13.564 13.3688 13.8274 13.5444 14.0982 13.4903C14.3689 13.4361 14.5445 13.1727 14.4904 12.9019L13.9904 10.4019Z\" fill=\"black\"></path><path d=\"M16.3536 8.64645C16.1583 8.45118 15.8417 8.45118 15.6464 8.64645C15.4512 8.84171 15.4512 9.15829 15.6464 9.35355L17.6464 11.3536C17.8417 11.5488 18.1583 11.5488 18.3536 11.3536C18.5488 11.1583 18.5488 10.8417 18.3536 10.6464L16.3536 8.64645Z\" fill=\"black\"></path><path d=\"M3.44776 8.66371C3.63349 8.45936 3.94971 8.44426 4.15406 8.62999C4.35841 8.81572 4.3735 9.13195 4.18777 9.3363L2.37001 11.3363C2.18428 11.5406 1.86806 11.5557 1.66371 11.37C1.45936 11.1843 1.44426 10.8681 1.62999 10.6637L3.44776 8.66371Z\" fill=\"black\"></path></g><defs><clipPath id=\"clip0_0_3659\"><rect width=\"20\" height=\"20\" fill=\"white\"></rect></clipPath></defs></svg>",
 		"print,eye,closed",
 		"Pepicons"
 	],

@@ -1,5 +1,10 @@
 [
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}.b{fill:#000;}</style></defs><path class=\"a\" d=\"M4.5,14.86C8.2233,10.5038,15.6914,7.547,24,7.547S39.777,10.5038,43.5,14.86L24,40.453Z\"></path><path class=\"a\" d=\"M30.0506,15.6752h0l1.4957-1.3889\"></path><path class=\"a\" d=\"M16.1887,14l1.7876,1.66\"></path><path class=\"a\" d=\"M24,13.2079a8.6054,8.6054,0,0,0-8.6242,8.6242V25.066h17.249V21.8321a8.6054,8.6054,0,0,0-8.6242-8.6242Z\"></path><circle class=\"b\" cx=\"27.5049\" cy=\"18.2855\" r=\"0.75\"></circle><circle class=\"b\" cx=\"20.4959\" cy=\"18.2855\" r=\"0.75\"></circle></svg>",
+		"adb,over,network",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" width=\"76\" height=\"76\" viewBox=\"0 0 76.00 76.00\" enable-background=\"new 0 0 76.00 76.00\" xml:space=\"preserve\"><path fill=\"#000000\" fill-opacity=\"1\" stroke-width=\"0.2\" stroke-linejoin=\"round\" d=\"M 26,22.0001L 27,21.9998L 27,27L 26.0001,27.0003C 23.2386,27.0003 21.0001,29.2389 21.0001,32.0003L 21,46.0002C 21,48.7616 23.2386,51.0002 25.9999,51.0002L 27,51.0002L 27,47L 33.75,53.5L 27,60L 27,56L 26,56C 20.4771,56 16,51.5229 16,46L 16,32.0001C 16,26.4773 20.4771,22.0001 26,22.0001 Z M 33,27L 59,27L 59,32L 33,32L 33,27 Z M 36,35L 59,35L 59,40L 36,40L 36,35 Z M 33,43L 59,43L 59,48L 33,48L 33,43 Z\"></path></svg>",
 		"appbar,debug,step,over",
 		"Windows Icons"
@@ -225,12 +230,12 @@
 		"Material Design Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-debug-step-over\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12,14A2,2 0 0,1 14,16A2,2 0 0,1 12,18A2,2 0 0,1 10,16A2,2 0 0,1 12,14M23.46,8.86L21.87,15.75L15,14.16L18.8,11.78C17.39,9.5 14.87,8 12,8C8.05,8 4.77,10.86 4.12,14.63L2.15,14.28C2.96,9.58 7.06,6 12,6C15.58,6 18.73,7.89 20.5,10.72L23.46,8.86Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-debug-step-over\" viewBox=\"0 0 24 24\"><path d=\"M12,14A2,2 0 0,1 14,16A2,2 0 0,1 12,18A2,2 0 0,1 10,16A2,2 0 0,1 12,14M23.46,8.86L21.87,15.75L15,14.16L18.8,11.78C17.39,9.5 14.87,8 12,8C8.05,8 4.77,10.86 4.12,14.63L2.15,14.28C2.96,9.58 7.06,6 12,6C15.58,6 18.73,7.89 20.5,10.72L23.46,8.86Z\"></path></svg>",
 		"debug,step,over",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-kettle-pour-over\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 4C9.4 4 9 4.4 9 5V6H14V5C14 4.4 13.6 4 13 4H10M3 7L4.1 14.1C4.2 14.8 4.5 15.5 5.1 16.1C5.5 16.6 6.2 16.9 7 17C7 17.6 7.4 18 8 18H16C16.6 18 17 17.6 17 17L15 11H17L20.3 16L22 15L18.7 10L20 9.2L19 7.5L16.4 9H15V7H8V11L7.2 16C6.5 15.9 6.1 15.7 5.8 15.4C5.4 15 5.2 14.5 5.1 13.9L4 7H3M4 19V21H20V19H4Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-kettle-pour-over\" viewBox=\"0 0 24 24\"><path d=\"M10 4C9.4 4 9 4.4 9 5V6H14V5C14 4.4 13.6 4 13 4H10M3 7L4.1 14.1C4.2 14.8 4.5 15.5 5.1 16.1C5.5 16.6 6.2 16.9 7 17C7 17.6 7.4 18 8 18H16C16.6 18 17 17.6 17 17L15 11H17L20.3 16L22 15L18.7 10L20 9.2L19 7.5L16.4 9H15V7H8V11L7.2 16C6.5 15.9 6.1 15.7 5.8 15.4C5.4 15 5.2 14.5 5.1 13.9L4 7H3M4 19V21H20V19H4Z\"></path></svg>",
 		"kettle,pour,over",
 		"Material Design"
 	],
