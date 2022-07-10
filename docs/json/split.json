@@ -1,0 +1,717 @@
+[
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-hourglass-split\" viewBox=\"0 0 16 16\"><path d=\"M2.5 15a.5.5 0 1 1 0-1h1v-1a4.5 4.5 0 0 1 2.557-4.06c.29-.139.443-.377.443-.59v-.7c0-.213-.154-.451-.443-.59A4.5 4.5 0 0 1 3.5 3V2h-1a.5.5 0 0 1 0-1h11a.5.5 0 0 1 0 1h-1v1a4.5 4.5 0 0 1-2.557 4.06c-.29.139-.443.377-.443.59v.7c0 .213.154.451.443.59A4.5 4.5 0 0 1 12.5 13v1h1a.5.5 0 0 1 0 1h-11zm2-13v1c0 .537.12 1.045.337 1.5h6.326c.216-.455.337-.963.337-1.5V2h-7zm3 6.35c0 .701-.478 1.236-1.011 1.492A3.5 3.5 0 0 0 4.5 13s.866-1.299 3-1.48V8.35zm1 0v3.17c2.134.181 3 1.48 3 1.48a3.5 3.5 0 0 0-1.989-3.158C8.978 9.586 8.5 9.052 8.5 8.351z\"></path></svg>",
+		"hourglass,split",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-layout-split\" viewBox=\"0 0 16 16\"><path d=\"M0 3a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3zm8.5-1v12H14a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H8.5zm-1 0H2a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h5.5V2z\"></path></svg>",
+		"layout,split",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-signpost-split-fill\" viewBox=\"0 0 16 16\"><path d=\"M7 16h2V6h5a1 1 0 0 0 .8-.4l.975-1.3a.5.5 0 0 0 0-.6L14.8 2.4A1 1 0 0 0 14 2H9v-.586a1 1 0 0 0-2 0V7H2a1 1 0 0 0-.8.4L.225 8.7a.5.5 0 0 0 0 .6l.975 1.3a1 1 0 0 0 .8.4h5v5z\"></path></svg>",
+		"signpost,split,filled",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-signpost-split\" viewBox=\"0 0 16 16\"><path d=\"M7 7V1.414a1 1 0 0 1 2 0V2h5a1 1 0 0 1 .8.4l.975 1.3a.5.5 0 0 1 0 .6L14.8 5.6a1 1 0 0 1-.8.4H9v10H7v-5H2a1 1 0 0 1-.8-.4L.225 9.3a.5.5 0 0 1 0-.6L1.2 7.4A1 1 0 0 1 2 7h5zm1 3V8H2l-.75 1L2 10h6zm0-5h6l.75-1L14 3H8v2z\"></path></svg>",
+		"signpost,split",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-terminal-split\" viewBox=\"0 0 16 16\"><path d=\"M2.146 3.146a.5.5 0 0 1 .708 0l.823.824a.75.75 0 0 1 0 1.06l-.823.824a.5.5 0 1 1-.708-.708l.647-.646-.647-.646a.5.5 0 0 1 0-.708ZM4 6a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1A.5.5 0 0 1 4 6Zm6.354-2.854a.5.5 0 0 0-.708.708l.647.646-.647.646a.5.5 0 1 0 .708.708l.823-.824a.75.75 0 0 0 0-1.06l-.823-.824ZM12 5.5a.5.5 0 0 0 0 1h1a.5.5 0 0 0 0-1h-1Z\"></path><path d=\"M0 3a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3Zm2-1a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h5.5V2H2Zm6.5 0v12H14a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H8.5Z\"></path></svg>",
+		"terminal,split",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-window-split\" viewBox=\"0 0 16 16\"><path d=\"M2.5 4a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Zm2-.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm1 .5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"></path><path d=\"M2 1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2H2Zm12 1a1 1 0 0 1 1 1v2H1V3a1 1 0 0 1 1-1h12ZM1 13V6h6.5v8H2a1 1 0 0 1-1-1Zm7.5 1V6H15v7a1 1 0 0 1-1 1H8.5Z\"></path></svg>",
+		"window,split",
+		"Bootstrap Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.6 40V24.7L11 13.1v6.15H8V8h11.25v3h-6.1L25.6 23.45V40zm5.65-18.2-2.1-2.1 8.7-8.7h-6.1V8H40v11.25h-3V13.1z\"></path></svg>",
+		"outline,call,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.6 40V24.7L11 13.1v6.15H8V8h11.25v3h-6.1L25.6 23.45V40zm5.65-18.2-2.1-2.1 8.7-8.7h-6.1V8H40v11.25h-3V13.1z\"></path></svg>",
+		"outline,call,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7 24q-1.25 0-2.125-.875T4 21V7q0-1.25.875-2.125T7 4h34q1.25 0 2.125.875T44 7v14q0 1.25-.875 2.125T41 24h-5.5v-8.5q0-1.25-.875-2.125T32.5 12.5h-17q-1.25 0-2.125.875T12.5 15.5V24zm1.5 13.95v-3q2.5 0 4.25-1.725T14.5 29h3q0 3.75-2.625 6.35-2.625 2.6-6.375 2.6zm7-13.95v-8.5h17V24zm7 16V29h3v11zm17-2.05q-3.75 0-6.35-2.6-2.6-2.6-2.6-6.35h3q0 2.5 1.725 4.225Q37 34.95 39.5 34.95z\"></path></svg>",
+		"outline,climate,mini,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M41 24H7q-1.25 0-2.125-.875T4 21V7q0-1.25.875-2.125T7 4h34q1.25 0 2.125.875T44 7v14q0 1.25-.875 2.125T41 24zM8.5 37.95v-3q2.5 0 4.25-1.725T14.5 29h3q0 3.75-2.625 6.35-2.625 2.6-6.375 2.6zm31 0q-3.75 0-6.35-2.6-2.6-2.6-2.6-6.35h3q0 2.5 1.725 4.225Q37 34.95 39.5 34.95zM22.5 40V29h3v11zM41 21H7h28.5zm-28.5 0v-5.5q0-1.25.875-2.125T15.5 12.5h17q1.25 0 2.125.875T35.5 15.5V21h-3v-5.5h-17V21zM7 21h34V7H7v14z\"></path></svg>",
+		"outline,climate,mini,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 38V22h36v16zm0-19v-3h36v3zm0-6v-3h36v3z\"></path></svg>",
+		"outline,horizontal,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 38V22h36v16zm0-19v-3h36v3zm0-6v-3h36v3z\"></path></svg>",
+		"outline,horizontal,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M5.65 13v-3H22.1v3zm21.8 25V10H42.4v28zM5.65 21.35v-3H22.1v3zm0 8.3v-3H22.1v3zm0 8.35v-3H22.1v3z\"></path></svg>",
+		"outline,vertical,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M5.65 26.65v3H22.1v-3zm0 8.35v3H22.1v-3zm0-16.65v3H22.1v-3zm0-8.35v3H22.1v-3zm24.8 3v22zm-3-3H42.4v28H27.45zm3 3v22h8.95V13z\"></path></svg>",
+		"outline,vertical,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"m28.25 21.8-2.1-2.1 8.7-8.7h-4.6q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075Q29.6 8 30.25 8h8.25q.65 0 1.075.425Q40 8.85 40 9.5v8.25q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q37 18.4 37 17.75V13.1zM24.1 40q-.65 0-1.075-.425-.425-.425-.425-1.075V24.7L11 13.1v4.65q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q8 18.4 8 17.75V9.5q0-.65.425-1.075Q8.85 8 9.5 8h8.25q.65 0 1.075.425.425.425.425 1.075 0 .65-.425 1.075Q18.4 11 17.75 11h-4.6L25.6 23.45V38.5q0 .65-.425 1.075Q24.75 40 24.1 40z\"></path></svg>",
+		"rounded,call,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"m28.25 21.8-2.1-2.1 8.7-8.7h-4.6q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075Q29.6 8 30.25 8h8.25q.65 0 1.075.425Q40 8.85 40 9.5v8.25q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q37 18.4 37 17.75V13.1zM24.1 40q-.65 0-1.075-.425-.425-.425-.425-1.075V24.7L11 13.1v4.65q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q8 18.4 8 17.75V9.5q0-.65.425-1.075Q8.85 8 9.5 8h8.25q.65 0 1.075.425.425.425.425 1.075 0 .65-.425 1.075Q18.4 11 17.75 11h-4.6L25.6 23.45V38.5q0 .65-.425 1.075Q24.75 40 24.1 40z\"></path></svg>",
+		"rounded,call,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7 24q-1.25 0-2.125-.875T4 21V7q0-1.25.875-2.125T7 4h34q1.25 0 2.125.875T44 7v14q0 1.25-.875 2.125T41 24h-5.5v-8.5q0-1.25-.875-2.125T32.5 12.5h-17q-1.25 0-2.125.875T12.5 15.5V24zm8.5 0v-8.5h17V24zm.45 5q.55 0 1 .375.45.375.45.925 0 3.15-2.2 5.4-2.2 2.25-5.35 2.25-.55 0-.95-.45-.4-.45-.4-1.05 0-.6.35-1.025.35-.425.9-.425 2 0 3.4-1.425t1.4-3.425q0-.55.425-.85.425-.3.975-.3zm16 0q-.55 0-.975.375-.425.375-.425.925 0 3.15 2.2 5.4 2.2 2.25 5.35 2.25.55 0 .95-.45.4-.45.4-1.05 0-.6-.375-1.025Q38.7 35 38.15 35q-2 0-3.375-1.425T33.4 30.15q0-.55-.45-.85-.45-.3-1-.3zM24 40q-.65 0-1.075-.425-.425-.425-.425-1.075v-8q0-.65.425-1.075Q23.35 29 24 29q.65 0 1.075.425.425.425.425 1.075v8q0 .65-.425 1.075Q24.65 40 24 40z\"></path></svg>",
+		"rounded,climate,mini,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M41 24H7q-1.25 0-2.125-.875T4 21V7q0-1.25.875-2.125T7 4h34q1.25 0 2.125.875T44 7v14q0 1.25-.875 2.125T41 24zm-25.05 5q.55 0 1 .375.45.375.45.925 0 3.15-2.2 5.4-2.2 2.25-5.35 2.25-.55 0-.95-.45-.4-.45-.4-1.05 0-.6.35-1.025.35-.425.9-.425 2 0 3.4-1.425t1.4-3.425q0-.55.425-.85.425-.3.975-.3zm16 0q-.55 0-.975.375-.425.375-.425.925 0 3.15 2.2 5.4 2.2 2.25 5.35 2.25.55 0 .95-.45.4-.45.4-1.05 0-.6-.375-1.025Q38.7 35 38.15 35q-2 0-3.375-1.425T33.4 30.15q0-.55-.45-.85-.45-.3-1-.3zM24 40q-.65 0-1.075-.425-.425-.425-.425-1.075v-8q0-.65.425-1.075Q23.35 29 24 29q.65 0 1.075.425.425.425.425 1.075v8q0 .65-.425 1.075Q24.65 40 24 40zm17-19H7h28.5zm-28.5 0v-5.5q0-1.25.875-2.125T15.5 12.5h17q1.25 0 2.125.875T35.5 15.5V21h-3v-5.5h-17V21zM7 21h34V7H7v14z\"></path></svg>",
+		"rounded,climate,mini,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7.45 13q-.6 0-1.025-.425Q6 12.15 6 11.5q0-.65.425-1.075Q6.85 10 7.5 10h33.05q.6 0 1.025.425Q42 10.85 42 11.5q0 .65-.425 1.075Q41.15 13 40.5 13zm0 6q-.6 0-1.025-.425Q6 18.15 6 17.5q0-.65.425-1.075Q6.85 16 7.5 16h33.05q.6 0 1.025.425Q42 16.85 42 17.5q0 .65-.425 1.075Q41.15 19 40.5 19zm.05 19q-.65 0-1.075-.425Q6 37.15 6 36.5v-13q0-.65.425-1.075Q6.85 22 7.5 22h33q.65 0 1.075.425Q42 22.85 42 23.5v13q0 .65-.425 1.075Q41.15 38 40.5 38z\"></path></svg>",
+		"rounded,horizontal,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7.45 13q-.6 0-1.025-.425Q6 12.15 6 11.5q0-.65.425-1.075Q6.85 10 7.5 10h33.05q.6 0 1.025.425Q42 10.85 42 11.5q0 .65-.425 1.075Q41.15 13 40.5 13zm0 6q-.6 0-1.025-.425Q6 18.15 6 17.5q0-.65.425-1.075Q6.85 16 7.5 16h33.05q.6 0 1.025.425Q42 16.85 42 17.5q0 .65-.425 1.075Q41.15 19 40.5 19zm.05 19q-.65 0-1.075-.425Q6 37.15 6 36.5v-13q0-.65.425-1.075Q6.85 22 7.5 22h33q.65 0 1.075.425Q42 22.85 42 23.5v13q0 .65-.425 1.075Q41.15 38 40.5 38z\"></path></svg>",
+		"rounded,horizontal,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7.15 29.65q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05.425-.45 1.025-.45h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0 8.35q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05Q6.5 35 7.1 35h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0-16.65q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05.425-.45 1.025-.45h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0-8.35q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05Q6.5 10 7.1 10h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm21.8 25q-.65 0-1.075-.425-.425-.425-.425-1.075v-25q0-.65.425-1.075Q28.3 10 28.95 10H40.9q.65 0 1.075.425.425.425.425 1.075v25q0 .65-.425 1.075Q41.55 38 40.9 38z\"></path></svg>",
+		"rounded,vertical,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M7.15 29.65q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05.425-.45 1.025-.45h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0 8.35q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05Q6.5 35 7.1 35h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0-16.65q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05.425-.45 1.025-.45h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm0-8.35q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.6.425-1.05Q6.5 10 7.1 10h13.5q.65 0 1.075.425.425.425.425 1.075 0 .6-.425 1.05-.425.45-1.025.45zm23.3 0v22zm-1.5 25q-.65 0-1.075-.425-.425-.425-.425-1.075v-25q0-.65.425-1.075Q28.3 10 28.95 10H40.9q.65 0 1.075.425.425.425.425 1.075v25q0 .65-.425 1.075Q41.55 38 40.9 38zm1.5-25v22h8.95V13z\"></path></svg>",
+		"rounded,vertical,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.6 40V24.7L11 13.1v6.15H8V8h11.25v3h-6.1L25.6 23.45V40zm5.65-18.2-2.1-2.1 8.7-8.7h-6.1V8H40v11.25h-3V13.1z\"></path></svg>",
+		"sharp,call,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.6 40V24.7L11 13.1v6.15H8V8h11.25v3h-6.1L25.6 23.45V40zm5.65-18.2-2.1-2.1 8.7-8.7h-6.1V8H40v11.25h-3V13.1z\"></path></svg>",
+		"sharp,call,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 24V4h40v20h-8.5V12.5h-23V24zm4.5 13.95v-3q2.5 0 4.25-1.725T14.5 29h3q0 3.75-2.625 6.35-2.625 2.6-6.375 2.6zm7-13.95v-8.5h17V24zm7 16V29h3v11zm17-2.05q-3.75 0-6.35-2.6-2.6-2.6-2.6-6.35h3q0 2.5 1.725 4.225Q37 34.95 39.5 34.95z\"></path></svg>",
+		"sharp,climate,mini,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 24V4h40v20zm4.5 13.95v-3q2.5 0 4.25-1.725T14.5 29h3q0 3.75-2.625 6.35-2.625 2.6-6.375 2.6zm31 0q-3.75 0-6.35-2.6-2.6-2.6-2.6-6.35h3q0 2.5 1.725 4.225Q37 34.95 39.5 34.95zM22.5 40V29h3v11zm13-19H41 7h28.5zm-23 0v-8.5h23V21h-3v-5.5h-17V21zM7 21h34V7H7z\"></path></svg>",
+		"sharp,climate,mini,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 38V22h36v16zm0-19v-3h36v3zm0-6v-3h36v3z\"></path></svg>",
+		"sharp,horizontal,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 38V22h36v16zm0-19v-3h36v3zm0-6v-3h36v3z\"></path></svg>",
+		"sharp,horizontal,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M5.65 13v-3H22.1v3zm21.8 25V10H42.4v28zM5.65 21.35v-3H22.1v3zm0 8.3v-3H22.1v3zm0 8.35v-3H22.1v3z\"></path></svg>",
+		"sharp,vertical,split,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M5.65 26.65v3H22.1v-3zm0 8.35v3H22.1v-3zm0-16.65v3H22.1v-3zm0-8.35v3H22.1v-3zm24.8 3v22zm-3-3H42.4v28H27.45zm3 3v22h8.95V13z\"></path></svg>",
+		"sharp,vertical,split",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m14 4 2.29 2.29-2.88 2.88 1.42 1.42 2.88-2.88L20 10V4zm-4 0H4v6l2.29-2.29 4.71 4.7V20h2v-8.41l-5.29-5.3z\"></path></svg>",
+		"filled,call,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 19h18v-6H3v6zm0-8h18V9H3v2zm0-6v2h18V5H3z\"></path></svg>",
+		"filled,horizontal,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 15h8v-2H3v2zm0 4h8v-2H3v2zm0-8h8V9H3v2zm0-6v2h8V5H3zm10 0h8v14h-8V5z\"></path></svg>",
+		"filled,vertical,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m14 4 2.29 2.29-2.88 2.88 1.42 1.42 2.88-2.88L20 10V4h-6zm-4 0H4v6l2.29-2.29 4.71 4.7V20h2v-8.41l-5.29-5.3L10 4z\"></path></svg>",
+		"outline,call,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 15v2H5v-2h14m2-10H3v2h18V5zm0 4H3v2h18V9zm0 4H3v6h18v-6z\"></path></svg>",
+		"outline,horizontal,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 13h8v2H3zm0 4h8v2H3zm0-8h8v2H3zm0-4h8v2H3zm16 2v10h-4V7h4m2-2h-8v14h8V5z\"></path></svg>",
+		"outline,vertical,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m14.85 4.85 1.44 1.44-2.88 2.88 1.42 1.42 2.88-2.88 1.44 1.44a.5.5 0 0 0 .85-.36V4.5c0-.28-.22-.5-.5-.5h-4.29a.5.5 0 0 0-.36.85zM8.79 4H4.5c-.28 0-.5.22-.5.5v4.29c0 .45.54.67.85.35L6.29 7.7 11 12.4V19c0 .55.45 1 1 1s1-.45 1-1v-7c0-.26-.11-.52-.29-.71l-5-5.01 1.44-1.44c.31-.3.09-.84-.36-.84z\"></path></svg>",
+		"round,call,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M4 19h16c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1zm0-8h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1zM3 6c0 .55.45 1 1 1h16c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1z\"></path></svg>",
+		"round,horizontal,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M4 15h6c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1zm0 4h6c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1zm0-8h6c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1s.45 1 1 1zM3 6c0 .55.45 1 1 1h6c.55 0 1-.45 1-1s-.45-1-1-1H4c-.55 0-1 .45-1 1zm11-1h6c.55 0 1 .45 1 1v12c0 .55-.45 1-1 1h-6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1z\"></path></svg>",
+		"round,vertical,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m14 4 2.29 2.29-2.88 2.88 1.42 1.42 2.88-2.88L20 10V4h-6zm-4 0H4v6l2.29-2.29 4.71 4.7V20h2v-8.41l-5.29-5.3L10 4z\"></path></svg>",
+		"sharp,call,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 19h18v-6H3v6zm0-8h18V9H3v2zm0-6v2h18V5H3z\"></path></svg>",
+		"sharp,horizontal,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 15h8v-2H3v2zm0 4h8v-2H3v2zm0-8h8V9H3v2zm0-6v2h8V5H3zm10 0h8v14h-8V5z\"></path></svg>",
+		"sharp,vertical,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 4h-6l2.29 2.29-2.88 2.88 1.42 1.42 2.88-2.88L20 10zM4 4v6l2.29-2.29 4.71 4.7V20h2v-8.41l-5.29-5.3L10 4z\"></path></svg>",
+		"twotone,call,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 15v2H5v-2h14m2-10H3v2h18V5zm0 4H3v2h18V9zm0 4H3v6h18v-6z\"></path><path d=\"M5 15h14v2H5z\" opacity=\".3\"></path></svg>",
+		"twotone,horizontal,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15 7h4v10h-4z\" opacity=\".3\"></path><path d=\"M3 13h8v2H3zm0 4h8v2H3zm0-8h8v2H3zm0-4h8v2H3zm10 0v14h8V5h-8zm6 12h-4V7h4v10z\"></path></svg>",
+		"twotone,vertical,split",
+		"Material Design Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M246.6 150.6C234.1 163.1 213.9 163.1 201.4 150.6C188.9 138.1 188.9 117.9 201.4 105.4L297.4 9.372C309.9-3.124 330.1-3.124 342.6 9.372L438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6C426.1 163.1 405.9 163.1 393.4 150.6L352 109.3V384C352 419.3 380.7 448 416 448H480C497.7 448 512 462.3 512 480C512 497.7 497.7 512 480 512H416C345.3 512 288 454.7 288 384C288 348.7 259.3 320 224 320H109.3L150.6 361.4C163.1 373.9 163.1 394.1 150.6 406.6C138.1 419.1 117.9 419.1 105.4 406.6L9.38 310.6L9.305 310.6C3.575 304.8 .0259 296.9 .0003 288.1L2.428 275.8C3.99 271.1 6.305 268.4 9.372 265.4L105.4 169.4C117.9 156.9 138.1 156.9 150.6 169.4C163.1 181.9 163.1 202.1 150.6 214.6L109.3 255.1H224C247.3 255.1 269.2 262.2 288 273.1V109.3L246.6 150.6zM0 287.9C.0125 283.6 .8749 279.5 2.428 275.8C.8214 279.6 .0122 283.8 0 287.9zM0 288.1V287.1V287.9V288.1z\"></path></svg>",
+		"solid,arrows,split,up,and,left",
+		"Font Awesome"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrows-split-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><desc>Download more icon variants from https://tabler-icons.io/i/arrows-split-2</desc><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21 17h-5.397a5 5 0 0 1 -4.096 -2.133l-.514 -.734a5 5 0 0 0 -4.096 -2.133h-3.897\"></path><path d=\"M21 7h-5.395a5 5 0 0 0 -4.098 2.135l-.51 .73a5 5 0 0 1 -4.097 2.135h-3.9\"></path><path d=\"M18 10l3 -3l-3 -3\"></path><path d=\"M18 20l3 -3l-3 -3\"></path></svg>",
+		"arrows,split,2",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrows-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><desc>Download more icon variants from https://tabler-icons.io/i/arrows-split</desc><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21 17h-8l-3.5 -5h-6.5\"></path><path d=\"M21 7h-8l-3.495 5\"></path><path d=\"M18 10l3 -3l-3 -3\"></path><path d=\"M18 20l3 -3l-3 -3\"></path></svg>",
+		"arrows,split",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-layout-board-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><desc>Download more icon variants from https://tabler-icons.io/i/layout-board-split</desc><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 12h8\"></path><path d=\"M12 15h8\"></path><path d=\"M12 9h8\"></path><path d=\"M12 4v16\"></path><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect></svg>",
+		"layout,board,split",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-arrow-split-horizontal\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M8,18H11V15H2V13H22V15H13V18H16L12,22L8,18M12,2L8,6H11V9H2V11H22V9H13V6H16L12,2Z\"></path></svg>",
+		"arrow,split,horizontal",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-arrow-split-vertical\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M18,16V13H15V22H13V2H15V11H18V8L22,12L18,16M2,12L6,16V13H9V22H11V2H9V11H6V8L2,12Z\"></path></svg>",
+		"arrow,split,vertical",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-call-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M14,4L16.29,6.29L13.41,9.17L14.83,10.59L17.71,7.71L20,10V4M10,4H4V10L6.29,7.71L11,12.41V20H13V11.59L7.71,6.29\"></path></svg>",
+		"call,split",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-format-page-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M11 11V7H13V11H11M13 1V5H11V1H13M11 17V13H13V17H11M9 20H6V4H9V2H6C4.89 2 4 2.9 4 4V20C4 21.11 4.89 22 6 22H9V20M15 3V8H18V20H15V22H18C19.11 22 20 21.11 20 20V8L15 3M13 19H11V23H13V19Z\"></path></svg>",
+		"format,page,split",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-rhombus-split-outline\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C11.5 2 11 2.19 10.59 2.59L2.59 10.59C1.8 11.37 1.8 12.63 2.59 13.41L10.59 21.41C11.37 22.2 12.63 22.2 13.41 21.41L21.41 13.41C22.2 12.63 22.2 11.37 21.41 10.59L13.41 2.59C13 2.19 12.5 2 12 2M12 4L15.29 7.29L12 10.59L8.71 7.29L12 4M7.29 8.71L10.59 12L7.29 15.29L4 12L7.29 8.71M16.71 8.71L20 12L16.71 15.29L13.41 12L16.71 8.71M12 13.41L15.29 16.71L12 20L8.71 16.71L12 13.41Z\"></path></svg>",
+		"rhombus,split,outline",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-rhombus-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C11.5 2 11 2.19 10.59 2.59L7.29 5.88L12 10.58L16.71 5.88L13.41 2.59C13 2.19 12.5 2 12 2M5.88 7.29L2.59 10.59C1.8 11.37 1.8 12.63 2.59 13.41L5.88 16.71L10.58 12L5.88 7.29M18.12 7.29L13.42 12L18.12 16.71L21.41 13.41C22.2 12.63 22.2 11.37 21.41 10.59L18.12 7.29M12 13.42L7.29 18.12L10.59 21.41C11.37 22.2 12.63 22.2 13.41 21.41L16.71 18.12L12 13.42Z\"></path></svg>",
+		"rhombus,split",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-set-split\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 7V9H22V7H17M2 9V15H7V9H2M12 9V11H9V13H12V15L15 12L12 9M17 11V13H22V11H17M17 15V17H22V15H17Z\"></path></svg>",
+		"set,split",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-table-split-cell\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 14H21V20H3V14H5V18H19V14M3 4V10H5V6H19V10H21V4H3M11 11V13H8V15L5 12L8 9V11H11M16 11V9L19 12L16 15V13H13V11H16Z\"></path></svg>",
+		"table,split,cell",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-view-split-horizontal\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3,5H21V7H3V5M3,11V9H21V11H3M3,19V13H21V19H3Z\"></path></svg>",
+		"view,split,horizontal",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"mdi-view-split-vertical\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M13,5H21V19H13V5M3,5H11V7H3V5M3,11V9H11V11H3M3,19V17H11V19H3M3,15V13H11V15H3Z\"></path></svg>",
+		"view,split,vertical",
+		"Material Design"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 8C2 6.34315 3.34315 5 5 5H19C20.6569 5 22 6.34315 22 8V16C22 17.6569 20.6569 19 19 19H5C3.34315 19 2 17.6569 2 16V8ZM13 7H19C19.5523 7 20 7.44771 20 8V16C20 16.5523 19.5523 17 19 17H13V7ZM11 7H5C4.44772 7 4 7.44772 4 8V16C4 16.5523 4.44772 17 5 17H11V7Z\" fill=\"currentColor\"></path></svg>",
+		"view,split",
+		"css.gg"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M44 44V4H24V17L33 26V44H44Z\" fill=\"#2F88FF\"></path><path d=\"M4 4V44H25V30L16 21V4H4Z\" fill=\"#2F88FF\"></path><path d=\"M44 44V4H24V17L33 26V44H44Z\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M4 4V44H25V30L16 21V4H4Z\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"abstract,split,branch",
+		"IconPark Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M37 22H21C16.5817 22 13 25.5817 13 30V44\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M37 14V43\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M42 39L37 44L32 39\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18 39L13 44L8 39\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"37\" cy=\"8.94365\" r=\"5\" transform=\"rotate(-90 37 8.94365)\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\"></circle></svg>",
+		"connect,split,turn,down,left",
+		"IconPark Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 22H29C33.4183 22 37 25.5817 37 30V44\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M13 14V43\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18 39L13 44L8 39\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M42 39L37 44L32 39\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"13\" cy=\"8.94365\" r=\"5\" transform=\"rotate(-90 13 8.94365)\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\"></circle></svg>",
+		"connect,split,turn,down,right",
+		"IconPark Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"48\" height=\"48\" fill=\"white\" fill-opacity=\"0.01\"></rect><path d=\"M4 14V5C4 4.44772 4.44772 4 5 4H19C19.5523 4 20 4.44772 20 5V43C20 43.5523 19.5523 44 19 44H5C4.44772 44 4 43.5523 4 43V34\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M44 34V43C44 43.5523 43.5523 44 43 44H29C28.4477 44 28 43.5523 28 43V5C28 4.44772 28.4477 4 29 4H43C43.5523 4 44 4.44772 44 5V14\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M28 24L44 24.0132\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M4 24.0132L20 24\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M39.2275 28.7779L40.8185 27.1869L44.0005 24.0049L40.8185 20.8229L39.2275 19.232\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M8.75537 28.7862L7.16438 27.1952L3.9824 24.0132L7.16438 20.8313L8.75537 19.2403\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"edit,split,cells",
+		"IconPark Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 10V7C19 5.89543 19.8954 5 21 5H41C42.1046 5 43 5.89543 43 7V29C43 30.1046 42.1046 31 41 31H37\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"5\" y=\"18\" width=\"24\" height=\"24\" rx=\"2\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
+		"edit,split",
+		"IconPark Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0H24V24H0z\"></path><path d=\"M20 3c.552 0 1 .448 1 1v16c0 .552-.448 1-1 1H4c-.552 0-1-.448-1-1V4c0-.552.448-1 1-1h16zm-9 2H5v14h6v-4h2v4h6V5h-6v4h-2V5zm4 4l3 3-3 3v-2H9v2l-3-3 3-3v2h6V9z\"></path></g></svg>",
+		"editor,split,cells,horizontal",
+		"Remix Icon"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0H24V24H0z\"></path><path d=\"M20 3c.552 0 1 .448 1 1v16c0 .552-.448 1-1 1H4c-.552 0-1-.448-1-1V4c0-.552.448-1 1-1h16zm-1 2H5v5.999L9 11v2H5v6h14v-6h-4v-2l4-.001V5zm-7 1l3 3h-2v6h2l-3 3-3-3h2V9H9l3-3z\"></path></g></svg>",
+		"editor,split,cells,vertical",
+		"Remix Icon"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2C14.4183 2 18 5.58172 18 10ZM8.79289 12.4142C8.98816 12.219 8.98816 11.9024 8.79289 11.7071C8.59763 11.5118 8.28105 11.5118 8.08579 11.7071L7.5 12.2929V9H9.9993L10.0007 9H12.5V12.2929L11.9142 11.7071C11.719 11.5119 11.4024 11.5119 11.2071 11.7071C11.0118 11.9024 11.0118 12.219 11.2071 12.4143L12.6464 13.8536C12.8417 14.0488 13.1583 14.0488 13.3535 13.8536L14.7929 12.4142C14.9881 12.219 14.9881 11.9024 14.7929 11.7071C14.5976 11.5118 14.281 11.5118 14.0857 11.7071L13.5 12.2929V8.5C13.5 8.22387 13.2761 8.00002 13 8L10.5 8V5.5C10.5 5.22386 10.2761 5 10 5C9.72386 5 9.5 5.22386 9.5 5.5L9.5 8L7 8C6.72386 8 6.5 8.22386 6.5 8.5V12.2929L5.91425 11.7071C5.71899 11.5119 5.40241 11.5119 5.20715 11.7071C5.01188 11.9024 5.01188 12.219 5.20715 12.4143L6.64645 13.8536C6.84171 14.0488 7.15829 14.0488 7.35355 13.8536L8.79289 12.4142Z\" fill=\"#212121\"></path></svg>",
+		"arrow,circle,down,split,arrow,circle,down,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2C14.4183 2 18 5.58172 18 10ZM8.79289 12.4142C8.98816 12.219 8.98816 11.9024 8.79289 11.7071C8.59763 11.5118 8.28105 11.5118 8.08579 11.7071L7.5 12.2929V9H9.9993L10.0007 9H12.5V12.2929L11.9142 11.7071C11.719 11.5119 11.4024 11.5119 11.2071 11.7071C11.0118 11.9024 11.0118 12.219 11.2071 12.4143L12.6464 13.8536C12.8417 14.0488 13.1583 14.0488 13.3535 13.8536L14.7929 12.4142C14.9881 12.219 14.9881 11.9024 14.7929 11.7071C14.5976 11.5118 14.281 11.5118 14.0857 11.7071L13.5 12.2929V8.5C13.5 8.22387 13.2761 8.00002 13 8L10.5 8V5.5C10.5 5.22386 10.2761 5 10 5C9.72386 5 9.5 5.22386 9.5 5.5L9.5 8L7 8C6.72386 8 6.5 8.22386 6.5 8.5V12.2929L5.91425 11.7071C5.71899 11.5119 5.40241 11.5119 5.20715 11.7071C5.01188 11.9024 5.01188 12.219 5.20715 12.4143L6.64645 13.8536C6.84171 14.0488 7.15829 14.0488 7.35355 13.8536L8.79289 12.4142Z\" fill=\"#212121\"></path></svg>",
+		"arrow,circle,down,split,arrow,circle,down,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.79289 12.4142L7.35355 13.8536C7.15829 14.0488 6.84171 14.0488 6.64645 13.8536L5.20715 12.4143C5.01188 12.219 5.01188 11.9024 5.20715 11.7071C5.40241 11.5119 5.71899 11.5119 5.91425 11.7071L6.5 12.2929V8.5C6.5 8.22386 6.72386 8 7 8L9.5 8L9.5 5.5C9.5 5.22386 9.72386 5 10 5C10.2761 5 10.5 5.22386 10.5 5.5V8L13 8C13.2761 8.00002 13.5 8.22387 13.5 8.5V12.2929L14.0857 11.7071C14.281 11.5118 14.5976 11.5118 14.7929 11.7071C14.9881 11.9024 14.9881 12.219 14.7929 12.4142L13.3535 13.8536C13.1583 14.0488 12.8417 14.0488 12.6464 13.8536L11.2071 12.4143C11.0118 12.219 11.0118 11.9024 11.2071 11.7071C11.4024 11.5119 11.719 11.5119 11.9142 11.7071L12.5 12.2929V9H10.0007C10.0009 9 10.0005 9 10.0007 9C10.0005 9 9.99953 9 9.9993 9H7.5V12.2929L8.08579 11.7071C8.28105 11.5118 8.59763 11.5118 8.79289 11.7071C8.98816 11.9024 8.98816 12.219 8.79289 12.4142ZM10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18ZM17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" fill=\"#212121\"></path></svg>",
+		"arrow,circle,down,split,arrow,circle,down,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.79289 12.4142L7.35355 13.8536C7.15829 14.0488 6.84171 14.0488 6.64645 13.8536L5.20715 12.4143C5.01188 12.219 5.01188 11.9024 5.20715 11.7071C5.40241 11.5119 5.71899 11.5119 5.91425 11.7071L6.5 12.2929V8.5C6.5 8.22386 6.72386 8 7 8L9.5 8L9.5 5.5C9.5 5.22386 9.72386 5 10 5C10.2761 5 10.5 5.22386 10.5 5.5V8L13 8C13.2761 8.00002 13.5 8.22387 13.5 8.5V12.2929L14.0857 11.7071C14.281 11.5118 14.5976 11.5118 14.7929 11.7071C14.9881 11.9024 14.9881 12.219 14.7929 12.4142L13.3535 13.8536C13.1583 14.0488 12.8417 14.0488 12.6464 13.8536L11.2071 12.4143C11.0118 12.219 11.0118 11.9024 11.2071 11.7071C11.4024 11.5119 11.719 11.5119 11.9142 11.7071L12.5 12.2929V9H10.0007C10.0009 9 10.0005 9 10.0007 9C10.0005 9 9.99953 9 9.9993 9H7.5V12.2929L8.08579 11.7071C8.28105 11.5118 8.59763 11.5118 8.79289 11.7071C8.98816 11.9024 8.98816 12.219 8.79289 12.4142ZM10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18ZM17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" fill=\"#212121\"></path></svg>",
+		"arrow,circle,down,split,arrow,circle,down,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.0003 3C10.4145 3 10.7503 3.33579 10.7503 3.75V8H12.9957C14.1003 8 14.9957 8.89543 14.9957 10V14.4426L16.2205 13.2204C16.5137 12.9278 16.9886 12.9283 17.2811 13.2215C17.5737 13.5148 17.5732 13.9896 17.28 14.2822L14.7754 16.7814C14.4825 17.0738 14.008 17.0735 13.7154 16.7808L11.2162 14.2816C10.9233 13.9887 10.9233 13.5139 11.2162 13.221C11.5091 12.9281 11.9839 12.9281 12.2768 13.221L13.4957 14.4398V10C13.4957 9.72386 13.2718 9.5 12.9957 9.5H7.00016C6.72402 9.5 6.50016 9.72386 6.50016 10V14.4398L7.71902 13.221C8.01192 12.9281 8.48679 12.9281 8.77968 13.221C9.07258 13.5139 9.07258 13.9887 8.77968 14.2816L6.28049 16.7808C6.13984 16.9215 5.94907 17.0005 5.75016 17.0005C5.55125 17.0005 5.36048 16.9215 5.21983 16.7808L2.72065 14.2816C2.42775 13.9887 2.42775 13.5139 2.72065 13.221C3.01354 12.9281 3.48842 12.9281 3.78131 13.221L5.00016 14.4398V10C5.00016 8.89543 5.89559 8 7.00016 8H9.25026V3.75C9.25026 3.33579 9.58604 3 10.0003 3Z\" fill=\"#212121\"></path></svg>",
+		"arrow,split,arrow,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.0003 3C10.4145 3 10.7503 3.33579 10.7503 3.75V8H12.9957C14.1003 8 14.9957 8.89543 14.9957 10V14.4426L16.2205 13.2204C16.5137 12.9278 16.9886 12.9283 17.2811 13.2215C17.5737 13.5148 17.5732 13.9896 17.28 14.2822L14.7754 16.7814C14.4825 17.0738 14.008 17.0735 13.7154 16.7808L11.2162 14.2816C10.9233 13.9887 10.9233 13.5139 11.2162 13.221C11.5091 12.9281 11.9839 12.9281 12.2768 13.221L13.4957 14.4398V10C13.4957 9.72386 13.2718 9.5 12.9957 9.5H7.00016C6.72402 9.5 6.50016 9.72386 6.50016 10V14.4398L7.71902 13.221C8.01192 12.9281 8.48679 12.9281 8.77968 13.221C9.07258 13.5139 9.07258 13.9887 8.77968 14.2816L6.28049 16.7808C6.13984 16.9215 5.94907 17.0005 5.75016 17.0005C5.55125 17.0005 5.36048 16.9215 5.21983 16.7808L2.72065 14.2816C2.42775 13.9887 2.42775 13.5139 2.72065 13.221C3.01354 12.9281 3.48842 12.9281 3.78131 13.221L5.00016 14.4398V10C5.00016 8.89543 5.89559 8 7.00016 8H9.25026V3.75C9.25026 3.33579 9.58604 3 10.0003 3Z\" fill=\"#212121\"></path></svg>",
+		"arrow,split,arrow,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 3C10.2761 3 10.5 3.22386 10.5 3.5V8H13C14.1046 8 15 8.89543 15 10V15.2929L16.6464 13.6464C16.8417 13.4512 17.1583 13.4512 17.3536 13.6464C17.5488 13.8417 17.5488 14.1583 17.3536 14.3536L14.8536 16.8536C14.6583 17.0488 14.3417 17.0488 14.1464 16.8536L11.6464 14.3536C11.4512 14.1583 11.4512 13.8417 11.6464 13.6464C11.8417 13.4512 12.1583 13.4512 12.3536 13.6464L14 15.2929V10C14 9.44772 13.5523 9 13 9H7C6.44772 9 6 9.44772 6 10V15.2929L7.64645 13.6464C7.84171 13.4512 8.15829 13.4512 8.35355 13.6464C8.54882 13.8417 8.54882 14.1583 8.35355 14.3536L5.85355 16.8536C5.65829 17.0488 5.34171 17.0488 5.14645 16.8536L2.64645 14.3536C2.45118 14.1583 2.45118 13.8417 2.64645 13.6464C2.84171 13.4512 3.15829 13.4512 3.35355 13.6464L5 15.2929V10C5 8.89543 5.89543 8 7 8H9.5V3.5C9.5 3.22386 9.72386 3 10 3Z\" fill=\"#212121\"></path></svg>",
+		"arrow,split,arrow,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 3C10.2761 3 10.5 3.22386 10.5 3.5V8H13C14.1046 8 15 8.89543 15 10V15.2929L16.6464 13.6464C16.8417 13.4512 17.1583 13.4512 17.3536 13.6464C17.5488 13.8417 17.5488 14.1583 17.3536 14.3536L14.8536 16.8536C14.6583 17.0488 14.3417 17.0488 14.1464 16.8536L11.6464 14.3536C11.4512 14.1583 11.4512 13.8417 11.6464 13.6464C11.8417 13.4512 12.1583 13.4512 12.3536 13.6464L14 15.2929V10C14 9.44772 13.5523 9 13 9H7C6.44772 9 6 9.44772 6 10V15.2929L7.64645 13.6464C7.84171 13.4512 8.15829 13.4512 8.35355 13.6464C8.54882 13.8417 8.54882 14.1583 8.35355 14.3536L5.85355 16.8536C5.65829 17.0488 5.34171 17.0488 5.14645 16.8536L2.64645 14.3536C2.45118 14.1583 2.45118 13.8417 2.64645 13.6464C2.84171 13.4512 3.15829 13.4512 3.35355 13.6464L5 15.2929V10C5 8.89543 5.89543 8 7 8H9.5V3.5C9.5 3.22386 9.72386 3 10 3Z\" fill=\"#212121\"></path></svg>",
+		"arrow,split,arrow,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V9L11 9V3H6ZM11 10L3 10V14C3 15.6569 4.34315 17 6 17H11V10ZM14 17H12V13H17V14C17 15.6569 15.6569 17 14 17ZM17 12H12V8H17V12ZM17 7L12 7V3H14C15.6569 3 17 4.34315 17 6V7Z\" fill=\"#212121\"></path></svg>",
+		"board,split,board,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V9L11 9V3H6ZM11 10L3 10V14C3 15.6569 4.34315 17 6 17H11V10ZM14 17H12V13H17V14C17 15.6569 15.6569 17 14 17ZM17 12H12V8H17V12ZM17 7L12 7V3H14C15.6569 3 17 4.34315 17 6V7Z\" fill=\"#212121\"></path></svg>",
+		"board,split,board,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM4 10V14C4 15.1046 4.89543 16 6 16H11V10H4ZM11 9V4H6C4.89543 4 4 4.89543 4 6V9H11ZM12 16H14C15.1046 16 16 15.1046 16 14V13H12V16ZM16 7V6C16 4.89543 15.1046 4 14 4H12V7H16ZM16 8H12V12H16V8Z\" fill=\"#212121\"></path></svg>",
+		"board,split,board,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM4 10V14C4 15.1046 4.89543 16 6 16H11V10H4ZM11 9V4H6C4.89543 4 4 4.89543 4 6V9H11ZM12 16H14C15.1046 16 16 15.1046 16 14V13H12V16ZM16 7V6C16 4.89543 15.1046 4 14 4H12V7H16ZM16 8H12V12H16V8Z\" fill=\"#212121\"></path></svg>",
+		"board,split,board,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 5.44772 3.44772 5 4 5H4.5C4.77614 5 5 4.77614 5 4.5C5 4.22386 4.77614 4 4.5 4H4C2.89543 4 2 4.89543 2 6V6.5C2 6.77614 2.22386 7 2.5 7C2.77614 7 3 6.77614 3 6.5V6ZM4 15C3.44772 15 3 14.5523 3 14V13.5C3 13.2239 2.77614 13 2.5 13C2.22386 13 2 13.2239 2 13.5V14C2 15.1046 2.89543 16 4 16H4.5C4.77614 16 5 15.7761 5 15.5C5 15.2239 4.77614 15 4.5 15H4ZM2.5 8C2.77614 8 3 8.22386 3 8.5L3 11.5C3 11.7761 2.77614 12 2.5 12C2.22386 12 2 11.7761 2 11.5V8.5C2 8.22386 2.22386 8 2.5 8ZM6.5 4C6.22386 4 6 4.22386 6 4.5C6 4.77614 6.22386 5 6.5 5H8.5C8.77614 5 9 4.77614 9 4.5C9 4.22386 8.77614 4 8.5 4H6.5ZM6 15.5C6 15.2239 6.22386 15 6.5 15H8.5C8.77614 15 9 15.2239 9 15.5C9 15.7761 8.77614 16 8.5 16H6.5C6.22386 16 6 15.7761 6 15.5ZM12 8.5V4.00012H10.5C10.2239 4.00012 10 4.22398 10 4.50012V15.5001C10 15.7763 10.2239 16.0001 10.5 16.0001H16C17.1046 16.0001 18 15.1047 18 14.0001V10H13.5C12.6716 10 12 9.32843 12 8.5ZM13 8.5V4.05844C13.2421 4.12802 13.4651 4.25813 13.6464 4.43946L17.5607 8.35368C17.742 8.53498 17.8721 8.75791 17.9416 9H13.5C13.2239 9 13 8.77614 13 8.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,hint,document,landscape,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 5.44772 3.44772 5 4 5H4.5C4.77614 5 5 4.77614 5 4.5C5 4.22386 4.77614 4 4.5 4H4C2.89543 4 2 4.89543 2 6V6.5C2 6.77614 2.22386 7 2.5 7C2.77614 7 3 6.77614 3 6.5V6ZM4 15C3.44772 15 3 14.5523 3 14V13.5C3 13.2239 2.77614 13 2.5 13C2.22386 13 2 13.2239 2 13.5V14C2 15.1046 2.89543 16 4 16H4.5C4.77614 16 5 15.7761 5 15.5C5 15.2239 4.77614 15 4.5 15H4ZM2.5 8C2.77614 8 3 8.22386 3 8.5L3 11.5C3 11.7761 2.77614 12 2.5 12C2.22386 12 2 11.7761 2 11.5V8.5C2 8.22386 2.22386 8 2.5 8ZM6.5 4C6.22386 4 6 4.22386 6 4.5C6 4.77614 6.22386 5 6.5 5H8.5C8.77614 5 9 4.77614 9 4.5C9 4.22386 8.77614 4 8.5 4H6.5ZM6 15.5C6 15.2239 6.22386 15 6.5 15H8.5C8.77614 15 9 15.2239 9 15.5C9 15.7761 8.77614 16 8.5 16H6.5C6.22386 16 6 15.7761 6 15.5ZM12 8.5V4.00012H10.5C10.2239 4.00012 10 4.22398 10 4.50012V15.5001C10 15.7763 10.2239 16.0001 10.5 16.0001H16C17.1046 16.0001 18 15.1047 18 14.0001V10H13.5C12.6716 10 12 9.32843 12 8.5ZM13 8.5V4.05844C13.2421 4.12802 13.4651 4.25813 13.6464 4.43946L17.5607 8.35368C17.742 8.53498 17.8721 8.75791 17.9416 9H13.5C13.2239 9 13 8.77614 13 8.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,hint,document,landscape,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 5.44772 3.44772 5 4 5H4.5C4.77614 5 5 4.77614 5 4.5C5 4.22386 4.77614 4 4.5 4H4C2.89543 4 2 4.89543 2 6V6.5C2 6.77614 2.22386 7 2.5 7C2.77614 7 3 6.77614 3 6.5V6ZM9.5 4.00012C9.2239 4.00012 9.00007 4.22391 9 4.5L9 15.5C9 15.7761 9.22386 16.0001 9.5 16.0001H16C17.1046 16.0001 18 15.1047 18 14.0001V9.41434C18 9.01651 17.842 8.63498 17.5607 8.35368L13.6464 4.43946C13.3651 4.15816 12.9836 4.00012 12.5858 4.00012H9.5ZM10 15.0001L10 5.00012L12 5.00012V8.50012C12 9.32855 12.6716 10.0001 13.5 10.0001H17V14.0001C17 14.5524 16.5523 15.0001 16 15.0001H10ZM13.5 9.00012C13.2239 9.00012 13 8.77626 13 8.50012V5.20723L16.7929 9.00012H13.5ZM3 14C3 14.5523 3.44772 15 4 15H4.5C4.77614 15 5 15.2239 5 15.5C5 15.7761 4.77614 16 4.5 16H4C2.89543 16 2 15.1046 2 14V13.5C2 13.2239 2.22386 13 2.5 13C2.77614 13 3 13.2239 3 13.5V14ZM3 8.5C3 8.22386 2.77614 8 2.5 8C2.22386 8 2 8.22386 2 8.5V11.5C2 11.7761 2.22386 12 2.5 12C2.77614 12 3 11.7761 3 11.5L3 8.5ZM6 4.5C6 4.22386 6.22386 4 6.5 4H7.5C7.77614 4 8 4.22386 8 4.5C8 4.77614 7.77614 5 7.5 5H6.5C6.22386 5 6 4.77614 6 4.5ZM6.5 15C6.22386 15 6 15.2239 6 15.5C6 15.7761 6.22386 16 6.5 16H7.5C7.77614 16 8 15.7761 8 15.5C8 15.2239 7.77614 15 7.5 15H6.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,hint,document,landscape,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 5.44772 3.44772 5 4 5H4.5C4.77614 5 5 4.77614 5 4.5C5 4.22386 4.77614 4 4.5 4H4C2.89543 4 2 4.89543 2 6V6.5C2 6.77614 2.22386 7 2.5 7C2.77614 7 3 6.77614 3 6.5V6ZM9.5 4.00012C9.2239 4.00012 9.00007 4.22391 9 4.5L9 15.5C9 15.7761 9.22386 16.0001 9.5 16.0001H16C17.1046 16.0001 18 15.1047 18 14.0001V9.41434C18 9.01651 17.842 8.63498 17.5607 8.35368L13.6464 4.43946C13.3651 4.15816 12.9836 4.00012 12.5858 4.00012H9.5ZM10 15.0001L10 5.00012L12 5.00012V8.50012C12 9.32855 12.6716 10.0001 13.5 10.0001H17V14.0001C17 14.5524 16.5523 15.0001 16 15.0001H10ZM13.5 9.00012C13.2239 9.00012 13 8.77626 13 8.50012V5.20723L16.7929 9.00012H13.5ZM3 14C3 14.5523 3.44772 15 4 15H4.5C4.77614 15 5 15.2239 5 15.5C5 15.7761 4.77614 16 4.5 16H4C2.89543 16 2 15.1046 2 14V13.5C2 13.2239 2.22386 13 2.5 13C2.77614 13 3 13.2239 3 13.5V14ZM3 8.5C3 8.22386 2.77614 8 2.5 8C2.22386 8 2 8.22386 2 8.5V11.5C2 11.7761 2.22386 12 2.5 12C2.77614 12 3 11.7761 3 11.5L3 8.5ZM6 4.5C6 4.22386 6.22386 4 6.5 4H7.5C7.77614 4 8 4.22386 8 4.5C8 4.77614 7.77614 5 7.5 5H6.5C6.22386 5 6 4.77614 6 4.5ZM6.5 15C6.22386 15 6 15.2239 6 15.5C6 15.7761 6.22386 16 6.5 16H7.5C7.77614 16 8 15.7761 8 15.5C8 15.2239 7.77614 15 7.5 15H6.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,hint,document,landscape,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 8.49988V4H10L10 15.9999L16 16C17.1046 16 18 15.1046 18 14V9.99988H13.5C12.6716 9.99988 12 9.3283 12 8.49988ZM9 15.9999L4 16C2.89543 16 2 15.1046 2 14V6C2 4.89543 2.89543 4 4 4H9V15.9999ZM13 8.49988V4.05832C13.2421 4.1279 13.4651 4.25801 13.6464 4.43934L17.5607 8.35355C17.742 8.53485 17.8721 8.75778 17.9416 8.99988H13.5C13.2239 8.99988 13 8.77602 13 8.49988Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,document,landscape,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 8.49988V4H10L10 15.9999L16 16C17.1046 16 18 15.1046 18 14V9.99988H13.5C12.6716 9.99988 12 9.3283 12 8.49988ZM9 15.9999L4 16C2.89543 16 2 15.1046 2 14V6C2 4.89543 2.89543 4 4 4H9V15.9999ZM13 8.49988V4.05832C13.2421 4.1279 13.4651 4.25801 13.6464 4.43934L17.5607 8.35355C17.742 8.53485 17.8721 8.75778 17.9416 8.99988H13.5C13.2239 8.99988 13 8.77602 13 8.49988Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,document,landscape,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 16C17.1046 16 18 15.1046 18 14V9.41421C18 9.01639 17.842 8.63486 17.5607 8.35355L13.6464 4.43934C13.3651 4.15804 12.9836 4 12.5858 4H4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16L16 16ZM17 14C17 14.5523 16.5523 15 16 15H10L10 5L12 5V8.5C12 9.32843 12.6716 10 13.5 10H17V14ZM9 5L9 15H4C3.44771 15 3 14.5523 3 14L3 6C3 5.44771 3.44772 5 4 5L9 5ZM13 8.5V5.20711L16.7929 9H13.5C13.2239 9 13 8.77614 13 8.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,document,landscape,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 16C17.1046 16 18 15.1046 18 14V9.41421C18 9.01639 17.842 8.63486 17.5607 8.35355L13.6464 4.43934C13.3651 4.15804 12.9836 4 12.5858 4H4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16L16 16ZM17 14C17 14.5523 16.5523 15 16 15H10L10 5L12 5V8.5C12 9.32843 12.6716 10 13.5 10H17V14ZM9 5L9 15H4C3.44771 15 3 14.5523 3 14L3 6C3 5.44771 3.44772 5 4 5L9 5ZM13 8.5V5.20711L16.7929 9H13.5C13.2239 9 13 8.77614 13 8.5Z\" fill=\"#212121\"></path></svg>",
+		"document,landscape,split,document,landscape,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4.70711V9.5C4 9.77614 4.22386 10 4.5 10H9.29289L15 15.7071V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C14.8912 18 15.6462 17.4171 15.9047 16.6118L17.1464 17.8536C17.3417 18.0488 17.6583 18.0488 17.8536 17.8536C18.0488 17.6583 18.0488 17.3417 17.8536 17.1464L2.85355 2.14645C2.65829 1.95118 2.34171 1.95118 2.14645 2.14645C1.95118 2.34171 1.95118 2.65829 2.14645 2.85355L4 4.70711ZM15 12.8789L15.6091 13.4881C15.8328 13.4383 16 13.2387 16 13V12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V12.8789ZM4.50161 2.38051L12.1211 10H15.5C15.7761 10 16 9.77614 16 9.5V8H11.5C10.6716 8 10 7.32843 10 6.5V2H5.5C5.1166 2 4.76679 2.14385 4.50161 2.38051ZM11 2.25V6.5C11 6.77614 11.2239 7 11.5 7H15.75L11 2.25ZM5 12C5 11.7239 4.77614 11.5 4.5 11.5C4.22386 11.5 4 11.7239 4 12V13C4 13.2761 4.22386 13.5 4.5 13.5C4.77614 13.5 5 13.2761 5 13V12ZM5 15.5C5 15.2239 4.77614 15 4.5 15C4.22386 15 4 15.2239 4 15.5V16C4 17.1046 4.89543 18 6 18H6.5C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17H6C5.44772 17 5 16.5523 5 16V15.5ZM11 17H9C8.72386 17 8.5 17.2239 8.5 17.5C8.5 17.7761 8.72386 18 9 18H11C11.2761 18 11.5 17.7761 11.5 17.5C11.5 17.2239 11.2761 17 11 17Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,off,document,split,hint,off,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4.70711V9.5C4 9.77614 4.22386 10 4.5 10H9.29289L15 15.7071V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C14.8912 18 15.6462 17.4171 15.9047 16.6118L17.1464 17.8536C17.3417 18.0488 17.6583 18.0488 17.8536 17.8536C18.0488 17.6583 18.0488 17.3417 17.8536 17.1464L2.85355 2.14645C2.65829 1.95118 2.34171 1.95118 2.14645 2.14645C1.95118 2.34171 1.95118 2.65829 2.14645 2.85355L4 4.70711ZM15 12.8789L15.6091 13.4881C15.8328 13.4383 16 13.2387 16 13V12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V12.8789ZM4.50161 2.38051L12.1211 10H15.5C15.7761 10 16 9.77614 16 9.5V8H11.5C10.6716 8 10 7.32843 10 6.5V2H5.5C5.1166 2 4.76679 2.14385 4.50161 2.38051ZM11 2.25V6.5C11 6.77614 11.2239 7 11.5 7H15.75L11 2.25ZM5 12C5 11.7239 4.77614 11.5 4.5 11.5C4.22386 11.5 4 11.7239 4 12V13C4 13.2761 4.22386 13.5 4.5 13.5C4.77614 13.5 5 13.2761 5 13V12ZM5 15.5C5 15.2239 4.77614 15 4.5 15C4.22386 15 4 15.2239 4 15.5V16C4 17.1046 4.89543 18 6 18H6.5C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17H6C5.44772 17 5 16.5523 5 16V15.5ZM11 17H9C8.72386 17 8.5 17.2239 8.5 17.5C8.5 17.7761 8.72386 18 9 18H11C11.2761 18 11.5 17.7761 11.5 17.5C11.5 17.2239 11.2761 17 11 17Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,off,document,split,hint,off,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4.70711V9.5C4 9.77614 4.22386 10 4.5 10C4.77614 10 5 9.77614 5 9.5V5.70711L15 15.7071V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C14.8912 18 15.6462 17.4171 15.9047 16.6118L17.1464 17.8536C17.3417 18.0488 17.6583 18.0488 17.8536 17.8536C18.0488 17.6583 18.0488 17.3417 17.8536 17.1464L2.85355 2.14645C2.65829 1.95118 2.34171 1.95118 2.14645 2.14645C1.95118 2.34171 1.95118 2.65829 2.14645 2.85355L4 4.70711ZM15 12.8789L15.6091 13.4881C15.8328 13.4383 16 13.2387 16 13V12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V12.8789ZM4.64762 2.52653L5.35602 3.23493C5.53 3.08833 5.75469 3 6 3H10V6.5C10 7.32843 10.6716 8 11.5 8H15V9.5C15 9.77614 15.2239 10 15.5 10C15.7761 10 16 9.77614 16 9.5V7.41421C16 7.01639 15.842 6.63486 15.5607 6.35355L11.6464 2.43934C11.3651 2.15803 10.9836 2 10.5858 2H6C5.47852 2 5.00365 2.19958 4.64762 2.52653ZM11 3.20711L14.7929 7H11.5C11.2239 7 11 6.77614 11 6.5V3.20711ZM4.5 11.5C4.77614 11.5 5 11.7239 5 12V13C5 13.2761 4.77614 13.5 4.5 13.5C4.22386 13.5 4 13.2761 4 13V12C4 11.7239 4.22386 11.5 4.5 11.5ZM4.5 15C4.77614 15 5 15.2239 5 15.5V16C5 16.5523 5.44772 17 6 17H6.5C6.77614 17 7 17.2239 7 17.5C7 17.7761 6.77614 18 6.5 18H6C4.89543 18 4 17.1046 4 16V15.5C4 15.2239 4.22386 15 4.5 15ZM9 18C8.72386 18 8.5 17.7761 8.5 17.5C8.5 17.2239 8.72386 17 9 17H11C11.2761 17 11.5 17.2239 11.5 17.5C11.5 17.7761 11.2761 18 11 18H9Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,off,document,split,hint,off,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4.70711V9.5C4 9.77614 4.22386 10 4.5 10C4.77614 10 5 9.77614 5 9.5V5.70711L15 15.7071V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C14.8912 18 15.6462 17.4171 15.9047 16.6118L17.1464 17.8536C17.3417 18.0488 17.6583 18.0488 17.8536 17.8536C18.0488 17.6583 18.0488 17.3417 17.8536 17.1464L2.85355 2.14645C2.65829 1.95118 2.34171 1.95118 2.14645 2.14645C1.95118 2.34171 1.95118 2.65829 2.14645 2.85355L4 4.70711ZM15 12.8789L15.6091 13.4881C15.8328 13.4383 16 13.2387 16 13V12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V12.8789ZM4.64762 2.52653L5.35602 3.23493C5.53 3.08833 5.75469 3 6 3H10V6.5C10 7.32843 10.6716 8 11.5 8H15V9.5C15 9.77614 15.2239 10 15.5 10C15.7761 10 16 9.77614 16 9.5V7.41421C16 7.01639 15.842 6.63486 15.5607 6.35355L11.6464 2.43934C11.3651 2.15803 10.9836 2 10.5858 2H6C5.47852 2 5.00365 2.19958 4.64762 2.52653ZM11 3.20711L14.7929 7H11.5C11.2239 7 11 6.77614 11 6.5V3.20711ZM4.5 11.5C4.77614 11.5 5 11.7239 5 12V13C5 13.2761 4.77614 13.5 4.5 13.5C4.22386 13.5 4 13.2761 4 13V12C4 11.7239 4.22386 11.5 4.5 11.5ZM4.5 15C4.77614 15 5 15.2239 5 15.5V16C5 16.5523 5.44772 17 6 17H6.5C6.77614 17 7 17.2239 7 17.5C7 17.7761 6.77614 18 6.5 18H6C4.89543 18 4 17.1046 4 16V15.5C4 15.2239 4.22386 15 4.5 15ZM9 18C8.72386 18 8.5 17.7761 8.5 17.5C8.5 17.2239 8.72386 17 9 17H11C11.2761 17 11.5 17.2239 11.5 17.5C11.5 17.7761 11.2761 18 11 18H9Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,off,document,split,hint,off,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2V6.5C10 7.32843 10.6716 8 11.5 8H16V9V9.5C16 9.77614 15.7761 10 15.5 10H4.5C4.22386 10 4 9.77614 4 9.5V9V3.5C4 2.67157 4.67157 2 5.5 2H10ZM11 2.25V6.5C11 6.77614 11.2239 7 11.5 7H15.75L11 2.25ZM5 12C5 11.7239 4.77614 11.5 4.5 11.5C4.22386 11.5 4 11.7239 4 12V13C4 13.2761 4.22386 13.5 4.5 13.5C4.77614 13.5 5 13.2761 5 13V12ZM16 12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V13C15 13.2761 15.2239 13.5 15.5 13.5C15.7761 13.5 16 13.2761 16 13V12ZM5 15.5C5 15.2239 4.77614 15 4.5 15C4.22386 15 4 15.2239 4 15.5V16C4 17.1046 4.89543 18 6 18H6.5C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17H6C5.44772 17 5 16.5523 5 16V15.5ZM16 15.5C16 15.2239 15.7761 15 15.5 15C15.2239 15 15 15.2239 15 15.5V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C15.1046 18 16 17.1046 16 16V15.5ZM9 17C8.72386 17 8.5 17.2239 8.5 17.5C8.5 17.7761 8.72386 18 9 18H11C11.2761 18 11.5 17.7761 11.5 17.5C11.5 17.2239 11.2761 17 11 17H9Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,document,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2V6.5C10 7.32843 10.6716 8 11.5 8H16V9V9.5C16 9.77614 15.7761 10 15.5 10H4.5C4.22386 10 4 9.77614 4 9.5V9V3.5C4 2.67157 4.67157 2 5.5 2H10ZM11 2.25V6.5C11 6.77614 11.2239 7 11.5 7H15.75L11 2.25ZM5 12C5 11.7239 4.77614 11.5 4.5 11.5C4.22386 11.5 4 11.7239 4 12V13C4 13.2761 4.22386 13.5 4.5 13.5C4.77614 13.5 5 13.2761 5 13V12ZM16 12C16 11.7239 15.7761 11.5 15.5 11.5C15.2239 11.5 15 11.7239 15 12V13C15 13.2761 15.2239 13.5 15.5 13.5C15.7761 13.5 16 13.2761 16 13V12ZM5 15.5C5 15.2239 4.77614 15 4.5 15C4.22386 15 4 15.2239 4 15.5V16C4 17.1046 4.89543 18 6 18H6.5C6.77614 18 7 17.7761 7 17.5C7 17.2239 6.77614 17 6.5 17H6C5.44772 17 5 16.5523 5 16V15.5ZM16 15.5C16 15.2239 15.7761 15 15.5 15C15.2239 15 15 15.2239 15 15.5V16C15 16.5523 14.5523 17 14 17H13.5C13.2239 17 13 17.2239 13 17.5C13 17.7761 13.2239 18 13.5 18H14C15.1046 18 16 17.1046 16 16V15.5ZM9 17C8.72386 17 8.5 17.2239 8.5 17.5C8.5 17.7761 8.72386 18 9 18H11C11.2761 18 11.5 17.7761 11.5 17.5C11.5 17.2239 11.2761 17 11 17H9Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,document,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4C4 2.89543 4.89543 2 6 2H10.5858C10.9836 2 11.3651 2.15803 11.6464 2.43934L15.5607 6.35355C15.842 6.63486 16 7.01639 16 7.41421V9.5C16 9.77614 15.7761 10 15.5 10C15.2239 10 15 9.77614 15 9.5V8H11.5C10.6716 8 10 7.32843 10 6.5V3H6C5.44772 3 5 3.44772 5 4V9.5C5 9.77614 4.77614 10 4.5 10C4.22386 10 4 9.77614 4 9.5V4ZM11 3.20711V6.5C11 6.77614 11.2239 7 11.5 7H14.7929L11 3.20711ZM4.5 11.5C4.77614 11.5 5 11.7239 5 12V13C5 13.2761 4.77614 13.5 4.5 13.5C4.22386 13.5 4 13.2761 4 13V12C4 11.7239 4.22386 11.5 4.5 11.5ZM15.5 11.5C15.7761 11.5 16 11.7239 16 12V13C16 13.2761 15.7761 13.5 15.5 13.5C15.2239 13.5 15 13.2761 15 13V12C15 11.7239 15.2239 11.5 15.5 11.5ZM4.5 15C4.77614 15 5 15.2239 5 15.5V16C5 16.5523 5.44772 17 6 17H6.5C6.77614 17 7 17.2239 7 17.5C7 17.7761 6.77614 18 6.5 18H6C4.89543 18 4 17.1046 4 16V15.5C4 15.2239 4.22386 15 4.5 15ZM15.5 15C15.7761 15 16 15.2239 16 15.5V16C16 17.1046 15.1046 18 14 18H13.5C13.2239 18 13 17.7761 13 17.5C13 17.2239 13.2239 17 13.5 17H14C14.5523 17 15 16.5523 15 16V15.5C15 15.2239 15.2239 15 15.5 15ZM8.5 17.5C8.5 17.2239 8.72386 17 9 17H11C11.2761 17 11.5 17.2239 11.5 17.5C11.5 17.7761 11.2761 18 11 18H9C8.72386 18 8.5 17.7761 8.5 17.5Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,document,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 4C4 2.89543 4.89543 2 6 2H10.5858C10.9836 2 11.3651 2.15803 11.6464 2.43934L15.5607 6.35355C15.842 6.63486 16 7.01639 16 7.41421V9.5C16 9.77614 15.7761 10 15.5 10C15.2239 10 15 9.77614 15 9.5V8H11.5C10.6716 8 10 7.32843 10 6.5V3H6C5.44772 3 5 3.44772 5 4V9.5C5 9.77614 4.77614 10 4.5 10C4.22386 10 4 9.77614 4 9.5V4ZM11 3.20711V6.5C11 6.77614 11.2239 7 11.5 7H14.7929L11 3.20711ZM4.5 11.5C4.77614 11.5 5 11.7239 5 12V13C5 13.2761 4.77614 13.5 4.5 13.5C4.22386 13.5 4 13.2761 4 13V12C4 11.7239 4.22386 11.5 4.5 11.5ZM15.5 11.5C15.7761 11.5 16 11.7239 16 12V13C16 13.2761 15.7761 13.5 15.5 13.5C15.2239 13.5 15 13.2761 15 13V12C15 11.7239 15.2239 11.5 15.5 11.5ZM4.5 15C4.77614 15 5 15.2239 5 15.5V16C5 16.5523 5.44772 17 6 17H6.5C6.77614 17 7 17.2239 7 17.5C7 17.7761 6.77614 18 6.5 18H6C4.89543 18 4 17.1046 4 16V15.5C4 15.2239 4.22386 15 4.5 15ZM15.5 15C15.7761 15 16 15.2239 16 15.5V16C16 17.1046 15.1046 18 14 18H13.5C13.2239 18 13 17.7761 13 17.5C13 17.2239 13.2239 17 13.5 17H14C14.5523 17 15 16.5523 15 16V15.5C15 15.2239 15.2239 15 15.5 15ZM8.5 17.5C8.5 17.2239 8.72386 17 9 17H11C11.2761 17 11.5 17.2239 11.5 17.5C11.5 17.7761 11.2761 18 11 18H9C8.72386 18 8.5 17.7761 8.5 17.5Z\" fill=\"#212121\"></path></svg>",
+		"document,split,hint,document,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 5.5C2 4.67157 2.67157 4 3.5 4H16.5C17.3284 4 18 4.67157 18 5.5V13.5C18 14.3284 17.3284 15 16.5 15H3.5C2.67157 15 2 14.3284 2 13.5V5.5ZM5 12.5C5 12.7761 5.22386 13 5.5 13H8.5C8.77614 13 9 12.7761 9 12.5C9 12.2239 8.77614 12 8.5 12H5.5C5.22386 12 5 12.2239 5 12.5ZM4.75 8C5.16421 8 5.5 7.66421 5.5 7.25C5.5 6.83579 5.16421 6.5 4.75 6.5C4.33579 6.5 4 6.83579 4 7.25C4 7.66421 4.33579 8 4.75 8ZM8.5 7.25C8.5 6.83579 8.16421 6.5 7.75 6.5C7.33579 6.5 7 6.83579 7 7.25C7 7.66421 7.33579 8 7.75 8C8.16421 8 8.5 7.66421 8.5 7.25ZM5.25 10.5C5.66421 10.5 6 10.1642 6 9.75C6 9.33579 5.66421 9 5.25 9C4.83579 9 4.5 9.33579 4.5 9.75C4.5 10.1642 4.83579 10.5 5.25 10.5ZM9 9.75C9 9.33579 8.66421 9 8.25 9C7.83579 9 7.5 9.33579 7.5 9.75C7.5 10.1642 7.83579 10.5 8.25 10.5C8.66421 10.5 9 10.1642 9 9.75ZM14.5 12H11.5C11.2239 12 11 12.2239 11 12.5C11 12.7761 11.2239 13 11.5 13H14.5C14.7761 13 15 12.7761 15 12.5C15 12.2239 14.7761 12 14.5 12ZM14.5 7.25C14.5 7.66421 14.8358 8 15.25 8C15.6642 8 16 7.66421 16 7.25C16 6.83579 15.6642 6.5 15.25 6.5C14.8358 6.5 14.5 6.83579 14.5 7.25ZM12.25 8C12.6642 8 13 7.66421 13 7.25C13 6.83579 12.6642 6.5 12.25 6.5C11.8358 6.5 11.5 6.83579 11.5 7.25C11.5 7.66421 11.8358 8 12.25 8ZM14 9.75C14 10.1642 14.3358 10.5 14.75 10.5C15.1642 10.5 15.5 10.1642 15.5 9.75C15.5 9.33579 15.1642 9 14.75 9C14.3358 9 14 9.33579 14 9.75ZM11.75 10.5C12.1642 10.5 12.5 10.1642 12.5 9.75C12.5 9.33579 12.1642 9 11.75 9C11.3358 9 11 9.33579 11 9.75C11 10.1642 11.3358 10.5 11.75 10.5Z\" fill=\"#212121\"></path></svg>",
+		"keyboard,layout,split,keyboard,layout,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 5.5C2 4.67157 2.67157 4 3.5 4H16.5C17.3284 4 18 4.67157 18 5.5V13.5C18 14.3284 17.3284 15 16.5 15H3.5C2.67157 15 2 14.3284 2 13.5V5.5ZM5 12.5C5 12.7761 5.22386 13 5.5 13H8.5C8.77614 13 9 12.7761 9 12.5C9 12.2239 8.77614 12 8.5 12H5.5C5.22386 12 5 12.2239 5 12.5ZM4.75 8C5.16421 8 5.5 7.66421 5.5 7.25C5.5 6.83579 5.16421 6.5 4.75 6.5C4.33579 6.5 4 6.83579 4 7.25C4 7.66421 4.33579 8 4.75 8ZM8.5 7.25C8.5 6.83579 8.16421 6.5 7.75 6.5C7.33579 6.5 7 6.83579 7 7.25C7 7.66421 7.33579 8 7.75 8C8.16421 8 8.5 7.66421 8.5 7.25ZM5.25 10.5C5.66421 10.5 6 10.1642 6 9.75C6 9.33579 5.66421 9 5.25 9C4.83579 9 4.5 9.33579 4.5 9.75C4.5 10.1642 4.83579 10.5 5.25 10.5ZM9 9.75C9 9.33579 8.66421 9 8.25 9C7.83579 9 7.5 9.33579 7.5 9.75C7.5 10.1642 7.83579 10.5 8.25 10.5C8.66421 10.5 9 10.1642 9 9.75ZM14.5 12H11.5C11.2239 12 11 12.2239 11 12.5C11 12.7761 11.2239 13 11.5 13H14.5C14.7761 13 15 12.7761 15 12.5C15 12.2239 14.7761 12 14.5 12ZM14.5 7.25C14.5 7.66421 14.8358 8 15.25 8C15.6642 8 16 7.66421 16 7.25C16 6.83579 15.6642 6.5 15.25 6.5C14.8358 6.5 14.5 6.83579 14.5 7.25ZM12.25 8C12.6642 8 13 7.66421 13 7.25C13 6.83579 12.6642 6.5 12.25 6.5C11.8358 6.5 11.5 6.83579 11.5 7.25C11.5 7.66421 11.8358 8 12.25 8ZM14 9.75C14 10.1642 14.3358 10.5 14.75 10.5C15.1642 10.5 15.5 10.1642 15.5 9.75C15.5 9.33579 15.1642 9 14.75 9C14.3358 9 14 9.33579 14 9.75ZM11.75 10.5C12.1642 10.5 12.5 10.1642 12.5 9.75C12.5 9.33579 12.1642 9 11.75 9C11.3358 9 11 9.33579 11 9.75C11 10.1642 11.3358 10.5 11.75 10.5Z\" fill=\"#212121\"></path></svg>",
+		"keyboard,layout,split,keyboard,layout,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 5.5C2 4.67157 2.67157 4 3.5 4H16.5C17.3284 4 18 4.67157 18 5.5V13.5C18 14.3284 17.3284 15 16.5 15H3.5C2.67157 15 2 14.3284 2 13.5V5.5ZM3.5 5C3.22386 5 3 5.22386 3 5.5V13.5C3 13.7761 3.22386 14 3.5 14H16.5C16.7761 14 17 13.7761 17 13.5V5.5C17 5.22386 16.7761 5 16.5 5H3.5ZM5 12.5C5 12.2239 5.22386 12 5.5 12H8.5C8.77614 12 9 12.2239 9 12.5C9 12.7761 8.77614 13 8.5 13H5.5C5.22386 13 5 12.7761 5 12.5ZM4.75 8C5.16421 8 5.5 7.66421 5.5 7.25C5.5 6.83579 5.16421 6.5 4.75 6.5C4.33579 6.5 4 6.83579 4 7.25C4 7.66421 4.33579 8 4.75 8ZM8.5 7.25C8.5 7.66421 8.16421 8 7.75 8C7.33579 8 7 7.66421 7 7.25C7 6.83579 7.33579 6.5 7.75 6.5C8.16421 6.5 8.5 6.83579 8.5 7.25ZM5.25 10.5C5.66421 10.5 6 10.1642 6 9.75C6 9.33579 5.66421 9 5.25 9C4.83579 9 4.5 9.33579 4.5 9.75C4.5 10.1642 4.83579 10.5 5.25 10.5ZM9 9.75C9 10.1642 8.66421 10.5 8.25 10.5C7.83579 10.5 7.5 10.1642 7.5 9.75C7.5 9.33579 7.83579 9 8.25 9C8.66421 9 9 9.33579 9 9.75ZM14.5 12C14.7761 12 15 12.2239 15 12.5C15 12.7761 14.7761 13 14.5 13H11.5C11.2239 13 11 12.7761 11 12.5C11 12.2239 11.2239 12 11.5 12H14.5ZM14.5 7.25C14.5 7.66421 14.8358 8 15.25 8C15.6642 8 16 7.66421 16 7.25C16 6.83579 15.6642 6.5 15.25 6.5C14.8358 6.5 14.5 6.83579 14.5 7.25ZM12.25 8C11.8358 8 11.5 7.66421 11.5 7.25C11.5 6.83579 11.8358 6.5 12.25 6.5C12.6642 6.5 13 6.83579 13 7.25C13 7.66421 12.6642 8 12.25 8ZM14 9.75C14 10.1642 14.3358 10.5 14.75 10.5C15.1642 10.5 15.5 10.1642 15.5 9.75C15.5 9.33579 15.1642 9 14.75 9C14.3358 9 14 9.33579 14 9.75ZM11.75 10.5C11.3358 10.5 11 10.1642 11 9.75C11 9.33579 11.3358 9 11.75 9C12.1642 9 12.5 9.33579 12.5 9.75C12.5 10.1642 12.1642 10.5 11.75 10.5Z\" fill=\"#212121\"></path></svg>",
+		"keyboard,layout,split,keyboard,layout,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 5.5C2 4.67157 2.67157 4 3.5 4H16.5C17.3284 4 18 4.67157 18 5.5V13.5C18 14.3284 17.3284 15 16.5 15H3.5C2.67157 15 2 14.3284 2 13.5V5.5ZM3.5 5C3.22386 5 3 5.22386 3 5.5V13.5C3 13.7761 3.22386 14 3.5 14H16.5C16.7761 14 17 13.7761 17 13.5V5.5C17 5.22386 16.7761 5 16.5 5H3.5ZM5 12.5C5 12.2239 5.22386 12 5.5 12H8.5C8.77614 12 9 12.2239 9 12.5C9 12.7761 8.77614 13 8.5 13H5.5C5.22386 13 5 12.7761 5 12.5ZM4.75 8C5.16421 8 5.5 7.66421 5.5 7.25C5.5 6.83579 5.16421 6.5 4.75 6.5C4.33579 6.5 4 6.83579 4 7.25C4 7.66421 4.33579 8 4.75 8ZM8.5 7.25C8.5 7.66421 8.16421 8 7.75 8C7.33579 8 7 7.66421 7 7.25C7 6.83579 7.33579 6.5 7.75 6.5C8.16421 6.5 8.5 6.83579 8.5 7.25ZM5.25 10.5C5.66421 10.5 6 10.1642 6 9.75C6 9.33579 5.66421 9 5.25 9C4.83579 9 4.5 9.33579 4.5 9.75C4.5 10.1642 4.83579 10.5 5.25 10.5ZM9 9.75C9 10.1642 8.66421 10.5 8.25 10.5C7.83579 10.5 7.5 10.1642 7.5 9.75C7.5 9.33579 7.83579 9 8.25 9C8.66421 9 9 9.33579 9 9.75ZM14.5 12C14.7761 12 15 12.2239 15 12.5C15 12.7761 14.7761 13 14.5 13H11.5C11.2239 13 11 12.7761 11 12.5C11 12.2239 11.2239 12 11.5 12H14.5ZM14.5 7.25C14.5 7.66421 14.8358 8 15.25 8C15.6642 8 16 7.66421 16 7.25C16 6.83579 15.6642 6.5 15.25 6.5C14.8358 6.5 14.5 6.83579 14.5 7.25ZM12.25 8C11.8358 8 11.5 7.66421 11.5 7.25C11.5 6.83579 11.8358 6.5 12.25 6.5C12.6642 6.5 13 6.83579 13 7.25C13 7.66421 12.6642 8 12.25 8ZM14 9.75C14 10.1642 14.3358 10.5 14.75 10.5C15.1642 10.5 15.5 10.1642 15.5 9.75C15.5 9.33579 15.1642 9 14.75 9C14.3358 9 14 9.33579 14 9.75ZM11.75 10.5C11.3358 10.5 11 10.1642 11 9.75C11 9.33579 11.3358 9 11.75 9C12.1642 9 12.5 9.33579 12.5 9.75C12.5 10.1642 12.1642 10.5 11.75 10.5Z\" fill=\"#212121\"></path></svg>",
+		"keyboard,layout,split,keyboard,layout,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 2C9.77614 2 10 2.22386 10 2.5V17.5C10 17.7761 9.77614 18 9.5 18C9.22386 18 9 17.7761 9 17.5V2.5C9 2.22386 9.22386 2 9.5 2ZM4 4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16H8V4H4ZM15 5C15.5523 5 16 5.44772 16 6V6.5C16 6.77614 16.2239 7 16.5 7C16.7761 7 17 6.77614 17 6.5V6C17 4.89543 16.1046 4 15 4H14.5C14.2239 4 14 4.22386 14 4.5C14 4.77614 14.2239 5 14.5 5H15ZM15 15C15.5523 15 16 14.5523 16 14V13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5V14C17 15.1046 16.1046 16 15 16H14.5C14.2239 16 14 15.7761 14 15.5C14 15.2239 14.2239 15 14.5 15H15ZM16.5 8C16.2239 8 16 8.22386 16 8.5V11.5C16 11.7761 16.2239 12 16.5 12C16.7761 12 17 11.7761 17 11.5V8.5C17 8.22386 16.7761 8 16.5 8ZM12.5 4C12.7761 4 13 4.22386 13 4.5C13 4.77614 12.7761 5 12.5 5H11.5C11.2239 5 11 4.77614 11 4.5C11 4.22386 11.2239 4 11.5 4H12.5ZM13 15.5C13 15.2239 12.7761 15 12.5 15H11.5C11.2239 15 11 15.2239 11 15.5C11 15.7761 11.2239 16 11.5 16H12.5C12.7761 16 13 15.7761 13 15.5Z\" fill=\"#212121\"></path></svg>",
+		"split,hint,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 2C9.77614 2 10 2.22386 10 2.5V17.5C10 17.7761 9.77614 18 9.5 18C9.22386 18 9 17.7761 9 17.5V2.5C9 2.22386 9.22386 2 9.5 2ZM4 4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16H8V4H4ZM15 5C15.5523 5 16 5.44772 16 6V6.5C16 6.77614 16.2239 7 16.5 7C16.7761 7 17 6.77614 17 6.5V6C17 4.89543 16.1046 4 15 4H14.5C14.2239 4 14 4.22386 14 4.5C14 4.77614 14.2239 5 14.5 5H15ZM15 15C15.5523 15 16 14.5523 16 14V13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5V14C17 15.1046 16.1046 16 15 16H14.5C14.2239 16 14 15.7761 14 15.5C14 15.2239 14.2239 15 14.5 15H15ZM16.5 8C16.2239 8 16 8.22386 16 8.5V11.5C16 11.7761 16.2239 12 16.5 12C16.7761 12 17 11.7761 17 11.5V8.5C17 8.22386 16.7761 8 16.5 8ZM12.5 4C12.7761 4 13 4.22386 13 4.5C13 4.77614 12.7761 5 12.5 5H11.5C11.2239 5 11 4.77614 11 4.5C11 4.22386 11.2239 4 11.5 4H12.5ZM13 15.5C13 15.2239 12.7761 15 12.5 15H11.5C11.2239 15 11 15.2239 11 15.5C11 15.7761 11.2239 16 11.5 16H12.5C12.7761 16 13 15.7761 13 15.5Z\" fill=\"#212121\"></path></svg>",
+		"split,hint,split,hint,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 2C9.77614 2 10 2.22386 10 2.5V17.5C10 17.7761 9.77614 18 9.5 18C9.22386 18 9 17.7761 9 17.5V2.5C9 2.22386 9.22386 2 9.5 2ZM2 6C2 4.89543 2.89543 4 4 4H8V5H4C3.44772 5 3 5.44772 3 6V14C3 14.5523 3.44772 15 4 15H8V16H4C2.89543 16 2 15.1046 2 14V6ZM15 5C15.5523 5 16 5.44772 16 6V6.5C16 6.77614 16.2239 7 16.5 7C16.7761 7 17 6.77614 17 6.5V6C17 4.89543 16.1046 4 15 4H14.5C14.2239 4 14 4.22386 14 4.5C14 4.77614 14.2239 5 14.5 5H15ZM15 15C15.5523 15 16 14.5523 16 14V13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5V14C17 15.1046 16.1046 16 15 16H14.5C14.2239 16 14 15.7761 14 15.5C14 15.2239 14.2239 15 14.5 15H15ZM16.5 8C16.2239 8 16 8.22386 16 8.5V11.5C16 11.7761 16.2239 12 16.5 12C16.7761 12 17 11.7761 17 11.5V8.5C17 8.22386 16.7761 8 16.5 8ZM12.5 4C12.7761 4 13 4.22386 13 4.5C13 4.77614 12.7761 5 12.5 5H11.5C11.2239 5 11 4.77614 11 4.5C11 4.22386 11.2239 4 11.5 4H12.5ZM13 15.5C13 15.2239 12.7761 15 12.5 15H11.5C11.2239 15 11 15.2239 11 15.5C11 15.7761 11.2239 16 11.5 16H12.5C12.7761 16 13 15.7761 13 15.5Z\" fill=\"#212121\"></path></svg>",
+		"split,hint,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 2C9.77614 2 10 2.22386 10 2.5V17.5C10 17.7761 9.77614 18 9.5 18C9.22386 18 9 17.7761 9 17.5V2.5C9 2.22386 9.22386 2 9.5 2ZM2 6C2 4.89543 2.89543 4 4 4H8V5H4C3.44772 5 3 5.44772 3 6V14C3 14.5523 3.44772 15 4 15H8V16H4C2.89543 16 2 15.1046 2 14V6ZM15 5C15.5523 5 16 5.44772 16 6V6.5C16 6.77614 16.2239 7 16.5 7C16.7761 7 17 6.77614 17 6.5V6C17 4.89543 16.1046 4 15 4H14.5C14.2239 4 14 4.22386 14 4.5C14 4.77614 14.2239 5 14.5 5H15ZM15 15C15.5523 15 16 14.5523 16 14V13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5V14C17 15.1046 16.1046 16 15 16H14.5C14.2239 16 14 15.7761 14 15.5C14 15.2239 14.2239 15 14.5 15H15ZM16.5 8C16.2239 8 16 8.22386 16 8.5V11.5C16 11.7761 16.2239 12 16.5 12C16.7761 12 17 11.7761 17 11.5V8.5C17 8.22386 16.7761 8 16.5 8ZM12.5 4C12.7761 4 13 4.22386 13 4.5C13 4.77614 12.7761 5 12.5 5H11.5C11.2239 5 11 4.77614 11 4.5C11 4.22386 11.2239 4 11.5 4H12.5ZM13 15.5C13 15.2239 12.7761 15 12.5 15H11.5C11.2239 15 11 15.2239 11 15.5C11 15.7761 11.2239 16 11.5 16H12.5C12.7761 16 13 15.7761 13 15.5Z\" fill=\"#212121\"></path></svg>",
+		"split,hint,split,hint,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.5 10C17.7761 10 18 9.77614 18 9.5C18 9.22386 17.7761 9 17.5 9H2.5C2.22386 9 2 9.22386 2 9.5C2 9.77614 2.22386 10 2.5 10H17.5ZM14 2C15.1046 2 16 2.89543 16 4V8H4V4C4 2.89543 4.89543 2 6 2H14ZM4 11V15C4 16.1046 4.89543 17 6 17H14C15.1046 17 16 16.1046 16 15V11H4Z\" fill=\"#212121\"></path></svg>",
+		"split,horizontal,split,horizontal,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.5 10C17.7761 10 18 9.77614 18 9.5C18 9.22386 17.7761 9 17.5 9H2.5C2.22386 9 2 9.22386 2 9.5C2 9.77614 2.22386 10 2.5 10H17.5ZM14 2C15.1046 2 16 2.89543 16 4V8H4V4C4 2.89543 4.89543 2 6 2H14ZM4 11V15C4 16.1046 4.89543 17 6 17H14C15.1046 17 16 16.1046 16 15V11H4Z\" fill=\"#212121\"></path></svg>",
+		"split,horizontal,split,horizontal,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.5 10C17.7761 10 18 9.77614 18 9.5C18 9.22386 17.7761 9 17.5 9H2.5C2.22386 9 2 9.22386 2 9.5C2 9.77614 2.22386 10 2.5 10H17.5ZM16 4C16 2.89543 15.1046 2 14 2H6C4.89543 2 4 2.89543 4 4V8H5V4C5 3.44772 5.44772 3 6 3H14C14.5523 3 15 3.44772 15 4V8H16V4ZM16 11H15V15C15 15.5523 14.5523 16 14 16H6C5.44771 16 5 15.5523 5 15V11H4V15C4 16.1046 4.89543 17 6 17H14C15.1046 17 16 16.1046 16 15V11Z\" fill=\"#212121\"></path></svg>",
+		"split,horizontal,split,horizontal,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.5 10C17.7761 10 18 9.77614 18 9.5C18 9.22386 17.7761 9 17.5 9H2.5C2.22386 9 2 9.22386 2 9.5C2 9.77614 2.22386 10 2.5 10H17.5ZM16 4C16 2.89543 15.1046 2 14 2H6C4.89543 2 4 2.89543 4 4V8H5V4C5 3.44772 5.44772 3 6 3H14C14.5523 3 15 3.44772 15 4V8H16V4ZM16 11H15V15C15 15.5523 14.5523 16 14 16H6C5.44771 16 5 15.5523 5 15V11H4V15C4 16.1046 4.89543 17 6 17H14C15.1046 17 16 16.1046 16 15V11Z\" fill=\"#212121\"></path></svg>",
+		"split,horizontal,split,horizontal,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2.5C10 2.22386 9.77614 2 9.5 2C9.22386 2 9 2.22386 9 2.5V17.5C9 17.7761 9.22386 18 9.5 18C9.77614 18 10 17.7761 10 17.5V2.5ZM2 6C2 4.89543 2.89543 4 4 4H8V16H4C2.89543 16 2 15.1046 2 14V6ZM11 16H15C16.1046 16 17 15.1046 17 14V6C17 4.89543 16.1046 4 15 4H11V16Z\" fill=\"#212121\"></path></svg>",
+		"split,vertical,split,vertical,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2.5C10 2.22386 9.77614 2 9.5 2C9.22386 2 9 2.22386 9 2.5V17.5C9 17.7761 9.22386 18 9.5 18C9.77614 18 10 17.7761 10 17.5V2.5ZM2 6C2 4.89543 2.89543 4 4 4H8V16H4C2.89543 16 2 15.1046 2 14V6ZM11 16H15C16.1046 16 17 15.1046 17 14V6C17 4.89543 16.1046 4 15 4H11V16Z\" fill=\"#212121\"></path></svg>",
+		"split,vertical,split,vertical,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2.5C10 2.22386 9.77614 2 9.5 2C9.22386 2 9 2.22386 9 2.5V17.5C9 17.7761 9.22386 18 9.5 18C9.77614 18 10 17.7761 10 17.5V2.5ZM4 4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16H8V15H4C3.44772 15 3 14.5523 3 14V6C3 5.44772 3.44772 5 4 5H8V4H4ZM11 4V5H15C15.5523 5 16 5.44772 16 6V14C16 14.5523 15.5523 15 15 15H11V16H15C16.1046 16 17 15.1046 17 14V6C17 4.89543 16.1046 4 15 4H11Z\" fill=\"#212121\"></path></svg>",
+		"split,vertical,split,vertical,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2.5C10 2.22386 9.77614 2 9.5 2C9.22386 2 9 2.22386 9 2.5V17.5C9 17.7761 9.22386 18 9.5 18C9.77614 18 10 17.7761 10 17.5V2.5ZM4 4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16H8V15H4C3.44772 15 3 14.5523 3 14V6C3 5.44772 3.44772 5 4 5H8V4H4ZM11 4V5H15C15.5523 5 16 5.44772 16 6V14C16 14.5523 15.5523 15 15 15H11V16H15C16.1046 16 17 15.1046 17 14V6C17 4.89543 16.1046 4 15 4H11Z\" fill=\"#212121\"></path></svg>",
+		"split,vertical,split,vertical,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 6H17V5.5C17 4.11929 15.8807 3 14.5 3H10V6ZM17 13V7H3V13H17ZM10 8V12H9V8H10ZM10 17H14.5C15.8807 17 17 15.8807 17 14.5V14H10V17ZM9 14H3V14.5C3 15.8807 4.11929 17 5.5 17H9V14ZM9 6V3H5.5C4.11929 3 3 4.11929 3 5.5V6H9Z\" fill=\"#212121\"></path></svg>",
+		"table,cells,split,table,cells,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 6H17V5.5C17 4.11929 15.8807 3 14.5 3H10V6ZM17 13V7H3V13H17ZM10 8V12H9V8H10ZM10 17H14.5C15.8807 17 17 15.8807 17 14.5V14H10V17ZM9 14H3V14.5C3 15.8807 4.11929 17 5.5 17H9V14ZM9 6V3H5.5C4.11929 3 3 4.11929 3 5.5V6H9Z\" fill=\"#212121\"></path></svg>",
+		"table,cells,split,table,cells,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 8V12H9V8H10ZM17 5.5C17 4.11929 15.8807 3 14.5 3H5.5C4.11929 3 3 4.11929 3 5.5V14.5C3 15.8807 4.11929 17 5.5 17H14.5C15.8807 17 17 15.8807 17 14.5V5.5ZM4 14.5V14H9V16H5.5L5.35554 15.9931C4.59489 15.9204 4 15.2797 4 14.5ZM9 4L8.99313 6H3.99313L4 5.5L4.00687 5.35554C4.07955 4.59489 4.7203 4 5.5 4H9ZM9.99313 6L10 4H14.5L14.6445 4.00687C15.4051 4.07955 16 4.7203 16 5.5L15.9931 6H9.99313ZM16 13H4L3.99313 7H15.9931L16 13ZM16 14.5L15.9931 14.6445C15.9204 15.4051 15.2797 16 14.5 16H10V14H16V14.5Z\" fill=\"#212121\"></path></svg>",
+		"table,cells,split,table,cells,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 8V12H9V8H10ZM17 5.5C17 4.11929 15.8807 3 14.5 3H5.5C4.11929 3 3 4.11929 3 5.5V14.5C3 15.8807 4.11929 17 5.5 17H14.5C15.8807 17 17 15.8807 17 14.5V5.5ZM4 14.5V14H9V16H5.5L5.35554 15.9931C4.59489 15.9204 4 15.2797 4 14.5ZM9 4L8.99313 6H3.99313L4 5.5L4.00687 5.35554C4.07955 4.59489 4.7203 4 5.5 4H9ZM9.99313 6L10 4H14.5L14.6445 4.00687C15.4051 4.07955 16 4.7203 16 5.5L15.9931 6H9.99313ZM16 13H4L3.99313 7H15.9931L16 13ZM16 14.5L15.9931 14.6445C15.9204 15.4051 15.2797 16 14.5 16H10V14H16V14.5Z\" fill=\"#212121\"></path></svg>",
+		"table,cells,split,table,cells,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 6L12 6V2H8L8 6ZM7 2H3.5C3.22386 2 3 2.22386 3 2.5V4C3 5.10457 3.89543 6 5 6H7L7 2ZM13 6H15C16.1046 6 17 5.10457 17 4V2.5C17 2.22386 16.7761 2 16.5 2H13V6ZM17 17.5C17 17.7761 16.7761 18 16.5 18H13V14H15C16.1046 14 17 14.8954 17 16V17.5ZM12 14V18H8V14L12 14ZM3.5 18H7V14H5C3.89543 14 3 14.8954 3 16L3 17.5C3 17.7761 3.22386 18 3.5 18ZM2.5 9.5H17.5054C17.7837 9.5 18.0084 9.72719 18.0054 10.0054C18.0024 10.2794 17.7794 10.5 17.5054 10.5H2.5C2.22386 10.5 2 10.2761 2 10C2 9.72386 2.22386 9.5 2.5 9.5Z\" fill=\"#212121\"></path></svg>",
+		"table,split,table,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 6L12 6V2H8L8 6ZM7 2H3.5C3.22386 2 3 2.22386 3 2.5V4C3 5.10457 3.89543 6 5 6H7L7 2ZM13 6H15C16.1046 6 17 5.10457 17 4V2.5C17 2.22386 16.7761 2 16.5 2H13V6ZM17 17.5C17 17.7761 16.7761 18 16.5 18H13V14H15C16.1046 14 17 14.8954 17 16V17.5ZM12 14V18H8V14L12 14ZM3.5 18H7V14H5C3.89543 14 3 14.8954 3 16L3 17.5C3 17.7761 3.22386 18 3.5 18ZM2.5 9.5H17.5054C17.7837 9.5 18.0084 9.72719 18.0054 10.0054C18.0024 10.2794 17.7794 10.5 17.5054 10.5H2.5C2.22386 10.5 2 10.2761 2 10C2 9.72386 2.22386 9.5 2.5 9.5Z\" fill=\"#212121\"></path></svg>",
+		"table,split,table,split,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16.5 2C16.7761 2 17 2.22386 17 2.5V4C17 5.10457 16.1046 6 15 6L5 6C3.89543 6 3 5.10457 3 4L3 2.5C3 2.22386 3.22386 2 3.5 2C3.77614 2 4 2.22386 4 2.5L4 4C4 4.55228 4.44772 5 5 5H7L7 2.5C7 2.22386 7.22386 2 7.5 2C7.77614 2 8 2.22386 8 2.5L8 5L12 5V2.5C12 2.22386 12.2239 2 12.5 2C12.7761 2 13 2.22386 13 2.5V5H15C15.5523 5 16 4.55228 16 4V2.5C16 2.22386 16.2239 2 16.5 2ZM16.5 18C16.7761 18 17 17.7761 17 17.5V16C17 14.8954 16.1046 14 15 14H5C3.89543 14 3 14.8954 3 16L3 17.5C3 17.7761 3.22386 18 3.5 18C3.77614 18 4 17.7761 4 17.5V16C4 15.4477 4.44772 15 5 15H7V17.5C7 17.7761 7.22386 18 7.5 18C7.77614 18 8 17.7761 8 17.5V15L12 15V17.5C12 17.7761 12.2239 18 12.5 18C12.7761 18 13 17.7761 13 17.5V15H15C15.5523 15 16 15.4477 16 16V17.5C16 17.7761 16.2239 18 16.5 18ZM2.5 9.5H17.5054C17.7837 9.5 18.0084 9.72719 18.0054 10.0054C18.0024 10.2794 17.7794 10.5 17.5054 10.5H2.5C2.22386 10.5 2 10.2761 2 10C2 9.72386 2.22386 9.5 2.5 9.5Z\" fill=\"#212121\"></path></svg>",
+		"table,split,table,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16.5 2C16.7761 2 17 2.22386 17 2.5V4C17 5.10457 16.1046 6 15 6L5 6C3.89543 6 3 5.10457 3 4L3 2.5C3 2.22386 3.22386 2 3.5 2C3.77614 2 4 2.22386 4 2.5L4 4C4 4.55228 4.44772 5 5 5H7L7 2.5C7 2.22386 7.22386 2 7.5 2C7.77614 2 8 2.22386 8 2.5L8 5L12 5V2.5C12 2.22386 12.2239 2 12.5 2C12.7761 2 13 2.22386 13 2.5V5H15C15.5523 5 16 4.55228 16 4V2.5C16 2.22386 16.2239 2 16.5 2ZM16.5 18C16.7761 18 17 17.7761 17 17.5V16C17 14.8954 16.1046 14 15 14H5C3.89543 14 3 14.8954 3 16L3 17.5C3 17.7761 3.22386 18 3.5 18C3.77614 18 4 17.7761 4 17.5V16C4 15.4477 4.44772 15 5 15H7V17.5C7 17.7761 7.22386 18 7.5 18C7.77614 18 8 17.7761 8 17.5V15L12 15V17.5C12 17.7761 12.2239 18 12.5 18C12.7761 18 13 17.7761 13 17.5V15H15C15.5523 15 16 15.4477 16 16V17.5C16 17.7761 16.2239 18 16.5 18ZM2.5 9.5H17.5054C17.7837 9.5 18.0084 9.72719 18.0054 10.0054C18.0024 10.2794 17.7794 10.5 17.5054 10.5H2.5C2.22386 10.5 2 10.2761 2 10C2 9.72386 2.22386 9.5 2.5 9.5Z\" fill=\"#212121\"></path></svg>",
+		"table,split,table,split,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"7\" y=\"5.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"3.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"13.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"1.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"13\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"5\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"3\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"9\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"11\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"9.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"7\" y=\"11.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><rect x=\"1\" y=\"7.025\" width=\"1\" height=\"1\" rx=\".5\" fill=\"currentColor\"></rect><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 1.49994C1 1.2238 1.22386 0.999939 1.5 0.999939H6V1.99994H2V5.99994H1V1.49994ZM13 1.99994H9V0.999939H13.5C13.7761 0.999939 14 1.2238 14 1.49994V5.99994H13V1.99994ZM1 13.4999V8.99994H2V12.9999H6V13.9999H1.5C1.22386 13.9999 1 13.7761 1 13.4999ZM13 12.9999V8.99994H14V13.4999C14 13.7761 13.7761 13.9999 13.5 13.9999H9.5V12.9999H13Z\" fill=\"currentColor\"></path></svg>",
+		"border,split",
+		"Radix Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M250.438 19.594v145.22h.03V330.28l-10.093-.81c-27.058-2.19-56.044-5.276-88.03-9.72-.1 5.036-.158 10-.19 14.875h44.501l.656 8.625 11.344 151.094h97.688l10.03-151 .563-8.72h42.344c-.01-36.5-.335-78.42-7.874-112.624-4.087-18.543-10.27-34.625-18.97-46.188-8.698-11.562-19.477-18.87-34.967-21.25l-16.033-2.437 10.188-12.656c10.106-12.556 16.875-30.444 16.875-50.407 0-39.556-25.013-69.376-53.03-69.376-2.638 0-4.353-.113-5.032-.093zM231.75 26.78c-16.906 11.36-29.344 34.582-29.344 62.282 0 20.463 7.124 38.57 17.688 51.188l10.28 12.25-1.718.313c1.025.206 2.077.422 3.094.625V26.78zM18.625 116.657v36.78c68.436 24.506 143.668 44.89 213.156 56.408v-37.438c-56.514-11.077-124.994-28.567-213.155-55.75zM490 134.562c-7.485 8.574-15.784 16.955-25.906 24.407 3.745 14.43 2.986 27.84-2.875 39.405-8.59 16.945-26.72 27.95-51.126 34.22l-.22.06-.187.032c-11.353 2.378-23.56 4.027-36.468 5.032 3.345 22.975 4.38 47.274 4.686 70.31 6.372-1.126 12.395-2.4 18.03-3.842 35.658-9.13 56.96-23.943 70.533-42.47 23.152-31.603 23.82-77.4 23.53-127.156zm-42.72 34.844c-4.923 2.54-10.207 4.874-15.967 6.938-18.555 6.645-41.535 10.554-71.22 10.75 4.08 9.59 7.164 19.987 9.563 30.875.084.38.168.772.25 1.155 12.848-.86 24.825-2.41 35.75-4.688 21.316-5.513 33.686-14.26 38.875-24.5 2.878-5.676 3.99-12.407 2.75-20.53zM18.626 173.28v103.657c87.692 18.675 154.946 27.856 213.156 32.938v-81.063c-69.586-11.302-144.43-31.31-213.155-55.53z\"></path></svg>",
+		"split,body",
+		"Game Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M96.375 20.094l30.813 40.75 130.28 130.28L375.313 73.282l40.22-53.186-159.594 108.094L96.375 20.094zM452.22 59.53l-113.564 76.845-74.562 74.563-6.594 6.625-6.625-6.625L176.937 137 62.594 59.625l80.844 119.47 69.656 69.655 6.594 6.594-6.594 6.625-74.813 74.81L61.563 450.19l120.75-81.688 68.657-68.656 6.593-6.625 6.625 6.624 69.562 69.562 119.53 80.906-77.374-114.343-73.937-73.94-6.595-6.592 6.594-6.625 68.56-68.563 81.69-120.72zm-430 34.69l108.124 159.593L22.22 413.375l53.468-40.438L193.25 255.375 62.812 124.937 22.22 94.22zm470.624 3.155l-53.22 40.22-117.812 117.843 130.47 130.468 40.53 30.656L384.72 256.97 492.843 97.374zm-235.28 222.28l-117.69 117.69-40.343 53.342 159.595-108.093 159.563 108.094L388 450.094 257.562 319.656z\"></path></svg>",
+		"split,cross",
+		"Game Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M135.3 38.88L25.22 73.93l74.73 87.97 12.75-44.5c44.9 15 73.8 35.5 91.6 58.3 20.6 26.2 27.5 56.2 25.7 88.9-3.6 65.4-45.7 139.7-83.8 185.5l27.6 23c31.7-37.9 65.6-91.6 82.2-149.5 16.6 57.9 50.5 111.6 82.2 149.5l27.6-23C327.7 404.3 285.6 330 282 264.6c-1.8-32.7 5.1-62.7 25.7-88.9 17.8-22.8 46.7-43.3 91.5-58.3l12.8 44.5 74.8-87.97-110.1-35.05 12.6 43.94c-50.8 16.8-86.7 40.98-110 70.68-10.3 13.2-17.9 27.2-23.3 41.9-5.4-14.7-13-28.7-23.3-41.9-23.3-29.7-59.2-53.88-110-70.68z\"></path></svg>",
+		"split,arrows",
+		"Game Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M256 73c-9.612 0-18.618 4.916-25.842 14h51.684c-7.224-9.084-16.23-14-25.842-14zm48.438 16.387C309.921 100.675 313 113.893 313 128c0 3.205-.174 6.359-.482 9.46 8.849 13.02 20.289 24.904 36.298 30.958l6.368-16.836c-12.684-4.796-22.501-16.513-30.83-29.883 15.863 8.092 33.138 14.39 53.171 15.291l.81-17.98c-27.51-1.238-49.873-14.913-73.897-29.623zM220.642 105c-2.31 6.965-3.643 14.753-3.643 23 0 15.85 4.892 30.032 12.26 39.855C236.628 177.68 245.988 183 256 183c10.012 0 19.372-5.32 26.74-15.145C290.108 158.032 295 143.85 295 128c0-8.247-1.334-16.035-3.643-23zm.812 81.139c-11.956-.368-15.006-.403-28.056 12.582-13.051 12.985-18.28 38.709-22.553 59.9 21.412 5.944 39.949 4.357 59.283 2.688l-1.66-6.688c13.99-4.287 28.922-9.6 40.213-14.375-23.877 2.181-49.9 4.009-71.446 2.547l17.666-33.775 15.952 8.341-4.233 8.092c18.714-1.057 37.465-3.225 55.598-4.289l11.824-7.182 16.547 27.249c-20.353 9.429-42.782 19.406-60.604 25.365l4.428 17.828c29.01-9.622 57.483-18.003 79.611-34.111-1.268-18.023-4.918-39.841-15.101-50.859s-21.674-13.839-28.38-13.313C281.155 195.245 269.175 201 256 201c-13.174 0-25.155-5.755-34.545-14.861zM64 250.279L32 256l12.896 65.863.2-.097c45.104 7.511 114.466 11.64 186.299 12.408-9.806-10.329-14.799-24.733-25.737-32.992-3.64-2.684-7.345-4.182-13.658-4.182v-.178c-45.337-1.213-87.535-3.733-119.662-7.584zm384 0l-8.338 38.96c-32.127 3.85-74.325 6.37-119.662 7.583V297c-6.313 0-10.019 1.498-13.658 4.182-10.814 9.49-17.395 23.004-25.737 32.992 71.833-.768 141.195-4.897 186.3-12.408l.199.097L480 256zm-213.482 28.705c-3.882.367-7.787.684-11.704.91-3.568.207-7.142.346-10.705.415l.495 3.957a37.812 37.812 0 0 1 3.738 2.427c6.36 4.691 10.872 10.667 15.047 16.668 7.337 10.548 13.712 21.314 24.611 29.684 10.899-8.37 17.274-19.136 24.611-29.684 2.812-4.041 5.792-8.06 9.371-11.695-13.133 4.537-26.352 8.487-39.021 12.865l-9.303 3.215zM25 345v142h62V345zm400 0v142h62V345z\"></path></svg>",
+		"van,damme,split",
+		"Game Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 1H3L2 2V13L3 14H14L15 13V2L14 1ZM8 13H3V2H8V13ZM14 13H9V2H14V13Z\" fill=\"#C5C5C5\"></path></svg>",
+		"dark,split,horizontal",
+		"Visual Studio Code Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 1H3L2 2V13L3 14H14L15 13V2L14 1ZM14 13H3V8H14V13ZM14 7H3V2H14V7Z\" fill=\"#C5C5C5\"></path></svg>",
+		"dark,split,vertical",
+		"Visual Studio Code Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.0002 1H3.00024L2.00024 2V13L3.00024 14H14.0002L15.0002 13V2L14.0002 1ZM8.00024 13H3.00024V2H8.00024V13ZM14.0002 13H9.00024V2H14.0002V13Z\" fill=\"#424242\"></path></svg>",
+		"light,split,horizontal",
+		"Visual Studio Code Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.0002 1H3.00024L2.00024 2V13L3.00024 14H14.0002L15.0002 13V2L14.0002 1ZM14.0002 13H3.00024V8H14.0002V13ZM14.0002 7H3.00024V2H14.0002V7Z\" fill=\"#424242\"></path></svg>",
+		"light,split,vertical",
+		"Visual Studio Code Icons"
+	],
+	[
+		"<svg t=\"1569683545621\" class=\"icon\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" p-id=\"11055\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\"><defs><style type=\"text/css\"></style></defs><path d=\"M938.2 508.4L787.3 389c-3-2.4-7.3-0.2-7.3 3.6V478H636V184h204v128c0 2.2 1.8 4 4 4h60c2.2 0 4-1.8 4-4V144c0-15.5-12.5-28-28-28H596c-15.5 0-28 12.5-28 28v736c0 15.5 12.5 28 28 28h284c15.5 0 28-12.5 28-28V712c0-2.2-1.8-4-4-4h-60c-2.2 0-4 1.8-4 4v128H636V546h144v85.4c0 3.8 4.4 6 7.3 3.6l150.9-119.4c2.4-1.8 2.4-5.4 0-7.2zM428 116H144c-15.5 0-28 12.5-28 28v168c0 2.2 1.8 4 4 4h60c2.2 0 4-1.8 4-4V184h204v294H244v-85.4c0-3.8-4.3-6-7.3-3.6l-151 119.4c-2.3 1.8-2.3 5.3 0 7.1l151 119.5c2.9 2.3 7.3 0.2 7.3-3.6V546h144v294H184V712c0-2.2-1.8-4-4-4h-60c-2.2 0-4 1.8-4 4v168c0 15.5 12.5 28 28 28h284c15.5 0 28-12.5 28-28V144c0-15.5-12.5-28-28-28z\" p-id=\"11056\"></path></svg>",
+		"outline,split,cells",
+		"Ant Design Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M14 1H3L2 2v11l1 1h11l1-1V2l-1-1zM8 13H3V2h5v11zm6 0H9V2h5v11z\"></path></svg>",
+		"split,horizontal",
+		"Codicons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M14 1H3L2 2v11l1 1h11l1-1V2l-1-1zm0 12H3V8h11v5zm0-6H3V2h11v5z\"></path></svg>",
+		"split,vertical",
+		"Codicons"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>split-screen</title><rect x=\"15\" y=\"4\" width=\"2\" height=\"24\"></rect><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect><path d=\"M10,7V25H4V7h6m0-2H4A2,2,0,0,0,2,7V25a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V7a2,2,0,0,0-2-2Z\"></path><path d=\"M28,7V25H22V7h6m0-2H22a2,2,0,0,0-2,2V25a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V7a2,2,0,0,0-2-2Z\"></path></svg>",
+		"split,screen",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style>.cls-1 { fill: none; }</style></defs><title>split</title><rect x=\"15\" y=\"20\" width=\"2\" height=\"4\"></rect><rect x=\"15\" y=\"14\" width=\"2\" height=\"4\"></rect><rect x=\"15\" y=\"8\" width=\"2\" height=\"4\"></rect><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect><path d=\"M28,16A12.01,12.01,0,0,0,17,4.0508V2H15V4.0508a11.99,11.99,0,0,0,0,23.8984V30h2V27.9492A12.01,12.01,0,0,0,28,16ZM16,26A10,10,0,1,1,26,16,10.0114,10.0114,0,0,1,16,26Z\"></path></svg>",
+		"split",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>table--split</title><path d=\"M27,3H5A2,2,0,0,0,3,5V27a2,2,0,0,0,2,2H27a2,2,0,0,0,2-2V5A2,2,0,0,0,27,3Zm0,2V9H5V5ZM17,11H27v7H17Zm-2,7H5V11H15ZM5,20H15v7H5Zm12,7V20H27v7Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"table,split",
+		"Carbon"
+	],
+	[
+		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(2 2)\"><path d=\"m2.5.5h12c1.1045695 0 2 .8954305 2 2v12c0 1.1045695-.8954305 2-2 2h-12c-1.1045695 0-2-.8954305-2-2v-12c0-1.1045695.8954305-2 2-2z\"></path><path d=\"m.5 4.5h16\"></path><path d=\"m8.5 4.5v12\"></path></g></svg>",
+		"calendar,split",
+		"System UIcons"
+	],
+	[
+		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(2 2)\"><circle cx=\"8.5\" cy=\"8.5\" r=\"8\"></circle><path d=\"m8.5.5.027 16\" transform=\"matrix(-1 0 0 1 17.027 0)\"></path></g></svg>",
+		"circle,split",
+		"System UIcons"
+	],
+	[
+		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(3 5)\"><path d=\"m12.5.5h-10.00000001c-1.1045695 0-2 .8954305-2 2v6c0 1.1045695.8954305 2 2 2h10.00000001c1.1045695 0 2-.8954305 2-2v-6c0-1.1045695-.8954305-2-2-2z\"></path><path d=\"m7.5.5v10\"></path></g></svg>",
+		"split",
+		"System UIcons"
+	],
+	[
+		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(2 5)\"><path d=\"m14.5.5h-12.00000001c-1.1045695 0-2 .8954305-2 2v6c0 1.1045695.8954305 2 2 2h12.00000001c1.1045695 0 2-.8954305 2-2v-6c0-1.1045695-.8954305-2-2-2z\"></path><path d=\"m5.5.5v10\"></path><path d=\"m11.5.5v10\"></path></g></svg>",
+		"split,three",
+		"System UIcons"
+	],
+	[
+		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" version=\"1.1\" width=\"100\" height=\"100\" id=\"svg4460\" inkscape:version=\"1.0 (4035a4fb49, 2020-05-01)\" sodipodi:docname=\"uEA77-split.svg\" viewBox=\"0 0 100 100\"><sodipodi:namedview pagecolor=\"#ffffff\" bordercolor=\"#666666\" borderopacity=\"1\" objecttolerance=\"10\" gridtolerance=\"10\" guidetolerance=\"10\" inkscape:pageopacity=\"0\" inkscape:pageshadow=\"2\" inkscape:window-width=\"1920\" inkscape:window-height=\"1017\" id=\"namedview11\" showgrid=\"false\" inkscape:zoom=\"5.6568542\" inkscape:cx=\"58.125284\" inkscape:cy=\"64.39518\" inkscape:window-x=\"-8\" inkscape:window-y=\"-8\" inkscape:window-maximized=\"1\" inkscape:current-layer=\"svg4460\" inkscape:document-rotation=\"0\"></sodipodi:namedview><defs id=\"defs4462\"></defs><metadata id=\"metadata4465\"><rdf:RDF><cc:Work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path sodipodi:nodetypes=\"ccccccccccccccc\" d=\"M 4.7265857,1.0622022 -1.2654186e-7,5.7381221 9.3512802,15.193382 14.077866,10.517462 Z m 14.0272003,14.1818458 -4.726586,4.67592 9.351839,9.453171 4.727145,-4.678008 z m 14.028318,14.177669 -4.726586,4.67592 9.35184,9.453171 4.726586,-4.67592 z\" style=\"color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:10.2145;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:20.429, 10.2145;stroke-dashoffset:51.0724;stop-color:#000000\" id=\"path836\"></path><path sodipodi:nodetypes=\"sccccccccsscccsszccccssscsssssssssssscssssss\" d=\"m 43.011585,8.9478322 c -0.640782,-0.2053195 -1.290782,-0.3055837 -1.938002,-0.293424 -0.493124,0.00924 -0.983809,0.083992 -1.465502,0.2311286 L 52.900623,52.400654 8.569982,42.154417 c -0.9074039,3.925812 2.786939,10.106754 8.283078,11.377121 l 38.484467,8.843777 3.881727,10.717713 c -3.788376,-0.293343 -7.142315,3.189866 -8.19232,6.349994 -0.8936,2.835435 -0.854706,6.103437 0.141703,9.365535 0.996404,3.262083 2.789288,5.993016 5.114716,7.845199 2.325432,1.852198 5.404401,2.85329 8.38483,1.942869 13.461126,-5.072285 3.56332,-26.362406 0.778887,-34.354888 9.878392,1.708047 31.332783,9.816643 34.352475,-3.302427 0.701785,-3.0363 -0.510796,-6.036458 -2.519581,-8.228054 -2.008763,-2.19159 -4.855676,-3.789579 -8.178929,-4.557713 -3.323264,-0.768127 -6.454188,-0.912305 -9.352755,0.505432 -2.898567,1.417737 -6.290069,4.410782 -5.788377,7.894885 -0.0036,0.240933 0.007,0.479019 0.02005,0.717913 L 63.023201,54.278631 51.538678,16.499267 C 50.367125,12.663769 45.788314,9.8375282 43.011585,8.9478322 Z M 87.789803,53.819815 c 2.271297,0.524984 4.126118,1.650778 5.201697,2.824251 1.075587,1.173477 1.327286,2.181014 1.141103,2.986526 -0.186135,0.805521 -0.852845,1.596534 -2.33429,2.178983 -1.481436,0.582451 -3.642445,0.779559 -5.913744,0.254578 -2.271301,-0.524984 -4.125444,-1.653285 -5.201025,-2.826758 -1.075582,-1.173473 -1.331137,-2.17667 -1.144953,-2.98218 0.18619,-0.805511 0.855355,-1.595863 2.336796,-2.178311 0.740722,-0.291225 1.650821,-0.489171 2.660244,-0.545565 1.009422,-0.0564 2.118516,0.02598 3.254172,0.288476 z m -28.03182,24.84901 c 0.556553,0.114933 1.186443,0.418258 1.886827,0.976121 1.245137,0.991739 2.499114,2.760725 3.180115,4.990224 0.681002,2.229496 0.632166,4.400748 0.153692,5.918974 -0.478471,1.518211 -1.220402,2.236489 -2.011085,2.478002 -0.790683,0.241526 -1.812359,0.05935 -3.057487,-0.932185 -1.24514,-0.991744 -2.495933,-2.762557 -3.176935,-4.992062 -0.681,-2.229497 -0.632166,-4.400756 -0.153691,-5.918973 0.478463,-1.51822 1.221071,-2.238997 2.011759,-2.480512 0.197673,-0.06039 0.409964,-0.09442 0.636026,-0.09577 0.169544,-0.001 0.345259,0.01788 0.530782,0.05617 z\" style=\"color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:10.2145;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:20.429, 10.2145;stroke-dashoffset:51.0724;stop-color:#000000\" id=\"rect830\"></path></svg>",
+		"edit,split",
+		"Font-GIS"
+	],
+	[
+		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" version=\"1.1\" width=\"100\" height=\"100\" id=\"svg4460\" inkscape:version=\"1.0 (4035a4fb49, 2020-05-01)\" sodipodi:docname=\"uEA77-split-line.svg\" viewBox=\"0 0 100 100\"><sodipodi:namedview pagecolor=\"#ffffff\" bordercolor=\"#666666\" borderopacity=\"1\" objecttolerance=\"10\" gridtolerance=\"10\" guidetolerance=\"10\" inkscape:pageopacity=\"0\" inkscape:pageshadow=\"2\" inkscape:window-width=\"1920\" inkscape:window-height=\"1017\" id=\"namedview11\" showgrid=\"false\" inkscape:zoom=\"5.6568542\" inkscape:cx=\"-11.194012\" inkscape:cy=\"59.160958\" inkscape:window-x=\"-8\" inkscape:window-y=\"-8\" inkscape:window-maximized=\"1\" inkscape:current-layer=\"svg4460\" inkscape:document-rotation=\"0\"></sodipodi:namedview><defs id=\"defs4462\"></defs><metadata id=\"metadata4465\"><rdf:RDF><cc:Work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path d=\"M 60.712891 37.458984 C 60.373872 37.453604 60.035624 37.494368 59.701172 37.583984 L 67.796875 67.796875 L 37.583984 59.701172 C 36.867056 62.376786 39.304921 65.338097 43.050781 66.341797 L 69.28125 73.333984 L 71.646484 82.164062 C 71.482041 82.160791 71.317794 82.159815 71.152344 82.167969 A 2 2 0 0 0 70.044922 82.144531 A 2 2 0 0 0 69.095703 82.71875 C 67.596785 83.489475 66.422696 84.755845 65.865234 86.332031 C 65.183765 88.258833 65.133344 90.50458 65.740234 92.769531 C 66.347124 95.034473 67.514789 96.953326 69.068359 98.28125 C 70.621933 99.609184 72.71188 100.37089 74.78125 99.816406 C 76.850619 99.261921 78.277517 97.557671 78.958984 95.630859 C 79.640454 93.704058 79.692827 91.458301 79.085938 89.193359 C 78.796291 88.112384 78.375928 87.113491 77.849609 86.216797 L 74.808594 74.808594 L 86.216797 77.849609 C 87.113491 78.375928 88.112384 78.796291 89.193359 79.085938 C 91.458301 79.692827 93.704058 79.640454 95.630859 78.958984 C 97.557671 78.277517 99.261921 76.850619 99.816406 74.78125 C 100.37089 72.71188 99.609184 70.621933 98.28125 69.068359 C 96.953326 67.514789 95.034473 66.347124 92.769531 65.740234 C 90.50458 65.133344 88.258833 65.183765 86.332031 65.865234 C 84.755845 66.422696 83.489475 67.596785 82.71875 69.095703 A 2 2 0 0 0 82.144531 70.044922 A 2 2 0 0 0 82.167969 71.152344 C 82.159815 71.317794 82.160791 71.482041 82.164062 71.646484 L 73.333984 69.28125 L 66.341797 43.050781 C 65.463559 39.773154 63.08602 37.496647 60.712891 37.458984 z M 89.505859 69.328125 C 90.200725 69.313419 90.960379 69.396124 91.734375 69.603516 C 93.282368 70.018299 94.529205 70.836118 95.240234 71.667969 C 95.951263 72.499819 96.100227 73.197103 95.953125 73.746094 C 95.806024 74.295083 95.330523 74.822611 94.298828 75.1875 C 93.267134 75.552389 91.776508 75.63744 90.228516 75.222656 C 88.680523 74.807872 87.433685 73.9881 86.722656 73.15625 C 86.011627 72.3244 85.860711 71.629068 86.007812 71.080078 C 86.154914 70.531087 86.632368 70.00356 87.664062 69.638672 C 88.17991 69.456227 88.810994 69.342831 89.505859 69.328125 z M 71.519531 85.957031 C 71.985571 85.970407 72.532362 86.189385 73.15625 86.722656 C 73.9881 87.433685 74.807872 88.680523 75.222656 90.228516 C 75.63744 91.776508 75.552389 93.267134 75.1875 94.298828 C 74.822611 95.330523 74.295083 95.806024 73.746094 95.953125 C 73.197103 96.100227 72.499819 95.951263 71.667969 95.240234 C 70.836118 94.529205 70.018299 93.282368 69.603516 91.734375 C 69.188733 90.186382 69.273783 88.695757 69.638672 87.664062 C 70.00356 86.632368 70.531087 86.154914 71.080078 86.007812 C 71.217326 85.971037 71.364185 85.952573 71.519531 85.957031 z\" style=\"color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:7.02209;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:14.0442, 7.02209;stroke-dashoffset:35.1104;stop-color:#000000\" id=\"rect830\"></path><path id=\"path1033\" style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000\" d=\"M 64.207031,0 A 3.5,3.5 0 0 0 60.78125,3.2519531 L 59.677734,18.732422 48.5,27.029297 c -2.085675,-1.575398 -4.66674,-2.521485 -7.466797,-2.521485 -6.889711,2e-6 -12.550781,5.661071 -12.550781,12.550782 0,1.493674 0.280588,2.92299 0.767578,4.255859 L 12.283203,53.90625 a 3.50035,3.50035 0 0 0 -1.242187,1.726562 L 0.171875,88.994141 A 3.5,3.5 0 0 0 2.4160156,93.40625 3.5,3.5 0 0 0 6.828125,91.162109 L 17.351562,58.863281 33.382812,46.966797 c 2.124406,1.647258 4.777129,2.640624 7.650391,2.640625 6.65121,0 12.105323,-5.287651 12.478516,-11.851563 a 3.5,3.5 0 0 0 0.07031,-0.697265 3.5,3.5 0 0 0 -0.07227,-0.707032 C 53.434565,35.047333 53.150898,33.796907 52.705078,32.625 l 12.435547,-9.228516 a 3.50035,3.50035 0 0 0 1.40625,-2.5625 L 67.763672,3.7480469 A 3.5,3.5 0 0 0 64.521484,0.00976563 3.5,3.5 0 0 0 64.207031,0 Z M 41.033203,31.507812 c 3.106631,0 5.548828,2.444151 5.548828,5.550782 0,3.10663 -2.442197,5.548828 -5.548828,5.548828 -3.10663,0 -5.550781,-2.442198 -5.550781,-5.548828 0,-3.10663 2.444151,-5.550781 5.550781,-5.550782 z\"></path><path d=\"M 14.90625 3.3886719 L 11.164062 6.703125 L 17.792969 14.189453 L 21.537109 10.875 L 14.90625 3.3886719 z M 24.851562 14.619141 L 21.107422 17.933594 L 27.738281 25.419922 L 31.480469 22.105469 L 24.851562 14.619141 z M 54.685547 48.306641 L 50.941406 51.623047 L 57.572266 59.109375 L 61.314453 55.792969 L 54.685547 48.306641 z\" style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:10, 5;stroke-dashoffset:15;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1\" id=\"path1075\"></path></svg>",
+		"edit,split,line",
+		"Font-GIS"
+	],
+	[
+		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" sodipodi:docname=\"uEAA8-convex-hull.svg\" inkscape:version=\"1.0 (4035a4fb49, 2020-05-01)\" id=\"svg4460\" height=\"100\" width=\"100\" version=\"1.1\" viewBox=\"0 0 100 100\"><sodipodi:namedview inkscape:document-rotation=\"0\" inkscape:current-layer=\"svg4460\" inkscape:window-maximized=\"1\" inkscape:window-y=\"-8\" inkscape:window-x=\"-8\" inkscape:cy=\"58.240203\" inkscape:cx=\"21.592348\" inkscape:zoom=\"5.6568542\" showgrid=\"false\" id=\"namedview11\" inkscape:window-height=\"1017\" inkscape:window-width=\"1920\" inkscape:pageshadow=\"2\" inkscape:pageopacity=\"0\" guidetolerance=\"10\" gridtolerance=\"10\" objecttolerance=\"10\" borderopacity=\"1\" bordercolor=\"#666666\" pagecolor=\"#ffffff\"></sodipodi:namedview><defs id=\"defs4462\"></defs><metadata id=\"metadata4465\"><rdf:RDF><cc:Work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path d=\"M 41.785156 0 A 3.50035 3.50035 0 0 0 41.386719 0.01953125 L 3.1367188 4.0195312 A 3.50035 3.50035 0 0 0 0 7.5 L 0 53 A 3.50035 3.50035 0 0 0 3.7480469 56.490234 L 47.9375 53.351562 A 3.50035 3.50035 0 0 0 51.009766 50.970703 L 61.570312 19.359375 A 3.50035 3.50035 0 0 0 60.582031 15.640625 L 44.082031 0.890625 A 3.50035 3.50035 0 0 0 41.785156 0 z M 40.572266 7.1425781 L 54.201172 19.324219 L 45.109375 46.535156 L 7 49.244141 L 7 10.652344 L 40.572266 7.1425781 z M 14.162109 12.486328 L 10.699219 16.091797 L 17.912109 23.019531 L 21.375 19.412109 L 14.162109 12.486328 z M 24.980469 22.875 L 21.517578 26.482422 L 28.730469 33.408203 L 32.193359 29.802734 L 24.980469 22.875 z M 35.800781 33.265625 L 32.335938 36.871094 L 39.548828 43.798828 L 43.011719 40.193359 L 35.800781 33.265625 z M 60.712891 37.458984 C 60.373872 37.453584 60.035624 37.494364 59.701172 37.583984 L 67.796875 67.796875 L 37.583984 59.701172 C 36.867056 62.376786 39.304921 65.338097 43.050781 66.341797 L 69.28125 73.333984 L 71.646484 82.164062 C 71.482041 82.160763 71.317794 82.159869 71.152344 82.167969 A 2 2 0 0 0 70.044922 82.144531 A 2 2 0 0 0 69.095703 82.71875 C 67.596785 83.489475 66.422696 84.755845 65.865234 86.332031 C 65.183765 88.258833 65.133344 90.504581 65.740234 92.769531 C 66.347124 95.034471 67.514789 96.95333 69.068359 98.28125 C 70.621933 99.60918 72.71188 100.37089 74.78125 99.816406 C 76.850619 99.261916 78.277517 97.557669 78.958984 95.630859 C 79.640454 93.704059 79.692827 91.458301 79.085938 89.193359 C 78.79629 88.112384 78.375928 87.113491 77.849609 86.216797 L 74.808594 74.808594 L 86.216797 77.849609 C 87.113491 78.375928 88.112384 78.796291 89.193359 79.085938 C 91.458301 79.692826 93.704058 79.640454 95.630859 78.958984 C 97.557671 78.277517 99.261921 76.850619 99.816406 74.78125 C 100.37089 72.71188 99.609184 70.621933 98.28125 69.068359 C 96.953326 67.514789 95.034473 66.347124 92.769531 65.740234 C 90.50458 65.133344 88.258833 65.183765 86.332031 65.865234 C 84.755845 66.422696 83.489475 67.596785 82.71875 69.095703 A 2 2 0 0 0 82.144531 70.044922 A 2 2 0 0 0 82.167969 71.152344 C 82.159769 71.317794 82.160762 71.482041 82.164062 71.646484 L 73.333984 69.28125 L 66.341797 43.050781 C 65.463559 39.773154 63.08602 37.496647 60.712891 37.458984 z M 57.4375 54.044922 L 53.974609 57.652344 L 57.580078 61.115234 L 61.042969 57.509766 L 57.4375 54.044922 z M 89.505859 69.328125 C 90.200725 69.313415 90.960379 69.396125 91.734375 69.603516 C 93.282368 70.018299 94.529205 70.836118 95.240234 71.667969 C 95.951263 72.499819 96.100227 73.197103 95.953125 73.746094 C 95.806024 74.295083 95.330523 74.822611 94.298828 75.1875 C 93.267134 75.552389 91.776508 75.637436 90.228516 75.222656 C 88.680523 74.807872 87.433685 73.9881 86.722656 73.15625 C 86.011627 72.3244 85.860711 71.629068 86.007812 71.080078 C 86.154915 70.531087 86.632368 70.00356 87.664062 69.638672 C 88.179911 69.456227 88.810994 69.342831 89.505859 69.328125 z M 71.519531 85.957031 C 71.985571 85.970411 72.532362 86.189385 73.15625 86.722656 C 73.9881 87.433685 74.807872 88.680523 75.222656 90.228516 C 75.63744 91.776508 75.552393 93.267128 75.1875 94.298828 C 74.822611 95.330518 74.295083 95.806025 73.746094 95.953125 C 73.197103 96.100235 72.499819 95.951124 71.667969 95.240234 C 70.836118 94.529204 70.018299 93.282371 69.603516 91.734375 C 69.188733 90.186382 69.273779 88.695757 69.638672 87.664062 C 70.00356 86.632368 70.531087 86.154915 71.080078 86.007812 C 71.217326 85.971033 71.364185 85.952572 71.519531 85.957031 z\" style=\"color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:7.02209;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:14.0442, 7.02209000000000039;stroke-dashoffset:35.1104;stop-color:#000000\" id=\"rect830\"></path></svg>",
+		"edit,split,polygon",
+		"Font-GIS"
+	],
+	[
+		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" version=\"1.1\" width=\"100\" height=\"100\" id=\"svg4460\" sodipodi:docname=\"uEADD-screen-split-h.svg\" inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\" viewBox=\"0 0 100 100\"><sodipodi:namedview pagecolor=\"#ffffff\" bordercolor=\"#666666\" borderopacity=\"1\" objecttolerance=\"10\" gridtolerance=\"10\" guidetolerance=\"10\" inkscape:pageopacity=\"0\" inkscape:pageshadow=\"2\" inkscape:window-width=\"1920\" inkscape:window-height=\"1177\" id=\"namedview11\" showgrid=\"false\" inkscape:zoom=\"4.0000001\" inkscape:cx=\"26.266541\" inkscape:cy=\"78.976542\" inkscape:window-x=\"1272\" inkscape:window-y=\"-8\" inkscape:window-maximized=\"1\" inkscape:current-layer=\"svg4460\" inkscape:document-rotation=\"0\"></sodipodi:namedview><defs id=\"defs4462\"></defs><metadata id=\"metadata4465\"><rdf:RDF><cc:Work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate\" d=\"M 2.5,12.5 A 2.50025,2.50025 0 0 0 0,15 v 70 a 2.50025,2.50025 0 0 0 2.5,2.5 h 95 A 2.50025,2.50025 0 0 0 100,85 V 15 a 2.50025,2.50025 0 0 0 -2.5,-2.5 z m 2.5,5 h 90 v 65 H 5 Z\" id=\"rect837\" inkscape:connector-curvature=\"0\"></path><path style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.22468472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate\" d=\"M 43 21 L 43 44.873047 L 34.396484 44.873047 L 34.396484 35 L 20 50 L 34.396484 65 L 34.396484 55.123047 L 43 55.123047 L 43 79 L 47.5 79 L 47.5 21 L 43 21 z M 52.5 21 L 52.5 79 L 57 79 L 57 55.125 L 65.605469 55.125 L 65.605469 64.998047 L 80 50 L 65.605469 35.003906 L 65.605469 44.873047 L 57 44.873047 L 57 21 L 52.5 21 z\" id=\"path814\"></path></svg>",
+		"tools,screen,split,h",
+		"Font-GIS"
+	],
+	[
+		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" version=\"1.1\" width=\"100\" height=\"100\" id=\"svg4460\" sodipodi:docname=\"uEADE-screen-split-v.svg\" inkscape:version=\"0.92.4 (5da689c313, 2019-01-14)\" viewBox=\"0 0 100 100\"><sodipodi:namedview pagecolor=\"#ffffff\" bordercolor=\"#666666\" borderopacity=\"1\" objecttolerance=\"10\" gridtolerance=\"10\" guidetolerance=\"10\" inkscape:pageopacity=\"0\" inkscape:pageshadow=\"2\" inkscape:window-width=\"1920\" inkscape:window-height=\"1177\" id=\"namedview11\" showgrid=\"false\" inkscape:zoom=\"4.0000001\" inkscape:cx=\"26.266541\" inkscape:cy=\"78.976542\" inkscape:window-x=\"1272\" inkscape:window-y=\"-8\" inkscape:window-maximized=\"1\" inkscape:current-layer=\"svg4460\" inkscape:document-rotation=\"0\"></sodipodi:namedview><defs id=\"defs4462\"></defs><metadata id=\"metadata4465\"><rdf:RDF><cc:Work rdf:about=\"\"><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate\" d=\"M 2.5,12.5 A 2.50025,2.50025 0 0 0 0,15 v 70 a 2.50025,2.50025 0 0 0 2.5,2.5 h 95 A 2.50025,2.50025 0 0 0 100,85 V 15 a 2.50025,2.50025 0 0 0 -2.5,-2.5 z m 2.5,5 h 90 v 65 H 5 Z\" id=\"rect837\" inkscape:connector-curvature=\"0\"></path><path style=\"color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.72455025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate\" d=\"M 50 20 L 35.003906 34.394531 L 44.873047 34.394531 L 44.873047 43 L 9 43 L 9 47.5 L 91 47.5 L 91 43 L 55.125 43 L 55.125 34.394531 L 64.998047 34.394531 L 50 20 z M 9 52.5 L 9 57 L 44.873047 57 L 44.873047 65.603516 L 35 65.603516 L 50 80 L 65 65.603516 L 55.123047 65.603516 L 55.123047 57 L 91 57 L 91 52.5 L 9 52.5 z\" id=\"path814\"></path></svg>",
+		"tools,screen,split,v",
+		"Font-GIS"
+	]
+]
