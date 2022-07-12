@@ -5,7 +5,7 @@ icon sets with 130,000+ icons.
 
 Collections of SVG icons created by various authors, released under various free
 licenses. When using this collections, please see
-[collections.md](./collections.md), which summarizes the icon sets and their
+[collections.md](collections.md), which summarizes the icon sets and their
 licenses.
 
 ## Features
@@ -26,5 +26,5 @@ All icons and tags are normalized:
 ## License
 
 This repository is a collection of works by various artists and is not a
-coolection of original works. Please see [collections.md](./collections.md),
-which summarizes the icon sets and their licenses.
+coolection of original works. Please see [collections.md](collections.md), which
+summarizes the icon sets and their licenses.
