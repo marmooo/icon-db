@@ -271,3 +271,5 @@
   [MIT](https://github.com/samcome/webfont-medical-icons/blob/master/LICENSE)
 - [small-n-flat](https://github.com/paomedia/small-n-flat) licensed under the
   [CC0-1.0](https://github.com/paomedia/small-n-flat/blob/master/LICENSE)
+- [LibreICONS](https://github.com/DiemenDesign/LibreICONS) licensed under the
+  [MIT](https://github.com/DiemenDesign/LibreICONS/blob/master/LICENSE)
