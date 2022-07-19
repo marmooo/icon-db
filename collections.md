@@ -273,3 +273,5 @@
   [CC0-1.0](https://github.com/paomedia/small-n-flat/blob/master/LICENSE)
 - [LibreICONS](https://github.com/DiemenDesign/LibreICONS) licensed under the
   [MIT](https://github.com/DiemenDesign/LibreICONS/blob/master/LICENSE)
+- [TDesign Icons](https://github.com/Tencent/tdesign-icons) licensed under the
+  [MIT](https://github.com/Tencent/tdesign-icons/blob/develop/LICENSE)
