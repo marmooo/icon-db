@@ -275,3 +275,6 @@
   [MIT](https://github.com/DiemenDesign/LibreICONS/blob/master/LICENSE)
 - [TDesign Icons](https://github.com/Tencent/tdesign-icons) licensed under the
   [MIT](https://github.com/Tencent/tdesign-icons/blob/develop/LICENSE)
+- [apancik/public-domain-icons](https://github.com/apancik/public-domain-icons)
+  licensed under the
+  [Public Domain](https://github.com/apancik/public-domain-icons)
