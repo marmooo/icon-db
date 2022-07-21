@@ -243,7 +243,7 @@
   the [MIT](https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE)
 - [Gala Icons](https://github.com/sisyphusion/gala-icons) licensed under the
   [GPL-3.0](https://github.com/sisyphusion/gala-icons/blob/main/LICENSE)
-- [Jam Icons](https://github.com/michaelampr/jam) licensed under the
+- [Jam icons](https://github.com/michaelampr/jam) licensed under the
   [MIT](https://github.com/michaelampr/jam/blob/master/LICENSE)
 - [Pepicons](https://github.com/CyCraft/pepicons) licensed under the
   [CC-BY-4.0](https://github.com/CyCraft/pepicons/blob/dev/LICENSE)
