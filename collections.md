@@ -278,3 +278,5 @@
 - [apancik/public-domain-icons](https://github.com/apancik/public-domain-icons)
   licensed under the
   [Public Domain](https://github.com/apancik/public-domain-icons)
+- [Humbleicons](https://github.com/zraly/humbleicons) licensed under the
+  [MIT](https://github.com/zraly/humbleicons/blob/master/license)
