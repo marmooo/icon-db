@@ -880,7 +880,7 @@
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cart-minus\" viewBox=\"0 0 24 24\"><path d=\"M16,6V4H8V6M7,18A2,2 0 0,0 5,20A2,2 0 0,0 7,22A2,2 0 0,0 9,20A2,2 0 0,0 7,18M17,18A2,2 0 0,0 15,20A2,2 0 0,0 17,22A2,2 0 0,0 19,20A2,2 0 0,0 17,18M7.17,14.75L7.2,14.63L8.1,13H15.55C16.3,13 16.96,12.59 17.3,11.97L21.16,4.96L19.42,4H19.41L18.31,6L15.55,11H8.53L8.4,10.73L6.16,6L5.21,4L4.27,2H1V4H3L6.6,11.59L5.25,14.04C5.09,14.32 5,14.65 5,15A2,2 0 0,0 7,17H19V15H7.42C7.29,15 7.17,14.89 7.17,14.75Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cart-minus\" viewBox=\"0 0 24 24\"><path d=\"M16 6V4H8V6M7 18C5.9 18 5 18.9 5 20S5.9 22 7 22 9 21.1 9 20 8.1 18 7 18M17 18C15.9 18 15 18.9 15 20S15.9 22 17 22 19 21.1 19 20 18.1 18 17 18M7.2 14.8V14.7L8.1 13H15.5C16.2 13 16.9 12.6 17.2 12L21.1 5L19.4 4L15.5 11H8.5L4.3 2H1V4H3L6.6 11.6L5.2 14C5.1 14.3 5 14.6 5 15C5 16.1 5.9 17 7 17H19V15H7.4C7.3 15 7.2 14.9 7.2 14.8Z\"></path></svg>",
 		"cart,minus",
 		"Material Design"
 	],
@@ -1072,6 +1072,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-flag-minus\" viewBox=\"0 0 24 24\"><path d=\"M12.4,5H18V15H11L10.6,13H5V20H3V3H12L12.4,5M14,17H22V19H14V17Z\"></path></svg>",
 		"flag,minus",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-flag-variant-minus-outline\" viewBox=\"0 0 24 24\"><path d=\"M6 3C6.6 3 7 3.4 7 4V4.9C8.1 4.4 9.5 4 11 4C14 4 14 6 16 6C19 6 20 4 20 4V12C20 12 19 14 16 14S13 12 11 12C8 12 7 14 7 14V21H5V4C5 3.4 5.4 3 6 3M7 7.2V11.4C7 11.4 9 9.9 11 9.9S14 11.9 16 11.9 18 10.9 18 10.9V7.5C18 7.5 17 8 16 8C14 8 13 6 11 6S7 7.2 7 7.2M15 18V20H23V18H15Z\"></path></svg>",
+		"flag,variant,minus,outline",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-flag-variant-minus\" viewBox=\"0 0 24 24\"><path d=\"M6 3C6.6 3 7 3.4 7 4V4.9C8.1 4.4 9.5 4 11 4C14 4 14 6 16 6C19 6 20 4 20 4V12C20 12 19 14 16 14S13 12 11 12C8 12 7 14 7 14V21H5V4C5 3.4 5.4 3 6 3M15 18V20H23V18H15Z\"></path></svg>",
+		"flag,variant,minus",
 		"Material Design"
 	],
 	[
@@ -1367,6 +1377,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-notebook-minus\" viewBox=\"0 0 24 24\"><path d=\"M3 7V5H5V4C5 2.9 5.9 2 7 2H13V9L15.5 7.5L18 9V2H19C20 2 21 3 21 4V13.8C20.1 13.3 19.1 13 18 13C14.7 13 12 15.7 12 19C12 20.1 12.3 21.1 12.8 22H7C5.9 22 5 21 5 20V19H3V17H5V13H3V11H5V7H3M5 5V7H7V5H5M5 19H7V17H5V19M5 13H7V11H5V13M14 18V20H22V18H14Z\"></path></svg>",
 		"notebook,minus",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-office-building-minus-outline\" viewBox=\"0 0 24 24\"><path d=\"M12 11H10V9H12V11M14 11H16V9H14V11M13.4 21H12V17.5H10V21H4V3H18V13.1C18.3 13 18.7 13 19 13C19.3 13 19.7 13 20 13.1V1H2V23H14.5C14 22.4 13.6 21.7 13.4 21M14 7H16V5H14V7M16 13.8V13H14V15H14.5C15 14.5 15.5 14.1 16 13.8M8 5H6V7H8V5M8 9H6V11H8V9M6 19H8V17H6V19M12 5H10V7H12V5M10 15H12V13H10V15M8 13H6V15H8V13M15 18V20H23V18H15Z\"></path></svg>",
+		"office,building,minus,outline",
+		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-office-building-minus\" viewBox=\"0 0 24 24\"><path d=\"M13.4 21C13.2 20.4 13 19.7 13 19C13 17.5 13.6 16.1 14.5 15H13V13H15V14.5C15.6 14 16.3 13.6 17 13.3V3H3V21H9V17.5H11V21H13.4M13 5H15V7H13V5M13 9H15V11H13V9M7 19H5V17H7V19M7 15H5V13H7V15M7 11H5V9H7V11M7 7H5V5H7V7M9 5H11V7H9V5M9 9H11V11H9V9M9 15V13H11V15H9M23 18V20H15V18H23Z\"></path></svg>",
+		"office,building,minus",
 		"Material Design"
 	],
 	[
