@@ -15,6 +15,7 @@ All icons are searchable by tag:
 - `docs/json/[tag].json`
 - `docs/tags.json`
 - `docs/collections.json`
+- `docs/light.json`
 - `docs/heavy.json`
 
 All icons and tags are normalized:
