@@ -282,3 +282,5 @@
   [MIT](https://github.com/zraly/humbleicons/blob/master/license)
 - [MingCute Icon](https://github.com/Richard9394/MingCute) licensed under the
   [Apache-2.0](https://github.com/Richard9394/MingCute/blob/main/LICENSE)
+- [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) licensed under the
+  [MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE)
