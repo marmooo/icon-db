@@ -87,7 +87,7 @@
 - [Zondicons](https://github.com/dukestreetstudio/zondicons) licensed under the
   [MIT](https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE)
 - [Dashicons](https://github.com/WordPress/dashicons) licensed under the
-  [GPL-2.0](https://github.com/WordPress/dashicons)
+  [GPL-3.0](https://github.com/WordPress/dashicons/LICENSE)
 - [Foundation Icon Fonts](https://github.com/zurb/foundation-icon-fonts)
   licensed under the
   [MIT](https://github.com/zurb/foundation-icon-fonts/blob/master/foundation-icons.css)
