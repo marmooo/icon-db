@@ -525,26 +525,6 @@
 		"Feather"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7\"></path></svg>",
-		"outline,zoom,in",
-		"heroicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM13 10H7\"></path></svg>",
-		"outline,zoom,out",
-		"heroicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M5 8a1 1 0 011-1h1V6a1 1 0 012 0v1h1a1 1 0 110 2H9v1a1 1 0 11-2 0V9H6a1 1 0 01-1-1z\"></path><path fill-rule=\"evenodd\" d=\"M2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8zm6-4a4 4 0 100 8 4 4 0 000-8z\" clip-rule=\"evenodd\"></path></svg>",
-		"solid,zoom,in",
-		"heroicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z\" clip-rule=\"evenodd\"></path><path fill-rule=\"evenodd\" d=\"M5 8a1 1 0 011-1h4a1 1 0 110 2H6a1 1 0 01-1-1z\" clip-rule=\"evenodd\"></path></svg>",
-		"solid,zoom,out",
-		"heroicons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-zoom\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M17.011 9.385v5.128l3.989 3.487v-12z\"></path><path d=\"M3.887 6h10.08c1.468 0 3.033 1.203 3.033 2.803v8.196a0.991 .991 0 0 1 -.975 1.001h-10.373c-1.667 0 -2.652 -1.5 -2.652 -3l.01 -8.002a0.882 .882 0 0 1 .208 -.71a0.841 .841 0 0 1 .67 -.287z\"></path></svg>",
 		"brand,zoom",
 		"Tabler Icons"
@@ -602,6 +582,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-zoom-question\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"10\" cy=\"10\" r=\"7\"></circle><path d=\"M21 21l-6 -6\"></path><line x1=\"10\" y1=\"13\" x2=\"10\" y2=\"13.01\"></line><path d=\"M10 10a1.5 1.5 0 1 0 -1.14 -2.474\"></path></svg>",
 		"zoom,question",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-zoom-replace\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21 21l-6 -6\"></path><path d=\"M3.291 8.003a7 7 0 0 1 5.077 -4.806a7.021 7.021 0 0 1 8.242 4.403\"></path><path d=\"M17 4v4h-4\"></path><path d=\"M16.705 12.005a7 7 0 0 1 -5.074 4.798a7.021 7.021 0 0 1 -8.241 -4.403\"></path><path d=\"M3 16v-4h4\"></path></svg>",
+		"zoom,replace",
 		"Tabler Icons"
 	],
 	[
@@ -1070,12 +1055,12 @@
 		"Mono Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> zoom in</title><path fill-rule=\"evenodd\" d=\"M8 15a7 7 0 0 0 4.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 1 0 8 15Zm0-2A5 5 0 1 0 8 3a5 5 0 0 0 0 10Zm1-6h2v2H9v2H7V9H5V7h2V5h2v2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> zoom in</title><path d=\"M8 15a7 7 0 0 0 4.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 1 0 8 15Zm0-2A5 5 0 1 1 8 3a5 5 0 0 1 0 10Zm1-6h2v2H9v2H7V9H5V7h2V5h2Z\"></path></svg>",
 		"zoom,in",
 		"OOUI"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> zoom out</title><path fill-rule=\"evenodd\" d=\"M8 15a7 7 0 0 0 4.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 1 0 8 15Zm0-2A5 5 0 1 0 8 3a5 5 0 0 0 0 10Zm3-6H5v2h6V7Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> zoom out</title><path d=\"M8 15a7 7 0 0 0 4.2-1.4l5.4 5.4 1.4-1.4-5.4-5.4A7 7 0 1 0 8 15Zm0-2A5 5 0 1 1 8 3a5 5 0 0 1 0 10ZM5 7h6v2H5Z\"></path></svg>",
 		"zoom,out",
 		"OOUI"
 	],

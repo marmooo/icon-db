@@ -155,13 +155,63 @@
 		"Weather Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 6h16M4 12h16m-7 6h7\"></path></svg>",
-		"outline,menu,3",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z\" clip-rule=\"evenodd\"></path></svg>",
+		"20,solid,bars,3,bottom,left",
 		"heroicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z\" clip-rule=\"evenodd\"></path></svg>",
-		"solid,menu,3",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm7 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z\" clip-rule=\"evenodd\"></path></svg>",
+		"20,solid,bars,3,bottom,right",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5A.75.75 0 012 10z\" clip-rule=\"evenodd\"></path></svg>",
+		"20,solid,bars,3,center,left",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10zm0 5.25a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75a.75.75 0 01-.75-.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"20,solid,bars,3",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25H12\"></path></svg>",
+		"24,outline,bars,3,bottom,left",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25\"></path></svg>",
+		"24,outline,bars,3,bottom,right",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.75 6.75h16.5M3.75 12H12m-8.25 5.25h16.5\"></path></svg>",
+		"24,outline,bars,3,center,left",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5\"></path></svg>",
+		"24,outline,bars,3",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75H12a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"24,solid,bars,3,bottom,left",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm8.25 5.25a.75.75 0 01.75-.75h8.25a.75.75 0 010 1.5H12a.75.75 0 01-.75-.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"24,solid,bars,3,bottom,right",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75H12a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"24,solid,bars,3,center,left",
+		"heroicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"24,solid,bars,3",
 		"heroicons"
 	],
 	[
@@ -220,6 +270,11 @@
 		"Tabler Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-clock-hour-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M12 12h3.5\"></path><path d=\"M12 7v5\"></path></svg>",
+		"clock,hour,3",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-dice-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect><circle cx=\"8.5\" cy=\"8.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15.5\" cy=\"15.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"12\" cy=\"12\" r=\".5\" fill=\"currentColor\"></circle></svg>",
 		"dice,3",
 		"Tabler Icons"
@@ -237,6 +292,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-hierarchy-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"12\" cy=\"5\" r=\"2\"></circle><circle cx=\"8\" cy=\"12\" r=\"2\"></circle><circle cx=\"12\" cy=\"19\" r=\"2\"></circle><circle cx=\"20\" cy=\"19\" r=\"2\"></circle><circle cx=\"4\" cy=\"19\" r=\"2\"></circle><circle cx=\"16\" cy=\"12\" r=\"2\"></circle><path d=\"M5 17l2 -3\"></path><path d=\"M9 10l2 -3\"></path><path d=\"M13 7l2 3\"></path><path d=\"M17 14l2 3\"></path><path d=\"M15 14l-2 3\"></path><path d=\"M9 14l2 3\"></path></svg>",
 		"hierarchy,3",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-ironing-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 15h.01\"></path><path d=\"M9 6h7.459a3 3 0 0 1 2.959 2.507l.577 3.464l.81 4.865a1 1 0 0 1 -.985 1.164h-16.82a7 7 0 0 1 7 -7h9.8\"></path><path d=\"M9 15h.01\"></path><path d=\"M15 15h.01\"></path></svg>",
+		"ironing,3",
 		"Tabler Icons"
 	],
 	[
@@ -287,6 +347,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-volume-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 15h-2a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h2l3.5 -4.5a0.8 .8 0 0 1 1.5 .5v14a0.8 .8 0 0 1 -1.5 .5l-3.5 -4.5\"></path><path d=\"M16 10l4 4m0 -4l-4 4\"></path></svg>",
 		"volume,3",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-wash-dry-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"3\"></rect><circle cx=\"12\" cy=\"12\" r=\"6\"></circle><path d=\"M12 12h.01\"></path><path d=\"M9 12h.01\"></path><path d=\"M15 12h.01\"></path></svg>",
+		"wash,dry,3",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-wash-temperature-3\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3.486 8.965c.168 .02 .34 .033 .514 .035c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.17 -.002 .339 -.014 .503 -.034\"></path><path d=\"M3 6l1.721 10.329a2 2 0 0 0 1.973 1.671h10.612a2 2 0 0 0 1.973 -1.671l1.721 -10.329\"></path><path d=\"M12 13h.01\"></path><path d=\"M15 13h.01\"></path><path d=\"M9 13h.01\"></path></svg>",
+		"wash,temperature,3",
 		"Tabler Icons"
 	],
 	[
@@ -1150,6 +1220,16 @@
 		"MingCute Icon"
 	],
 	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>filter_3_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Business\" transform=\"translate(-816.000000, -240.000000)\"><g id=\"filter_3_fill\" transform=\"translate(816.000000, 240.000000)\"><rect id=\"矩形\" fill-rule=\"nonzero\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M3,6 C3,5.19711 3.43749,4.55194 3.96527,4.08401 C4.49422,3.61504 5.20256,3.2384 5.99202,2.94235 C7.57833,2.34749 9.70269,2 12,2 C14.2973,2 16.4217,2.34749 18.008,2.94235 C18.7974,3.2384 19.5058,3.61504 20.0347,4.08401 C20.5625,4.55194 21,5.19711 21,6 C21,10.6437 18.1305,14.6518 14.1095,15.7239 C14.0634,15.7362 14.0294,15.7611 14.0116,15.7825 C14.0034,15.7921 14.0001,15.8002 14.0001,15.8002 L14,19.8048 C14,20.3784 13.6096,20.8784 13.0532,21.0175 L11.5532,21.3925 C10.7642,21.5897 10,20.993 10,20.1798 L10,15.8003 C10,15.8003 9.99656,15.7921 9.98844,15.7825 C9.97056,15.7611 9.93659,15.7362 9.89049,15.7239 C5.86947,14.6518 3,10.6437 3,6 Z M5,6 C5,5.41522 6.3006,4.96264 6.69427,4.81501 C8.0034,4.32409 9.87903,4 12,4 C14.121,4 15.9966,4.32409 17.3057,4.81501 C17.6994,4.96264 19,5.41522 19,6 C19,6.58478 17.6994,7.03736 17.3057,7.18499 C15.9966,7.67591 14.121,8 12,8 C9.87903,8 8.0034,7.67591 6.69427,7.18499 C6.3006,7.03736 5,6.58478 5,6 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"business,filter,3,filled",
+		"MingCute Icon"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>filter_3_line</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Business\" transform=\"translate(-816.000000, -192.000000)\"><g id=\"filter_3_line\" transform=\"translate(816.000000, 192.000000)\"><rect id=\"矩形\" fill-rule=\"nonzero\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M5,6 C5,6.58478 6.3006,7.03736 6.69427,7.18499 C8.0034,7.67591 9.87903,8 12,8 C14.121,8 15.9966,7.67591 17.3057,7.18499 C17.6994,7.03736 19,6.58478 19,6 C19,5.41522 17.6994,4.96264 17.3057,4.81501 C15.9966,4.32409 14.121,4 12,4 C9.87903,4 8.0034,4.32409 6.69427,4.81501 C6.3006,4.96264 5,5.41522 5,6 Z M18.5474,8.83654 C18.3728,8.91475 18.1926,8.98841 18.008,9.05765 C16.4217,9.65251 14.2973,10 12,10 C9.70269,10 7.57833,9.65251 5.99202,9.05765 C5.80737,8.98841 5.62716,8.91475 5.45264,8.83654 C6.18824,11.0498 7.75497,12.77 9.66547,13.5437 C10.3997,13.841 11,14.5583 11,15.468 L11,19.7192 L13,19.2192 L13,15.468 C13,14.5583 13.6003,13.841 14.3345,13.5437 C16.245,12.77 17.8118,11.0498 18.5474,8.83654 Z M3,6 C3,10.2639 5.41352,13.9796 8.91476,15.3974 C8.95284,15.4128 8.97854,15.436 8.9915,15.4538 C8.99723,15.4616 8.99932,15.4665 9,15.4688 L9,19.7192 C9,21.0204 10.2228,21.9751 11.4851,21.6595 L13.4851,21.1595 C14.3754,20.9369 15,20.137 15,19.2192 L15,15.4688 C15.0007,15.4665 15.0028,15.4616 15.0085,15.4538 C15.0215,15.436 15.0472,15.4128 15.0852,15.3974 C18.5865,13.9796 21,10.2639 21,6 C21,5.19711 20.5625,4.55194 20.0347,4.08401 C19.5058,3.61504 18.7974,3.2384 18.008,2.94235 C16.4217,2.34749 14.2973,2 12,2 C9.70269,2 7.57833,2.34749 5.99202,2.94235 C5.20256,3.2384 4.49422,3.61504 3.96527,4.08401 C3.43749,4.55194 3,5.19711 3,6 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"business,filter,3,line",
+		"MingCute Icon"
+	],
+	[
 		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>flag_3_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Business\" transform=\"translate(-1296.000000, -48.000000)\" fill-rule=\"nonzero\"><g id=\"flag_3_fill\" transform=\"translate(1296.000000, 48.000000)\"><rect id=\"矩形\" transform=\"translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000)\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M6.09641,2.38531 C5.10594,1.95611 4,2.68218 4,3.76165 L4,21 C4,21.5523 4.44771,22 5,22 C5.55229,22 6,21.5523 6,21 L6,16.6566 L19.3389,10.8764 C20.5437,10.3543 20.5437,8.6458 19.3389,8.12372 L6.09641,2.38531 Z\" id=\"路径\" fill=\"#09244B\"></path></g></g></g></svg>",
 		"business,flag,3,filled",
 		"MingCute Icon"
@@ -1260,6 +1340,16 @@
 		"MingCute Icon"
 	],
 	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>document_3_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"File\" transform=\"translate(-384.000000, -240.000000)\"><g id=\"document_3_fill\" transform=\"translate(384.000000, 240.000000)\"><rect id=\"矩形\" fill-rule=\"nonzero\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M18,2 C19.1046,2 20,2.89543 20,4 L20,14 L13.5,14 C12.6716,14 12,14.6716 12,15.5 L12,22 L6,22 C4.89543,22 4,21.1046 4,20 L4,4 C4,2.89543 4.89543,2 6,2 L18,2 Z M19.9566,16 C19.8771,16.3759 19.6901,16.7241 19.4142,17 L15,21.4142 C14.7241,21.6901 14.3759,21.8771 14,21.9566 L14,16 L19.9566,16 Z M10,11 L9,11 C8.44772,11 8,11.4477 8,12 C8,12.5523 8.44772,13 9,13 L9,13 L10,13 C10.5523,13 11,12.5523 11,12 C11,11.4477 10.5523,11 10,11 L10,11 Z M15,7 L9,7 C8.44772,7 8,7.44772 8,8 C8,8.55229 8.44772,9 9,9 L15,9 C15.5523,9 16,8.55229 16,8 C16,7.44772 15.5523,7 15,7 Z\" id=\"形状结合\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"file,document,3,filled",
+		"MingCute Icon"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>document_3_line</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"File\" transform=\"translate(-384.000000, -192.000000)\" fill-rule=\"nonzero\"><g id=\"document_3_line\" transform=\"translate(384.000000, 192.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M18,2 C19.1046,2 20,2.89543 20,4 L20,15.5858 C20,16.1162 19.7893,16.6249 19.4142,17 L15,21.4142 C14.6249,21.7893 14.1162,22 13.5858,22 L6,22 C4.89543,22 4,21.1046 4,20 L4,4 C4,2.89543 4.89543,2 6,2 L18,2 Z M18,4 L6,4 L6,20 L12,20 L12,15.5 C12,14.6716 12.6716,14 13.5,14 L18,14 L18,4 Z M17.5858,16 L14,16 L14,19.5858 L17.5858,16 Z M10,11 C10.5523,11 11,11.4477 11,12 C11,12.5523 10.5523,13 10,13 L9,13 C8.44772,13 8,12.5523 8,12 C8,11.4477 8.44772,11 9,11 L10,11 Z M15,7 C15.5523,7 16,7.44771 16,8 C16,8.55229 15.5523,9 15,9 L15,9 L9,9 C8.44772,9 8,8.55229 8,8 C8,7.44771 8.44772,7 9,7 L9,7 Z\" id=\"形状结合\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"file,document,3,line",
+		"MingCute Icon"
+	],
+	[
 		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>download_3_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"File\" transform=\"translate(-912.000000, -144.000000)\" fill-rule=\"nonzero\"><g id=\"download_3_fill\" transform=\"translate(912.000000, 144.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M12.0000009,11 C12.5523,11 13.0000009,11.4477 13.0000009,12 L13.0000009,18.5838 L14.2934,17.2923 C14.6843,16.9021 15.3174,16.9026 15.7077,17.2934 C16.0979,17.6843 16.0974,18.3174 15.7066,18.7077 L12.8832,21.5266 C12.6301,21.7793 12.3839,22 12.0000009,22 C11.6640876,22 11.4336016,21.8310266 11.2116715,21.6194939 L8.29345,18.7077 C7.90262,18.3174 7.90212,17.6843 8.29234,17.2934 C8.68256,16.9026 9.31572,16.9021 9.70655,17.2923 L11.0000009,18.5838 L11.0000009,12 C11.0000009,11.4477 11.4477,11 12.0000009,11 Z M11.5,2 C14.2845,2 16.6601,3.7509 17.5858,6.2118 C20.13,6.90722 22,9.23523 22,12 C22,14.6194 20.3215,16.8468 17.9814,17.6651 C17.9086,17.0132 17.6225,16.3806 17.123,15.8803 C16.5903636,15.3468455 15.9068182,15.0557876 15.2094786,15.0072767 L15,15 L15,12 C15,10.3431 13.6569,9 12,9 C10.402275,9 9.09633597,10.2488774 9.00509252,11.8237227 L9,12 L9,15 C8.23145,15 7.46294,15.2935 6.87701,15.8803 C6.31762,16.4406 6.02588,17.1669 6.00165,17.9003 C3.71859,17.4377 2,15.4195 2,13 C2,10.9495 3.23434,9.18724 5.00053,8.41581 C5.04561,4.86476 7.93825,2 11.5,2 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
 		"file,download,3,filled",
 		"MingCute Icon"
@@ -1287,6 +1377,16 @@
 	[
 		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>music_line</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Media\" transform=\"translate(-912.000000, -96.000000)\" fill-rule=\"nonzero\"><g id=\"music_line\" transform=\"translate(912.000000, 96.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M10.9752,3.00175 C11.0974,3.54034 10.7599,4.07603 10.2213,4.19824 C6.65879,5.00662 4,8.19401 4,12 C4,16.4183 7.58172,20 12,20 C16.4183,20 20,16.4183 20,12 C20,10.3629 19.5093,8.84349 18.6673,7.577 C18.3615,7.11709 18.4864,6.49638 18.9463,6.19059 C19.4062,5.88481 20.0269,6.00975 20.3327,6.46965 C21.3862,8.05408 22,9.95689 22,12 C22,17.5229 17.5228,22 12,22 C6.47715,22 2,17.5229 2,12 C2,7.23967 5.32525,3.25837 9.77871,2.24783 C10.3173,2.12561 10.853,2.46315 10.9752,3.00175 Z M13,3.01364 C13,2.36478353 13.5982782,1.89541052 14.2139913,2.02423338 L14.3295,2.0555 L17.3163,3.05135 C17.8402,3.22604 18.1233,3.79238 17.9487,4.31631 C17.7864786,4.80281643 17.2865158,5.08168566 16.7964566,4.97917536 L16.6837,4.94867 L15,4.3873 L15,12 C15,13.6569 13.6569,15 12,15 C10.3431,15 9,13.6569 9,12 C9,10.3431 10.3431,9 12,9 C12.28048,9 12.552,9.038496 12.8095424,9.11050112 L13,9.17071 L13,3.01364 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
 		"media,music,3,line",
+		"MingCute Icon"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>more_3_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"System\" transform=\"translate(-192.000000, -336.000000)\"><g id=\"more_3_fill\" transform=\"translate(192.000000, 336.000000)\"><rect id=\"矩形\" fill-rule=\"nonzero\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.47715 6.47715,2 12,2 Z M16.5,10.5 C15.6716,10.5 15,11.1716 15,12 C15,12.8284 15.6716,13.5 16.5,13.5 C17.3284,13.5 18,12.8284 18,12 C18,11.1716 17.3284,10.5 16.5,10.5 Z M12,10.5 C11.1716,10.5 10.5,11.1716 10.5,12 C10.5,12.8284 11.1716,13.5 12,13.5 C12.8284,13.5 13.5,12.8284 13.5,12 C13.5,11.1716 12.8284,10.5 12,10.5 Z M7.5,10.5 C6.67157,10.5 6,11.1716 6,12 C6,12.8284 6.67157,13.5 7.5,13.5 C8.32843,13.5 9,12.8284 9,12 C9,11.1716 8.32843,10.5 7.5,10.5 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"system,more,3,filled",
+		"MingCute Icon"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>more_3_line</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"System\" transform=\"translate(-192.000000, -288.000000)\" fill-rule=\"nonzero\"><g id=\"more_3_line\" transform=\"translate(192.000000, 288.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M12,2 C17.5228,2 22,6.47715 22,12 C22,17.5228 17.5228,22 12,22 C6.47715,22 2,17.5228 2,12 C2,6.47715 6.47715,2 12,2 Z M12,4 C7.58172,4 4,7.58172 4,12 C4,16.4183 7.58172,20 12,20 C16.4183,20 20,16.4183 20,12 C20,7.58172 16.4183,4 12,4 Z M7.5,10.5 C8.32843,10.5 9,11.1716 9,12 C9,12.8284 8.32843,13.5 7.5,13.5 C6.67157,13.5 6,12.8284 6,12 C6,11.1716 6.67157,10.5 7.5,10.5 Z M12,10.5 C12.8284,10.5 13.5,11.1716 13.5,12 C13.5,12.8284 12.8284,13.5 12,13.5 C11.1716,13.5 10.5,12.8284 10.5,12 C10.5,11.1716 11.1716,10.5 12,10.5 Z M16.5,10.5 C17.3284,10.5 18,11.1716 18,12 C18,12.8284 17.3284,13.5 16.5,13.5 C15.6716,13.5 15,12.8284 15,12 C15,11.1716 15.6716,10.5 16.5,10.5 Z\" id=\"形状\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"system,more,3,line",
 		"MingCute Icon"
 	],
 	[

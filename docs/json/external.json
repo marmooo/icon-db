@@ -170,16 +170,6 @@
 		"Octicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14\"></path></svg>",
-		"outline,external,link",
-		"heroicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z\"></path><path d=\"M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z\"></path></svg>",
-		"solid,external,link",
-		"heroicons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-external-link-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7 7h-1a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-1\"></path><path d=\"M10 14l1.996 -1.996m2.007 -2.007l5.997 -5.997\"></path><path d=\"M15 4h5v5\"></path><path d=\"M3 3l18 18\"></path></svg>",
 		"external,link,off",
 		"Tabler Icons"
@@ -338,5 +328,15 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 6H7a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-5m-6 0 7.5-7.5M15 3h6v6\"></path></svg>",
 		"external,link",
 		"Humbleicons"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>external_link_fill</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"File\" transform=\"translate(-480.000000, -240.000000)\" fill-rule=\"nonzero\"><g id=\"external_link_fill\" transform=\"translate(480.000000, 240.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M16,6 C16.1792,6 16.3528,6.02356 16.5181,6.06774 L16.5181,6.06774 L9.29289,13.2929 C8.90237,13.6834 8.90237,14.3166 9.29289,14.7071 C9.68342,15.0976 10.3166,15.0976 10.7071,14.7071 L10.7071,14.7071 L17.9323,7.48196 C17.9765,7.64718 18,7.82084 18,8 L18,8 L18,19 C18,20.1046 17.1046,21 16,21 L16,21 L5,21 C3.89543,21 3,20.1046 3,19 L3,19 L3,8 C3,6.89543 3.89543,6 5,6 L5,6 Z M20,3 C20.5523,3 21,3.44772 21,4 L21,4 L21,9 C21,9.55228 20.5523,10 20,10 C19.4477,10 19,9.55228 19,9 L19,9 L19,6.41424 L17.9323,7.48196 C17.7482,6.79374 17.2063,6.25179 16.5181,6.06774 L16.5181,6.06774 L17.5858,5 L15,5 C14.4477,5 14,4.55229 14,4 C14,3.44772 14.4477,3 15,3 L15,3 Z\" id=\"形状结合\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"file,external,link,filled",
+		"MingCute Icon"
+	],
+	[
+		"<svg width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>external_link_line</title><g id=\"页面-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"File\" transform=\"translate(-480.000000, -192.000000)\" fill-rule=\"nonzero\"><g id=\"external_link_line\" transform=\"translate(480.000000, 192.000000)\"><rect id=\"矩形\" x=\"0\" y=\"0\" width=\"24\" height=\"24\"></rect><path d=\"M11,6 C11.5523,6 12,6.44772 12,7 C12,7.55228 11.5523,8 11,8 L5,8 L5,19 L16,19 L16,13 C16,12.4477 16.4477,12 17,12 C17.5523,12 18,12.4477 18,13 L18,19 C18,20.1046 17.1046,21 16,21 L5,21 C3.89543,21 3,20.1046 3,19 L3,8 C3,6.89543 3.89543,6 5,6 L11,6 Z M20,3 C20.5523,3 21,3.44772 21,4 L21,4 L21,9 C21,9.55228 20.5523,10 20,10 C19.4477,10 19,9.55228 19,9 L19,9 L19,6.41421 L10.7071,14.7071 C10.3166,15.0976 9.68342,15.0976 9.29289,14.7071 C8.90237,14.3166 8.90237,13.6834 9.29289,13.2929 L9.29289,13.2929 L17.5858,5 L15,5 C14.4477,5 14,4.55229 14,4 C14,3.44772 14.4477,3 15,3 L15,3 Z\" id=\"形状结合\" fill=\"#09244B\"></path></g></g></g></svg>",
+		"file,external,link,line",
+		"MingCute Icon"
 	]
 ]
