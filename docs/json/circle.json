@@ -14278,5 +14278,285 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path fill=\"none\" stroke=\"#000\" stroke-width=\"2\" d=\"M12,22 C17.5228475,22 22,17.5228475 22,12 C22,6.4771525 17.5228475,2 12,2 C6.4771525,2 2,6.4771525 2,12 C2,17.5228475 6.4771525,22 12,22 Z M6,12 L18,12\"></path></svg>",
 		"subtract,circle",
 		"grommet-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M8 4a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 018 4zM8 10a1 1 0 100 2h.007a1 1 0 100-2H8z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"alert,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M12 7a.75.75 0 01.75.75v4.5a.75.75 0 01-1.5 0v-4.5A.75.75 0 0112 7zM12 15a1 1 0 100 2h.01a1 1 0 100-2H12z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"alert,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-4a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 018 4zm0 6a1 1 0 100 2h.007a1 1 0 100-2H8z\" clip-rule=\"evenodd\"></path></svg>",
+		"alert,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm-.75 6.75a.75.75 0 011.5 0v4.5a.75.75 0 01-1.5 0v-4.5zM11 16a1 1 0 011-1h.01a1 1 0 110 2H12a1 1 0 01-1-1z\" clip-rule=\"evenodd\"></path></svg>",
+		"alert,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path><path d=\"M5.755 8.195a.75.75 0 00-1.01 1.11l2.75 2.5a.748.748 0 001.01 0l2.75-2.5a.75.75 0 10-1.01-1.11L8.75 9.555V4.75a.75.75 0 00-1.5 0v4.805l-1.495-1.36z\"></path></g></svg>",
+		"arrow,down,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M12 6a.75.75 0 01.75.75v8.614l2.955-3.129a.75.75 0 011.09 1.03l-4.25 4.5a.541.541 0 01-.068.064.747.747 0 01-.465.17L12 18h-.012a.748.748 0 01-.535-.237l-4.248-4.498a.75.75 0 011.09-1.03l2.955 3.129V6.75A.75.75 0 0112 6z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,down,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M7.755 4.695a.75.75 0 01.05 1.06L6.445 7.25h4.805a.75.75 0 010 1.5H6.445l1.36 1.495a.75.75 0 01-1.11 1.01l-2.499-2.75A.747.747 0 014 8.003v-.004c0-.195.075-.372.197-.505l2.498-2.748a.75.75 0 011.06-.05z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,left,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8.636 11.25l3.129-2.955a.75.75 0 00-1.03-1.09l-4.498 4.248a.748.748 0 00-.007 1.088M6.236 12.546l4.499 4.25a.75.75 0 001.03-1.091L8.636 12.75h8.614a.75.75 0 000-1.5H8.636\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,left,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M8.245 4.695a.75.75 0 00-.05 1.06l1.36 1.495H4.75a.75.75 0 000 1.5h4.805l-1.36 1.495a.75.75 0 001.11 1.01l2.5-2.75a.75.75 0 000-1.01l-2.5-2.75a.75.75 0 00-1.06-.05z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,right,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M6 12a.75.75 0 01.75-.75h8.614l-3.129-2.955a.75.75 0 011.03-1.09l4.5 4.25a.75.75 0 010 1.09l-4.5 4.25a.75.75 0 01-1.03-1.09l3.129-2.955H6.75A.75.75 0 016 12z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,right,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M4.695 7.755a.75.75 0 001.06.05l1.495-1.36v4.805a.75.75 0 001.5 0V6.445l1.495 1.36a.75.75 0 001.01-1.11l-2.75-2.5a.75.75 0 00-1.01 0l-2.75 2.5a.75.75 0 00-.05 1.06z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,up,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M12.75 8.636l2.955 3.129a.75.75 0 001.09-1.03l-4.25-4.5a.75.75 0 00-1.09 0l-4.25 4.5a.75.75 0 001.09 1.03l2.955-3.129v8.614a.75.75 0 001.5 0V8.636z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"arrow,up,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M8.586 7.532c.477.597.864.834 1.135.92a.936.936 0 00.69-.04c.228-.1.442-.27.627-.458.09-.09.168-.18.234-.257l.03-.036c.048-.058.12-.143.17-.193a.75.75 0 011.062 1.06l-.023.026-.025.03-.07.082a5.846 5.846 0 01-.312.344c-.253.256-.623.572-1.095.778a2.434 2.434 0 01-1.743.094c-.64-.204-1.257-.67-1.852-1.414-.477-.597-.864-.834-1.135-.92a.936.936 0 00-.69.04c-.228.1-.442.27-.627.458-.09.09-.168.18-.234.257l-.03.036a3.3 3.3 0 01-.17.193.75.75 0 01-1.063-1.057l.024-.03.025-.028.07-.083c.077-.092.183-.214.312-.344.253-.256.623-.572 1.095-.777a2.434 2.434 0 011.743-.095c.64.204 1.257.67 1.852 1.414z\"></path><path fill-rule=\"evenodd\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"change,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M7.071 12.486c.056-.065.116-.143.182-.229.284-.366.677-.874 1.264-1.128a1.5 1.5 0 011.117-.041c.46.152 1.064.539 1.795 1.398.84.988 1.66 1.583 2.465 1.85a2.998 2.998 0 002.185-.089c1.012-.438 1.715-1.388 1.933-1.682.028-.038.048-.066.06-.08a.75.75 0 00-1.143-.97 6.64 6.64 0 00-.182.227c-.284.367-.677.875-1.264 1.129a1.5 1.5 0 01-1.117.041c-.46-.152-1.064-.539-1.795-1.398-.84-.988-1.66-1.584-2.465-1.85a2.998 2.998 0 00-2.185.089c-1.012.438-1.715 1.388-1.933 1.682-.028.038-.048.066-.06.08a.75.75 0 101.143.97z\"></path><path fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"change,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M11.78 5.22a.75.75 0 010 1.06l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97a.75.75 0 011.06 0z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"check,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M17.78 8.22a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 01-1.06 0l-3-3a.75.75 0 111.06-1.06l2.47 2.47 6.97-6.97a.75.75 0 011.06 0z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"check,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0zm2.72 5.22a.75.75 0 111.06 1.06l-4.5 4.5a.75.75 0 01-1.06 0l-2-2a.75.75 0 011.06-1.06l1.47 1.47 3.97-3.97z\" clip-rule=\"evenodd\"></path></svg>",
+		"check,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm4.72 7.22a.75.75 0 111.06 1.06l-7.5 7.5a.75.75 0 01-1.06 0l-3-3a.75.75 0 111.06-1.06l2.47 2.47 6.97-6.97z\" clip-rule=\"evenodd\"></path></svg>",
+		"check,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z\" clip-rule=\"evenodd\"></path></svg>",
+		"circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 2.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19zM1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12z\" clip-rule=\"evenodd\"></path></svg>",
+		"circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M8 3a5 5 0 100 10A5 5 0 008 3z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"circle,dot",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M12 5a7 7 0 100 14 7 7 0 000-14z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"circle,dot",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0z\"></path></svg>",
+		"circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1z\"></path></svg>",
+		"circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0zm0 1.5v13a6.5 6.5 0 100-13z\" clip-rule=\"evenodd\"></path></svg>",
+		"circle,half",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm0 1.5v19a9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></svg>",
+		"circle,half",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M8.302 3.288A3.633 3.633 0 002.756 7.76c.124.237.112.49.102.61a2.984 2.984 0 01-.084.468 7.853 7.853 0 01-.2.655c.26-.09.52-.17.75-.223a.7.7 0 11.312 1.365c-.34.078-.837.258-1.278.434a23.211 23.211 0 00-.701.295l-.042.018-.01.005-.003.001a.7.7 0 01-.925-.927v-.001l.002-.004.008-.018.03-.07a21.252 21.252 0 00.43-1.047c.113-.3.211-.592.27-.822.021-.09.034-.157.041-.205a5.033 5.033 0 017.74-6.082.7.7 0 01-.896 1.076zM1.463 8.226v0z\"></path><path d=\"M4.75 9.333a5.083 5.083 0 119.657 2.221c.006.033.015.077.029.133.05.197.14.453.248.734.087.223.178.443.262.646l.06.146c.049.118.094.23.131.326.03.082.074.2.097.306a.75.75 0 01-.734.905c-.169 0-.332-.04-.447-.072a4.867 4.867 0 01-.394-.134c-.188-.072-.402-.162-.606-.248l-.216-.09a7.634 7.634 0 00-.705-.265 1.739 1.739 0 00-.095-.026A5.083 5.083 0 014.75 9.333zm1.5 0a3.583 3.583 0 116.763 1.654c-.124.239-.12.485-.11.614.01.155.043.313.08.456.054.214.132.448.216.676a7.37 7.37 0 00-.643-.231 2.456 2.456 0 00-.443-.093 1.113 1.113 0 00-.626.104 3.583 3.583 0 01-5.237-3.18zm8.15 2.16l-.001-.012v.013z\"></path></g></svg>",
+		"discussion,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M13.02 4.827a5.75 5.75 0 00-8.777 7.077c.144.275.134.58.12.751a4.183 4.183 0 01-.118.655 13.903 13.903 0 01-.512 1.557c.563-.214 1.188-.429 1.694-.545a.75.75 0 11.335 1.463c-.535.122-1.3.401-1.961.666a34.515 34.515 0 00-1.062.445l-.064.029-.016.007-.004.002h-.001a.75.75 0 01-.99-.994v-.002l.003-.006.012-.027a21.137 21.137 0 00.214-.49c.137-.322.316-.755.484-1.204.17-.453.323-.903.413-1.265.046-.183.07-.32.078-.413l.001-.022a7.25 7.25 0 0111.11-8.837.75.75 0 11-.959 1.153z\"></path><path d=\"M21.781 20.78a.75.75 0 00.152-.84l-.004-.008-.012-.027a18.62 18.62 0 01-.214-.49 30.259 30.259 0 01-.484-1.204 12.45 12.45 0 01-.413-1.265 2.734 2.734 0 01-.077-.414l-.002-.021a7.25 7.25 0 10-3.22 3.219h.018c.092.009.23.033.413.08.363.09.814.243 1.268.413a31.27 31.27 0 011.701.695l.027.012.008.004a.75.75 0 00.84-.155zM8.5 13.25a5.75 5.75 0 1110.853 2.653c-.144.276-.134.58-.12.752.018.208.063.434.118.655a13.92 13.92 0 00.512 1.557 14.298 14.298 0 00-1.56-.512c-.218-.056-.443-.101-.649-.119-.167-.014-.474-.028-.75.117A5.75 5.75 0 018.5 13.25z\"></path></g></svg>",
+		"discussion,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M5.75 7.5a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM3.5 5.75A.75.75 0 014.25 5h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM7 10a.75.75 0 000 1.5h2A.75.75 0 009 10H7z\"></path><path fill-rule=\"evenodd\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"filter,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8.25 12a.75.75 0 000 1.5h7.5a.75.75 0 000-1.5h-7.5zM5 8.75A.75.75 0 015.75 8h12.5a.75.75 0 010 1.5H5.75A.75.75 0 015 8.75zM10.75 16a.75.75 0 000 1.5h2.5a.75.75 0 000-1.5h-2.5z\"></path><path fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"filter,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8.231 2.5a5.269 5.269 0 11-2.43 9.944 1.18 1.18 0 00-.535-.122 2.432 2.432 0 00-.424.038c-.27.046-.577.13-.879.225-.272.085-.557.186-.834.29.103-.275.203-.557.288-.828.096-.302.18-.612.225-.885.023-.136.04-.283.037-.428a1.193 1.193 0 00-.123-.534 5.269 5.269 0 014.675-7.7zM2.058 14.934l.002-.001.01-.004.037-.017a28.983 28.983 0 01.658-.281 21.485 21.485 0 011.649-.616c.274-.086.506-.147.678-.176.049-.008.086-.012.113-.015a6.768 6.768 0 10-3.028-3.026 1.384 1.384 0 01-.014.119 5.296 5.296 0 01-.176.679c-.172.545-.42 1.17-.618 1.646a31.45 31.45 0 01-.28.65l-.017.036-.004.01v.002a.75.75 0 00.99.994z\" clip-rule=\"evenodd\"></path></svg>",
+		"message,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.343 3.5a8.157 8.157 0 11-3.765 15.396 1.439 1.439 0 00-.689-.139c-.2.003-.415.033-.627.074-.426.082-.922.227-1.417.391a32 32 0 00-1.684.621c.204-.51.421-1.081.606-1.63.169-.505.318-1.012.403-1.448.042-.217.072-.438.075-.643a1.466 1.466 0 00-.141-.7A8.157 8.157 0 0112.343 3.5zM3.7 21.655a37.13 37.13 0 012.618-1.01c.47-.156.896-.277 1.228-.341a2.28 2.28 0 01.398-.047 9.619 9.619 0 004.399 1.058c5.333 0 9.657-4.324 9.657-9.658A9.657 9.657 0 103.745 16.06v.038a2.32 2.32 0 01-.048.382c-.066.34-.191.776-.352 1.255a36.658 36.658 0 01-1.21 3.052l-.05.114-.014.03-.004.009a.75.75 0 00.982.998l.648-.282.003-.001zm.043-5.621v.002-.002z\" clip-rule=\"evenodd\"></path></svg>",
+		"message,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M5 8.75A.75.75 0 015.75 8h2.5a.75.75 0 010 1.5h-2.5A.75.75 0 015 8.75zM5.75 5.5a.75.75 0 100 1.5h4.5a.75.75 0 000-1.5h-4.5z\"></path><path fill-rule=\"evenodd\" d=\"M2.058 14.934l.002-.001.01-.004.037-.017a28.983 28.983 0 01.658-.281 21.485 21.485 0 011.649-.616c.274-.086.506-.147.678-.176.049-.008.086-.012.113-.015a6.768 6.768 0 10-3.028-3.026 1.384 1.384 0 01-.014.119 5.296 5.296 0 01-.176.679c-.172.545-.42 1.17-.618 1.646a31.45 31.45 0 01-.28.65l-.017.036-.004.01v.002a.75.75 0 00.99.994zM8.231 2.5a5.269 5.269 0 11-2.43 9.944 1.18 1.18 0 00-.535-.122 2.432 2.432 0 00-.424.038c-.27.046-.577.13-.879.225-.272.085-.557.186-.834.29.103-.275.203-.557.288-.828.096-.302.18-.612.225-.885.023-.136.04-.283.037-.428a1.193 1.193 0 00-.123-.534 5.269 5.269 0 014.675-7.7z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"message,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8 8.75A.75.75 0 018.75 8h7a.75.75 0 010 1.5h-7A.75.75 0 018 8.75zM8 11.75a.75.75 0 01.75-.75h3a.75.75 0 010 1.5h-3a.75.75 0 01-.75-.75zM8 14.75a.75.75 0 01.75-.75h5a.75.75 0 010 1.5h-5a.75.75 0 01-.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M7.546 20.304c-.332.064-.757.185-1.228.342-1.113.37-2.194.825-3.27 1.292a.75.75 0 01-.98-.998c.086-.192.17-.384.253-.577.273-.635.704-1.675 1.024-2.628.16-.48.286-.915.352-1.255a2.32 2.32 0 00.048-.42 9.62 9.62 0 01-1.06-4.403C2.685 6.324 7.01 2 12.343 2 17.676 2 22 6.324 22 11.657c0 5.334-4.324 9.658-9.657 9.658a9.619 9.619 0 01-4.4-1.058 2.159 2.159 0 00-.397.047zM20.5 11.657a8.157 8.157 0 10-15.396 3.765c.128.246.144.513.141.7a3.764 3.764 0 01-.075.643 11.85 11.85 0 01-.403 1.447c-.185.55-.402 1.12-.606 1.631a32 32 0 011.684-.62c.495-.165.991-.31 1.417-.392.212-.041.427-.07.627-.074.18-.003.445.012.69.14A8.157 8.157 0 0020.5 11.657z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"message,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M4.75 7a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5z\"></path><path fill-rule=\"evenodd\" d=\"M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"minus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8.25 11a.75.75 0 000 1.5h7.5a.75.75 0 000-1.5h-7.5z\"></path><path fill-rule=\"evenodd\" d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"minus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M3.75 4.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3zM10.25 7.5a.75.75 0 01.75.75V9.5h1.25a.75.75 0 010 1.5H11v1.25a.75.75 0 01-1.5 0V11H8.25a.75.75 0 010-1.5H9.5V8.25a.75.75 0 01.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M5.25 0a5.25 5.25 0 015.244 5.006 5.25 5.25 0 11-5.488 5.488A5.25 5.25 0 015.25 0zM1.5 5.25a3.75 3.75 0 017.499-.1A5.258 5.258 0 005.15 8.999 3.75 3.75 0 011.5 5.25zm8.75 1.25a3.75 3.75 0 100 7.5 3.75 3.75 0 000-7.5z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"minus,plus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M6 7a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5H6zM15.75 12.25A.75.75 0 0015 13v2h-2a.75.75 0 000 1.5h2v2a.75.75 0 001.5 0v-2h2a.75.75 0 000-1.5h-2v-2a.75.75 0 00-.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M8.25 15.5c.085 0 .17-.002.254-.004a7.25 7.25 0 106.991-6.991A7.25 7.25 0 108.25 15.5zm0-13a5.75 5.75 0 10.467 11.481 7.262 7.262 0 015.264-5.264A5.75 5.75 0 008.25 2.5zM10 15.75a5.75 5.75 0 1111.5 0 5.75 5.75 0 01-11.5 0z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"minus,plus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M6.25 5a.75.75 0 01.75.75v4.5a.75.75 0 01-1.5 0v-4.5A.75.75 0 016.25 5zM10.5 5.75a.75.75 0 00-1.5 0v4.5a.75.75 0 001.5 0v-4.5z\"></path><path fill-rule=\"evenodd\" d=\"M0 8a8 8 0 1116 0A8 8 0 010 8zm8-6.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"pause,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M9.25 7a.75.75 0 01.75.75v8.5a.75.75 0 01-1.5 0v-8.5A.75.75 0 019.25 7zM15.5 7.75a.75.75 0 00-1.5 0v8.5a.75.75 0 001.5 0v-8.5z\"></path><path fill-rule=\"evenodd\" d=\"M1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12zm11-9.5a9.5 9.5 0 100 19 9.5 9.5 0 000-19z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"pause,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M7.421 4.356A1.25 1.25 0 005.5 5.411v5.178a1.25 1.25 0 001.921 1.055l4.069-2.59a1.25 1.25 0 000-2.109L7.42 4.356zM10.353 8L7 10.134V5.866L10.353 8z\"></path><path d=\"M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z\"></path></g></svg>",
+		"play,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M10.712 6.143C9.548 5.377 8 6.213 8 7.605v8.79c0 1.393 1.548 2.228 2.712 1.462l6.68-4.395a1.75 1.75 0 000-2.924l-6.68-4.395zM9.5 7.605a.25.25 0 01.387-.209l6.681 4.395a.25.25 0 010 .418l-6.68 4.395a.25.25 0 01-.388-.209v-8.79z\"></path><path d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\"></path></g></svg>",
+		"play,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M7.75 4a.75.75 0 01.75.75V7h2.25a.75.75 0 010 1.5H8.5v2.25a.75.75 0 01-1.5 0V8.5H4.75a.75.75 0 010-1.5H7V4.75A.75.75 0 017.75 4z\"></path><path fill-rule=\"evenodd\" d=\"M0 7.75a7.75 7.75 0 1115.5 0 7.75 7.75 0 01-15.5 0zM7.75 1.5a6.25 6.25 0 100 12.5 6.25 6.25 0 000-12.5z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"plus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M11.75 6.75a.75.75 0 01.75.75V11H16a.75.75 0 010 1.5h-3.5V16a.75.75 0 01-1.5 0v-3.5H7.5a.75.75 0 010-1.5H11V7.5a.75.75 0 01.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M1 11.75C1 5.813 5.813 1 11.75 1S22.5 5.813 22.5 11.75 17.687 22.5 11.75 22.5 1 17.687 1 11.75zM11.75 2.5a9.25 9.25 0 100 18.5 9.25 9.25 0 000-18.5z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"plus,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M8.679 2.431a.75.75 0 00-1.358 0L6.023 5.196l-2.887.444a.75.75 0 00-.423 1.265l2.11 2.162-.499 3.062a.75.75 0 001.103.777L8 11.484l2.573 1.422a.75.75 0 001.103-.777l-.5-3.062 2.11-2.162a.75.75 0 00-.422-1.265l-2.887-.444-1.298-2.765zM7.21 6.195L8 4.515l.789 1.68a.75.75 0 00.565.423l1.84.283L9.838 8.29a.75.75 0 00-.203.644l.312 1.912-1.584-.876a.75.75 0 00-.726 0l-1.584.876.312-1.912a.75.75 0 00-.203-.644L4.806 6.9l1.84-.282a.75.75 0 00.565-.423z\"></path><path d=\"M8 .05a7.95 7.95 0 100 15.9A7.95 7.95 0 008 .05zM1.45 8a6.55 6.55 0 1113.1 0 6.55 6.55 0 01-13.1 0z\"></path></g></svg>",
+		"star,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M12.669 4.91a.75.75 0 00-1.338 0l-1.91 3.767-4.277.608a.75.75 0 00-.41 1.287l3.082 2.923-.726 4.125a.75.75 0 001.08.798L12 16.457l3.83 1.96a.75.75 0 001.08-.797l-.726-4.125 3.082-2.923a.75.75 0 00-.41-1.287l-4.278-.608L12.67 4.91zm-2.086 4.793L12 6.91l1.417 2.794a.75.75 0 00.563.404l3.128.445-2.25 2.132a.75.75 0 00-.222.675l.535 3.036-2.83-1.448a.75.75 0 00-.683 0l-2.83 1.448.536-3.036a.75.75 0 00-.223-.675l-2.249-2.132 3.128-.445a.75.75 0 00.563-.404z\"></path><path d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\"></path></g></svg>",
+		"star,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M6.25 5C5.56 5 5 5.56 5 6.25v3.5c0 .69.56 1.25 1.25 1.25h3.5c.69 0 1.25-.56 1.25-1.25v-3.5C11 5.56 10.44 5 9.75 5h-3.5zm.25 4.5v-3h3v3h-3z\"></path><path d=\"M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z\"></path></g></svg>",
+		"stop,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M8.75 7A1.75 1.75 0 007 8.75v6.5c0 .966.784 1.75 1.75 1.75h6.5A1.75 1.75 0 0017 15.25v-6.5A1.75 1.75 0 0015.25 7h-6.5zM8.5 8.75a.25.25 0 01.25-.25h6.5a.25.25 0 01.25.25v6.5a.25.25 0 01-.25.25h-6.5a.25.25 0 01-.25-.25v-6.5z\"></path><path d=\"M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z\"></path></g></svg>",
+		"stop,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M8 3a3 3 0 100 6 3 3 0 000-6zM6.5 6a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0z\"></path><path d=\"M.25 8a7.75 7.75 0 1115.5 0A7.75 7.75 0 01.25 8zM8 1.75a6.25 6.25 0 00-5.274 9.604c.15-.194.325-.369.514-.533C3.855 10.286 4.67 10 5.5 10h5c.83 0 1.645.286 2.26.82.189.165.365.34.514.534A6.25 6.25 0 008 1.75zm0 12.5a6.228 6.228 0 01-4.238-1.656c.035-.196.153-.372.462-.641.323-.281.78-.453 1.276-.453h5c.495 0 .953.172 1.276.453.31.269.427.445.462.641A6.228 6.228 0 018 14.25z\"></path></g></svg>",
+		"user,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-rule=\"evenodd\" clip-rule=\"evenodd\"><path d=\"M12 4.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9zM9 9a3 3 0 116 0 3 3 0 01-6 0z\"></path><path d=\"M.25 12C.25 5.51 5.51.25 12 .25S23.75 5.51 23.75 12 18.49 23.75 12 23.75.25 18.49.25 12zM12 1.75C6.34 1.75 1.75 6.34 1.75 12c0 2.298.756 4.42 2.034 6.13A4.752 4.752 0 018.25 15h7.5a4.752 4.752 0 014.466 3.13A10.204 10.204 0 0022.25 12c0-5.66-4.59-10.25-10.25-10.25zm0 20.5c-2.702 0-5.16-1.045-6.99-2.753A3.25 3.25 0 018.25 16.5h7.5a3.25 3.25 0 013.24 2.997A10.214 10.214 0 0112 22.25z\"></path></g></svg>",
+		"user,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M.25 8a7.75 7.75 0 1115.5 0A7.75 7.75 0 01.25 8zm3.19 1.833A3.24 3.24 0 015.624 9h4.75a3.24 3.24 0 012.186.833c.528.484.939 1.048.939 1.917a.75.75 0 01-1.5 0c0-.284-.09-.478-.452-.81-.3-.275-.722-.44-1.173-.44h-4.75c-.451 0-.872.165-1.173.44-.363.332-.452.526-.452.81a.75.75 0 01-1.5 0c0-.869.411-1.433.94-1.917zM6.5 5a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zM8 2a3 3 0 100 6 3 3 0 000-6z\" clip-rule=\"evenodd\"></path></svg>",
+		"user,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M.25 12C.25 5.51 5.51.25 12 .25S23.75 5.51 23.75 12 18.49 23.75 12 23.75.25 18.49.25 12zM4 18a4 4 0 014-4h8a4 4 0 014 4v.25a.75.75 0 01-1.5 0V18a2.5 2.5 0 00-2.5-2.5H8A2.5 2.5 0 005.5 18v.25a.75.75 0 01-1.5 0V18zM9 8a3 3 0 116 0 3 3 0 01-6 0zm3-4.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9z\" clip-rule=\"evenodd\"></path></svg>",
+		"user,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M11.28 4.72a.75.75 0 010 1.06L9.06 8l2.22 2.22a.75.75 0 11-1.06 1.06L8 9.06l-2.22 2.22a.75.75 0 01-1.06-1.06L6.94 8 4.72 5.78a.75.75 0 011.06-1.06L8 6.94l2.22-2.22a.75.75 0 011.06 0z\"></path><path fill-rule=\"evenodd\" d=\"M.25 8a7.75 7.75 0 1115.5 0A7.75 7.75 0 01.25 8zM8 1.75a6.25 6.25 0 100 12.5 6.25 6.25 0 000-12.5z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"x,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M16.78 7.22a.75.75 0 010 1.06L13.06 12l3.72 3.72a.75.75 0 11-1.06 1.06L12 13.06l-3.72 3.72a.75.75 0 01-1.06-1.06L10.94 12 7.22 8.28a.75.75 0 011.06-1.06L12 10.94l3.72-3.72a.75.75 0 011.06 0z\"></path><path fill-rule=\"evenodd\" d=\"M1.25 12C1.25 6.063 6.063 1.25 12 1.25S22.75 6.063 22.75 12 17.937 22.75 12 22.75 1.25 17.937 1.25 12zM12 2.75a9.25 9.25 0 100 18.5 9.25 9.25 0 000-18.5z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"x,circle",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8 .25a7.75 7.75 0 100 15.5A7.75 7.75 0 008 .25zm2.72 3.97a.75.75 0 111.06 1.06L9.06 8l2.72 2.72a.75.75 0 11-1.06 1.06L8 9.06l-2.72 2.72a.75.75 0 01-1.06-1.06L6.94 8 4.22 5.28a.75.75 0 011.06-1.06L8 6.94l2.72-2.72z\" clip-rule=\"evenodd\"></path></svg>",
+		"x,circle,filled",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12 1.25C6.063 1.25 1.25 6.063 1.25 12S6.063 22.75 12 22.75 22.75 17.937 22.75 12 17.937 1.25 12 1.25zM7.22 7.22a.75.75 0 011.06 0L12 10.94l3.72-3.72a.75.75 0 111.06 1.06L13.06 12l3.72 3.72a.75.75 0 11-1.06 1.06L12 13.06l-3.72 3.72a.75.75 0 01-1.06-1.06L10.94 12 7.22 8.28a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg>",
+		"x,circle,filled",
+		"flight-icons"
 	]
 ]

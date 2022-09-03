@@ -286,3 +286,5 @@
   [MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE)
 - [grommet-icons](https://github.com/grommet/grommet-icons) licensed under the
   [Apache-2.0](https://github.com/grommet/grommet-icons/blob/master/LICENSE)
+- [flight-icons](https://github.com/hashicorp/design-system) licensed under the
+  [MPL-2.0](https://github.com/hashicorp/design-system/blob/main/LICENSE)
