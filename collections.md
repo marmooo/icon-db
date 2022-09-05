@@ -290,3 +290,5 @@
   [MPL-2.0](https://github.com/hashicorp/design-system/blob/main/LICENSE)
 - [Linearicons](https://github.com/cjpatoilo/linearicons) licensed under the
   [MIT](https://github.com/cjpatoilo/linearicons/blob/master/LICENSE)
+- [Vivid Icons](https://github.com/webkul/vivid) licensed under the
+  [MIT](https://github.com/webkul/vivid/blob/master/LICENSE)
