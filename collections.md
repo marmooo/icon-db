@@ -292,3 +292,5 @@
   [CC-BY-SA-4.0](https://github.com/cjpatoilo/linearicons)
 - [Vivid Icons](https://github.com/webkul/vivid) licensed under the
   [MIT](https://github.com/webkul/vivid/blob/master/LICENSE)
+- [Icofont](https://github.com/LuanHimmlisch/icofont) licensed under the
+  [CC-BY-4.0](https://github.com/LuanHimmlisch/icofont/blob/main/LICENSE)
