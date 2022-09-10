@@ -296,3 +296,5 @@
   [CC-BY-4.0](https://github.com/LuanHimmlisch/icofont/blob/main/LICENSE)
 - [Elementor Icons](https://github.com/elementor/elementor-icons) licensed under
   the [SIL-OFL-1.1](https://github.com/elementor/elementor-icons)
+- [Vaadin Icons](https://github.com/vaadin/web-components) licensed under the
+  [CC-BY-4.0](https://github.com/vaadin/web-components/tree/master/packages/icons)
