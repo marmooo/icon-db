@@ -1798,5 +1798,55 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><defs><mask id=\"moon-mask\"><circle cx=\"7.5\" cy=\"7.5\" r=\"5.5\" fill=\"#fff\"></circle><circle cx=\"7.5\" cy=\"7.5\" r=\"5.5\" fill=\"#000\"><animate attributeName=\"cx\" values=\"7.5;11\" dur=\"0.4s\" fill=\"freeze\"></animate><animate attributeName=\"r\" values=\"5.5;6.5\" dur=\"0.4s\" fill=\"freeze\"></animate></circle></mask><symbol id=\"sun-triangle\"><path d=\"M0 0\"><animate attributeName=\"d\" values=\"M11 18h2L12 20z;M10.5 21.5h3L12 24z\" begin=\"1.5s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></symbol><mask id=\"sun-mask\"><g fill=\"#fff\"><circle cx=\"12\" cy=\"9\" r=\"5.5\"><animate attributeName=\"cy\" values=\"9;15\" begin=\"1s\" dur=\"0.5s\" fill=\"freeze\"></animate></circle><g fill-opacity=\"0\"><use href=\"#sun-triangle\" transform=\"rotate(-75 12 15)\"></use><use href=\"#sun-triangle\" transform=\"rotate(-25 12 15)\"></use><use href=\"#sun-triangle\" transform=\"rotate(25 12 15)\"></use><use href=\"#sun-triangle\" transform=\"rotate(75 12 15)\"></use><set attributeName=\"fill-opacity\" to=\"1\" begin=\"1.5s\"></set></g></g><path d=\"M0 10h26v5h-26z\" fill=\"black\"></path><path d=\"M1 12h22\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"white\" stroke-dasharray=\"26\" stroke-dashoffset=\"26\"><animate attributeName=\"stroke-dashoffset\" values=\"26;52\" begin=\"0.5s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></mask></defs><g fill=\"currentColor\"><rect x=\"1\" y=\"1\" width=\"13\" height=\"13\" mask=\"url(#moon-mask)\"></rect><g transform=\"rotate(-45 12 12)\"><path d=\"M-2 11h28v13h-28z\" mask=\"url(#sun-mask)\"></path></g></g></svg>",
 		"light,dark",
 		"Material Line Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1827.701 303.065 698.835 1431.801 92.299 825.266 0 917.564 698.835 1616.4 1919.869 395.234z\" fill-rule=\"evenodd\"></path></svg>",
+		"line,check,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M960 1468.235c93.448 0 169.412 75.965 169.412 169.412 0 93.448-75.964 169.412-169.412 169.412-93.448 0-169.412-75.964-169.412-169.412 0-93.447 75.964-169.412 169.412-169.412Zm0-677.647c93.448 0 169.412 75.964 169.412 169.412 0 93.448-75.964 169.412-169.412 169.412-93.448 0-169.412-75.964-169.412-169.412 0-93.448 75.964-169.412 169.412-169.412Zm0-677.647c93.448 0 169.412 75.964 169.412 169.412 0 93.447-75.964 169.412-169.412 169.412-93.448 0-169.412-75.965-169.412-169.412 0-93.448 75.964-169.412 169.412-169.412Z\" fill-rule=\"evenodd\"></path></svg>",
+		"line,discussion,reply,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M915.744 213v702.744H213v87.842h702.744v702.744h87.842v-702.744h702.744v-87.842h-702.744V213z\" fill-rule=\"evenodd\"></path></svg>",
+		"line,group,dark,new",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m1783.68 1468.235-315.445 315.445v-315.445h315.445Zm-541.327-338.823v112.94h-903.53v-112.94h903.53Zm338.936-338.824V903.53H338.824V790.59h1242.465ZM621.176 0c93.403 0 169.412 76.01 169.412 169.412 0 26.09-6.437 50.484-16.94 72.62L999.98 468.255l-79.962 79.962-226.221-226.334c-22.137 10.504-46.532 16.942-72.622 16.942-93.402 0-169.411-76.01-169.411-169.412C451.765 76.009 527.775 0 621.176 0Zm395.295 225.882v112.942h790.588v1016.47h-451.765v451.765H112.941V338.824h225.883V225.882H0V1920h1421.478c45.176 0 87.755-17.619 119.717-49.581l329.224-329.11c31.962-32.076 49.581-74.655 49.581-119.831V225.882h-903.53Z\" fill-rule=\"evenodd\"></path></svg>",
+		"line,note,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1344.962 112.94C1321.584 47.324 1259.466 0 1185.942 0H734.177c-73.525 0-135.643 47.323-159.022 112.94H113V1920h1694.118V112.94h-462.156Zm349.214 1694.119H225.942V225.882h338.823v225.884h790.589V225.882h338.822v1581.177ZM677.706 225.882v-56.47c0-31.171 25.299-56.471 56.47-56.471h451.766c31.172 0 56.47 25.3 56.47 56.472v169.412H677.706V225.882Zm-225.86 790.589h338.823V677.647H451.846v338.824Zm112.941-112.942h112.941V790.588H564.787v112.941Zm338.824-112.941h564.707V677.647H903.611v112.941Zm0 564.706h564.707v-112.941H903.611v112.941Zm0-338.823h338.823V903.529H903.611v112.942Zm0 564.706h338.823v-112.941H903.611v112.941Zm-338.824-112.942h112.941v-112.941H564.787v112.941Zm-112.941 112.942h338.823v-338.824H451.846v338.824Z\" fill-rule=\"evenodd\"></path></svg>",
+		"line,rubric,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1743.858 267.012 710.747 1300.124 176.005 765.382 0 941.387l710.747 710.871 1209.24-1209.116z\" fill-rule=\"evenodd\"></path></svg>",
+		"solid,check,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M960 1468.235c93.448 0 169.412 75.965 169.412 169.412 0 93.448-75.964 169.412-169.412 169.412-93.448 0-169.412-75.964-169.412-169.412 0-93.447 75.964-169.412 169.412-169.412Zm0-677.647c93.448 0 169.412 75.964 169.412 169.412 0 93.448-75.964 169.412-169.412 169.412-93.448 0-169.412-75.964-169.412-169.412 0-93.448 75.964-169.412 169.412-169.412Zm0-677.647c93.448 0 169.412 75.964 169.412 169.412 0 93.447-75.964 169.412-169.412 169.412-93.448 0-169.412-75.965-169.412-169.412 0-93.448 75.964-169.412 169.412-169.412Z\" fill-rule=\"evenodd\"></path></svg>",
+		"solid,discussion,reply,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M866.332 213v653.332H213v186.666h653.332v653.332h186.666v-653.332h653.332V866.332h-653.332V213z\" fill-rule=\"evenodd\"></path></svg>",
+		"solid,group,dark,new",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1129.412 1242.353v112.941H338.824v-112.941h790.588Zm451.764-338.824v112.942H338.824V903.529h1242.352ZM621.176 0c93.403 0 169.412 76.01 169.412 169.412 0 26.09-6.437 50.484-16.94 72.62L999.98 468.255l-79.962 79.962-226.221-226.334c-22.137 10.504-46.645 16.942-72.622 16.942-93.402 0-169.411-76.01-169.411-169.412C451.765 76.009 527.775 0 621.176 0ZM344.471 225.882c25.976 128.753 140.047 225.883 276.705 225.883 13.553 0 27.106-1.13 39.53-3.389L920.47 708.141l239.435-239.435-242.824-242.824H1920v1129.412h-564.706V1920H0V225.882Zm1568.188 1242.365-444.424 444.31v-444.31h444.424Z\" fill-rule=\"evenodd\"></path></svg>",
+		"solid,note,dark",
+		"Instructure UI Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1185.941 0c73.525 0 135.643 47.322 159.021 112.941h462.156V1920H113V112.941h462.155C598.535 47.322 660.652 0 734.176 0Zm56.47 1468.235H903.589v112.941h338.824v-112.94Zm-451.764-225.882H451.824v338.823h338.823v-338.823Zm677.647 0H903.588v112.941h564.706v-112.941ZM790.647 677.647H451.824v338.824h338.823V677.647Zm451.765 225.882H903.588v112.942h338.824V903.529Zm225.882-225.882H903.588v112.941h564.706v-112.94Zm-282.353-564.706H734.176c-31.058 0-56.47 25.299-56.47 56.47v169.413h564.706V169.412c0-31.172-25.412-56.47-56.47-56.47Z\" fill-rule=\"evenodd\"></path></svg>",
+		"solid,rubric,dark",
+		"Instructure UI Icons"
 	]
 ]

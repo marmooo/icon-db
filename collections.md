@@ -300,3 +300,6 @@
   [CC-BY-4.0](https://github.com/vaadin/web-components/tree/master/packages/icons)
 - [neuicons](https://github.com/neuicons/neu) licensed under the
   [MIT](https://github.com/neuicons/neu/blob/master/LICENSE)
+- [Instructure UI Icons](https://github.com/instructure/instructure-ui) licensed
+  under the
+  [MIT](https://github.com/instructure/instructure-ui/blob/master/LICENSE.md)
