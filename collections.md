@@ -305,3 +305,5 @@
 - [Instructure UI Icons](https://github.com/instructure/instructure-ui) licensed
   under the
   [MIT](https://github.com/instructure/instructure-ui/blob/master/LICENSE.md)
+- [Skill Icons](https://github.com/tandpfun/skill-icons) licensed under the
+  [MIT](https://github.com/tandpfun/skill-icons/blob/main/LICENSE)
