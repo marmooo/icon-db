@@ -307,3 +307,6 @@
   [MIT](https://github.com/instructure/instructure-ui/blob/master/LICENSE.md)
 - [Skill Icons](https://github.com/tandpfun/skill-icons) licensed under the
   [MIT](https://github.com/tandpfun/skill-icons/blob/main/LICENSE)
+- [Emblemicons](https://github.com/emblemicons/emblemicons.github.io) licensed
+  under the
+  [MIT](https://github.com/emblemicons/emblemicons.github.io/blob/master/LICENSE.md)
