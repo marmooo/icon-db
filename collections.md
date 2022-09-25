@@ -310,3 +310,5 @@
 - [Emblemicons](https://github.com/emblemicons/emblemicons.github.io) licensed
   under the
   [MIT](https://github.com/emblemicons/emblemicons.github.io/blob/master/LICENSE.md)
+- [Clarity Icons](https://github.com/vmware/clarity-assets) licensed under the
+  [MIT](https://github.com/vmware/clarity-assets/blob/master/LICENSE)
