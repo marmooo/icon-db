@@ -2243,5 +2243,70 @@
 		"<svg version=\"1.1\" width=\"36\" height=\"36\" viewBox=\"0 0 36 36\" preserveAspectRatio=\"xMidYMid meet\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><title>unknown-status-line</title><circle class=\"clr-i-outline clr-i-outline-path-1\" cx=\"17.58\" cy=\"26.23\" r=\"1.4\"></circle><path class=\"clr-i-outline clr-i-outline-path-2\" d=\"M24.7,13a5.18,5.18,0,0,0-2.16-3.56,7.26,7.26,0,0,0-5.71-1.09A11.34,11.34,0,0,0,12,10.44,1,1,0,1,0,13.26,12a9.32,9.32,0,0,1,3.94-1.72,5.29,5.29,0,0,1,4.16.74,3.21,3.21,0,0,1,1.35,2.19c.33,2.69-3.19,3.75-5.32,4.14l-.82.15v4.36a1,1,0,0,0,2,0V19.17C24.61,17.79,24.88,14.41,24.7,13Z\"></path><rect x=\"0\" y=\"0\" width=\"36\" height=\"36\" fill-opacity=\"0\"></rect></svg>",
 		"core,unknown,status,line",
 		"Clarity Icons"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"6\" cy=\"6\" r=\"6\" fill=\"#000\"></circle></svg>",
+		"status,active",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 6A6 6 0 110 6a6 6 0 0112 0zM5 3a1 1 0 012 0v3a1 1 0 01-2 0V3zm1 5a1 1 0 100 2 1 1 0 000-2z\" fill=\"#000\"></path></svg>",
+		"status,alert",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zM4.28 3.22a.75.75 0 00-1.06 1.06l4.5 4.5a.75.75 0 001.06-1.06l-4.5-4.5z\" fill=\"#000\"></path></svg>",
+		"status,cancelled",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zM3 5a1 1 0 000 2h6a1 1 0 100-2H3z\" fill=\"#000\"></path></svg>",
+		"status,failed",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.999 1a.75.75 0 0 1 .715.521L12 11.79l1.286-4.018A.75.75 0 0 1 14 7.25h1.25a.75.75 0 0 1 0 1.5h-.703l-1.833 5.729a.75.75 0 0 1-1.428 0L8.005 4.226l-2.29 7.25a.75.75 0 0 1-1.42.03L3.031 8.03l-.07.208a.75.75 0 0 1-.711.513H.75a.75.75 0 0 1 0-1.5h.96l.578-1.737a.75.75 0 0 1 1.417-.02L4.95 8.919l2.335-7.394A.75.75 0 0 1 7.999 1Z\" fill=\"#000\"></path></svg>",
+		"status,health",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zM3 4.75A.75.75 0 013.75 4h4.5a.75.75 0 010 1.5h-4.5A.75.75 0 013 4.75zm0 2.5a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5A.75.75 0 013 7.25z\" fill=\"#000\"></path></svg>",
+		"status,neutral",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 6A6 6 0 110 6a6 6 0 0112 0zM3 3.5a.5.5 0 01.5-.5h1a.5.5 0 01.5.5v5a.5.5 0 01-.5.5h-1a.5.5 0 01-.5-.5v-5zM7.5 3a.5.5 0 00-.5.5v5a.5.5 0 00.5.5h1a.5.5 0 00.5-.5v-5a.5.5 0 00-.5-.5h-1z\" fill=\"#000\"></path></svg>",
+		"status,paused",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zm-.629-8.42a2.5 2.5 0 011.45.059.75.75 0 00.493-1.417 4 4 0 102.464 5.092.75.75 0 10-1.417-.493 2.5 2.5 0 11-2.99-3.24z\" fill=\"#000\"></path></svg>",
+		"status,running",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zm.75-9a.75.75 0 00-1.5 0v3.75H8a.75.75 0 000-1.5H6.75V3z\" fill=\"#000\"></path></svg>",
+		"status,scheduled",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zM3.5 3a.5.5 0 00-.5.5v5a.5.5 0 00.5.5h5a.5.5 0 00.5-.5v-5a.5.5 0 00-.5-.5h-5z\" fill=\"#000\"></path></svg>",
+		"status,stopped",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 12A6 6 0 106 0a6 6 0 000 12zm2.576-7.02a.75.75 0 00-1.152-.96L5.45 6.389l-.92-.92A.75.75 0 003.47 6.53l1.5 1.5a.75.75 0 001.106-.05l2.5-3z\" fill=\"#000\"></path></svg>",
+		"status,success",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 10a4 4 0 100-8 4 4 0 000 8zm0 2A6 6 0 106 0a6 6 0 000 12z\" fill=\"#000\"></path></svg>",
+		"status,waiting",
+		"Gitlab SVGs"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.941 7.033a8 8 0 0 1-14.784 5.112.75.75 0 1 1 1.283-.778 6.5 6.5 0 1 0 8.922-8.93.75.75 0 0 1 .776-1.284 8 8 0 0 1 3.803 5.88ZM9 1a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2.804 5a1 1 0 1 0-1.732-1 1 1 0 0 0 1.732 1ZM1 7a1 1 0 1 1 0 2 1 1 0 0 1 0-2Zm4-4.196a1 1 0 1 0-1-1.732 1 1 0 0 0 1 1.732Z\" fill=\"#000\"></path></svg>",
+		"status",
+		"Gitlab SVGs"
 	]
 ]
