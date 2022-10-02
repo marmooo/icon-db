@@ -245,12 +245,12 @@
 		"Clarity"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" style=\"border-radius:50%\" viewBox=\"0 0 512 512\"><path fill=\"#eee\" d=\"M512 20.4V490L23.8 255.8z\"></path><path fill=\"#a2001d\" d=\"M445.2 246.5h-30.5c8-9.6 7.5-23.7-1.5-32.7a24.2 24.2 0 0 0 0-34.2l-.5.5a25 25 0 0 0 .5-34.8l-137 137a23.9 23.9 0 0 0 34 0l2.6-2.5 65.6-6v28.3h22.3v-30.2l33.4-3z\"></path><path fill=\"#ffda44\" d=\"M278.3 311.7 256 300.5l22.3-11.1H423v22.3z\"></path><path fill=\"#0052b4\" d=\"M0 0v512h512L28.7 256.2 512 0z\"></path><path fill=\"#d80027\" d=\"M512 0 0 256l512 256v-22L43.8 256 512 20.4z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#eee\" d=\"M512 20.4V490L23.8 255.8z\"></path><path fill=\"#a2001d\" d=\"M445.2 246.5h-30.5c8-9.6 7.5-23.7-1.5-32.7a24.2 24.2 0 0 0 0-34.2l-.5.5a25 25 0 0 0 .5-34.8l-137 137a23.9 23.9 0 0 0 34 0l2.6-2.5 65.6-6v28.3h22.3v-30.2l33.4-3z\"></path><path fill=\"#ffda44\" d=\"M278.3 311.7 256 300.5l22.3-11.1H423v22.3z\"></path><path fill=\"#0052b4\" d=\"M0 0v512h512L28.7 256.2 512 0z\"></path><path fill=\"#d80027\" d=\"M512 0 0 256l512 256v-22L43.8 256 512 20.4z\"></path></g></svg>",
 		"as",
 		"circle-flags"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" style=\"border-radius:50%\" viewBox=\"0 0 512 512\"><path fill=\"#eee\" d=\"M0 0h512v512H0z\"></path><path fill=\"#333\" d=\"M256 112c-22 0-40 18-40 40-7-12-20-20-34-20a40 40 0 1 0 0 80h6v126h-2c-10 0-20 8-20 20v16c0 10 10 20 20 20h2v2c0 12 10 20 20 20h96c12 0 20-8 20-20v-2h2c12 0 20-10 20-20v-16c0-12-8-20-20-20h-2V212h6a40 40 0 1 0 0-80c-14 1-27 9-34 22v-2c0-22-18-40-40-40z\"></path><rect width=\"224\" height=\"32\" x=\"144\" y=\"448\" fill=\"#acabb1\" rx=\"16\" ry=\"16\"></rect><rect width=\"192\" height=\"48\" x=\"160\" y=\"32\" fill=\"#acabb1\" rx=\"24\" ry=\"24\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#eee\" d=\"M0 0h512v512H0z\"></path><path fill=\"#333\" d=\"M256 112c-22 0-40 18-40 40-7-12-20-20-34-20a40 40 0 1 0 0 80h6v126h-2c-10 0-20 8-20 20v16c0 10 10 20 20 20h2v2c0 12 10 20 20 20h96c12 0 20-8 20-20v-2h2c12 0 20-10 20-20v-16c0-12-8-20-20-20h-2V212h6a40 40 0 1 0 0-80c-14 1-27 9-34 22v-2c0-22-18-40-40-40z\"></path><rect width=\"224\" height=\"32\" x=\"144\" y=\"448\" fill=\"#acabb1\" rx=\"16\" ry=\"16\"></rect><rect width=\"192\" height=\"48\" x=\"160\" y=\"32\" fill=\"#acabb1\" rx=\"24\" ry=\"24\"></rect></g></svg>",
 		"in,as",
 		"circle-flags"
 	],

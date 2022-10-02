@@ -10,6 +10,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"a\" cx=\"20.6625\" cy=\"20.4386\" r=\"15.4386\"></circle><line class=\"a\" x1=\"6.1086\" y1=\"15.2924\" x2=\"35.2164\" y2=\"15.2924\"></line><line class=\"a\" x1=\"6.1086\" y1=\"25.5849\" x2=\"35.2164\" y2=\"25.5849\"></line><ellipse class=\"a\" cx=\"20.6625\" cy=\"20.4386\" rx=\"6.4328\" ry=\"15.0205\"></ellipse><path class=\"a\" d=\"M42.3979,31.8184a4.6686,4.6686,0,0,1-6.5609,5.9181h0l-4.0988,4.749a1.7566,1.7566,0,0,1-2.4842-2.4841l4.7491-4.0988h0a4.6686,4.6686,0,0,1,5.918-6.561l-3.0685,3.0613.4164,2.0677,2.0677.4165Z\"></path></svg>",
+		"network,utilities",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"a\" cx=\"23.924\" cy=\"24.094\" r=\"21.5\"></circle><circle class=\"a\" cx=\"23.992\" cy=\"24.0248\" r=\"8.7458\"></circle><path class=\"a\" d=\"M22.3721,21.9329v3.3125a1.6178,1.6178,0,1,0,3.2326,0V21.9329\"></path></svg>",
 		"unifi,network",
 		"Arcticons"
@@ -865,7 +870,7 @@
 		"Material Design Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path d=\"M400 0C426.5 0 448 21.49 448 48V144C448 170.5 426.5 192 400 192H352V224H608C625.7 224 640 238.3 640 256C640 273.7 625.7 288 608 288H512V320H560C586.5 320 608 341.5 608 368V464C608 490.5 586.5 512 560 512H400C373.5 512 352 490.5 352 464V368C352 341.5 373.5 320 400 320H448V288H192V320H240C266.5 320 288 341.5 288 368V464C288 490.5 266.5 512 240 512H80C53.49 512 32 490.5 32 464V368C32 341.5 53.49 320 80 320H128V288H32C14.33 288 0 273.7 0 256C0 238.3 14.33 224 32 224H288V192H240C213.5 192 192 170.5 192 144V48C192 21.49 213.5 0 240 0H400zM256 64V128H384V64H256zM224 448V384H96V448H224zM416 384V448H544V384H416z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path d=\"M256 64H384v64H256V64zM240 0c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48h48v32H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h96v32H80c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48H240c26.5 0 48-21.5 48-48V368c0-26.5-21.5-48-48-48H192V288H448v32H400c-26.5 0-48 21.5-48 48v96c0 26.5 21.5 48 48 48H560c26.5 0 48-21.5 48-48V368c0-26.5-21.5-48-48-48H512V288h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H352V192h48c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48H240zM96 448V384H224v64H96zm320-64H544v64H416V384z\"></path></svg>",
 		"solid,network,wired",
 		"Font Awesome"
 	],
@@ -883,6 +888,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><title>ionicons-v5-d</title><path d=\"M448,96a64,64,0,1,0-96.31,55.21c-1.79,20.87-11.47,38.1-28.87,51.29C305.07,216,280.09,224,256,224s-49.07-8-66.82-21.5c-17.4-13.19-27.08-30.42-28.87-51.29a64,64,0,1,0-64.11.29c2.08,40.87,21.17,76.87,54.31,102C171.3,269.26,197,280.19,224,285.09v75.52a64,64,0,1,0,64,0V285.09c27-4.9,52.7-15.83,73.49-31.59,33.14-25.13,52.23-61.13,54.31-102A64,64,0,0,0,448,96ZM128,64A32,32,0,1,1,96,96,32,32,0,0,1,128,64ZM256,448a32,32,0,1,1,32-32A32,32,0,0,1,256,448ZM384,128a32,32,0,1,1,32-32A32,32,0,0,1,384,128Z\"></path></svg>",
 		"git,network",
 		"Ionicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-network-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6.537 6.516a6 6 0 0 0 7.932 7.954m2.246 -1.76a6 6 0 0 0 -8.415 -8.433\"></path><path d=\"M12 3c1.333 .333 2 2.333 2 6c0 .348 -.006 .681 -.018 1m-.545 3.43c-.332 .89 -.811 1.414 -1.437 1.57\"></path><path d=\"M12 3c-.938 .234 -1.547 1.295 -1.825 3.182m-.156 3.837c.117 3.02 .777 4.68 1.981 4.981\"></path><path d=\"M6 9h3m4 0h5\"></path><path d=\"M3 19h7\"></path><path d=\"M14 19h5\"></path><circle cx=\"12\" cy=\"19\" r=\"2\"></circle><path d=\"M12 15v2\"></path><path d=\"M3 3l18 18\"></path></svg>",
+		"network,off",
+		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-network\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"12\" cy=\"9\" r=\"6\"></circle><path d=\"M12 3c1.333 .333 2 2.333 2 6s-.667 5.667 -2 6\"></path><path d=\"M12 3c-1.333 .333 -2 2.333 -2 6s.667 5.667 2 6\"></path><path d=\"M6 9h12\"></path><path d=\"M3 19h7\"></path><path d=\"M14 19h7\"></path><circle cx=\"12\" cy=\"19\" r=\"2\"></circle><path d=\"M12 15v2\"></path></svg>",

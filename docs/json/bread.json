@@ -95,9 +95,14 @@
 		"Android Emoji"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M512 176.1C512 203 490.4 224 455.1 224H448v224c0 17.67-14.33 32-32 32H96c-17.67 0-32-14.33-32-32V224H56.89C21.56 224 0 203 0 176.1C0 112 96 32 256 32S512 112 512 176.1z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M256 32C192 32 0 64 0 192c0 35.3 28.7 64 64 64V432c0 26.5 21.5 48 48 48H400c26.5 0 48-21.5 48-48V256c35.3 0 64-28.7 64-64C512 64 320 32 256 32z\"></path></svg>",
 		"solid,bread,slice",
 		"Font Awesome"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-bread-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18.415 18.414a1.994 1.994 0 0 1 -1.415 .586h-10a2 2 0 0 1 -2 -2v-6.764a3 3 0 0 1 .435 -4.795m3.565 -.441h8a3 3 0 0 1 2 5.235v4.765\"></path><path d=\"M3 3l18 18\"></path></svg>",
+		"bread,off",
+		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-bread\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M17 5a3 3 0 0 1 2 5.235v6.765a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-6.764a3 3 0 0 1 1.824 -5.231l.176 -.005h10z\"></path></svg>",
@@ -128,6 +133,11 @@
 		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 32.0833C4 30.8812 4.266 29.6884 4.97123 28.7148C7.04541 25.8514 12.6701 20 24 20C35.3299 20 40.9546 25.8514 43.0288 28.7148C43.734 29.6884 44 30.8812 44 32.0833C44 36.4556 40.4556 40 36.0833 40H11.9167C7.54441 40 4 36.4556 4 32.0833Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 9L12 13\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M14 22L14 26\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M36 9L36 13\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M34 22L34 26\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M24 7L24 13\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M24 20L24 28\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\"></path><path d=\"M40 25.4434C36.9058 22.7787 31.8075 20 24 20C16.1925 20 11.0942 22.7787 8 25.4434\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\"></path></svg>",
 		"foods,bread",
 		"IconPark Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.00009 20V9C7.00009 9 3.00004 4 9.50009 4H17.0001C24.0002 4 20.0001 9 20.0001 9V18C20.0001 19.1046 19.1047 20 18.0001 20H7.00009Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M7.00009 20H6.00009C4.89552 20 4.00009 19.1046 4.00009 18V9C4.00009 9 4.00543e-05 4 6.50009 4H10.0001\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"bread,slice",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M 16 4 C 8.822 4 4 8.4303594 4 12.568359 C 4 14.014359 4.775 15.191891 6 15.712891 L 6 24 C 6 26.206 7.794 28 10 28 L 22 28 C 24.206 28 26 26.206 26 24 L 26 15.712891 C 27.225 15.191891 28 14.014359 28 12.568359 C 28 8.4303594 23.178 4 16 4 z M 16 6 C 22.438 6 26 9.8833594 26 12.568359 C 26 13.336359 25.56675 13.862562 24.84375 13.976562 L 24 14.111328 L 24 24 C 24 25.103 23.103 26 22 26 L 10 26 C 8.897 26 8 25.103 8 24 L 8 14.111328 L 7.15625 13.978516 C 6.43325 13.863516 6 13.336359 6 12.568359 C 6 9.8833594 9.562 6 16 6 z\"></path></svg>",

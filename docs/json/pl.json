@@ -50,7 +50,7 @@
 		"CoreUI Icons Flag Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" style=\"border-radius:50%\" viewBox=\"0 0 512 512\"><path fill=\"#d80027\" d=\"m0 256 256.4-44.3L512 256v256H0z\"></path><path fill=\"#eee\" d=\"M0 0h512v256H0z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#d80027\" d=\"m0 256 256.4-44.3L512 256v256H0z\"></path><path fill=\"#eee\" d=\"M0 0h512v256H0z\"></path></g></svg>",
 		"pl",
 		"circle-flags"
 	],
