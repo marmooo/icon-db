@@ -317,3 +317,5 @@
 - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
   licensed under the
   [MIT](https://github.com/PKief/vscode-material-icon-theme/blob/main/LICENSE.md)
+- [IconBrew](https://github.com/elrumo/icon-brew) licensed under the
+  [MIT](https://github.com/elrumo/icon-brew/blob/master/LICENSE.md)
