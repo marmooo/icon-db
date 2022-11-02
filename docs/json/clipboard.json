@@ -500,6 +500,11 @@
 		"Tabler Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-clipboard-data\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2\"></path><rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"2\"></rect><path d=\"M9 17v-4\"></path><path d=\"M12 17v-1\"></path><path d=\"M15 17v-2\"></path><path d=\"M12 17v-1\"></path></svg>",
+		"clipboard,data",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-clipboard-heart\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2\"></path><rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"2\"></rect><path d=\"M11.993 16.75l2.747 -2.815a1.9 1.9 0 0 0 .005 -2.632a1.775 1.775 0 0 0 -2.56 -.005l-.183 .188l-.183 -.189a1.775 1.775 0 0 0 -2.56 -.004a1.899 1.899 0 0 0 -.004 2.632l2.738 2.825z\"></path></svg>",
 		"clipboard,heart",
 		"Tabler Icons"
@@ -1755,6 +1760,16 @@
 		"Material Line Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"20;10\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,check,to,transition",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0.3\"></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"20;10\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,check,twotone,to,transition",
+		"Material Line Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0\"><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"1.2s\" dur=\"0.15s\" fill=\"freeze\"></animate></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\" stroke-dasharray=\"66\" stroke-dashoffset=\"66\"><animate attributeName=\"stroke-dashoffset\" values=\"66;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" begin=\"1s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"clipboard,check,twotone",
 		"Material Line Icons"
@@ -1792,6 +1807,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\" stroke-dasharray=\"66\" stroke-dashoffset=\"66\"><animate attributeName=\"stroke-dashoffset\" values=\"66;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path d=\"M9 13H15\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"1s\" dur=\"0.2s\" fill=\"freeze\"></animate></path><path d=\"M12 10V16\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"1.2s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"clipboard,plus",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,to,check,transition",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0.3\"></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,twotone,to,check,transition",
 		"Material Line Icons"
 	],
 	[
@@ -1855,7 +1880,7 @@
 		"Pepicons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.67499 2.5C5.67499 1.94772 6.1227 1.5 6.67499 1.5H13.3178C13.8701 1.5 14.3178 1.94772 14.3178 2.5V6.375C14.3178 6.92728 13.8701 7.375 13.3178 7.375H6.67499C6.1227 7.375 5.67499 6.92728 5.67499 6.375V2.5ZM7.67499 3.5V5.375H12.3178V3.5H7.67499Z\" fill=\"currentColor\"></path><path d=\"M16.0857 18H3.90713C3.29567 18 2.79999 17.5043 2.79999 16.8929V3.60714C2.79999 2.99568 3.29567 2.5 3.90713 2.5H7.22856V4.71429H5.01427V15.7857H14.9786V4.71429H12.7643V2.5H16.0857C16.6972 2.5 17.1928 2.99568 17.1928 3.60714V16.8929C17.1928 17.5043 16.6972 18 16.0857 18Z\" fill=\"currentColor\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6.67499\" y=\"2.5\" width=\"6.64286\" height=\"3.875\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></rect><path d=\"M16.0857 18H3.90713C3.29567 18 2.79999 17.5043 2.79999 16.8929V3.60714C2.79999 2.99568 3.29567 2.5 3.90713 2.5H7.22856V4.71429H5.01427V15.7857H14.9786V4.71429H12.7643V2.5H16.0857C16.6972 2.5 17.1928 2.99568 17.1928 3.60714V16.8929C17.1928 17.5043 16.6972 18 16.0857 18Z\" fill=\"currentColor\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.67499 2.5C5.67499 1.94772 6.1227 1.5 6.67499 1.5H13.3178C13.8701 1.5 14.3178 1.94772 14.3178 2.5V6.375C14.3178 6.92728 13.8701 7.375 13.3178 7.375H6.67499C6.1227 7.375 5.67499 6.92728 5.67499 6.375V2.5ZM7.67499 3.5V5.375H12.3178V3.5H7.67499Z\" fill=\"currentColor\"></path><path d=\"M16.0857 18H3.90713C3.29567 18 2.79999 17.5043 2.79999 16.8929V3.60714C2.79999 2.99568 3.29567 2.5 3.90713 2.5H7.22856V4.71429H5.01427V15.7857H14.9786V4.71429H12.7643V2.5H16.0857C16.6972 2.5 17.1928 2.99568 17.1928 3.60714V16.8929C17.1928 17.5043 16.6972 18 16.0857 18Z\" fill=\"currentColor\"></path></svg>",
 		"pop,clipboard",
 		"Pepicons"
 	],

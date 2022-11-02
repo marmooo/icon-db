@@ -2030,13 +2030,13 @@
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cloud-check-outline\" viewBox=\"0 0 24 24\"><path d=\"M19 18H6C3.79 18 2 16.21 2 14S3.79 10 6 10H6.71C7.37 7.69 9.5 6 12 6C15.04 6 17.5 8.46 17.5 11.5V12H19C20.66 12 22 13.34 22 15S20.66 18 19 18M19.35 10.03C18.67 6.59 15.64 4 12 4C9.11 4 6.6 5.64 5.35 8.03C2.34 8.36 0 10.9 0 14C0 17.31 2.69 20 6 20H19C21.76 20 24 17.76 24 15C24 12.36 21.95 10.22 19.35 10.03M10 17L6.5 13.5L7.91 12.08L10 14.17L14.59 9.59L16 11\"></path></svg>",
-		"cloud,check,outline",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cloud-check-variant-outline\" viewBox=\"0 0 24 24\"><path d=\"M10.35 17L16 11.35L14.55 9.9L10.33 14.13L8.23 12.03L6.8 13.45M6.5 20Q4.22 20 2.61 18.43 1 16.85 1 14.58 1 12.63 2.17 11.1 3.35 9.57 5.25 9.15 5.88 6.85 7.75 5.43 9.63 4 12 4 14.93 4 16.96 6.04 19 8.07 19 11 20.73 11.2 21.86 12.5 23 13.78 23 15.5 23 17.38 21.69 18.69 20.38 20 18.5 20M6.5 18H18.5Q19.55 18 20.27 17.27 21 16.55 21 15.5 21 14.45 20.27 13.73 19.55 13 18.5 13H17V11Q17 8.93 15.54 7.46 14.08 6 12 6 9.93 6 8.46 7.46 7 8.93 7 11H6.5Q5.05 11 4.03 12.03 3 13.05 3 14.5 3 15.95 4.03 17 5.05 18 6.5 18M12 12Z\"></path></svg>",
+		"cloud,check,variant,outline",
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cloud-check\" viewBox=\"0 0 24 24\"><path d=\"M10,17L6.5,13.5L7.91,12.08L10,14.17L15.18,9L16.59,10.41M19.35,10.03C18.67,6.59 15.64,4 12,4C9.11,4 6.6,5.64 5.35,8.03C2.34,8.36 0,10.9 0,14A6,6 0 0,0 6,20H19A5,5 0 0,0 24,15C24,12.36 21.95,10.22 19.35,10.03Z\"></path></svg>",
-		"cloud,check",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-cloud-check-variant\" viewBox=\"0 0 24 24\"><path d=\"M10.35 17L16 11.35L14.55 9.9L10.33 14.13L8.23 12.03L6.8 13.45M6.5 20Q4.22 20 2.61 18.43 1 16.85 1 14.58 1 12.63 2.17 11.1 3.35 9.57 5.25 9.15 5.88 6.85 7.75 5.43 9.63 4 12 4 14.93 4 16.96 6.04 19 8.07 19 11 20.73 11.2 21.86 12.5 23 13.78 23 15.5 23 17.38 21.69 18.69 20.38 20 18.5 20Z\"></path></svg>",
+		"cloud,check,variant",
 		"Material Design"
 	],
 	[
@@ -3760,6 +3760,16 @@
 		"Material Line Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"20;10\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,check,to,transition",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0.3\"></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"20;10\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,check,twotone,to,transition",
+		"Material Line Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0\"><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"1.2s\" dur=\"0.15s\" fill=\"freeze\"></animate></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\" stroke-dasharray=\"66\" stroke-dashoffset=\"66\"><animate attributeName=\"stroke-dashoffset\" values=\"66;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" begin=\"1s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"clipboard,check,twotone",
 		"Material Line Icons"
@@ -3767,6 +3777,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\" stroke-dasharray=\"66\" stroke-dashoffset=\"66\"><animate attributeName=\"stroke-dashoffset\" values=\"66;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" begin=\"1s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"clipboard,check",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,to,check,transition",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M6 4H10V6H14V4H18V20H6V4Z\" fill=\"currentColor\" fill-opacity=\"0.3\"></path><g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><g stroke-width=\"2\"><path d=\"M12 3H19V21H5V3H12Z\"></path><path d=\"M9 13L11 15L15 11\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g><path d=\"M14.5 3.5V6.5H9.5V3.5\"></path></g></svg>",
+		"clipboard,twotone,to,check,transition",
 		"Material Line Icons"
 	],
 	[
