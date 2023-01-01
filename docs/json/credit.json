@@ -35,11 +35,6 @@
 		"Entypo"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" width=\"24\" height=\"24\" viewBox=\"0 0 24.00 24.00\" enable-background=\"new 0 0 24.00 24.00\" xml:space=\"preserve\"><path fill=\"#000000\" fill-opacity=\"1\" stroke-width=\"0.2\" stroke-linejoin=\"round\" d=\"M 5,5L 18,5C 19.6569,5 21,6.34315 21,8L 21,17C 21,18.6569 19.6568,20 18,20L 5,20C 3.34314,20 2,18.6569 2,17L 2,8C 2,6.34315 3.34315,5 5,5 Z M 5,6.00001C 3.89543,6.00001 3,6.89544 3,8.00001L 3,9.00001L 20,9.00001L 20,8.00001C 20,6.89544 19.1046,6.00001 18,6.00001L 5,6.00001 Z M 2.99999,17C 2.99999,18.1046 3.89543,19 4.99999,19L 18,19C 19.1045,19 20,18.1046 20,17L 20,12L 3,12L 2.99999,17 Z M 5,16L 9,16L 9,17L 5,17L 5,16 Z M 11,16L 14,16L 14,17L 11,17L 11,16 Z M 3,10L 3,11L 20,11L 20,10L 3,10 Z\"></path></svg>",
-		"credit,card",
-		"Material Design Icons Light"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path d=\"M18 6V4H2v2h16zm0 4H2v6h16v-6zM0 4c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm4 8h4v2H4v-2z\"></path></svg>",
 		"credit,card",
 		"Zondicons"
@@ -375,12 +370,12 @@
 		"Feather"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z\"></path><path fill-rule=\"evenodd\" d=\"M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25v-8.5zm14.5 0V5h-13V3.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25zm0 2.75h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V6.5z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M10.75 9a.75.75 0 000 1.5h1.5a.75.75 0 000-1.5h-1.5z\"></path><path d=\"M0 3.75C0 2.784.784 2 1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0114.25 14H1.75A1.75 1.75 0 010 12.25zM14.5 6.5h-13v5.75c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25zm0-2.75a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25V5h13z\"></path></svg>",
 		"credit,card",
 		"Octicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15.25 14a.75.75 0 000 1.5h3.5a.75.75 0 000-1.5h-3.5z\"></path><path fill-rule=\"evenodd\" d=\"M1.75 3A1.75 1.75 0 000 4.75v14.5C0 20.216.784 21 1.75 21h20.5A1.75 1.75 0 0024 19.25V4.75A1.75 1.75 0 0022.25 3H1.75zM1.5 4.75a.25.25 0 01.25-.25h20.5a.25.25 0 01.25.25V8.5h-21V4.75zm0 5.25v9.25c0 .138.112.25.25.25h20.5a.25.25 0 00.25-.25V10h-21z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15.25 14a.75.75 0 000 1.5h3.5a.75.75 0 000-1.5h-3.5z\"></path><path d=\"M1.75 3h20.5c.966 0 1.75.784 1.75 1.75v14.5A1.75 1.75 0 0122.25 21H1.75A1.75 1.75 0 010 19.25V4.75C0 3.784.784 3 1.75 3zm-.25 7v9.25c0 .138.112.25.25.25h20.5a.25.25 0 00.25-.25V10zm0-5.25V8.5h21V4.75a.25.25 0 00-.25-.25H1.75a.25.25 0 00-.25.25z\"></path></svg>",
 		"credit,card",
 		"Octicons"
 	],
@@ -662,6 +657,11 @@
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M22 9V18.4C22 18.7314 21.7314 19 21.4 19H2.6C2.26863 19 2 18.7314 2 18.4V5.6C2 5.26863 2.26863 5 2.6 5H21.4C21.7314 5 22 5.26863 22 5.6V9ZM22 9H6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"credit,card",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M22 11.4286V19.4C22 19.7314 21.7314 20 21.4 20H5.6C5.26863 20 5 19.7314 5 19.4V16.5M22 11.4286V8.6C22 8.26863 21.7314 8 21.4 8H19M22 11.4286H19\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M19 8V15.9C19 16.2314 18.7314 16.5 18.4 16.5H2.6C2.26863 16.5 2 16.2314 2 15.9V5.1C2 4.76863 2.26863 4.5 2.6 4.5H18.4C18.7314 4.5 19 4.76863 19 5.1V8ZM19 8H5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"credit,cards",
 		"Iconoir"
 	],
 	[
