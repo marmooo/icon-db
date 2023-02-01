@@ -240,7 +240,7 @@
 		"OpenMoji"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"#000000\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g></svg>",
 		"new,moon,twotone",
 		"OpenMoji"
 	],
@@ -255,7 +255,7 @@
 		"OpenMoji"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"#3f3f3f\" stroke=\"#3f3f3f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"#000000\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g><g id=\"color\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"#3f3f3f\" stroke=\"#3f3f3f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle></g></svg>",
 		"new,moon,twotone,color",
 		"OpenMoji"
 	],
@@ -380,6 +380,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h15v3H9v30h30V24h3v15q0 1.2-.9 2.1-.9.9-2.1.9Zm24-21v-6h-6v-3h6V6h3v6h6v3h-6v6Z\"></path></svg>",
+		"outline,new,window,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h15v3H9v30h30V24h3v15q0 1.2-.9 2.1-.9.9-2.1.9Zm24-21v-6h-6v-3h6V6h3v6h6v3h-6v6Z\"></path></svg>",
+		"outline,new,window",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h13.95v3H9v30h30V25.05h3V39q0 1.2-.9 2.1-.9.9-2.1.9Zm10.1-10.95L17 28.9 36.9 9H25.95V6H42v16.05h-3v-10.9Z\"></path></svg>",
 		"outline,open,in,new,filled",
 		"Material Symbols"
@@ -387,6 +397,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h13.95v3H9v30h30V25.05h3V39q0 1.2-.9 2.1-.9.9-2.1.9Zm10.1-10.95L17 28.9 36.9 9H25.95V6H42v16.05h-3v-10.9Z\"></path></svg>",
 		"outline,open,in,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v17h-3V9H9v30h17v3Zm20 0v-3h7.9L17.8 19.9l2.1-2.1L39 36.85V29h3v13Z\"></path></svg>",
+		"outline,open,in,new,down,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v17h-3V9H9v30h17v3Zm20 0v-3h7.9L17.8 19.9l2.1-2.1L39 36.85V29h3v13Z\"></path></svg>",
+		"outline,open,in,new,down",
 		"Material Symbols"
 	],
 	[
@@ -407,6 +427,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.5 26.1V5.8h3v20.3Zm1.5 16q-3.7 0-6.975-1.425Q13.75 39.25 11.3 36.8q-2.45-2.45-3.875-5.725Q6 27.8 6 24.1q0-4 1.7-7.475 1.7-3.475 4.8-6.175l2.1 2.1q-2.65 2.15-4.125 5.125T9 24.1q0 6.25 4.375 10.625T24 39.1q6.25 0 10.625-4.375T39 24.1q0-3.45-1.475-6.475Q36.05 14.6 33.5 12.55l2.15-2.1q3 2.55 4.675 6.1Q42 20.1 42 24.1q0 3.7-1.425 6.975-1.425 3.275-3.85 5.725-2.425 2.45-5.7 3.875Q27.75 42.1 24 42.1Z\"></path></svg>",
 		"outline,power,settings,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"m38.7 46-2.1-2.1 3.65-3.7H31.2v-3h9.05l-3.65-3.7 2.1-2.1 7.3 7.3ZM9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v19.9q-.85-.25-1.675-.4-.825-.15-1.675-.15-4.3 0-7.3 3.175t-3 7.475q.05.8.175 1.55.125.75.375 1.45Zm13.5-8h3v-8.5H34v-3h-8.5V14h-3v8.5H14v3h8.5Z\"></path></svg>",
+		"outline,tab,new,right,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 39V9v30-.35Zm0 3q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v19.9q-.7-.25-1.45-.375T39 28.35V9H9v30h19.35q.05.8.175 1.55.125.75.375 1.45Zm29.7 4-2.1-2.1 3.65-3.7H31.2v-3h9.05l-3.65-3.7 2.1-2.1 7.3 7.3ZM22.5 34h3v-8.5H34v-3h-8.5V14h-3v8.5H14v3h8.5Z\"></path></svg>",
+		"outline,tab,new,right",
 		"Material Symbols"
 	],
 	[
@@ -480,6 +510,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h13.5q.65 0 1.075.425Q24 6.85 24 7.5q0 .65-.425 1.075Q23.15 9 22.5 9H9v30h30V25.5q0-.65.425-1.075Q39.85 24 40.5 24q.65 0 1.075.425Q42 24.85 42 25.5V39q0 1.2-.9 2.1-.9.9-2.1.9Zm24-27h-4.5q-.65 0-1.075-.425Q27 14.15 27 13.5q0-.65.425-1.075Q27.85 12 28.5 12H33V7.5q0-.65.425-1.075Q33.85 6 34.5 6q.65 0 1.075.425Q36 6.85 36 7.5V12h4.5q.65 0 1.075.425Q42 12.85 42 13.5q0 .65-.425 1.075Q41.15 15 40.5 15H36v4.5q0 .65-.425 1.075Q35.15 21 34.5 21q-.65 0-1.075-.425Q33 20.15 33 19.5Z\"></path></svg>",
+		"rounded,new,window,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h13.5q.65 0 1.075.425Q24 6.85 24 7.5q0 .65-.425 1.075Q23.15 9 22.5 9H9v30h30V25.5q0-.65.425-1.075Q39.85 24 40.5 24q.65 0 1.075.425Q42 24.85 42 25.5V39q0 1.2-.9 2.1-.9.9-2.1.9Zm24-27h-4.5q-.65 0-1.075-.425Q27 14.15 27 13.5q0-.65.425-1.075Q27.85 12 28.5 12H33V7.5q0-.65.425-1.075Q33.85 6 34.5 6q.65 0 1.075.425Q36 6.85 36 7.5V12h4.5q.65 0 1.075.425Q42 12.85 42 13.5q0 .65-.425 1.075Q41.15 15 40.5 15H36v4.5q0 .65-.425 1.075Q35.15 21 34.5 21q-.65 0-1.075-.425Q33 20.15 33 19.5Z\"></path></svg>",
+		"rounded,new,window",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h12.45q.65 0 1.075.425.425.425.425 1.075 0 .65-.425 1.075Q22.1 9 21.45 9H9v30h30V26.55q0-.65.425-1.075.425-.425 1.075-.425.65 0 1.075.425Q42 25.9 42 26.55V39q0 1.2-.9 2.1-.9.9-2.1.9Zm9.05-12.05q-.4-.45-.425-1.05-.025-.6.425-1.05L36.9 9h-9.45q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075Q26.8 6 27.45 6H40.5q.65 0 1.075.425Q42 6.85 42 7.5v13.05q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q39 21.2 39 20.55v-9.4L20.15 30q-.4.4-1.025.4-.625 0-1.075-.45Z\"></path></svg>",
 		"rounded,open,in,new,filled",
 		"Material Symbols"
@@ -487,6 +527,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h12.45q.65 0 1.075.425.425.425.425 1.075 0 .65-.425 1.075Q22.1 9 21.45 9H9v30h30V26.55q0-.65.425-1.075.425-.425 1.075-.425.65 0 1.075.425Q42 25.9 42 26.55V39q0 1.2-.9 2.1-.9.9-2.1.9Zm9.05-12.05q-.4-.45-.425-1.05-.025-.6.425-1.05L36.9 9h-9.45q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075Q26.8 6 27.45 6H40.5q.65 0 1.075.425Q42 6.85 42 7.5v13.05q0 .65-.425 1.075-.425.425-1.075.425-.65 0-1.075-.425Q39 21.2 39 20.55v-9.4L20.15 30q-.4.4-1.025.4-.625 0-1.075-.45Z\"></path></svg>",
 		"rounded,open,in,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v15.5q0 .65-.425 1.075Q41.15 26 40.5 26q-.65 0-1.075-.425Q39 25.15 39 24.5V9H9v30h15.5q.65 0 1.075.425Q26 39.85 26 40.5q0 .65-.425 1.075Q25.15 42 24.5 42Zm27.9-3L18.85 20.95q-.45-.45-.45-1.05 0-.6.45-1.05.45-.45 1.05-.45.6 0 1.05.45l18.05 18V30.5q0-.65.425-1.075Q39.85 29 40.5 29q.65 0 1.075.425Q42 29.85 42 30.5v10q0 .65-.425 1.075Q41.15 42 40.5 42h-10q-.65 0-1.075-.425Q29 41.15 29 40.5q0-.65.425-1.075Q29.85 39 30.5 39Z\"></path></svg>",
+		"rounded,open,in,new,down,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v15.5q0 .65-.425 1.075Q41.15 26 40.5 26q-.65 0-1.075-.425Q39 25.15 39 24.5V9H9v30h15.5q.65 0 1.075.425Q26 39.85 26 40.5q0 .65-.425 1.075Q25.15 42 24.5 42Zm27.9-3L18.85 20.95q-.45-.45-.45-1.05 0-.6.45-1.05.45-.45 1.05-.45.6 0 1.05.45l18.05 18V30.5q0-.65.425-1.075Q39.85 29 40.5 29q.65 0 1.075.425Q42 29.85 42 30.5v10q0 .65-.425 1.075Q41.15 42 40.5 42h-10q-.65 0-1.075-.425Q29 41.15 29 40.5q0-.65.425-1.075Q29.85 39 30.5 39Z\"></path></svg>",
+		"rounded,open,in,new,down",
 		"Material Symbols"
 	],
 	[
@@ -507,6 +557,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M24 26.1q-.65 0-1.075-.425-.425-.425-.425-1.075V7.3q0-.65.425-1.075Q23.35 5.8 24 5.8q.65 0 1.075.425.425.425.425 1.075v17.3q0 .65-.425 1.075-.425.425-1.075.425Zm0 16q-3.75 0-7.025-1.425-3.275-1.425-5.7-3.85-2.425-2.425-3.85-5.7Q6 27.85 6 24.1q0-3.55 1.4-6.775 1.4-3.225 3.9-5.775.45-.45 1.125-.475.675-.025 1.125.425.45.45.375 1.075-.075.625-.525 1.075-2.1 2.1-3.25 4.775Q9 21.1 9 24.1q0 6.25 4.375 10.625T24 39.1q6.25 0 10.625-4.375T39 24.1q0-3-1.125-5.7t-3.225-4.8q-.45-.45-.5-1.075-.05-.625.4-1.025.5-.5 1.175-.425.675.075 1.175.575 2.45 2.55 3.775 5.75Q42 20.6 42 24.1q0 3.75-1.425 7.025-1.425 3.275-3.85 5.7-2.425 2.425-5.7 3.85Q27.75 42.1 24 42.1Z\"></path></svg>",
 		"rounded,power,settings,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M40.25 40.2H32.7q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075.425-.425 1.075-.425h7.55l-2.6-2.65q-.4-.45-.425-1.05-.025-.6.425-1.05.45-.45 1.05-.45.6 0 1.05.45l5.2 5.2q.45.45.45 1.05 0 .6-.45 1.05l-5.2 5.2q-.45.45-1.05.45-.6 0-1.05-.45-.45-.45-.425-1.05.025-.6.425-1.05ZM22.5 25.5v7q0 .65.425 1.075Q23.35 34 24 34q.65 0 1.075-.425.425-.425.425-1.075v-7h7q.65 0 1.075-.425Q34 24.65 34 24q0-.65-.425-1.075-.425-.425-1.075-.425h-7v-7q0-.65-.425-1.075Q24.65 14 24 14q-.65 0-1.075.425-.425.425-.425 1.075v7h-7q-.65 0-1.075.425Q14 23.35 14 24q0 .65.425 1.075.425.425 1.075.425ZM9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v19.9q-.85-.25-1.675-.4-.825-.15-1.675-.15-4.3 0-7.3 3.175t-3 7.475q.05.8.175 1.55.125.75.375 1.45Z\"></path></svg>",
+		"rounded,tab,new,right,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 39V9v30-.35Zm0 3q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h30q1.2 0 2.1.9.9.9.9 2.1v19.9q-.7-.25-1.45-.375T39 28.35V9H9v30h19.35q.05.8.175 1.55.125.75.375 1.45Zm31.25-1.8H32.7q-.65 0-1.075-.425-.425-.425-.425-1.075 0-.65.425-1.075.425-.425 1.075-.425h7.55l-2.6-2.65q-.4-.45-.425-1.05-.025-.6.425-1.05.45-.45 1.05-.45.6 0 1.05.45l5.2 5.2q.45.45.45 1.05 0 .6-.45 1.05l-5.2 5.2q-.45.45-1.05.45-.6 0-1.05-.45-.45-.45-.425-1.05.025-.6.425-1.05ZM22.5 25.5v7q0 .65.425 1.075Q23.35 34 24 34q.65 0 1.075-.425.425-.425.425-1.075v-7h7q.65 0 1.075-.425Q34 24.65 34 24q0-.65-.425-1.075-.425-.425-1.075-.425h-7v-7q0-.65-.425-1.075Q24.65 14 24 14q-.65 0-1.075.425-.425.425-.425 1.075v7h-7q-.65 0-1.075.425Q14 23.35 14 24q0 .65.425 1.075.425.425 1.075.425Z\"></path></svg>",
+		"rounded,tab,new,right",
 		"Material Symbols"
 	],
 	[
@@ -580,6 +640,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h18v3H9v30h30V24h3v18Zm27-21v-6h-6v-3h6V6h3v6h6v3h-6v6Z\"></path></svg>",
+		"sharp,new,window,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h18v3H9v30h30V24h3v18Zm27-21v-6h-6v-3h6V6h3v6h6v3h-6v6Z\"></path></svg>",
+		"sharp,new,window",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h16.95v3H9v30h30V25.05h3V42Zm13.1-10.95L17 28.9 36.9 9H25.95V6H42v16.05h-3v-10.9Z\"></path></svg>",
 		"sharp,open,in,new,filled",
 		"Material Symbols"
@@ -587,6 +657,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h16.95v3H9v30h30V25.05h3V42Zm13.1-10.95L17 28.9 36.9 9H25.95V6H42v16.05h-3v-10.9Z\"></path></svg>",
 		"sharp,open,in,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h36v20h-3V9H9v30h17v3Zm23 0v-3h7.9L17.8 19.9l2.1-2.1L39 36.85V29h3v13Z\"></path></svg>",
+		"sharp,open,in,new,down,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M6 42V6h36v20h-3V9H9v30h17v3Zm23 0v-3h7.9L17.8 19.9l2.1-2.1L39 36.85V29h3v13Z\"></path></svg>",
+		"sharp,open,in,new,down",
 		"Material Symbols"
 	],
 	[
@@ -607,6 +687,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M22.5 26.1V5.8h3v20.3Zm1.5 16q-3.7 0-6.975-1.425Q13.75 39.25 11.3 36.8q-2.45-2.45-3.875-5.725Q6 27.8 6 24.1q0-4 1.7-7.475 1.7-3.475 4.8-6.175l2.1 2.1q-2.65 2.15-4.125 5.125T9 24.1q0 6.25 4.375 10.625T24 39.1q6.25 0 10.625-4.375T39 24.1q0-3.45-1.475-6.475Q36.05 14.6 33.5 12.55l2.15-2.1q3 2.55 4.675 6.1Q42 20.1 42 24.1q0 3.7-1.425 6.975-1.425 3.275-3.85 5.725-2.425 2.45-5.7 3.875Q27.75 42.1 24 42.1Z\"></path></svg>",
 		"sharp,power,settings,new",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"m38.7 46-2.1-2.1 3.65-3.7H31.2v-3h9.05l-3.65-3.7 2.1-2.1 7.3 7.3ZM6 42V6h36v22.9q-.85-.25-1.675-.4-.825-.15-1.675-.15-4.3 0-7.3 3.175t-3 7.475q.05.8.175 1.55.125.75.375 1.45Zm16.5-8h3v-8.5H34v-3h-8.5V14h-3v8.5H14v3h8.5Z\"></path></svg>",
+		"sharp,tab,new,right,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M9 39V9v30Zm-3 3V6h36v22.9q-.7-.25-1.45-.375T39 28.35V9H9v30h19.35q.05.8.175 1.55.125.75.375 1.45Zm32.7 4-2.1-2.1 3.65-3.7H31.2v-3h9.05l-3.65-3.7 2.1-2.1 7.3 7.3ZM22.5 34h3v-8.5H34v-3h-8.5V14h-3v8.5H14v3h8.5Z\"></path></svg>",
+		"sharp,tab,new,right",
 		"Material Symbols"
 	],
 	[
@@ -855,7 +945,7 @@
 		"Weather Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-new-section\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><line x1=\"9\" y1=\"12\" x2=\"15\" y2=\"12\"></line><line x1=\"12\" y1=\"9\" x2=\"12\" y2=\"15\"></line><path d=\"M4 6v-1a1 1 0 0 1 1 -1h1m5 0h2m5 0h1a1 1 0 0 1 1 1v1m0 5v2m0 5v1a1 1 0 0 1 -1 1h-1m-5 0h-2m-5 0h-1a1 1 0 0 1 -1 -1v-1m0 -5v-2m0 -5\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-new-section\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 12l6 0\"></path><path d=\"M12 9l0 6\"></path><path d=\"M4 6v-1a1 1 0 0 1 1 -1h1m5 0h2m5 0h1a1 1 0 0 1 1 1v1m0 5v2m0 5v1a1 1 0 0 1 -1 1h-1m-5 0h-2m-5 0h-1a1 1 0 0 1 -1 -1v-1m0 -5v-2m0 -5\"></path></svg>",
 		"new,section",
 		"Tabler Icons"
 	],

@@ -115,7 +115,7 @@
 		"Emoji Two"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><path fill=\"#000000\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z\"></path></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path></g></svg>",
 		"first,quarter,moon,twotone",
 		"OpenMoji"
 	],
@@ -125,7 +125,7 @@
 		"OpenMoji"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><path fill=\"#fcea2b\" d=\"M49.4515,44.8757a1.5009,1.5009,0,0,0,0-3,1.5009,1.5009,0,0,0,0,3Z\"></path><path fill=\"#fcea2b\" stroke=\"#fcea2b\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path><path fill=\"#3f3f3f\" stroke=\"#3f3f3f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z\"></path></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><path fill=\"#000000\" stroke=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z\"></path></g><g id=\"color\"><path fill=\"#fcea2b\" d=\"M49.4515,44.8757a1.5009,1.5009,0,0,0,0-3,1.5009,1.5009,0,0,0,0,3Z\"></path><path fill=\"#fcea2b\" stroke=\"#fcea2b\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path><path fill=\"#3f3f3f\" stroke=\"#3f3f3f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M8,36A28,28,0,0,0,36,64V8A28,28,0,0,0,8,36Z\"></path></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M64,36A28,28,0,0,0,36,8V64A28,28,0,0,0,64,36Z\"></path></g></svg>",
 		"first,quarter,moon,twotone,color",
 		"OpenMoji"
 	],
@@ -255,17 +255,17 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrow-rotary-first-right\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"8\" cy=\"7\" r=\"3\"></circle><path d=\"M8 10v10\"></path><path d=\"M10.5 9.5l8.5 8.5\"></path><path d=\"M14 18h5v-5\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrow-rotary-first-right\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8 7m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0\"></path><path d=\"M8 10v10\"></path><path d=\"M10.5 9.5l8.5 8.5\"></path><path d=\"M14 18h5v-5\"></path></svg>",
 		"arrow,rotary,first,right",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-first-aid-kit-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8.595 4.577a1.994 1.994 0 0 1 1.405 -.577h4a2 2 0 0 1 2 2v2\"></path><path d=\"M12 8h6a2 2 0 0 1 2 2v6m-.576 3.405a1.994 1.994 0 0 1 -1.424 .595h-12a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2h2\"></path><path d=\"M10 14h4\"></path><path d=\"M12 12v4\"></path><path d=\"M3 3l18 18\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-first-aid-kit-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8.595 4.577a2 2 0 0 1 1.405 -.577h4a2 2 0 0 1 2 2v2\"></path><path d=\"M12 8h6a2 2 0 0 1 2 2v6m-.576 3.405a2 2 0 0 1 -1.424 .595h-12a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2h2\"></path><path d=\"M10 14h4\"></path><path d=\"M12 12v4\"></path><path d=\"M3 3l18 18\"></path></svg>",
 		"first,aid,kit,off",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-first-aid-kit\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8 8v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2\"></path><rect x=\"4\" y=\"8\" width=\"16\" height=\"12\" rx=\"2\"></rect><path d=\"M10 14h4\"></path><path d=\"M12 12v4\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-first-aid-kit\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8 8v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2\"></path><path d=\"M4 8m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z\"></path><path d=\"M10 14h4\"></path><path d=\"M12 12v4\"></path></svg>",
 		"first,aid,kit",
 		"Tabler Icons"
 	],

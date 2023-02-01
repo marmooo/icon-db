@@ -40,6 +40,11 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-width=\"12\" d=\"M146 30H46c-8.837 0-16 7.163-16 16v100c0 8.837 7.163 16 16 16h75.373a16 16 0 0 0 11.313-4.686l24.628-24.628A16 16 0 0 0 162 121.373V46c0-8.837-7.163-16-16-16Z\"></path><path d=\"M96.086 120.792c-2.448 0-4.968-.288-7.56-.864-2.592-.624-4.968-1.584-7.128-2.88-1.392-.768-2.256-1.752-2.592-2.952-.288-1.248-.192-2.4.288-3.456.528-1.104 1.344-1.872 2.448-2.304 1.152-.48 2.424-.336 3.816.432 3.36 1.824 6.864 2.736 10.512 2.736 2.736 0 4.848-.672 6.336-2.016 1.536-1.344 2.304-3.144 2.304-5.4 0-2.304-.744-4.152-2.232-5.544-1.44-1.392-3.408-2.088-5.904-2.088-1.248 0-2.52.216-3.816.648-1.296.384-2.592 1.08-3.888 2.088-.48.384-1.128.744-1.944 1.08a5.87 5.87 0 0 1-2.376.504c-2.928 0-4.392-1.368-4.392-4.104V74.064c0-3.216 1.608-4.824 4.824-4.824h23.112c3.216 0 4.824 1.536 4.824 4.608 0 3.024-1.608 4.536-4.824 4.536H90.686V89.76c2.352-1.536 5.184-2.304 8.496-2.304 3.216 0 6.024.696 8.424 2.088 2.4 1.344 4.272 3.24 5.616 5.688 1.344 2.448 2.016 5.28 2.016 8.496 0 3.408-.768 6.384-2.304 8.928-1.536 2.544-3.744 4.536-6.624 5.976-2.88 1.44-6.288 2.16-10.224 2.16Z\"></path></svg>",
+		"themed,icon,calendar,5",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" width=\"76\" height=\"76\" viewBox=\"0 0 76.00 76.00\" enable-background=\"new 0 0 76.00 76.00\" xml:space=\"preserve\"><path fill=\"#000000\" fill-opacity=\"1\" stroke-linejoin=\"round\" d=\"M 21.3,17L 46.7,17C 47.418,17 48,17.582 48,18.3L 48,24.7C 48,25.418 47.418,26 46.7,26L 31.3,26C 30.0298,26 29,27.0298 29,28.3L 29,49.7C 29,50.418 28.418,51 27.7,51L 21.3,51C 20.582,51 20,50.418 20,49.7L 20,18.3C 20,17.582 20.582,17 21.3,17 Z M 33.3,29L 54.7,29C 55.418,29 56,29.582 56,30.3L 56,57.7C 56,58.418 55.418,59 54.7,59L 33.3,59C 32.582,59 32,58.418 32,57.7L 32,30.3C 32,29.582 32.582,29 33.3,29 Z M 39.0759,51.5923C 39.9256,52.0778 41.2173,52.3206 42.9511,52.3206C 45.0041,52.3206 46.6178,51.7909 47.7921,50.7313C 48.9664,49.6718 49.5536,48.2633 49.5536,46.5058C 49.5536,44.8328 49.0403,43.514 48.0138,42.5495C 46.9872,41.585 45.5345,41.1027 43.6556,41.1027L 42.1079,41.1502L 42.4048,36.7089L 48.75,36.7089L 48.75,34.2627L 40.0179,34.2627L 39.3886,43.5885L 42.294,43.4381C 43.6873,43.4381 44.7574,43.7185 45.5042,44.2793C 46.251,44.84 46.6244,45.6244 46.6244,46.6325C 46.6244,47.6537 46.2569,48.4718 45.522,49.0867C 44.7871,49.7015 43.8179,50.0089 42.6146,50.0089C 41.4192,50.0089 40.2396,49.6171 39.0759,48.8333L 39.0759,51.5923 Z\"></path></svg>",
 		"appbar,card,5",
 		"Windows Icons"
@@ -130,12 +135,12 @@
 		"Weather Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-antenna-bars-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><line x1=\"6\" y1=\"18\" x2=\"6\" y2=\"15\"></line><line x1=\"10\" y1=\"18\" x2=\"10\" y2=\"12\"></line><line x1=\"14\" y1=\"18\" x2=\"14\" y2=\"9\"></line><line x1=\"18\" y1=\"18\" x2=\"18\" y2=\"6\"></line></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-antenna-bars-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 18l0 -3\"></path><path d=\"M10 18l0 -6\"></path><path d=\"M14 18l0 -9\"></path><path d=\"M18 18l0 -12\"></path></svg>",
 		"antenna,bars,5",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-box-multiple-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><rect x=\"7\" y=\"3\" width=\"14\" height=\"14\" rx=\"2\"></rect><path d=\"M12 14h2a2 2 0 1 0 0 -4h-2v-4h4\"></path><path d=\"M17 17v2a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h2\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-box-multiple-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7 3m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z\"></path><path d=\"M12 14h2a2 2 0 1 0 0 -4h-2v-4h4\"></path><path d=\"M17 17v2a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h2\"></path></svg>",
 		"box,multiple,5",
 		"Tabler Icons"
 	],
@@ -145,17 +150,17 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-circle-number-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M10 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-3v-4h4\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-circle-number-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path><path d=\"M10 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-3v-4h4\"></path></svg>",
 		"circle,number,5",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-clock-hour-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M12 12l2 3\"></path><path d=\"M12 7v5\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-clock-hour-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path><path d=\"M12 12l2 3\"></path><path d=\"M12 7v5\"></path></svg>",
 		"clock,hour,5",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-dice-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect><circle cx=\"8.5\" cy=\"8.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15.5\" cy=\"8.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15.5\" cy=\"15.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"8.5\" cy=\"15.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"12\" cy=\"12\" r=\".5\" fill=\"currentColor\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-dice-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z\"></path><circle cx=\"8.5\" cy=\"8.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15.5\" cy=\"8.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15.5\" cy=\"15.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"8.5\" cy=\"15.5\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"12\" cy=\"12\" r=\".5\" fill=\"currentColor\"></circle></svg>",
 		"dice,5",
 		"Tabler Icons"
 	],
@@ -180,7 +185,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-square-number-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"2\"></rect><path d=\"M10 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-3v-4h4\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-square-number-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z\"></path><path d=\"M10 15a1 1 0 0 0 1 1h2a1 1 0 0 0 1 -1v-2a1 1 0 0 0 -1 -1h-3v-4h4\"></path></svg>",
 		"square,number,5",
 		"Tabler Icons"
 	],
@@ -190,7 +195,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-wash-temperature-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10 15h.01\"></path><path d=\"M3 6l1.721 10.329a2 2 0 0 0 1.973 1.671h10.612a2 2 0 0 0 1.973 -1.671l1.721 -10.329\"></path><path d=\"M14 15h.01\"></path><path d=\"M15 12h.01\"></path><path d=\"M12 12h.01\"></path><path d=\"M9 12h.01\"></path><path d=\"M3.486 8.965c.168 .02 .34 .033 .514 .035c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.17 -.002 .339 -.014 .503 -.034\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-wash-temperature-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10 15h.01\"></path><path d=\"M3 6l1.721 10.329a2 2 0 0 0 1.973 1.671h10.612a2 2 0 0 0 1.973 -1.671l1.721 -10.329\"></path><path d=\"M14 15h.01\"></path><path d=\"M15 12h.01\"></path><path d=\"M12 12h.01\"></path><path d=\"M9 12h.01\"></path><path d=\"M3.486 8.965c.168 .02 .34 .033 .514 .035c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.79 .009 1.539 -.178 2 -.5c.461 -.32 1.21 -.507 2 -.5c.79 -.007 1.539 .18 2 .5c.461 .322 1.21 .509 2 .5c.17 0 .339 -.014 .503 -.034\"></path></svg>",
 		"wash,temperature,5",
 		"Tabler Icons"
 	],
