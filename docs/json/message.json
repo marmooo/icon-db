@@ -145,7 +145,7 @@
 		"Feather"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M447.1 0h-384c-35.25 0-64 28.75-64 63.1v287.1c0 35.25 28.75 63.1 64 63.1h96v83.98c0 9.836 11.02 15.55 19.12 9.7l124.9-93.68h144c35.25 0 64-28.75 64-63.1V63.1C511.1 28.75 483.2 0 447.1 0zM464 352c0 8.75-7.25 16-16 16h-160l-80 60v-60H64c-8.75 0-16-7.25-16-16V64c0-8.75 7.25-16 16-16h384c8.75 0 16 7.25 16 16V352z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M160 368c26.5 0 48 21.5 48 48v16l72.5-54.4c8.3-6.2 18.4-9.6 28.8-9.6H448c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64c-8.8 0-16 7.2-16 16V352c0 8.8 7.2 16 16 16h96zm48 124l-.2 .2-5.1 3.8-17.1 12.8c-4.8 3.6-11.3 4.2-16.8 1.5s-8.8-8.2-8.8-14.3V474.7v-6.4V468v-4V416H112 64c-35.3 0-64-28.7-64-64V64C0 28.7 28.7 0 64 0H448c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H309.3L208 492z\"></path></svg>",
 		"regular,message",
 		"Font Awesome"
 	],
@@ -185,7 +185,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-circle-2-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 20l1.3 -3.9a9 8 0 1 1 3.4 2.9l-4.7 1\" fill=\"currentColor\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-circle-2-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5.821 4.91c3.898 -2.765 9.469 -2.539 13.073 .536c3.667 3.127 4.168 8.238 1.152 11.897c-2.842 3.447 -7.965 4.583 -12.231 2.805l-.232 -.101l-4.375 .931l-.075 .013l-.11 .009l-.113 -.004l-.044 -.005l-.11 -.02l-.105 -.034l-.1 -.044l-.076 -.042l-.108 -.077l-.081 -.074l-.073 -.083l-.053 -.075l-.065 -.115l-.042 -.106l-.031 -.113l-.013 -.075l-.009 -.11l.004 -.113l.005 -.044l.02 -.11l.022 -.072l1.15 -3.451l-.022 -.036c-2.21 -3.747 -1.209 -8.392 2.411 -11.118l.23 -.168z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
 		"message,circle,2,filled",
 		"Tabler Icons"
 	],
@@ -553,6 +553,26 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-speaker-message\" viewBox=\"0 0 24 24\"><path d=\"M16.5 3H21.5C22.3 3 23 3.7 23 4.5V7.5C23 8.3 22.3 9 21.5 9H18L15 12V4.5C15 3.7 15.7 3 16.5 3M3 3C1.9 3 1 3.9 1 5V19C1 20.1 1.9 21 3 21H11C12.1 21 13 20.1 13 19V5C13 3.9 12.1 3 11 3H3M7 5C8.1 5 9 5.9 9 7S8.1 9 7 9 5 8.1 5 7 5.9 5 7 5M7 11C9.2 11 11 12.8 11 15S9.2 19 7 19 3 17.2 3 15 4.8 11 7 11M7 13C5.9 13 5 13.9 5 15S5.9 17 7 17 9 16.1 9 15 8.1 13 7 13\"></path></svg>",
 		"speaker,message",
 		"Material Design"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><defs><style>.cls-1{fill:none;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>message-circle</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"message-circle\"><g id=\"message-circle-2\" data-name=\"message-circle\"><rect class=\"cls-1\" width=\"24\" height=\"24\"></rect><path class=\"cls-2\" d=\"M19.07,4.93a10,10,0,0,0-16.28,11,1.06,1.06,0,0,1,.09.64L2,20.8a1,1,0,0,0,.27.91A1,1,0,0,0,3,22l.2,0,4.28-.86a1.26,1.26,0,0,1,.64.09,10,10,0,0,0,11-16.28ZM8,13a1,1,0,1,1,1-1A1,1,0,0,1,8,13Zm4,0a1,1,0,1,1,1-1A1,1,0,0,1,12,13Zm4,0a1,1,0,1,1,1-1A1,1,0,0,1,16,13Z\"></path></g></g></g></svg>",
+		"filled,message,circle",
+		"Eva Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><defs><style>.cls-1{fill:none;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>message-square</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"message-square\"><g id=\"message-square-2\" data-name=\"message-square\"><rect class=\"cls-1\" width=\"24\" height=\"24\"></rect><path class=\"cls-2\" d=\"M19,3H5A3,3,0,0,0,2,6V21a1,1,0,0,0,.51.87A1,1,0,0,0,3,22a1,1,0,0,0,.51-.14L8,19.14A1,1,0,0,1,8.55,19H19a3,3,0,0,0,3-3V6A3,3,0,0,0,19,3ZM8,12a1,1,0,1,1,1-1A1,1,0,0,1,8,12Zm4,0a1,1,0,1,1,1-1A1,1,0,0,1,12,12Zm4,0a1,1,0,1,1,1-1A1,1,0,0,1,16,12Z\"></path></g></g></g></svg>",
+		"filled,message,square",
+		"Eva Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><defs><style>.cls-1{fill:#231f20;}.cls-2{fill:none;opacity:0;}</style></defs><title>message-circle</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"message-circle\"><g id=\"message-circle-2\" data-name=\"message-circle\"><circle class=\"cls-1\" cx=\"12\" cy=\"12\" r=\"1\"></circle><circle class=\"cls-1\" cx=\"16\" cy=\"12\" r=\"1\"></circle><circle class=\"cls-1\" cx=\"8\" cy=\"12\" r=\"1\"></circle><path class=\"cls-1\" d=\"M19.07,4.93a10,10,0,0,0-16.28,11,1.06,1.06,0,0,1,.09.64L2,20.8a1,1,0,0,0,.27.91A1,1,0,0,0,3,22l.2,0,4.28-.86a1.26,1.26,0,0,1,.64.09,10,10,0,0,0,11-16.28Zm.83,8.36a8,8,0,0,1-11,6.08,3.26,3.26,0,0,0-1.25-.26,3.43,3.43,0,0,0-.56.05l-2.82.57.57-2.82a3.09,3.09,0,0,0-.21-1.81,8,8,0,0,1,6.08-11h0a8,8,0,0,1,9.19,9.19Z\"></path><rect class=\"cls-2\" width=\"24\" height=\"24\"></rect></g></g></g></svg>",
+		"outline,message,circle",
+		"Eva Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><defs><style>.cls-1{fill:none;opacity:0;}.cls-2{fill:#231f20;}</style></defs><title>message-square</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"message-square\"><g id=\"message-square-2\" data-name=\"message-square\"><rect class=\"cls-1\" width=\"24\" height=\"24\"></rect><circle class=\"cls-2\" cx=\"12\" cy=\"11\" r=\"1\"></circle><circle class=\"cls-2\" cx=\"16\" cy=\"11\" r=\"1\"></circle><circle class=\"cls-2\" cx=\"8\" cy=\"11\" r=\"1\"></circle><path class=\"cls-2\" d=\"M19,3H5A3,3,0,0,0,2,6V21a1,1,0,0,0,.51.87A1,1,0,0,0,3,22a1,1,0,0,0,.51-.14L8,19.14A1,1,0,0,1,8.55,19H19a3,3,0,0,0,3-3V6A3,3,0,0,0,19,3Zm1,13a1,1,0,0,1-1,1H8.55A3,3,0,0,0,7,17.43l-3,1.8V6A1,1,0,0,1,5,5H19a1,1,0,0,1,1,1Z\"></path></g></g></g></svg>",
+		"outline,message,square",
+		"Eva Icons"
 	],
 	[
 		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M44 7H4V37H11V42L21 37H44V7Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M31 16V17\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M17 16V17\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M31 25C31 25 29 29 24 29C19 29 17 25 17 25\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
@@ -1315,12 +1335,12 @@
 		"coolicons"
 	],
 	[
-		"<svg viewBox=\"0 0 1024 1024\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" d=\"M288 384h448v64H288v-64zm96-128h256v64H384v-64zM131.456 512H384v128h256V512h252.544L721.856 192H302.144L131.456 512zM896 576H704v128H320V576H128v256h768V576zM275.776 128h472.448a32 32 0 0 1 28.608 17.664l179.84 359.552A32 32 0 0 1 960 519.552V864a32 32 0 0 1-32 32H96a32 32 0 0 1-32-32V519.552a32 32 0 0 1 3.392-14.336l179.776-359.552A32 32 0 0 1 275.776 128z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M288 384h448v64H288v-64zm96-128h256v64H384v-64zM131.456 512H384v128h256V512h252.544L721.856 192H302.144L131.456 512zM896 576H704v128H320V576H128v256h768V576zM275.776 128h472.448a32 32 0 0 1 28.608 17.664l179.84 359.552A32 32 0 0 1 960 519.552V864a32 32 0 0 1-32 32H96a32 32 0 0 1-32-32V519.552a32 32 0 0 1 3.392-14.336l179.776-359.552A32 32 0 0 1 275.776 128z\"></path></svg>",
 		"message,box",
 		"Element Plus Icons"
 	],
 	[
-		"<svg viewBox=\"0 0 1024 1024\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"currentColor\" d=\"M128 224v512a64 64 0 0 0 64 64h640a64 64 0 0 0 64-64V224H128zm0-64h768a64 64 0 0 1 64 64v512a128 128 0 0 1-128 128H192A128 128 0 0 1 64 736V224a64 64 0 0 1 64-64z\"></path><path fill=\"currentColor\" d=\"M904 224 656.512 506.88a192 192 0 0 1-289.024 0L120 224h784zm-698.944 0 210.56 240.704a128 128 0 0 0 192.704 0L818.944 224H205.056z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M128 224v512a64 64 0 0 0 64 64h640a64 64 0 0 0 64-64V224H128zm0-64h768a64 64 0 0 1 64 64v512a128 128 0 0 1-128 128H192A128 128 0 0 1 64 736V224a64 64 0 0 1 64-64z\"></path><path fill=\"currentColor\" d=\"M904 224 656.512 506.88a192 192 0 0 1-289.024 0L120 224h784zm-698.944 0 210.56 240.704a128 128 0 0 0 192.704 0L818.944 224H205.056z\"></path></svg>",
 		"message",
 		"Element Plus Icons"
 	],
