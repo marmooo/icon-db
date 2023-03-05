@@ -81,9 +81,9 @@
   [CC-BY-SA-4.0](https://github.com/frexy/glyph-iconset/blob/master/LICENSE)
 - [Entypo](https://github.com/danielbruce/entypo) licensed under the
   [CC-BY-SA-3.0](https://github.com/danielbruce/entypo)
-- [Material Design Icons Light](https://github.com/Templarian/MaterialDesignLight)
+- [Material Design Icons Light](https://github.com/Pictogrammers/MaterialDesignLight)
   licensed under the
-  [SIL-OFL-1.1](https://github.com/Templarian/MaterialDesignLight/blob/master/LICENSE.md)
+  [Apache-2.0](https://github.com/Pictogrammers/MaterialDesignLight/blob/master/LICENSE.md)
 - [Zondicons](https://github.com/dukestreetstudio/zondicons) licensed under the
   [MIT](https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE)
 - [Dashicons](https://github.com/WordPress/dashicons) licensed under the
