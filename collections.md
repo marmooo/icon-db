@@ -319,3 +319,5 @@
   [MIT](https://github.com/PKief/vscode-material-icon-theme/blob/main/LICENSE.md)
 - [IconBrew](https://github.com/elrumo/icon-brew) licensed under the
   [MIT](https://github.com/elrumo/icon-brew/blob/master/LICENSE.md)
+- [Themify Icons](https://github.com/lykmapipo/themify-icons) licensed under the
+  [SIL-OFL-1.1](https://github.com/lykmapipo/themify-icons)
