@@ -321,3 +321,5 @@
   [MIT](https://github.com/elrumo/icon-brew/blob/master/LICENSE.md)
 - [Themify Icons](https://github.com/lykmapipo/themify-icons) licensed under the
   [SIL-OFL-1.1](https://github.com/lykmapipo/themify-icons)
+- [Circum Icons](https://github.com/Klarr-Agency/Circum-Icons) licensed under
+  the [MPL-2.0](https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE)
