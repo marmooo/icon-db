@@ -160,12 +160,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M12.8 38h-1.5l-1-4H8V20.2h4.3V10h23.35v10.2H40V34h-2.3l-1 4h-1.5l-1-4H13.85Zm12.7-17.8h7.15V13H25.5Zm-10.2 0h7.2V13h-7.2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M256 856h-30.303L206 776h-46V500h86V296h467v204h87v276h-46l-19.783 80h-30.434L684 776H277l-21 80Zm254-356h143V356H510v144Zm-204 0h144V356H306v144Z\"></path></svg>",
 		"sharp,single,bed,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M12.8 38h-1.5l-1-4H8V20.2h4.3V10h23.35v10.2H40V34h-2.3l-1 4h-1.5l-1-4H13.85Zm12.7-17.8h7.15V13H25.5Zm-10.2 0h7.2V13h-7.2ZM11 31h26v-7.8H11Zm26 0H11Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M256 856h-30.303L206 776h-46V500h86V296h467v204h87v276h-46l-19.783 80h-30.434L684 776H277l-21 80Zm254-356h143V356H510v144Zm-204 0h144V356H306v144Zm-86 216h520V560H220v156Zm520 0H220h520Z\"></path></svg>",
 		"sharp,single,bed",
 		"Material Symbols"
 	],
@@ -300,17 +300,22 @@
 		"Teenyicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 20v-8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v8\"></path><path d=\"M5 10V6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v4\"></path><path d=\"M3 18h18\"></path></svg>",
+		"bed,single",
+		"Lucide"
+	],
+	[
 		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m10.5 8v-5.5\"></path><path d=\"m10.5 18.5v-5.5\"></path><circle cx=\"10.5\" cy=\"10.5\" r=\"2.5\"></circle></g></svg>",
 		"filter,single",
 		"System UIcons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.3725 11.6213C13.9412 11.6213 15 12.7132 15 14.3309C15 15.7868 13.7843 17 12.1373 17C10.3333 17 9 15.5441 9 13.3199C9 8.26471 12.6863 6.24265 15 6V8.22426C13.4314 8.50735 11.6667 10.0846 11.5882 11.8235C11.6667 11.7831 11.9804 11.6213 12.3725 11.6213Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"Edit / Single_Quotes_L\"><path id=\"Vector\" d=\"M10 12V15.4C10 15.9601 10 16.2399 10.109 16.4538C10.2049 16.642 10.3577 16.7952 10.5459 16.8911C10.7596 17 11.0395 17 11.5985 17H13.4015C13.9605 17 14.24 17 14.4537 16.8911C14.6419 16.7952 14.7952 16.6419 14.8911 16.4537C15 16.24 15 15.9605 15 15.4015V13.5985C15 13.0395 15 12.7596 14.8911 12.5459C14.7952 12.3577 14.642 12.2049 14.4538 12.109C14.2399 12 13.9601 12 13.4 12H10ZM10 12V10C10 8.34315 11.3431 7 13 7\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"edit,single,quotes,l",
 		"coolicons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.6274 11.3787C10.0588 11.3787 9 10.2868 9 8.66912C9 7.21324 10.2157 6 11.8627 6C13.6667 6 15 7.45588 15 9.68015C15 14.7353 11.3137 16.7574 9 17V14.7757C10.5686 14.4926 12.3333 12.9154 12.4118 11.1765C12.3333 11.2169 12.0196 11.3787 11.6274 11.3787Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"Edit / Single_Quotes_R\"><path id=\"Vector\" d=\"M12 17C13.6569 17 15 15.6569 15 14V12M15 12V8.59846C15 8.0395 15 7.7596 14.8911 7.5459C14.7952 7.35774 14.6419 7.20487 14.4537 7.10899C14.2398 7 13.9602 7 13.4001 7H11.6001C11.04 7 10.7598 7 10.5459 7.10899C10.3577 7.20487 10.2049 7.35774 10.109 7.5459C10 7.75981 10 8.04005 10 8.6001V10.4001C10 10.9602 10 11.2398 10.109 11.4537C10.2049 11.6419 10.3577 11.7952 10.5459 11.8911C10.7596 12 11.0395 12 11.5985 12H15Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"edit,single,quotes,r",
 		"coolicons"
 	],

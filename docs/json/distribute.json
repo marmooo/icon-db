@@ -50,22 +50,22 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 44V4h3v40Zm17.5-10V14h5v20ZM41 44V4h3v40Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M80 976V176h60v800H80Zm350-200V376h100v400H430Zm390 200V176h60v800h-60Z\"></path></svg>",
 		"sharp,horizontal,distribute,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 44V4h3v40Zm17.5-10V14h5v20ZM41 44V4h3v40Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M80 976V176h60v800H80Zm350-200V376h100v400H430Zm390 200V176h60v800h-60Z\"></path></svg>",
 		"sharp,horizontal,distribute",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 44v-3h40v3Zm10-17.5v-5h20v5ZM4 7V4h40v3Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M80 976v-60h800v60H80Zm200-350V526h400v100H280ZM80 236v-60h800v60H80Z\"></path></svg>",
 		"sharp,vertical,distribute,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><path d=\"M4 44v-3h40v3Zm10-17.5v-5h20v5ZM4 7V4h40v3Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 96 960 960\"><path d=\"M80 976v-60h800v60H80Zm200-350V526h400v100H280ZM80 236v-60h800v60H80Z\"></path></svg>",
 		"sharp,vertical,distribute",
 		"Material Symbols"
 	],
@@ -223,6 +223,36 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M21,18H20V13a1,1,0,0,0-1-1H5a1,1,0,0,0-1,1v5H3a1,1,0,0,0,0,2H21a1,1,0,0,0,0-2Zm-3,0H6V14H18ZM3,10H21a1,1,0,0,0,0-2H19V5a1,1,0,0,0-1-1H6A1,1,0,0,0,5,5V8H3a1,1,0,0,0,0,2ZM7,6H17V8H7Z\"></path></svg>",
 		"line,vertical,distribute,bottom",
 		"Unicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"4\" y=\"5\" width=\"6\" height=\"14\" rx=\"2\"></rect><rect x=\"14\" y=\"7\" width=\"6\" height=\"10\" rx=\"2\"></rect><path d=\"M17 22v-5\"></path><path d=\"M17 7V2\"></path><path d=\"M7 22v-3\"></path><path d=\"M7 5V2\"></path></svg>",
+		"align,horizontal,distribute,center",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"4\" y=\"5\" width=\"6\" height=\"14\" rx=\"2\"></rect><rect x=\"14\" y=\"7\" width=\"6\" height=\"10\" rx=\"2\"></rect><path d=\"M10 2v20\"></path><path d=\"M20 2v20\"></path></svg>",
+		"align,horizontal,distribute,end",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"4\" y=\"5\" width=\"6\" height=\"14\" rx=\"2\"></rect><rect x=\"14\" y=\"7\" width=\"6\" height=\"10\" rx=\"2\"></rect><path d=\"M4 2v20\"></path><path d=\"M14 2v20\"></path></svg>",
+		"align,horizontal,distribute,start",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"14\" width=\"14\" height=\"6\" rx=\"2\"></rect><rect x=\"7\" y=\"4\" width=\"10\" height=\"6\" rx=\"2\"></rect><path d=\"M22 7h-5\"></path><path d=\"M7 7H1\"></path><path d=\"M22 17h-3\"></path><path d=\"M5 17H2\"></path></svg>",
+		"align,vertical,distribute,center",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"14\" width=\"14\" height=\"6\" rx=\"2\"></rect><rect x=\"7\" y=\"4\" width=\"10\" height=\"6\" rx=\"2\"></rect><path d=\"M2 20h20\"></path><path d=\"M2 10h20\"></path></svg>",
+		"align,vertical,distribute,end",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"14\" width=\"14\" height=\"6\" rx=\"2\"></rect><rect x=\"7\" y=\"4\" width=\"10\" height=\"6\" rx=\"2\"></rect><path d=\"M2 14h20\"></path><path d=\"M2 4h20\"></path></svg>",
+		"align,vertical,distribute,start",
+		"Lucide"
 	],
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>distribute--horizontal-center</title><path d=\"M24,10H23V2H21v8H20a2.0023,2.0023,0,0,0-2,2v8a2.0023,2.0023,0,0,0,2,2h1v8h2V22h1a2.0023,2.0023,0,0,0,2-2V12A2.0023,2.0023,0,0,0,24,10Zm0,10H20V12h4Z\"></path><path d=\"M12,6H11V2H9V6H8A2.0023,2.0023,0,0,0,6,8V24a2.0023,2.0023,0,0,0,2,2H9v4h2V26h1a2.0023,2.0023,0,0,0,2-2V8A2.0023,2.0023,0,0,0,12,6Zm0,18H8V8h4Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
