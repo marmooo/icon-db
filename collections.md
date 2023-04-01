@@ -249,8 +249,8 @@
   [CC-BY-4.0](https://github.com/CyCraft/pepicons/blob/dev/LICENSE)
 - [OOUI](https://github.com/wikimedia/oojs-ui) licensed under the
   [MIT](https://github.com/wikimedia/oojs-ui/blob/master/LICENSE-MIT)
-- [Nimbus Icons](https://github.com/TiendaNube/nimbus-icons) licensed under the
-  [MIT](https://github.com/TiendaNube/nimbus-icons/blob/develop/LICENSE)
+- [Nimbus Icons](https://github.com/cyberalien/nimbus-icons) licensed under the
+  [MIT](https://github.com/cyberalien/nimbus-icons/blob/main/LICENSE)
 - [Entypo Plus](https://github.com/chancancode/entypo-plus) licensed under the
   [CC-BY-SA-4.0](https://github.com/chancancode/entypo-plus/blob/master/LICENSE)
 - [circle-flags](https://github.com/HatScripts/circle-flags) licensed under the
