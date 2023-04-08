@@ -158,5 +158,65 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path fill=\"none\" stroke=\"#000\" stroke-width=\"2\" d=\"M16.5,18 L12,22.5 L7.5,18 L1,18 L1,1 L23,1 L23,18 L16.5,18 Z M6,10 L7,10 L7,9 L6,9 L6,10 Z M11.5,10 L12.5,10 L12.5,9 L11.5,9 L11.5,10 Z M17,10 L18,10 L18,9 L17,9 L17,10 Z\"></path></svg>",
 		"tooltip",
 		"grommet-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-above-alert\" viewBox=\"0 0 22 22\"><path d=\"M10 5H12V10H10V5M10 11H12V13H10V11M2 1H20V2H21V16H20V17H15V18H14V19H13V20H12V21H10V20H9V19H8V18H7V17H2V16H1V2H2V1M3 3V15H8V16H9V17H10V18H12V17H13V16H14V15H19V3H3Z\"></path></svg>",
+		"tooltip,above,alert",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-above-text\" viewBox=\"0 0 22 22\"><path d=\"M2 1H20V2H21V16H20V17H15V18H14V19H13V20H12V21H10V20H9V19H8V18H7V17H2V16H1V2H2V1M3 3V15H8V16H9V17H10V18H12V17H13V16H14V15H19V3H3M5 6H17V8H5V6M5 10H15V12H5V10Z\"></path></svg>",
+		"tooltip,above,text",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-above\" viewBox=\"0 0 22 22\"><path d=\"M2 1H20V2H21V16H20V17H15V18H14V19H13V20H12V21H10V20H9V19H8V18H7V17H2V16H1V2H2V1M3 3V15H8V16H9V17H10V18H12V17H13V16H14V15H19V3H3Z\"></path></svg>",
+		"tooltip,above",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-below-alert\" viewBox=\"0 0 22 22\"><path d=\"M10 17H12V15H10V17M10 14H12V9H10V14M2 21H20V20H21V6H20V5H15V4H14V3H13V2H12V1H10V2H9V3H8V4H7V5H2V6H1V20H2V21M3 19V7H8V6H9V5H10V4H12V5H13V6H14V7H19V19H3Z\"></path></svg>",
+		"tooltip,below,alert",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-below-text\" viewBox=\"0 0 22 22\"><path d=\"M2 21H20V20H21V6H20V5H15V4H14V3H13V2H12V1H10V2H9V3H8V4H7V5H2V6H1V20H2V21M3 19V7H8V6H9V5H10V4H12V5H13V6H14V7H19V19H3M5 16H15V14H5V16M5 12H17V10H5V12Z\"></path></svg>",
+		"tooltip,below,text",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-below\" viewBox=\"0 0 22 22\"><path d=\"M2 21H20V20H21V6H20V5H15V4H14V3H13V2H12V1H10V2H9V3H8V4H7V5H2V6H1V20H2V21M3 19V7H8V6H9V5H10V4H12V5H13V6H14V7H19V19H3Z\"></path></svg>",
+		"tooltip,below",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-end-alert\" viewBox=\"0 0 22 22\"><path d=\"M14 15H12V13H14V15M14 12H12V7H14V12M21 2V20H20V21H6V20H5V15H4V14H3V13H2V12H1V10H2V9H3V8H4V7H5V2H6V1H20V2H21M19 3H7V8H6V9H5V10H4V12H5V13H6V14H7V19H19V3Z\"></path></svg>",
+		"tooltip,end,alert",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-end-text\" viewBox=\"0 0 22 22\"><path d=\"M17 8V6H9V8H17M15 16V14H9V16H15M17 12V10H9V12H17M21 20V2H20V1H6V2H5V7H4V8H3V9H2V10H1V12H2V13H3V14H4V15H5V20H6V21H20V20H21M19 19H7V14H6V13H5V12H4V10H5V9H6V8H7V3H19V19Z\"></path></svg>",
+		"tooltip,end,text",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-end\" viewBox=\"0 0 22 22\"><path d=\"M21 20V2H20V1H6V2H5V7H4V8H3V9H2V10H1V12H2V13H3V14H4V15H5V20H6V21H20V20H21M19 19H7V14H6V13H5V12H4V10H5V9H6V8H7V3H19V19Z\"></path></svg>",
+		"tooltip,end",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-start-alert\" viewBox=\"0 0 22 22\"><path d=\"M8 15H10V13H8V15M8 12H10V7H8V12M1 2V20H2V21H16V20H17V15H18V14H19V13H20V12H21V10H20V9H19V8H18V7H17V2H16V1H2V2H1M3 3H15V8H16V9H17V10H18V12H17V13H16V14H15V19H3V3Z\"></path></svg>",
+		"tooltip,start,alert",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-start-text\" viewBox=\"0 0 22 22\"><path d=\"M5 8V6H13V8H5M5 16V14H11V16H5M5 12V10H13V12H5M1 20V2H2V1H16V2H17V7H18V8H19V9H20V10H21V12H20V13H19V14H18V15H17V20H16V21H2V20H1M3 19H15V14H16V13H17V12H18V10H17V9H16V8H15V3H3V19Z\"></path></svg>",
+		"tooltip,start,text",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-tooltip-start\" viewBox=\"0 0 22 22\"><path d=\"M1 20V2H2V1H16V2H17V7H18V8H19V9H20V10H21V12H20V13H19V14H18V15H17V20H16V21H2V20H1M3 19H15V14H16V13H17V12H18V10H17V9H16V8H15V3H3V19Z\"></path></svg>",
+		"tooltip,start",
+		"Memory Icons"
 	]
 ]

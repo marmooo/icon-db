@@ -323,3 +323,5 @@
   [SIL-OFL-1.1](https://github.com/lykmapipo/themify-icons)
 - [Circum Icons](https://github.com/Klarr-Agency/Circum-Icons) licensed under
   the [MPL-2.0](https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE)
+- [Memory Icons](https://github.com/Pictogrammers/Memory) licensed under the
+  [Apache-2.0](https://github.com/Pictogrammers/Memory/blob/main/LICENSE)

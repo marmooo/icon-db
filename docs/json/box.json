@@ -4363,5 +4363,345 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g id=\"Box_List\" data-name=\"Box List\"><g><path d=\"M6.562,8.062h-2a1.5,1.5,0,0,1-1.5-1.5v-2a1.5,1.5,0,0,1,1.5-1.5h2a1.5,1.5,0,0,1,1.5,1.5v2A1.5,1.5,0,0,1,6.562,8.062Zm-2-4a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h2a.5.5,0,0,0,.5-.5v-2a.5.5,0,0,0-.5-.5Z\"></path><path d=\"M6.562,20.938h-2a1.5,1.5,0,0,1-1.5-1.5v-2a1.5,1.5,0,0,1,1.5-1.5h2a1.5,1.5,0,0,1,1.5,1.5v2A1.5,1.5,0,0,1,6.562,20.938Zm-2-4a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h2a.5.5,0,0,0,.5-.5v-2a.5.5,0,0,0-.5-.5Z\"></path><path d=\"M6.562,14.5h-2a1.5,1.5,0,0,1-1.5-1.5V11a1.5,1.5,0,0,1,1.5-1.5h2a1.5,1.5,0,0,1,1.5,1.5v2A1.5,1.5,0,0,1,6.562,14.5Zm-2-4a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h2a.5.5,0,0,0,.5-.5V11a.5.5,0,0,0-.5-.5Z\"></path><path d=\"M20.438,6.062h-9a.5.5,0,0,1,0-1h9a.5.5,0,0,1,0,1Z\"></path><path d=\"M20.438,12.5h-9a.5.5,0,0,1,0-1h9a.5.5,0,0,1,0,1Z\"></path><path d=\"M20.438,18.935h-9a.5.5,0,1,1,0-1h9a.5.5,0,0,1,0,1Z\"></path></g></g></svg>",
 		"box,list",
 		"Circum Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-account-box\" viewBox=\"0 0 22 22\"><path d=\"M4 2H18V3H19V4H20V18H19V19H18V20H4V19H3V18H2V4H3V3H4V2M4 16H5V15H7V14H15V15H17V16H18V5H17V4H5V5H4V16M16 18V17H14V16H8V17H6V18H16M9 5H13V6H14V7H15V11H14V12H13V13H9V12H8V11H7V7H8V6H9V5M12 8V7H10V8H9V10H10V11H12V10H13V8H12Z\"></path></svg>",
+		"account,box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-alert-box-fill\" viewBox=\"0 0 22 22\"><path d=\"M18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM12,12V6H10V12ZM12,16V14H10V16Z\"></path></svg>",
+		"alert,box,filled",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-alert-box\" viewBox=\"0 0 22 22\"><path d=\"M12 12H10V6H12M12 16H10V14H12M18 20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18M17 18V17H18V5H17V4H5V5H4V17H5V18Z\"></path></svg>",
+		"alert,box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-dashed-down-left\" viewBox=\"0 0 22 22\"><path d=\"M22 12H20V10H22V12M18 12H15V10H18V12M13 12H10V9H12V10H13V12M12 0V2H10V0H12M12 4V7H10V4H12Z\"></path></svg>",
+		"box,light,dashed,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-dashed-down-right\" viewBox=\"0 0 22 22\"><path d=\"M12 0V2H10V0H12M12 4V7H10V4H12M12 9V12H9V10H10V9H12M.002 10H2V12H.002V10M4 10H7V12H4V10Z\"></path></svg>",
+		"box,light,dashed,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-dashed-up-left\" viewBox=\"0 0 22 22\"><path d=\"M10 22V20H12V22H10M10 18V15H12V18H10M10 13V10H13V12H12V13H10M22 12H20V10H22V12M18 12H15V10H18V12Z\"></path></svg>",
+		"box,light,dashed,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-dashed-up-right\" viewBox=\"0 0 22 22\"><path d=\"M0 10H2V12H0V10M4 10H7V12H4V10M9 10H12V13H10V12H9V10M10 22V20H12V22H10M10 18V15H12V18H10Z\"></path></svg>",
+		"box,light,dashed,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-horizontal\" viewBox=\"0 0 22 22\"><path d=\"M0 12H22V14H0V12M0 8H22V10H0V8Z\"></path></svg>",
+		"box,light,double,horizontal",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-round-down-left\" viewBox=\"0 0 22 22\"><path d=\"M10 0V3H11V5H12V7H13V8H14V9H15V10H17V11H19V12H22V14H18V13H16V12H14V11H13V10H12V9H11V8H10V6H9V4H8V0H10M22 10H20V9H17V8H16V7H15V6H14V5H13V2H12V0H14V1H15V4H16V5H17V6H18V7H21V8H22V10Z\"></path></svg>",
+		"box,light,double,round,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-round-down-right\" viewBox=\"0 0 22 22\"><path d=\"M0 12H3V11H5V10H7V9H8V8H9V7H10V5H11V3H12V0H14V4H13V6H12V8H11V9H10V10H9V11H8V12H6V13H4V14H0V12M10 0V2H9V5H8V6H7V7H6V8H5V9H2V10H0V8H1V7H4V6H5V5H6V4H7V1H8V0H10Z\"></path></svg>",
+		"box,light,double,round,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-round-up-left\" viewBox=\"0 0 22 22\"><path d=\"M22 10H19V11H17V12H15V13H14V14H13V15H12V17H11V19H10V22H8V18H9V16H10V14H11V13H12V12H13V11H14V10H16V9H18V8H22V10M12 22V20H13V17H14V16H15V15H16V14H17V13H20V12H22V14H21V15H18V16H17V17H16V18H15V21H14V22H12Z\"></path></svg>",
+		"box,light,double,round,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-round-up-right\" viewBox=\"0 0 22 22\"><path d=\"M12 22V19H11V17H10V15H9V14H8V13H7V12H5V11H3V10H0V8H4V9H6V10H8V11H9V12H10V13H11V14H12V16H13V18H14V22H12M0 12H2V13H5V14H6V15H7V16H8V17H9V20H10V22H8V21H7V18H6V17H5V16H4V15H1V14H0V12Z\"></path></svg>",
+		"box,light,double,round,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-double-vertical\" viewBox=\"0 0 22 22\"><path d=\"M12 22V0H14V22H12M8 22V0H10V22H8Z\"></path></svg>",
+		"box,light,double,vertical",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-down-left-circle\" viewBox=\"0 0 22 22\"><path d=\"M13 15H9V14H8V13H7V9H8V8H9V7H10V0H12V7H13V8H14V9H15V10H22V12H15V13H14V14H13V15M9 12H10V13H12V12H13V10H12V9H10V10H9V12Z\"></path></svg>",
+		"box,light,down,left,circle",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-down-left\" viewBox=\"0 0 22 22\"><path d=\"M22 12H10V0H12V10H22V12Z\"></path></svg>",
+		"box,light,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-down-right-circle\" viewBox=\"0 0 22 22\"><path d=\"M15 9V13H14V14H13V15H9V14H8V13H7V12H0V10H7V9H8V8H9V7H10V0H12V7H13V8H14V9H15M12 13V12H13V10H12V9H10V10H9V12H10V13H12Z\"></path></svg>",
+		"box,light,down,right,circle",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-down-right\" viewBox=\"0 0 22 22\"><path d=\"M12 0V12H0V10H10V0H12Z\"></path></svg>",
+		"box,light,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-horizontal\" viewBox=\"0 0 22 22\"><path d=\"M0 10H22L22 12H0V10Z\"></path></svg>",
+		"box,light,horizontal",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-round-down-left\" viewBox=\"0 0 22 22\"><path d=\"M22 12H18V11H15V10H14V9H13V8H12V7H11V4H10V0H12V3H13V6H14V7H15V8H16V9H19V10H22V12Z\"></path></svg>",
+		"box,light,round,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-round-down-right\" viewBox=\"0 0 22 22\"><path d=\"M12 0V4H11V7H10V8H9V9H8V10H7V11H4V12H0V10H3V9H6V8H7V7H8V6H9V3H10V0H12Z\"></path></svg>",
+		"box,light,round,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-round-up-left\" viewBox=\"0 0 22 22\"><path d=\"M10 22V18H11V15H12V14H13V13H14V12H15V11H18V10H22V12H19V13H16V14H15V15H14V16H13V19H12V22H10Z\"></path></svg>",
+		"box,light,round,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-round-up-right\" viewBox=\"0 0 22 22\"><path d=\"M0 10H4V11H7V12H8V13H9V14H10V15H11V18H12V22H10V19H9V16H8V15H7V14H6V13H3V12H0V10Z\"></path></svg>",
+		"box,light,round,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-up-left-circle\" viewBox=\"0 0 22 22\"><path d=\"M7 13V9H8V8H9V7H13V8H14V9H15V10H22V12H15V13H14V14H13V15H12V22H10V15H9V14H8V13H7M10 9V10H9V12H10V13H12V12H13V10H12V9H10Z\"></path></svg>",
+		"box,light,up,left,circle",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-up-left\" viewBox=\"0 0 22 22\"><path d=\"M10 22V10H22V12H12V22H10Z\"></path></svg>",
+		"box,light,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-up-right-circle\" viewBox=\"0 0 22 22\"><path d=\"M9 7H13V8H14V9H15V13H14V14H13V15H12V22H10V15H9V14H8V13H7V12H0V10H7V9H8V8H9V7M13 10H12V9H10V10H9V12H10V13H12V12H13V10Z\"></path></svg>",
+		"box,light,up,right,circle",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-up-right\" viewBox=\"0 0 22 22\"><path d=\"M0 10H12V22H10V12H0V10Z\"></path></svg>",
+		"box,light,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-light-vertical\" viewBox=\"0 0 22 22\"><path d=\"M12 0V22H10V0H12Z\"></path></svg>",
+		"box,light,vertical",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-all\" viewBox=\"0 0 22 22\"><path d=\"M0 0H22V22H0V0M2 2V20H20V2H2Z\"></path></svg>",
+		"box,outer,light,all",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-all\" viewBox=\"0 0 22 22\"><path d=\"M4 0V2H2V4H0V0H4M2 6V10H0V6H2M2 12V16H0V12H2M2 18V20H4V22H0V18H2M6 0H10V2H6V0M12 0H16V2H12V0M18 0H22V4H20V2H18V0M18 22V20H20V18H22V22H18M16 22H12V20H16V22M10 22H6V20H10V22M20 6H22V10H20V6M20 12H22V16H20V12Z\"></path></svg>",
+		"box,outer,light,dashed,all",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-down-left-right\" viewBox=\"0 0 22 22\"><path d=\"M0 18H2V20H4V22H0V18M6 20H10V22H6V20M12 20H16V22H12V20M18 20H20V18H22V22H18V20M0 16V12H2V16H0M0 10V7H2V10H0M0 5V1H2V5H0M22 1V5H20V1H22M22 7V10H20V7H22M22 12V16H20V12H22Z\"></path></svg>",
+		"box,outer,light,dashed,down,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-down-left\" viewBox=\"0 0 22 22\"><path d=\"M0 18H2V20H4V22H0V18M6 20H10V22H6V20M12 20H16V22H12V20M18 20H21V22H18V20M0 16V12H2V16H0M0 10V7H2V10H0M0 5V1H2V5H0Z\"></path></svg>",
+		"box,outer,light,dashed,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-down-right\" viewBox=\"0 0 22 22\"><path d=\"M18 22V20H20V18H22V22H18M20 16V12H22V16H20M20 10V6H22V10H20M20 4V1H22V4H20M16 22H12V20H16V22M10 22H7V20H10V22M5 22H1V20H5V22Z\"></path></svg>",
+		"box,outer,light,dashed,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-down\" viewBox=\"0 0 22 22\"><path d=\"M1 20H5V22H1V20M7 20H10V22H7V20M12 20H16V22H12V20M18 20H21V22H18V20Z\"></path></svg>",
+		"box,outer,light,dashed,down",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-left-right\" viewBox=\"0 0 22 22\"><path d=\"M20 21V17H22V21H20M20 15V12H22V15H20M20 10V6H22V10H20M20 4V1H22V4H20M0 21V17H2V21H0M0 15V12H2V15H0M0 10V6H2V10H0M0 4V1H2V4H0Z\"></path></svg>",
+		"box,outer,light,dashed,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-left\" viewBox=\"0 0 22 22\"><path d=\"M0 21V17H2V21H0M0 15V12H2V15H0M0 10V6H2V10H0M0 4V1H2V4H0Z\"></path></svg>",
+		"box,outer,light,dashed,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-right\" viewBox=\"0 0 22 22\"><path d=\"M20 21V17H22V21H20M20 15V12H22V15H20M20 10V6H22V10H20M20 4V1H22V4H20Z\"></path></svg>",
+		"box,outer,light,dashed,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-down-left\" viewBox=\"0 0 22 22\"><path d=\"M4 0V2H2V4H0V0H4M2 6V10H0V6H2M2 12V16H0V12H2M2 18V20H4V22H0V18H2M6 0H10V2H6V0M12 0H15V2H12V0M17 0H21V2H17V0M21 22H17V20H21V22M15 22H12V20H15V22M10 22H6V20H10V22Z\"></path></svg>",
+		"box,outer,light,dashed,up,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-down-right\" viewBox=\"0 0 22 22\"><path d=\"M18 22V20H20V18H22V22H18M20 16V12H22V16H20M20 10V6H22V10H20M20 4V2H18V0H22V4H20M16 22H12V20H16V22M10 22H7V20H10V22M5 22H1V20H5V22M1 0H5V2H1V0M7 0H10V2H7V0M12 0H16V2H12V0Z\"></path></svg>",
+		"box,outer,light,dashed,up,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-down\" viewBox=\"0 0 22 22\"><path d=\"M21 2H17V0H21V2M15 2H12V0H15V2M10 2H6V0H10V2M4 2H1V0H4V2M21 22H17V20H21V22M15 22H12V20H15V22M10 22H6V20H10V22M4 22H1V20H4V22Z\"></path></svg>",
+		"box,outer,light,dashed,up,down",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-left-right\" viewBox=\"0 0 22 22\"><path d=\"M22 4H20V2H18V0H22V4M16 2H12V0H16V2M10 2H6V0H10V2M4 2H2V4H0V0H4V2M22 6V10H20V6H22M22 12V15H20V12H22M22 17V21H20V17H22M0 21V17H2V21H0M0 15V12H2V15H0M0 10V6H2V10H0Z\"></path></svg>",
+		"box,outer,light,dashed,up,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-left\" viewBox=\"0 0 22 22\"><path d=\"M4 0V2H2V4H0V0H4M2 6V10H0V6H2M2 12V16H0V12H2M2 18V21H0V18H2M6 0H10V2H6V0M12 0H15V2H12V0M17 0H21V2H17V0Z\"></path></svg>",
+		"box,outer,light,dashed,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up-right\" viewBox=\"0 0 22 22\"><path d=\"M22 4H20V2H18V0H22V4M16 2H12V0H16V2M10 2H6V0H10V2M4 2H1V0H4V2M22 6V10H20V6H22M22 12V15H20V12H22M22 17V21H20V17H22Z\"></path></svg>",
+		"box,outer,light,dashed,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-dashed-up\" viewBox=\"0 0 22 22\"><path d=\"M1 0H5V2H1V0M7 0H10V2H7V0M12 0H16V2H12V0M18 0H21V2H18V0Z\"></path></svg>",
+		"box,outer,light,dashed,up",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-down-left-right\" viewBox=\"0 0 22 22\"><path d=\"M22 22H0V0H2V20H20V0H22V22Z\"></path></svg>",
+		"box,outer,light,down,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-down-left\" viewBox=\"0 0 22 22\"><path d=\"M0 0H2V20H22V22H0V0Z\"></path></svg>",
+		"box,outer,light,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-down-right\" viewBox=\"0 0 22 22\"><path d=\"M0 22V20H20V0H22V22H0Z\"></path></svg>",
+		"box,outer,light,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-down\" viewBox=\"0 0 22 22\"><path d=\"M0 20H22V22H0V20Z\"></path></svg>",
+		"box,outer,light,down",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-left-right\" viewBox=\"0 0 22 22\"><path d=\"M0 22V0H2V22H0M20 22V0H22V22H20Z\"></path></svg>",
+		"box,outer,light,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-left\" viewBox=\"0 0 22 22\"><path d=\"M0 22V0H2V22H0Z\"></path></svg>",
+		"box,outer,light,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-right\" viewBox=\"0 0 22 22\"><path d=\"M20 22V0H22V22H20Z\"></path></svg>",
+		"box,outer,light,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-round-down-left\" viewBox=\"0 0 22 22\"><path d=\"M0 0H2V5H3V9H4V11H5V13H6V14H7V15H8V16H9V17H11V18H13V19H17V20H22V22H16V21H12V20H10V19H8V18H7V17H6V16H5V15H4V14H3V12H2V10H1V6H0V0Z\"></path></svg>",
+		"box,outer,light,round,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-round-down-right\" viewBox=\"0 0 22 22\"><path d=\"M0 22V20H5V19H9V18H11V17H13V16H14V15H15V14H16V13H17V11H18V9H19V5H20V0H22V6H21V10H20V12H19V14H18V15H17V16H16V17H15V18H14V19H12V20H10V21H6V22H0Z\"></path></svg>",
+		"box,outer,light,round,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-round-up-left\" viewBox=\"0 0 22 22\"><path d=\"M22 0V2H17V3H13V4H11V5H9V6H8V7H7V8H6V9H5V11H4V13H3V17H2V22H.004V16H1V12H2V10H3V8H4V7H5V6H6V5H7V4H8V3H10V2H12V1H16V0H22Z\"></path></svg>",
+		"box,outer,light,round,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-round-up-right\" viewBox=\"0 0 22 22\"><path d=\"M22 22H20V17H19V13H18V11H17V9H16V8H15V7H14V6H13V5H11V4H9V3H5V2H.004V0H6V1H10V2H12V3H14V4H15V5H16V6H17V7H18V8H19V10H20V12H21V16H22V22Z\"></path></svg>",
+		"box,outer,light,round,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-down-left\" viewBox=\"0 0 22 22\"><path d=\"M0 22V0H22V2H2V20H22V22H0Z\"></path></svg>",
+		"box,outer,light,up,down,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-down-right\" viewBox=\"0 0 22 22\"><path d=\"M22 0V22H0V20H20V2H0V0H22Z\"></path></svg>",
+		"box,outer,light,up,down,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-down\" viewBox=\"0 0 22 22\"><path d=\"M0 0H22V2H0V0M0 20H22V22H0V20Z\"></path></svg>",
+		"box,outer,light,up,down",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-left-right\" viewBox=\"0 0 22 22\"><path d=\"M0 0H22V22H20V2H2V22H0V0Z\"></path></svg>",
+		"box,outer,light,up,left,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-left\" viewBox=\"0 0 22 22\"><path d=\"M22 0V2H2V22H0V0H22Z\"></path></svg>",
+		"box,outer,light,up,left",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up-right\" viewBox=\"0 0 22 22\"><path d=\"M22 22H20V2H.002V0H22V22Z\"></path></svg>",
+		"box,outer,light,up,right",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box-outer-light-up\" viewBox=\"0 0 22 22\"><path d=\"M0 0H22L22 2H0V0Z\"></path></svg>",
+		"box,outer,light,up",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-box\" viewBox=\"0 0 22 22\"><path d=\"M4 2H18V3H19V4H20V18H19V19H18V20H4V19H3V18H2V4H3V3H4V2M17 5V4H5V5H4V17H5V18H17V17H18V5H17Z\"></path></svg>",
+		"box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-door-box\" viewBox=\"0 0 22 22\"><path d=\"M13,14H11V12H13ZM16,18H17V17H18V5H17V4H5V5H4V17H5V18H6V6H16ZM18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM14,18V8H8V18Z\"></path></svg>",
+		"door,box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-minus-box-fill\" viewBox=\"0 0 22 22\"><path d=\"M18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM16,12V10H6V12Z\"></path></svg>",
+		"minus,box,filled",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-minus-box\" viewBox=\"0 0 22 22\"><path d=\"M16,12H6V10H16ZM18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM17,18V17H18V5H17V4H5V5H4V17H5V18Z\"></path></svg>",
+		"minus,box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-plus-box-fill\" viewBox=\"0 0 22 22\"><path d=\"M18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM12,16V12H16V10H12V6H10V10H6V12H10V16Z\"></path></svg>",
+		"plus,box,filled",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-plus-box\" viewBox=\"0 0 22 22\"><path d=\"M12,16H10V12H6V10H10V6H12V10H16V12H12ZM18,20H4V19H3V18H2V4H3V3H4V2H18V3H19V4H20V18H19V19H18ZM17,18V17H18V5H17V4H5V5H4V17H5V18Z\"></path></svg>",
+		"plus,box",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-text-box\" viewBox=\"0 0 22 22\"><path d=\"M4 2H18V3H19V4H20V18H19V19H18V20H4V19H3V18H2V4H3V3H4V2M17 5V4H5V5H4V17H5V18H17V17H18V5H17M6 8H16V10H6V8M6 12H13V14H6V12Z\"></path></svg>",
+		"text,box",
+		"Memory Icons"
 	]
 ]
