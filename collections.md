@@ -325,3 +325,21 @@
   the [MPL-2.0](https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE)
 - [Memory Icons](https://github.com/Pictogrammers/Memory) licensed under the
   [Apache-2.0](https://github.com/Pictogrammers/Memory/blob/main/LICENSE)
+- [Streamline Covid Icons](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/covid)
+- [Streamline Emojis](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/freebies-freemojis)
+- [Streamline Guidance](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/guidance)
+- [Streamline Memes](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/memes)
+- [Streamline Nasty icons](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/nasty-icons)
+- [Streamline UI Icons Line](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/ui-icons)
