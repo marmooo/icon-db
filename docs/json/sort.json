@@ -705,12 +705,12 @@
 		"IconPark Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0H24V24H0z\"></path><path d=\"M19 3l4 5h-3v12h-2V8h-3l4-5zm-5 15v2H3v-2h11zm0-7v2H3v-2h11zm-2-7v2H3V4h9z\"></path></g></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 3L23 8H20V20H18V8H15L19 3ZM14 18V20H3V18H14ZM14 11V13H3V11H14ZM12 4V6H3V4H12Z\"></path></svg>",
 		"editor,sort,asc",
 		"Remix Icon"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0H24V24H0z\"></path><path d=\"M20 4v12h3l-4 5-4-5h3V4h2zm-8 14v2H3v-2h9zm2-7v2H3v-2h11zm0-7v2H3V4h11z\"></path></g></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 4V16H23L19 21L15 16H18V4H20ZM12 18V20H3V18H12ZM14 11V13H3V11H14ZM14 4V6H3V4H14Z\"></path></svg>",
 		"editor,sort,desc",
 		"Remix Icon"
 	],
@@ -1588,16 +1588,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"matrix(-1,0,0,1,16.000303,0)\" style=\"fill:#bebebe;fill-opacity:1\"><path d=\"m 11 0 c -0.306 0 -0.596 0.13 -0.813 0.344 l -3.844 3.719 c -0.45 0.438 -0.45 1.155 0 1.594 0.45 0.438 1.175 0.438 1.625 0 l 2.031 -1.969 0 6.313 l 0 6 2 0 0 -6 0 -6.313 2.031 1.969 c 0.33 0.333 0.843 0.431 1.281 0.25 c 0.438 -0.181 0.703 -0.598 0.688 -1.063 -0.009 -0.292 -0.131 -0.58 -0.344 -0.781 l -3.844 -3.719 c -0.216 -0.213 -0.506 -0.344 -0.813 -0.344\"></path></g><g transform=\"matrix(-1,0,0,1,16.000303,1)\" style=\"fill:#bebebe;fill-opacity:1;fill-rule:evenodd\"><path d=\"m 6 2.5 c 0 1.381 -1.119 2.5 -2.5 2.5 -1.381 0 -2.5 -1.119 -2.5 -2.5 0 -1.381 1.119 -2.5 2.5 -2.5 1.381 0 2.5 1.119 2.5 2.5\" transform=\"matrix(0.8,0,0,0.8,-0.8,1)\"></path><path d=\"m 6 2.5 c 0 1.381 -1.119 2.5 -2.5 2.5 -1.381 0 -2.5 -1.119 -2.5 -2.5 0 -1.381 1.119 -2.5 2.5 -2.5 1.381 0 2.5 1.119 2.5 2.5\" transform=\"matrix(0.8,0,0,0.8,-0.8,6)\"></path><path d=\"m 6 2.5 c 0 1.381 -1.119 2.5 -2.5 2.5 -1.381 0 -2.5 -1.119 -2.5 -2.5 0 -1.381 1.119 -2.5 2.5 -2.5 1.381 0 2.5 1.119 2.5 2.5\" transform=\"matrix(0.8,0,0,0.8,-0.8,11)\"></path></g></svg>",
 		"actions,view,sort,descending,symbolic",
 		"Numix icon theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 11h4\"></path><path d=\"M11 15h7\"></path><path d=\"M11 19h10\"></path><path d=\"M9 7 6 4 3 7\"></path><path d=\"M6 6v14\"></path></svg>",
-		"sort,asc",
-		"Lucide"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 5h10\"></path><path d=\"M11 9h7\"></path><path d=\"M11 13h4\"></path><path d=\"m3 17 3 3 3-3\"></path><path d=\"M6 18V4\"></path></svg>",
-		"sort,desc",
-		"Lucide"
 	],
 	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 2L6 3V6H7V3H14V5.45306L14.2071 5.29286L15 6.08576V3L14 2H7ZM8 4H10V6H8V4ZM5 9H3V11H5V9ZM2 7L1 8V13L2 14H9L10 13V8L9 7H2ZM2 13V8H9V13H2ZM8 10H6V12H8V10ZM13 4H12V7.86388L10.818 6.68192L10.1109 7.38903L12.1465 9.42454L12.8536 9.42454L14.889 7.38908L14.1819 6.68197L13 7.86388V4Z\" fill=\"#C5C5C5\"></path></svg>",

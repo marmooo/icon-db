@@ -15,6 +15,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"m41.712,30.7619v-13.5239c0-2.1436-1.1436-4.1244-3-5.1962l-11.712-6.7619c-1.8564-1.0718-4.1436-1.0718-6,0l-11.712,6.7619c-1.8564,1.0718-3,3.0526-3,5.1962v13.5239c0,2.1436,1.1436,4.1244,3,5.1962l11.712,6.7619c1.8564,1.0718,4.1436,1.0718,6,0l11.712-6.7619c1.8564-1.0718,3-3.0526,3-5.1962Z\"></path><line class=\"c\" x1=\"24\" y1=\"24\" x2=\"24\" y2=\"11.6168\"></line><line class=\"c\" x1=\"24\" y1=\"24\" x2=\"13.2759\" y2=\"30.1916\"></line><line class=\"c\" x1=\"24\" y1=\"24\" x2=\"34.7241\" y2=\"30.1916\"></line></svg>",
+		"game,space",
+		"Arcticons"
+	],
+	[
 		"<svg viewBox=\"0 0 16 16\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" class=\"si-glyph si-glyph-space-ship\"><title>Rocket</title><defs></defs><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(1.000000, 0.000000)\" fill=\"#434343\"><path d=\"M10.023,8.441 C10.023,8.441 11.322,10.408 12.601,11.035 C13.593,11.517 12.492,14.427 11.962,15.681 C11.811,16.035 11.605,16.025 11.39,15.723 C10.982,15.15 10.17,13.968 8.888,13.968 L4.134,13.968 C2.851,13.968 2.039,15.15 1.632,15.723 C1.417,16.025 1.209,16.035 1.06,15.681 C0.53,14.426 -0.571,11.517 0.42,11.035 C1.7,10.408 2.999,8.441 2.999,8.441 L10.023,8.441 L10.023,8.441 Z\" class=\"si-glyph-fill\"></path><path d=\"M10.192,9.062 C9.83,5.966 8.6,1.06 7.076,0.077 C6.898,0.056 6.717,0.043 6.537,0.043 C6.353,0.043 6.175,0.056 5.996,0.077 C4.472,1.06 3.241,5.967 2.88,9.062 C2.81,9.666 2.772,10.205 2.772,10.627 C2.772,12.152 3.261,13.272 4.032,13.984 L9.042,13.984 C9.813,13.271 10.302,12.152 10.302,10.627 C10.301,10.204 10.263,9.666 10.192,9.062 L10.192,9.062 Z M6.5,4 C7.3281427,4 8,4.67198632 8,5.50128242 C8,6.32972357 7.3281427,7 6.5,7 C5.67100793,7 5,6.32972357 5,5.50128242 C5,4.67198632 5.67100793,4 6.5,4 L6.5,4 Z\" class=\"si-glyph-fill\"></path></g></g></svg>",
 		"space,ship",
 		"Glyph"
@@ -425,17 +430,17 @@
 		"IconPark Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0h24v24H0z\"></path><path d=\"M4 9v4h16V9h2v5a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V9h2z\"></path></g></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 9V13H20V9H22V14C22 14.5523 21.5523 15 21 15H3C2.44772 15 2 14.5523 2 14V9H4Z\"></path></svg>",
 		"editor,space",
 		"Remix Icon"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0h24v24H0z\"></path><path d=\"M2.88 18.054a35.897 35.897 0 0 1 8.531-16.32.8.8 0 0 1 1.178 0c.166.18.304.332.413.455a35.897 35.897 0 0 1 8.118 15.865c-2.141.451-4.34.747-6.584.874l-2.089 4.178a.5.5 0 0 1-.894 0l-2.089-4.178a44.019 44.019 0 0 1-6.584-.874zM12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z\"></path></g></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.87988 18.0493C4.23015 12.056 7.07526 6.62874 11.003 2.17982C11.1105 2.05802 11.2465 1.90767 11.411 1.72876L11.411 1.72874C11.7101 1.40349 12.2162 1.38227 12.5414 1.68134C12.5579 1.69647 12.5737 1.71229 12.5888 1.72875C12.7553 1.90982 12.8929 2.06189 13.0015 2.18495C16.9268 6.63291 19.7703 12.0583 21.12 18.0493C18.9786 18.5007 16.7797 18.7963 14.5359 18.9238L12.4472 23.1012C12.3237 23.3482 12.0233 23.4483 11.7763 23.3248C11.6796 23.2764 11.6011 23.198 11.5527 23.1012L9.46401 18.9238C7.22018 18.7963 5.02133 18.5007 2.87988 18.0493ZM11.9999 14.9957C13.6568 14.9957 14.9999 13.6525 14.9999 11.9957C14.9999 10.3388 13.6568 8.99565 11.9999 8.99565C10.3431 8.99565 8.99994 10.3388 8.99994 11.9957C8.99994 13.6525 10.3431 14.9957 11.9999 14.9957Z\"></path></svg>",
 		"map,space,ship,filled",
 		"Remix Icon"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g><path fill=\"none\" d=\"M0 0h24v24H0z\"></path><path d=\"M2.88 18.054a35.897 35.897 0 0 1 8.531-16.32.8.8 0 0 1 1.178 0c.166.18.304.332.413.455a35.897 35.897 0 0 1 8.118 15.865c-2.141.451-4.34.747-6.584.874l-2.089 4.178a.5.5 0 0 1-.894 0l-2.089-4.178a44.019 44.019 0 0 1-6.584-.874zm6.698-1.123l1.157.066L12 19.527l1.265-2.53 1.157-.066a42.137 42.137 0 0 0 4.227-.454A33.913 33.913 0 0 0 12 4.09a33.913 33.913 0 0 0-6.649 12.387c1.395.222 2.805.374 4.227.454zM12 15a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0-2a1 1 0 1 0 0-2 1 1 0 0 0 0 2z\"></path></g></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.87988 18.0493C4.23015 12.056 7.07526 6.62874 11.003 2.17982C11.1105 2.05802 11.2465 1.90767 11.411 1.72875C11.7101 1.40349 12.2162 1.38227 12.5414 1.68133C12.5579 1.69647 12.5737 1.71229 12.5888 1.72875C12.7553 1.90982 12.8929 2.06188 13.0015 2.18495C16.9268 6.63291 19.7703 12.0583 21.12 18.0493C18.9786 18.5006 16.7797 18.7963 14.5359 18.9238L12.4472 23.1012C12.3237 23.3482 12.0233 23.4483 11.7763 23.3248C11.6796 23.2764 11.6011 23.198 11.5527 23.1012L9.46401 18.9238C7.22018 18.7963 5.02133 18.5006 2.87988 18.0493ZM9.57748 16.927L10.7346 16.9928L11.9999 19.5235L13.2653 16.9928L14.4224 16.927C15.8443 16.8462 17.2543 16.6943 18.6488 16.4726C17.3229 11.9195 15.0539 7.70543 11.9999 4.0855C8.94595 7.70541 6.67696 11.9194 5.35112 16.4726C6.74562 16.6943 8.15563 16.8462 9.57748 16.927ZM11.9999 14.9956C10.3431 14.9956 8.99994 13.6525 8.99994 11.9956C8.99994 10.3388 10.3431 8.99565 11.9999 8.99565C13.6568 8.99565 14.9999 10.3388 14.9999 11.9956C14.9999 13.6525 13.6568 14.9956 11.9999 14.9956ZM11.9999 12.9956C12.5522 12.9956 12.9999 12.5479 12.9999 11.9956C12.9999 11.4434 12.5522 10.9956 11.9999 10.9956C11.4477 10.9956 10.9999 11.4434 10.9999 11.9956C10.9999 12.5479 11.4477 12.9956 11.9999 12.9956Z\"></path></svg>",
 		"map,space,ship,line",
 		"Remix Icon"
 	],
@@ -740,23 +745,28 @@
 		"Radix Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"9\" y=\"7\" width=\"6\" height=\"10\" rx=\"2\"></rect><path d=\"M4 22V2\"></path><path d=\"M20 22V2\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"6\" height=\"10\" x=\"9\" y=\"7\" rx=\"2\"></rect><path d=\"M4 22V2\"></path><path d=\"M20 22V2\"></path></svg>",
 		"align,horizontal,space,around",
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"5\" width=\"6\" height=\"14\" rx=\"2\"></rect><rect x=\"15\" y=\"7\" width=\"6\" height=\"10\" rx=\"2\"></rect><path d=\"M3 2v20\"></path><path d=\"M21 2v20\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"6\" height=\"14\" x=\"3\" y=\"5\" rx=\"2\"></rect><rect width=\"6\" height=\"10\" x=\"15\" y=\"7\" rx=\"2\"></rect><path d=\"M3 2v20\"></path><path d=\"M21 2v20\"></path></svg>",
 		"align,horizontal,space,between",
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"7\" y=\"9\" width=\"10\" height=\"6\" rx=\"2\"></rect><path d=\"M22 20H2\"></path><path d=\"M22 4H2\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"10\" height=\"6\" x=\"7\" y=\"9\" rx=\"2\"></rect><path d=\"M22 20H2\"></path><path d=\"M22 4H2\"></path></svg>",
 		"align,vertical,space,around",
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"5\" y=\"15\" width=\"14\" height=\"6\" rx=\"2\"></rect><rect x=\"7\" y=\"3\" width=\"10\" height=\"6\" rx=\"2\"></rect><path d=\"M2 21h20\"></path><path d=\"M2 3h20\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"14\" height=\"6\" x=\"5\" y=\"15\" rx=\"2\"></rect><rect width=\"10\" height=\"6\" x=\"7\" y=\"3\" rx=\"2\"></rect><path d=\"M2 21h20\"></path><path d=\"M2 3h20\"></path></svg>",
 		"align,vertical,space,between",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"22,17 22,19 2,19 2,17\"></polyline></svg>",
+		"space",
 		"Lucide"
 	],
 	[
