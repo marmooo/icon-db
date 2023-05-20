@@ -345,3 +345,5 @@
   [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/ui-icons)
 - [Solar Icon Set](https://github.com/480-Design/Solar-icon-set) licensed under
   the [CC-BY-4.0](https://www.figma.com/community/file/1166831539721848736)
+- [Basil Icons](https://craftwork.design/downloads/basil/) licensed under the
+  [CC-BY-4.0](https://www.figma.com/community/file/931906394678748246)
