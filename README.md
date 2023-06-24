@@ -28,5 +28,5 @@ All icons and tags are normalized:
 ## License
 
 This repository is a collection of works by various artists and is not a
-coolection of original works. Please see [collections.md](collections.md), which
+collection of original works. Please see [collections.md](collections.md), which
 summarizes the icon sets and their licenses.
