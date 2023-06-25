@@ -347,3 +347,5 @@
   the [CC-BY-4.0](https://www.figma.com/community/file/1166831539721848736)
 - [Basil Icons](https://craftwork.design/downloads/basil/) licensed under the
   [CC-BY-4.0](https://www.figma.com/community/file/931906394678748246)
+- [Sargam Icons](https://github.com/planetabhi/sargam-icons) licensed under the
+  [MIT](https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt)
