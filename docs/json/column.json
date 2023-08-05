@@ -195,6 +195,11 @@
 		"Tabler Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-column-remove\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 4h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-14a1 1 0 0 1 1 -1z\"></path><path d=\"M16 10l4 4\"></path><path d=\"M16 14l4 -4\"></path></svg>",
+		"column,remove",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-freeze-column\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 9.5l-6 6\"></path><path d=\"M9 4l-6 6\"></path><path d=\"M9 15l-5 5\"></path><path d=\"M9 3v18\"></path><path d=\"M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14z\"></path></svg>",
 		"freeze,column",
 		"Tabler Icons"
@@ -202,6 +207,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-freeze-row-column\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14z\"></path><path d=\"M15 3l-12 12\"></path><path d=\"M9.5 3l-6 6\"></path><path d=\"M20 3.5l-5.5 5.5\"></path><path d=\"M9 15l-5 5\"></path><path d=\"M21 9h-12v12\"></path></svg>",
 		"freeze,row,column",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-table-column\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 5a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-14z\"></path><path d=\"M10 10h11\"></path><path d=\"M10 3v18\"></path><path d=\"M9 3l-6 6\"></path><path d=\"M10 7l-7 7\"></path><path d=\"M10 12l-7 7\"></path><path d=\"M10 17l-4 4\"></path></svg>",
+		"table,column",
 		"Tabler Icons"
 	],
 	[
@@ -797,6 +807,26 @@
 	[
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 5.5C17 5.22386 16.7761 5 16.5 5H11.5C11.2239 5 11 5.22386 11 5.5C11 5.77614 11.2239 6 11.5 6H16.5C16.7761 6 17 5.77614 17 5.5ZM9 5.5C9 5.22386 8.77614 5 8.5 5H3.5C3.22386 5 3 5.22386 3 5.5C3 5.77614 3.22386 6 3.5 6H8.5C8.77614 6 9 5.77614 9 5.5ZM17 8.5C17 8.22386 16.7761 8 16.5 8H11.5C11.2239 8 11 8.22386 11 8.5C11 8.77614 11.2239 9 11.5 9H16.5C16.7761 9 17 8.77614 17 8.5ZM9 8.5C9 8.22386 8.77614 8 8.5 8H3.5C3.22386 8 3 8.22386 3 8.5C3 8.77614 3.22386 9 3.5 9H8.5C8.77614 9 9 8.77614 9 8.5ZM17 11.5C17 11.2239 16.7761 11 16.5 11H11.5C11.2239 11 11 11.2239 11 11.5C11 11.7761 11.2239 12 11.5 12H16.5C16.7761 12 17 11.7761 17 11.5ZM9 11.5C9 11.2239 8.77614 11 8.5 11H3.5C3.22386 11 3 11.2239 3 11.5C3 11.7761 3.22386 12 3.5 12H8.5C8.77614 12 9 11.7761 9 11.5ZM17 14.5C17 14.2239 16.7761 14 16.5 14H11.5C11.2239 14 11 14.2239 11 14.5C11 14.7761 11.2239 15 11.5 15H16.5C16.7761 15 17 14.7761 17 14.5ZM9 14.5C9 14.2239 8.77614 14 8.5 14H3.5C3.22386 14 3 14.2239 3 14.5C3 14.7761 3.22386 15 3.5 15H8.5C8.77614 15 9 14.7761 9 14.5Z\" fill=\"#212121\"></path></svg>",
 		"text,column,two,text,column,two,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.75 5C3.33579 5 3 5.33579 3 5.75C3 6.16421 3.33579 6.5 3.75 6.5H16.25C16.6642 6.5 17 6.16421 17 5.75C17 5.33579 16.6642 5 16.25 5H3.75ZM3.75 8C3.33579 8 3 8.33579 3 8.75C3 9.16421 3.33579 9.5 3.75 9.5H16.25C16.6642 9.5 17 9.16421 17 8.75C17 8.33579 16.6642 8 16.25 8H3.75ZM3 11.75C3 11.3358 3.33579 11 3.75 11H16.25C16.6642 11 17 11.3358 17 11.75C17 12.1642 16.6642 12.5 16.25 12.5H3.75C3.33579 12.5 3 12.1642 3 11.75ZM3.75 14C3.33579 14 3 14.3358 3 14.75C3 15.1642 3.33579 15.5 3.75 15.5H16.25C16.6642 15.5 17 15.1642 17 14.75C17 14.3358 16.6642 14 16.25 14H3.75Z\" fill=\"#212121\"></path></svg>",
+		"text,column,wide,text,column,wide,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.75 5C3.33579 5 3 5.33579 3 5.75C3 6.16421 3.33579 6.5 3.75 6.5H16.25C16.6642 6.5 17 6.16421 17 5.75C17 5.33579 16.6642 5 16.25 5H3.75ZM3.75 8C3.33579 8 3 8.33579 3 8.75C3 9.16421 3.33579 9.5 3.75 9.5H16.25C16.6642 9.5 17 9.16421 17 8.75C17 8.33579 16.6642 8 16.25 8H3.75ZM3 11.75C3 11.3358 3.33579 11 3.75 11H16.25C16.6642 11 17 11.3358 17 11.75C17 12.1642 16.6642 12.5 16.25 12.5H3.75C3.33579 12.5 3 12.1642 3 11.75ZM3.75 14C3.33579 14 3 14.3358 3 14.75C3 15.1642 3.33579 15.5 3.75 15.5H16.25C16.6642 15.5 17 15.1642 17 14.75C17 14.3358 16.6642 14 16.25 14H3.75Z\" fill=\"#212121\"></path></svg>",
+		"text,column,wide,text,column,wide,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.5 5C3.22386 5 3 5.22386 3 5.5C3 5.77614 3.22386 6 3.5 6H16.5C16.7761 6 17 5.77614 17 5.5C17 5.22386 16.7761 5 16.5 5H3.5ZM3.5 8C3.22386 8 3 8.22386 3 8.5C3 8.77614 3.22386 9 3.5 9H16.5C16.7761 9 17 8.77614 17 8.5C17 8.22386 16.7761 8 16.5 8H3.5ZM3 11.5C3 11.2239 3.22386 11 3.5 11H16.5C16.7761 11 17 11.2239 17 11.5C17 11.7761 16.7761 12 16.5 12H3.5C3.22386 12 3 11.7761 3 11.5ZM3.5 14C3.22386 14 3 14.2239 3 14.5C3 14.7761 3.22386 15 3.5 15H16.5C16.7761 15 17 14.7761 17 14.5C17 14.2239 16.7761 14 16.5 14H3.5Z\" fill=\"#212121\"></path></svg>",
+		"text,column,wide,text,column,wide,regular",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.5 5C3.22386 5 3 5.22386 3 5.5C3 5.77614 3.22386 6 3.5 6H16.5C16.7761 6 17 5.77614 17 5.5C17 5.22386 16.7761 5 16.5 5H3.5ZM3.5 8C3.22386 8 3 8.22386 3 8.5C3 8.77614 3.22386 9 3.5 9H16.5C16.7761 9 17 8.77614 17 8.5C17 8.22386 16.7761 8 16.5 8H3.5ZM3 11.5C3 11.2239 3.22386 11 3.5 11H16.5C16.7761 11 17 11.2239 17 11.5C17 11.7761 16.7761 12 16.5 12H3.5C3.22386 12 3 11.7761 3 11.5ZM3.5 14C3.22386 14 3 14.2239 3 14.5C3 14.7761 3.22386 15 3.5 15H16.5C16.7761 15 17 14.7761 17 14.5C17 14.2239 16.7761 14 16.5 14H3.5Z\" fill=\"#212121\"></path></svg>",
+		"text,column,wide,text,column,wide,regular",
 		"Fluent UI System Icons"
 	],
 	[

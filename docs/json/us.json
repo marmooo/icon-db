@@ -1,10 +1,5 @@
 [
 	[
-		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><polygon class=\"c\" points=\"34.25 13.75 13.75 13.75 24 24 34.25 13.75\"></polygon><polygon class=\"c\" points=\"13.75 34.25 34.25 34.25 24 24 13.75 34.25\"></polygon><polygon class=\"c\" points=\"34.25 13.75 34.25 34.25 44.5 24 34.25 13.75\"></polygon><polygon class=\"c\" points=\"13.75 34.25 13.75 13.75 3.5 24 13.75 34.25\"></polygon><path class=\"c\" d=\"m20.598,37.25v2.6502c0,.75.6116,1.3501,1.3251,1.3501s1.3251-.6,1.3251-1.3501v-2.6502\"></path><path class=\"c\" d=\"m24.802,40.8035c.25.3.5501.45,1.0001.45h.6001c.5501,0,1.0001-.45,1.0001-1h0c0-.55-.4501-1-1.0001-1h-.6501c-.5501,0-1.0001-.45-1.0001-1h0c0-.55.4501-1,1.0001-1h.6001c.4501,0,.7501.1,1.0001.45\"></path></svg>",
-		"hsbc,us",
-		"Arcticons"
-	],
-	[
 		"<svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.b{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><polygon class=\"b\" points=\"42.5 29.1748 24 40.6457 5.5 29.1748 5.5 7.3543 42.5 7.3543 42.5 29.1748\"></polygon></svg>",
 		"us,bank",
 		"Arcticons"
@@ -150,12 +145,12 @@
 		"Material Design"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-us\" viewBox=\"0 0 512 512\"><path fill=\"#bd3d44\" d=\"M0 0h512v512H0\"></path><path stroke=\"#fff\" stroke-width=\"40\" d=\"M0 58h512M0 137h512M0 216h512M0 295h512M0 374h512M0 453h512\"></path><path fill=\"#192f5d\" d=\"M0 0h390v275H0z\"></path><marker id=\"a\" markerHeight=\"30\" markerWidth=\"30\"><path fill=\"#fff\" d=\"m15 0 9.3 28.6L0 11h30L5.7 28.6\"></path></marker><path fill=\"none\" marker-mid=\"url(#a)\" d=\"m0 0 18 11h65 65 65 65 66L51 39h65 65 65 65L18 66h65 65 65 65 66L51 94h65 65 65 65L18 121h65 65 65 65 66L51 149h65 65 65 65L18 177h65 65 65 65 66L51 205h65 65 65 65L18 232h65 65 65 65 66L0 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-us\" viewBox=\"0 0 512 512\"><path fill=\"#bd3d44\" d=\"M0 0h512v512H0\"></path><path stroke=\"#fff\" stroke-width=\"40\" d=\"M0 58h512M0 137h512M0 216h512M0 295h512M0 374h512M0 453h512\"></path><path fill=\"#192f5d\" d=\"M0 0h390v275H0z\"></path><marker id=\"us-a\" markerHeight=\"30\" markerWidth=\"30\"><path fill=\"#fff\" d=\"m15 0 9.3 28.6L0 11h30L5.7 28.6\"></path></marker><path fill=\"none\" marker-mid=\"url(#us-a)\" d=\"m0 0 18 11h65 65 65 65 66L51 39h65 65 65 65L18 66h65 65 65 65 66L51 94h65 65 65 65L18 121h65 65 65 65 66L51 149h65 65 65 65L18 177h65 65 65 65 66L51 205h65 65 65 65L18 232h65 65 65 65 66L0 0\"></path></svg>",
 		"us,flag",
 		"flag-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-us\" viewBox=\"0 0 640 480\"><path fill=\"#bd3d44\" d=\"M0 0h640v480H0\"></path><path stroke=\"#fff\" stroke-width=\"37\" d=\"M0 55.3h640M0 129h640M0 203h640M0 277h640M0 351h640M0 425h640\"></path><path fill=\"#192f5d\" d=\"M0 0h364.8v258.5H0\"></path><marker id=\"a\" markerHeight=\"30\" markerWidth=\"30\"><path fill=\"#fff\" d=\"m14 0 9 27L0 10h28L5 27z\"></path></marker><path fill=\"none\" marker-mid=\"url(#a)\" d=\"m0 0 16 11h61 61 61 61 60L47 37h61 61 60 61L16 63h61 61 61 61 60L47 89h61 61 60 61L16 115h61 61 61 61 60L47 141h61 61 60 61L16 166h61 61 61 61 60L47 192h61 61 60 61L16 218h61 61 61 61 60L0 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-us\" viewBox=\"0 0 640 480\"><path fill=\"#bd3d44\" d=\"M0 0h640v480H0\"></path><path stroke=\"#fff\" stroke-width=\"37\" d=\"M0 55.3h640M0 129h640M0 203h640M0 277h640M0 351h640M0 425h640\"></path><path fill=\"#192f5d\" d=\"M0 0h364.8v258.5H0\"></path><marker id=\"us-a\" markerHeight=\"30\" markerWidth=\"30\"><path fill=\"#fff\" d=\"m14 0 9 27L0 10h28L5 27z\"></path></marker><path fill=\"none\" marker-mid=\"url(#us-a)\" d=\"m0 0 16 11h61 61 61 61 60L47 37h61 61 60 61L16 63h61 61 61 61 60L47 89h61 61 60 61L16 115h61 61 61 61 60L47 141h61 61 60 61L16 166h61 61 61 61 60L47 192h61 61 60 61L16 218h61 61 61 61 60L0 0\"></path></svg>",
 		"us,flag",
 		"flag-icons"
 	],
