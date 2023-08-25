@@ -351,3 +351,5 @@
   [MIT](https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt)
 - [Iconsax](https://github.com/lusaxweb/iconsax) licensed under the
   [custom](https://iconsax.io/#license)
+- [WebHostingHub Glyphs](https://www.webhostinghub.com/glyphs/) licensed under
+  the [SIL-OFL-1.1](https://github.com/BanzaiTokyo/webhostinghub-glyphs)
