@@ -193,5 +193,20 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g transform=\"rotate(-90 12 12) translate(24 0) scale(-1 1)\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"10\"><path d=\"M2 12L9 5M2 12L9 19\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M8 12L15 5M8 12L15 19\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" begin=\"0.3s\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M14 12L21 5M14 12L21 19\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" begin=\"0.6s\" dur=\"0.3s\" fill=\"freeze\"></animate></path></g></g></svg>",
 		"chevron,triple,up",
 		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column_edit\" focusable=\"false\"><path d=\"M1536 898l-128 128V256h512v490q-18-3-36-5t-36-2q-14 0-28 1t-28 4V384h-256v514zm-640 641l-128 157V256h512v898l-128 128V384H896v1155zM128 256h512v1536H128V256zm128 1408h256V384H256v1280zm1592-768q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"triple,column,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column\" focusable=\"false\"><path d=\"M128 1792V256h512v1536H128zM256 384v1280h256V384H256zm512 1408V256h512v1536H768zM896 384v1280h256V384H896zm512-128h512v1536h-512V256zm384 1408V384h-256v1280h256z\"></path></svg>",
+		"triple,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column_wide\" focusable=\"false\"><path d=\"M0 256h512v1536H0V256zm128 1408h256V384H128v1280zM2048 256v1536h-512V256h512zm-128 128h-256v1280h256V384zM640 256h768v1536H640V256zm128 1408h512V384H768v1280z\"></path></svg>",
+		"triple,column,wide",
+		"Fluent UI MDL2"
 	]
 ]

@@ -6038,5 +6038,70 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 2V5\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 2V5\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M3.5 9.08984H20.5\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M21 8.5V17C21 20 19.5 22 16 22H8C4.5 22 3 20 3 17V8.5C3 5.5 4.5 3.5 8 3.5H16C19.5 3.5 21 5.5 21 8.5Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M15.6937 13.6992H15.7027\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M15.6937 16.6992H15.7027\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M11.9945 13.6992H12.0035\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M11.9945 16.6992H12.0035\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M8.29529 13.6992H8.30427\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M8.29492 16.6992H8.3039\" stroke=\"#292D32\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"time,twotone,calendar",
 		"Iconsax"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_agenda\" focusable=\"false\"><path d=\"M1664 128h384v1792H0V128h384V0h128v128h1024V0h128v128zM384 256H128v256h1792V256h-256v128h-128V256H512v128H384V256zM128 1792h1792V640H128v1152zm256-768V896h1280v128H384zm0 384v-128h1280v128H384z\"></path></svg>",
+		"calendar,agenda",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_day\" focusable=\"false\"><path d=\"M1664 128h384v1792H0V128h384V0h128v128h1024V0h128v128zm256 1664V640H128v1152h1792zm0-1280V256h-256v128h-128V256H512v128H384V256H128v256h1792zm-256 512v640H384v-640h1280zm-128 512v-384H512v384h1024zm128-768v128H384V768h1280z\"></path></svg>",
+		"calendar,day",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar\" focusable=\"false\"><path d=\"M768 768h128v128H768V768zm384 768h128v128h-128v-128zm384-768h128v128h-128V768zm-384 0h128v128h-128V768zm-384 256h128v128H768v-128zm-384 0h128v128H384v-128zm1152 0h128v128h-128v-128zm-384 0h128v128h-128v-128zm-384 256h128v128H768v-128zm-384 0h128v128H384v-128zm1152 0h128v128h-128v-128zm-384 0h128v128h-128v-128zm-384 256h128v128H768v-128zm-384 0h128v128H384v-128zM2048 128v1792H0V128h384V0h128v128h1024V0h128v128h384zM128 256v256h1792V256h-256v128h-128V256H512v128H384V256H128zm1792 1536V640H128v1152h1792z\"></path></svg>",
+		"calendar",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_mirrored\" focusable=\"false\"><path d=\"M1280 768h-128v128h128V768zm-384 768H768v128h128v-128zM512 768H384v128h128V768zm384 0H768v128h128V768zm384 256h-128v128h128v-128zm384 0h-128v128h128v-128zm-1152 0H384v128h128v-128zm384 0H768v128h128v-128zm384 256h-128v128h128v-128zm384 0h-128v128h128v-128zm-1152 0H384v128h128v-128zm384 0H768v128h128v-128zm384 256h-128v128h128v-128zm384 0h-128v128h128v-128zM0 128v1792h2048V128h-384V0h-128v128H512V0H384v128H0zm1920 128v256H128V256h256v128h128V256h1024v128h128V256h256zM128 1792V640h1792v1152H128z\"></path></svg>",
+		"calendar,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_reply\" focusable=\"false\"><path d=\"M896 896H768V768h128v128zm384 0h-128V768h128v128zm-384 256H768v-128h128v128zm-384 0H384v-128h128v128zm640-128h128v128h-128v-128zm512-128h-128V768h128v128zm-128 128h128v128h-128v-128zm-384 256h128v128h-128v-128zm-256 128H768v-128h128v128zm-384 0H384v-128h128v128zm256 128h128v128H768v-128zm-384 0h128v128H384v-128zM2048 128v1380q-28-26-60-44t-68-32V640H128v1152h1120l128 128H0V128h384V0h128v128h1024V0h128v128h384zm-128 384V256h-256v128h-128V256H512v128H384V256H128v256h1792zm-421 1024q50 0 110-2t122 0 118 14 101 40 71 78 27 126q0 53-20 99t-55 81-82 55-99 21v-128q27 0 50-10t40-27 28-41 10-50q0-27-10-50t-27-40-41-28-50-10h-293l162 163-90 90-317-317 317-317 90 90-162 163z\"></path></svg>",
+		"calendar,reply",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_settings\" focusable=\"false\"><path d=\"M2048 128v1064q-57-62-128-107V640H128v1152h898q11 34 25 66t34 62H0V128h384V0h128v128h1024V0h128v128h384zm-128 128h-256v128h-128V256H512v128H384V256H128v256h1792V256zM896 1408H768v-128h128v128zm256-384h128v61q-47 30-88 67h-40v-128zm128-128h-128V768h128v128zm384 0h-128V768h128v128zM512 1408H384v-128h128v128zm-128 128h128v128H384v-128zm128-384H384v-128h128v128zm384-256H768V768h128v128zm-128 640h128v128H768v-128zm128-384H768v-128h128v128zm1142 336l-124 51q6 30 6 61t-6 61l124 51-49 119-124-52q-35 51-86 86l52 124-119 49-51-124q-30 6-61 6t-61-6l-51 124-119-49 52-124q-51-35-86-86l-124 52-49-119 124-51q-6-30-6-61t6-61l-124-51 49-119 124 52q35-51 86-86l-52-124 119-49 51 124q30-6 61-6t61 6l51-124 119 49-52 124q51 35 86 86l124-52 49 119zm-438 304q40 0 75-15t61-41 41-61 15-75q0-40-15-75t-41-61-61-41-75-15q-40 0-75 15t-61 41-41 61-15 75q0 40 15 75t41 61 61 41 75 15z\"></path></svg>",
+		"calendar,settings",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_settings_mirrored\" focusable=\"false\"><path d=\"M1280 896h-128V768h128v128zm-384 512H768v-128h128v128zM2048 128v1064q-57-62-128-107V640H128v1152h898q11 34 25 66t34 62H0V128h384V0h128v128h1024V0h128v128h384zm-128 128h-256v128h-128V256H512v128H384V256H128v256h1792V256zm-768 768h128v61q-47 30-88 67h-40v-128zm-768 256h128v128H384v-128zm128-384H384V768h128v128zm0 256H384v-128h128v128zm384-256H768V768h128v128zm-128 640h128v128H768v-128zm128-384H768v-128h128v128zm1142 336l-124 51q6 30 6 61t-6 61l124 51-49 119-124-52q-35 51-86 86l52 124-119 49-51-124q-30 6-61 6t-61-6l-51 124-119-49 52-124q-51-35-86-86l-124 52-49-119 124-51q-6-30-6-61t6-61l-124-51 49-119 124 52q35-51 86-86l-52-124 119-49 51 124q30-6 61-6t61 6l51-124 119 49-52 124q51 35 86 86l124-52 49 119zm-438 304q40 0 75-15t61-41 41-61 15-75q0-40-15-75t-41-61-61-41-75-15q-40 0-75 15t-61 41-41 61-15 75q0 40 15 75t41 61 61 41 75 15z\"></path></svg>",
+		"calendar,settings,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_week\" focusable=\"false\"><path d=\"M1664 128h384v1792H0V128h384V0h128v128h1024V0h128v128zM384 256H128v256h1792V256h-256v128h-128V256H512v128H384V256zM128 1792h1792V640H128v1152zm640-128V768h128v896H768zm-384 0V768h128v896H384zm1152 0V768h128v896h-128zm-384 0V768h128v896h-128z\"></path></svg>",
+		"calendar,week",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_work_week\" focusable=\"false\"><path d=\"M1664 128h384v1792H0V128h384V0h128v128h1024V0h128v128zM384 256H128v256h1792V256h-256v128h-128V256H512v128H384V256zM128 1792h1792V640H128v1152zm256-640V768h1280v384H384zm128-256v128h1024V896H512z\"></path></svg>",
+		"calendar,work,week",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calendar_year\" focusable=\"false\"><path d=\"M1664 512h256v1536H256V512h256V384h128v128h896V384h128v128zm128 128h-128v128h128V640zm-256 0H640v128h896V640zm-1024 0H384v128h128V640zM384 1920h1408V896H384v1024zM256 384V256H128v1408H0V128h256V0h128v128h896V0h128v128h256v128h-256v128h-128V256H384v128H256zm384 1024v-128h128v128H640zm256 0v-128h128v128H896zm256 0v-128h128v128h-128zm256 0v-128h128v128h-128zm-768 256v-128h128v128H640zm256 0v-128h128v128H896zm256 0v-128h128v128h-128zm-256-512v-128h128v128H896zm256 0v-128h128v128h-128zm256 0v-128h128v128h-128z\"></path></svg>",
+		"calendar,year",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"primary_calendar\" focusable=\"false\"><path d=\"M2031 1537l-266 197 102 313-267-193-266 194 101-314-266-197h335l97-310 95 310h335zm17-1409v1249h-128V640H128v1152h1116l4 3-41 125H0V128h384V0h128v128h1024V0h128v128h384zm-128 384V256h-256v128h-128V256H512v128H384V256H128v256h1792z\"></path></svg>",
+		"primary,calendar",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"public_calendar\" focusable=\"false\"><path d=\"M1729 1283l317 317-317 317-91-90 163-163h-658l163 163-91 90-317-317 317-317 91 90-163 163h658l-163-163 91-90zM256 640v896h512v128H128V128h256V0h128v128h896V0h128v128h256v1024h-128V640H256zm128-384H256v256h1408V256h-128v128h-128V256H512v128H384V256z\"></path></svg>",
+		"public,calendar",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"search_calendar\" focusable=\"false\"><path d=\"M2048 128v768q-58-57-128-95V640H128v1152h707l-30 30q-13 13-23 28t-20 30-16 40H0V128h384V0h128v128h1024V0h128v128h384zm-128 384V256h-256v128h-128V256H512v128H384V256H128v256h1792zm-256 384q79 0 149 30t122 82 82 123 30 149q0 80-30 149t-82 122-122 83-149 30q-60 0-116-18t-106-54l-437 437q-19 19-45 19t-45-19-19-45q0-26 19-45l437-437q-35-49-53-105t-19-117q0-79 30-149t82-122 122-83 150-30zm0 640q53 0 99-20t82-55 55-81 20-100q0-53-20-99t-55-82-81-55-100-20q-53 0-99 20t-82 55-55 81-20 100q0 53 20 99t55 82 81 55 100 20z\"></path></svg>",
+		"search,calendar",
+		"Fluent UI MDL2"
 	]
 ]

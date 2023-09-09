@@ -1133,5 +1133,135 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"2.75\" cy=\"2.75\" r=\"2.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"11.25\" cy=\"2.75\" r=\"2.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"3\" y1=\"0.5\" x2=\"11\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4.16\" y1=\"4.5\" x2=\"9.84\" y2=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"3\" y1=\"13.5\" x2=\"3\" y2=\"4.99\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"5.5\" y1=\"13.5\" x2=\"5.5\" y2=\"7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8.5\" y1=\"13.5\" x2=\"8.5\" y2=\"7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"11\" y1=\"13.5\" x2=\"11\" y2=\"4.99\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
 		"travel,places,column,pillar,building,historical",
 		"Streamline UI Icons Line"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column\" focusable=\"false\"><path d=\"M512 0h1024v1920H512V0zm896 1792V384H640v1408h768zm0-1536V128H640v128h768z\"></path></svg>",
+		"column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_left_two_thirds_edit\" focusable=\"false\"><path d=\"M128 1664h699l-32 128H0V256h1280v898l-128 128V384H128v1280zM2048 256v540q-29-19-61-31t-67-19V384h-384v514l-128 128V256h640zm-200 640q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"column,left,two,thirds,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_left_two_thirds\" focusable=\"false\"><path d=\"M0 1792V256h1280v1536H0zM128 384v1280h1024V384H128zm1280-128h640v1536h-640V256zm512 1408V384h-384v1280h384z\"></path></svg>",
+		"column,left,two,thirds",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_options\" focusable=\"false\"><path d=\"M2048 128v1024h-128V640h-512v384h-128V640H768v1024h256v128H0V128h2048zM640 640H128v1024h512V640zm1280-128V256H128v256h1792zm118 976l-124 51q6 30 6 61t-6 61l124 51-49 119-124-52q-35 51-86 86l52 124-119 49-51-124q-30 6-61 6t-61-6l-51 124-119-49 52-124q-51-35-86-86l-124 52-49-119 124-51q-6-30-6-61t6-61l-124-51 49-119 124 52q35-51 86-86l-52-124 119-49 51 124q30-6 61-6t61 6l51-124 119 49-52 124q51 35 86 86l124-52 49 119zm-437 304q40 0 74-15t61-41 41-62 15-75q0-39-15-74t-41-61-62-41-74-15q-40 0-75 15t-61 42-41 61-15 75q0 40 15 74t41 61 62 41 75 15z\"></path></svg>",
+		"column,options",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_right_two_thirds_edit\" focusable=\"false\"><path d=\"M0 256h640v1536H0V256zm128 1408h384V384H128v1280zM2048 256v540q-29-19-61-31t-67-19V384H896v1155l-128 157V256h1280zm-200 640q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"column,right,two,thirds,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_right_two_thirds\" focusable=\"false\"><path d=\"M768 256h1280v1536H768V256zm1152 1408V384H896v1280h1024zM0 1792V256h640v1536H0zM128 384v1280h384V384H128z\"></path></svg>",
+		"column,right,two,thirds",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_vertical_section_edit\" focusable=\"false\"><path d=\"M1848 896q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm72 198q0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693q21-21 21-51zm-512-838h640v556q-57-39-128-53V384h-384v532l-128 128V256zM256 384V256h256v128H256zm640-128v128H640V256h256zM256 1792v-128h256v128H256zm384 0v-128h200l-32 128H640zM0 896V640h128v256H0zm0-384V256h128v256H0zm0 1152v-256h128v256H0zm0-384v-256h128v256H0zm1152-512v256h-128V768h128zm0-384v256h-128V384h128zm0 768v128l-128 128v-256h128z\"></path></svg>",
+		"column,vertical,section,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"column_vertical_section\" focusable=\"false\"><path d=\"M1408 256h640v1536h-640V256zm512 1408V384h-384v1280h384zM256 384V256h256v128H256zm384 0V256h256v128H640zM256 1792v-128h256v128H256zm384 0v-128h256v128H640zM0 896V640h128v256H0zm0-384V256h128v256H0zm0 1152v-256h128v256H0zm0-384v-256h128v256H0zm1024-256V768h128v256h-128zm0-384V384h128v256h-128zm0 1152v-256h128v256h-128zm0-384v-256h128v256h-128z\"></path></svg>",
+		"column,vertical,section",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"double_column_edit\" focusable=\"false\"><path d=\"M1152 1282l-128 129V256h896v490q-18-3-36-5t-36-2q-14 0-28 1t-28 4V384h-640v898zm-256 257l-50 51-51 202H0V256h896v1283zM768 384H128v1280h640V384zm1080 512q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"double,column,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"double_column\" focusable=\"false\"><path d=\"M0 1792V256h896v1536H0zM128 384v1280h640V384H128zm896-128h896v1536h-896V256zm768 1408V384h-640v1280h640z\"></path></svg>",
+		"double,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"fixed_column_width\" focusable=\"false\"><path d=\"M1920 0h128v768H0V0h128v640h256V384h128v256h256V128h128v512h256V384h128v256h256V128h128v512h256V0zM0 2048V896h2048v1152h-128v-128h-512v128h-128v-128H768v128H640v-128H128v128H0zm768-256h512v-384H768v384zm640 0h512v-384h-512v384zM128 1024v256h1792v-256H128zm512 384H128v384h512v-384z\"></path></svg>",
+		"fixed,column,width",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"quad_column\" focusable=\"false\"><path d=\"M0 256h384v1536H0V256zm128 1408h128V384H128v1280zm896-1408h384v1536h-384V256zm128 1408h128V384h-128v1280zM512 256h384v1536H512V256zm128 1408h128V384H640v1280zM1920 256v1536h-384V256h384zm-128 128h-128v1280h128V384z\"></path></svg>",
+		"quad,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"single_column_edit\" focusable=\"false\"><path d=\"M128 1664h699l-32 128H0V256h1920v490q-18-3-36-5t-36-2q-14 0-28 1t-28 4V384H128v1280zm1720-768q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"single,column,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"single_column\" focusable=\"false\"><path d=\"M0 256h1920v1536H0V256zm1792 1408V384H128v1280h1664z\"></path></svg>",
+		"single,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stack_column_chart\" focusable=\"false\"><path d=\"M256 1792h1664v128H128V129h128v1663zM1792 256v1408h-384V256h384zm-256 1280h128V768h-128v768zm128-896V384h-128v256h128zm-384-384v1408H896V256h384zm-128 1280v-256h-128v256h128zm0-384V384h-128v768h128zM768 256v1408H384V256h384zM640 1536v-512H512v512h128zm0-640V384H512v512h128z\"></path></svg>",
+		"stack,column,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_column_chart_fill\" focusable=\"false\"><path d=\"M1792 256v1408h-384V256h384zm-128 384V384h-128v256h128zm-384 128v896H896V768h384zm-128 384V896h-128v256h128zM768 512v1152H384V512h384zM640 896V640H512v256h128zm-384 896h1664v128H128V128h128v1664z\"></path></svg>",
+		"stacked,column,chart,filled",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_column_chart\" focusable=\"false\"><path d=\"M1920 1792v128H128V128h128v1664h1664zM768 1664H384V512h384v1152zm-128-640H512v512h128v-512zm0-384H512v256h128V640zm640 1024H896V768h384v896zm-128-384h-128v256h128v-256zm0-384h-128v256h128V896zm640 768h-384V256h384v1408zm-128-896h-128v768h128V768zm0-384h-128v256h128V384z\"></path></svg>",
+		"stacked,column,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_one_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h1408v1280H256zM384 640v1024h1152V640H384z\"></path></svg>",
+		"tab,one,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_three_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h384v1280H256zM384 640v1024h128V640H384zm384 1152V512h384v1280H768zM896 640v1024h128V640H896zm768-128v1280h-384V512h384zm-128 1152V640h-128v1024h128z\"></path></svg>",
+		"tab,three,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_two_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h640v1280H256zM384 640v1024h384V640H384zm1280-128v1280h-640V512h640zm-128 1152V640h-384v1024h384z\"></path></svg>",
+		"tab,two,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"table_branded_column\" focusable=\"false\"><path d=\"M0 128h2048v1664H0V128zm768 640v384h512V768H768zm512-128V256H768v384h512zm-512 640v384h512v-384H768z\"></path></svg>",
+		"table,branded,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"table_first_column\" focusable=\"false\"><path d=\"M0 128h2048v1664H0V128zm1920 512V256h-512v384h512zM768 256v384h512V256H768zm0 1024v384h512v-384H768zm0-128h512V768H768v384zm640-384v384h512V768h-512zm0 896h512v-384h-512v384z\"></path></svg>",
+		"table,first,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"table_last_column\" focusable=\"false\"><path d=\"M0 128h2048v1664H0V128zm768 640v384h512V768H768zm-128 384V768H128v384h512zm640-512V256H768v384h512zm0 640H768v384h512v-384zM640 256H128v384h512V256zM128 1280v384h512v-384H128z\"></path></svg>",
+		"table,last,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column_edit\" focusable=\"false\"><path d=\"M1536 898l-128 128V256h512v490q-18-3-36-5t-36-2q-14 0-28 1t-28 4V384h-256v514zm-640 641l-128 157V256h512v898l-128 128V384H896v1155zM128 256h512v1536H128V256zm128 1408h256V384H256v1280zm1592-768q42 0 78 15t64 42 42 63 16 78q0 39-15 76t-43 65l-717 719-377 94 94-377 717-718q28-28 65-42t76-15zm51 249q21-21 21-51 0-31-20-50t-52-20q-14 0-27 4t-23 15l-692 694-34 135 135-34 692-693z\"></path></svg>",
+		"triple,column,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column\" focusable=\"false\"><path d=\"M128 1792V256h512v1536H128zM256 384v1280h256V384H256zm512 1408V256h512v1536H768zM896 384v1280h256V384H896zm512-128h512v1536h-512V256zm384 1408V384h-256v1280h256z\"></path></svg>",
+		"triple,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"triple_column_wide\" focusable=\"false\"><path d=\"M0 256h512v1536H0V256zm128 1408h256V384H128v1280zM2048 256v1536h-512V256h512zm-128 128h-256v1280h256V384zM640 256h768v1536H640V256zm128 1408h512V384H768v1280z\"></path></svg>",
+		"triple,column,wide",
+		"Fluent UI MDL2"
 	]
 ]

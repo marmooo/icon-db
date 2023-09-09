@@ -1058,5 +1058,55 @@
 		"<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"17\" height=\"17\" viewBox=\"0 0 17 17\"><g></g><path d=\"M7 3v-1h-7v14h17v-13h-10zM11 4v1h-4v-1h4zM16 15h-15v-12h5v3h10v9zM12 5v-1h4v1h-4z\" fill=\"#000000\"></path></svg>",
 		"layout,tab",
 		"Themify Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"browser_tab\" focusable=\"false\"><path d=\"M1792 256v1792H128V0h896v256h768zm-128 128H896V128H256v1792h1408V384z\"></path></svg>",
+		"browser,tab",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"browser_tab_screenshot\" focusable=\"false\"><path d=\"M256 1920h384v128H128V0h896v256h768v640h-128V384H896V128H256v1792zm1792-768v896H768v-896h293l128-128h438l128 128h293zm-128 128h-219l-128-128h-330l-128 128H896v640h1024v-640zm-512 0q53 0 99 20t82 55 55 81 20 100q0 53-20 99t-55 82-81 55-100 20q-53 0-99-20t-82-55-55-81-20-100q0-53 20-99t55-82 81-55 100-20zm0 384q27 0 50-10t40-27 28-41 10-50q0-27-10-50t-27-40-41-28-50-10q-27 0-50 10t-40 27-28 41-10 50q0 27 10 50t27 40 41 28 50 10z\"></path></svg>",
+		"browser,tab,screenshot",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"emoji_tab_symbols\" focusable=\"false\"><path d=\"M1920 1152h128v384h-384v-128h192q-45-60-113-94t-143-34q-51 0-98 15t-87 44-70 67-47 87l-120-42q24-67 66-122t97-94 122-61 137-22q91 0 174 35t146 100v-135zM448 0q93 0 174 35t143 96 96 142 35 175q0 93-35 174t-96 143-142 96-175 35q-93 0-174-35t-143-96-96-142T0 448q0-93 35-174t96-143 142-96T448 0zM128 448q0 66 25 124t68 102 102 69 125 25q47 0 92-13t84-40L181 272q-26 39-39 84t-14 92zm587 176q26-39 39-84t14-92q0-66-25-124t-69-101-102-69-124-26q-47 0-92 13t-84 40l443 443zm-203 912h384v128H512v384H384v-384H0v-128h384v-384h128v384zm1088 384q51 0 98-15t86-44 70-67 48-87l120 42q-24 67-66 122t-97 94-122 61-137 22q-91 0-174-35t-146-100v135h-128v-384h384v128h-192q45 60 113 94t143 34zM1230 521q-38-38-58-87t-20-102q0-56 21-105t57-85 84-57 105-21q51 0 97 18t84 52q37-34 83-52t98-18q55 0 104 21t85 57 57 85 21 105q0 53-20 102t-58 87l-370 369-370-369zm190-329q-29 0-54 11t-45 30-30 44-11 55q0 28 10 53t31 45l279 279 279-279q41-41 41-98 0-29-11-54t-30-45-44-30-55-11q-57 0-98 41l-82 82-82-82q-20-20-45-30t-53-11z\"></path></svg>",
+		"emoji,tab,symbols",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"horizontal_tab_key\" focusable=\"false\"><path d=\"M475 512h1573v128H475l210 211-90 90-365-365 365-365 90 90-210 211zM128 256v640H0V256h128zm1235 941l90-90 365 365-365 365-90-90 210-211H0v-128h1573l-210-211zm557 595v-640h128v640h-128z\"></path></svg>",
+		"horizontal,tab,key",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"open_in_new_tab\" focusable=\"false\"><path d=\"M2048 0v1664h-384v384H0V384h384V0h1664zm-128 1536V128H512v256h256v128H128v1408h1408v-640h128v256h256zm-979-339l-90-90 594-595h-421V384h640v640h-128V603l-595 594z\"></path></svg>",
+		"open,in,new,tab",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_center\" focusable=\"false\"><path d=\"M1920 640v1280H512v-512H128V128h1408v512h384zm-128 1152v-768H640v768h1152zM512 1280V640h896V512H256v768h256zM256 256v128h1152V256H256zm1536 512H640v128h1152V768z\"></path></svg>",
+		"tab,center",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab\" focusable=\"false\"><path d=\"M1920 384v1664H512v-384H128V0h1408v384h384zM256 1536h1152V128H256v1408zM1792 512h-256v1152H640v256h1152V512z\"></path></svg>",
+		"tab",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_one_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h1408v1280H256zM384 640v1024h1152V640H384z\"></path></svg>",
+		"tab,one,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_three_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h384v1280H256zM384 640v1024h128V640H384zm384 1152V512h384v1280H768zM896 640v1024h128V640H896zm768-128v1280h-384V512h384zm-128 1152V640h-128v1024h128z\"></path></svg>",
+		"tab,three,column",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"tab_two_column\" focusable=\"false\"><path d=\"M1024 256h896v1792H0V0h1024v256zm768 1664V384H896V128H128v1792h1664zM256 1792V512h640v1280H256zM384 640v1024h384V640H384zm1280-128v1280h-640V512h640zm-128 1152V640h-384v1024h384z\"></path></svg>",
+		"tab,two,column",
+		"Fluent UI MDL2"
 	]
 ]

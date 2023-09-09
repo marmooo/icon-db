@@ -483,5 +483,15 @@
 		"<svg fill=\"none\" height=\"24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g stroke=\"currentColor\"><rect height=\"14\" rx=\"2\" stroke-width=\"2\" width=\"18\" x=\"3\" y=\"5\"></rect><path d=\"M6 12h4m0 0l-1.5-1.5M10 12l-1.5 1.5M18 12h-4m0 0l1.5-1.5M14 12l1.5 1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"rectangle,contract",
 		"IconBrew"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"mini_contract\" focusable=\"false\"><path d=\"M1792 1280h128v512H128V256h768v128H256v768h768v512h768v-384zm-1536 0v384h640v-384H256zm1536-256h-640V384h128v421l549-549 91 91-549 549h421v128z\"></path></svg>",
+		"mini,contract",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"mini_contract_mirrored\" focusable=\"false\"><path d=\"M256 1280H128v512h1792V256h-768v128h640v768h-768v512H256v-384zm1536 0v384h-640v-384h640zM256 1024h640V384H768v421L219 256l-91 91 549 549H256v128z\"></path></svg>",
+		"mini,contract,mirrored",
+		"Fluent UI MDL2"
 	]
 ]

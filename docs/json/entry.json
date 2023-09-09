@@ -243,5 +243,20 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"5.62 7.38 11.5 1.5 13.5 3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"9.25\" y1=\"3.75\" x2=\"11\" y2=\"5.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"3.5\" cy=\"9.5\" r=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
 		"interface,login,key,entry,lock,pass,unlock",
 		"Streamline UI Icons Line"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"entry_decline\" focusable=\"false\"><path d=\"M512 768h1024v128H512V768zm1024-256H512V384h1024v128zm-384 1408l127 128H256V0h1536v1348l-64 63-64-64V128H384v1792h768zm576 125l3 3h-6l3-3zm-192-893l-129 128H512v-128h1024zm-317 384l128 128H512v-128h707zm600 192l226 227-90 90-227-226-227 227-90-91 227-227-227-227 90-90 227 227 227-227 90 91-226 226z\"></path></svg>",
+		"entry,decline",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"entry_view\" focusable=\"false\"><path d=\"M777 1920q15 35 36 67t48 61H0V0h1536v911q-32-9-64-17t-64-13V128H128v1792h649zm503-1408H256V384h1024v128zM256 768h1024v128H256V768zm960 640q66 0 124 25t101 69 69 102 26 124q0 66-25 124t-69 102-102 69-124 25q-66 0-124-25t-102-68-69-102-25-125q0-66 25-124t68-101 102-69 125-26zm0 512q40 0 75-15t61-41 41-61 15-75q0-40-15-75t-41-61-61-41-75-15q-40 0-75 15t-61 41-41 61-15 75q0 40 15 75t41 61 61 41 75 15zm0-896q100 0 200 21t193 64 173 103 139 139 93 173 34 204h-128q0-91-29-169t-81-142-119-113-147-83-162-51-166-18q-82 0-166 17t-162 51-146 83-120 114-80 142-30 169H384q0-109 34-204t93-173 139-139 172-103 193-63 201-22z\"></path></svg>",
+		"entry,view",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"time_entry\" focusable=\"false\"><path d=\"M1536 1408h192v128h-320v-384h128v256zm-256-896H256V384h1024v128zm192 384q119 0 224 45t183 124 123 183 46 224q0 119-45 224t-124 183-183 123-224 46q-119 0-224-45t-183-124-123-183-46-224q0-119 45-224t124-183 183-123 224-46zm0 1024q93 0 174-35t142-96 96-142 36-175q0-93-35-174t-96-142-142-96-175-36q-93 0-174 35t-142 96-96 142-36 175q0 93 35 174t96 142 142 96 175 36zM1166 768q-109 48-200 128H256V768h910zm-391 384q-14 31-25 63t-21 65H256v-128h519zm-519 384h451q3 32 8 64t14 64H256v-128zm594 384q50 71 116 128H0V0h1536v707l-32-2q-16-1-32-1t-32 1-32 2V128H128v1792h722z\"></path></svg>",
+		"time,entry",
+		"Fluent UI MDL2"
 	]
 ]

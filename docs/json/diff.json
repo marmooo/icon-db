@@ -253,5 +253,20 @@
 		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.5 1.5c-1.11 0-2 .89-2 2v11c0 1.11.89 2 2 2h2v-2h-2v-11h11v2h2v-2c0-1.11-.89-2-2-2h-11m6 6c-1.11 0-2 .89-2 2v2h2v-2h2v-2h-2m4 0v2h1v1h2v-3h-3m5 0v2h2v11h-11v-2h-2v2c0 1.11.89 2 2 2h11c1.11 0 2-.89 2-2v-11c0-1.11-.89-2-2-2h-2m-4 5v2h-2v2h2c1.11 0 2-.89 2-2v-2h-2m-7 1v3h3v-2h-1v-1z\" style=\"fill:#42a5f5\"></path></svg>",
 		"diff",
 		"Material Icon Theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"diff_inline\" focusable=\"false\"><path d=\"M1792 0v2048H256V0h1536zM384 128v384h1280V128H384zm1280 1408H384v384h1280v-384zm0-256V640H384v640h1280z\"></path></svg>",
+		"diff,inline",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"diff_side_by_side\" focusable=\"false\"><path d=\"M0 384h896v1280H0V384zm768 1152V768H128v768h640zM128 512v128h640V512H128zm1920-128v1280h-896V384h896zm-128 896h-640v256h640v-256zm0-768h-640v512h640V512z\"></path></svg>",
+		"diff,side,by",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"image_diff\" focusable=\"false\"><path d=\"M2048 0v1920H0V0h2048zM128 896h933L576 410 128 859v37zm1573 0l-293-293-230 229 65 64h458zM128 1792h933l-485-486-448 449v37zm1115 0h458l-293-293-230 229 65 64zm677-768H128v549l448-447 512 512 320-321 475 475h37v-768zm0-128V128H128v549l448-447 512 512 320-321 475 475h37z\"></path></svg>",
+		"image,diff",
+		"Fluent UI MDL2"
 	]
 ]

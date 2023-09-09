@@ -698,5 +698,30 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-checkbox-marked\" viewBox=\"0 0 22 22\"><path d=\"M3 4H4V3H18V4H17V5H5V17H17V11H18V10H19V18H18V19H4V18H3V4M6 9H8V10H9V11H10V12H12V11H13V10H14V9H15V8H16V7H17V6H18V5H19V4H21V6H20V7H19V8H18V9H17V10H16V11H15V12H14V13H13V14H12V15H10V14H9V13H8V12H7V11H6V9Z\"></path></svg>",
 		"checkbox,marked",
 		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checkbox_composite\" focusable=\"false\"><path d=\"M2048 0v2048H0V0h2048zm-128 128H128v1792h1792V128zM768 1627l-429-430 90-90 339 338 851-850 90 90-941 942z\"></path></svg>",
+		"checkbox,composite",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checkbox_composite_reversed\" focusable=\"false\"><path d=\"M2048 0v2048H0V0h2048zm-339 685l-90-90-851 850-339-338-90 90 429 430 941-942z\"></path></svg>",
+		"checkbox,composite,reversed",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checkbox_fill\" focusable=\"false\"><path d=\"M2048 0v2048H0V0h2048z\"></path></svg>",
+		"checkbox,filled",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checkbox\" focusable=\"false\"><path d=\"M2048 0v2048H0V0h2048zm-128 128H128v1792h1792V128z\"></path></svg>",
+		"checkbox",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checkbox_indeterminate\" focusable=\"false\"><path d=\"M1536 512v1024H512V512h1024z\"></path></svg>",
+		"checkbox,indeterminate",
+		"Fluent UI MDL2"
 	]
 ]

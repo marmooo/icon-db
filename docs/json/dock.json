@@ -368,5 +368,20 @@
 		"<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path fill=\"#444\" d=\"M0 11v5h16v-5h-16zM12 15h-3v-3h3v3z\"></path><path fill=\"#444\" d=\"M12 7v-2c0-5-8-5-8-5s5 0 5 5v2h-2l3.5 3 3.5-3h-2z\"></path></svg>",
 		"add,dock",
 		"Vaadin Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"dock_left\" focusable=\"false\"><path d=\"M0 384h2048v1152H0V384zm128 128v896h384V512H128zm1792 896V512H640v896h1280z\"></path></svg>",
+		"dock,left",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"dock_left_mirrored\" focusable=\"false\"><path d=\"M2048 384H0v1152h2048V384zm-128 128v896h-384V512h384zM128 1408V512h1280v896H128z\"></path></svg>",
+		"dock,left,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"dock_right\" focusable=\"false\"><path d=\"M0 384h2048v1152H0V384zm128 128v896h1280V512H128zm1792 896V512h-384v896h384z\"></path></svg>",
+		"dock,right",
+		"Fluent UI MDL2"
 	]
 ]

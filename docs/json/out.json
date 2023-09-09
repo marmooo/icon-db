@@ -1968,5 +1968,40 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 20C15.9706 20 20 15.9706 20 11C20 6.02944 15.9706 2 11 2C6.02944 2 2 6.02944 2 11C2 15.9706 6.02944 20 11 20Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M8.5 11H13.5\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M18.9304 20.6888C19.4604 22.2888 20.6704 22.4488 21.6004 21.0488C22.4504 19.7688 21.8904 18.7188 20.3504 18.7188C19.2104 18.7088 18.5704 19.5988 18.9304 20.6888Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"search,twotone,search,zoom,out",
 		"Iconsax"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checked_out_by_other\" focusable=\"false\"><path d=\"M939 171q129 0 249 33t224 95 190 146 147 190 94 225 34 249q0 129-33 249t-95 224-146 191-190 147-225 94-249 34q-130 0-250-33t-224-95-190-147-147-190-94-224-34-250q0-129 33-249t95-224 147-190 190-147 224-94 250-34zm0 1740q111 0 213-28t192-81 162-126 125-162 81-191 29-214q0-110-28-212t-81-192-126-162-163-126-191-81-213-29q-111 0-213 28t-192 81-162 126-125 162-81 191-29 214q0 111 28 213t81 192 125 162 163 126 191 80 214 29zm256-1058h170v683H683v-171h391L537 828l121-120 537 537V853z\"></path></svg>",
+		"checked,out,by,other",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"checked_out_by_you\" focusable=\"false\"><path d=\"M939 171q129 0 248 33t224 95 190 147 147 190 95 224 34 249q0 129-33 248t-95 224-147 191-190 147-224 95-249 34q-129 0-249-33t-224-95-190-147-147-190-95-225-34-249q0-129 33-248t95-224 148-190 190-147 224-95 249-34zm426 1365V853h-170v361L673 693 522 843l522 522H683v171h682z\"></path></svg>",
+		"checked,out,by,you",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"out_of_office\" focusable=\"false\"><path d=\"M1600 1024q26 0 45 19t19 45q0 26-19 45t-45 19q-26 0-45-19t-19-45q0-26 19-45t45-19zm-832 256h128v768H768v-768zM1920 0v2048h-128V128H896v768H768V0h1152zM347 1024h805v128H347l210 211-90 90-365-365 365-365 90 90-210 211z\"></path></svg>",
+		"out,of,office",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"page_checked_out\" focusable=\"false\"><path d=\"M256 128v1792h1152v128H128V0h1115l549 549v923l-128-128V640h-512V128H256zm1024 91v293h293l-293-293zm640 1317h128v512h-512v-128h293l-402-403 90-90 403 402v-293z\"></path></svg>",
+		"page,checked,out",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"read_out_loud\" focusable=\"false\"><path d=\"M928 1152l384-384h96v1280h-96l-384-384H640v-512h288zm352 683V981l-299 299H768v256h213l299 299zm325-880q91 91 139 208t48 245q0 128-48 245t-139 208l-91-91q72-72 111-165t39-197q0-103-39-196t-111-166l91-91zm443 453q0 180-68 343t-194 291l-91-91q109-109 167-249t58-294q0-154-58-294t-167-249l91-91q126 128 194 291t68 343zM614 128H128v1536h384v128H0V0h614q108 0 197 42t149 135q58-93 148-135t198-42h614v685q-26-35-61-67t-67-63V128h-486q-88 0-155 37t-105 119q-3 6-6 16t-7 21-6 21-3 18v470L896 958V360q0-7-2-17t-6-22-7-21-7-16q-37-82-104-119t-156-37z\"></path></svg>",
+		"read,out,loud",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"sign_out\" focusable=\"false\"><path d=\"M256 1792h896v128H128V0h1024v128H256v1664zm1679-832l-487 488-80-80 345-344H640V896h1073l-345-344 80-80 487 488z\"></path></svg>",
+		"sign,out",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"zoom_out\" focusable=\"false\"><path d=\"M2048 1978q0 28-17 49t-47 21q-26 0-45-19l-785-784q-96 79-210 121t-240 42q-97 0-187-25t-168-71-142-110-111-143-71-168T0 704q0-97 25-187t71-168 110-142T349 96t168-71T704 0q97 0 187 25t168 71 142 110 111 143 71 168 25 187q0 125-42 239t-121 211l57 57q42 42 102 100t130 127 142 141 139 140 119 123 83 91 31 45zM704 1280q119 0 224-45t183-124 123-183 46-224q0-119-45-224t-124-183-183-123-224-46q-119 0-224 45T297 297 174 480t-46 224q0 119 45 224t124 183 183 123 224 46zM384 640h640v128H384V640z\"></path></svg>",
+		"zoom,out",
+		"Fluent UI MDL2"
 	]
 ]

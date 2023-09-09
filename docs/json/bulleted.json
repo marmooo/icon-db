@@ -163,5 +163,50 @@
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M2 4.75a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM5.75 3a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5Zm0 4.25a.75.75 0 0 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-8.5Zm-.75 5a.75.75 0 0 1 .75-.75h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1-.75-.75ZM3 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm-1 5.25a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z\" clip-rule=\"evenodd\"></path></svg>",
 		"list,bulleted",
 		"Gitlab SVGs"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list\" focusable=\"false\"><path d=\"M2048 384v128H512V384h1536zM512 896h1536v128H512V896zm0 512h1536v128H512v-128zM0 256h384v384H0V256zm128 256h128V384H128v128zM0 768h384v384H0V768zm128 256h128V896H128v128zM0 1280h384v384H0v-384zm128 256h128v-128H128v128z\"></path></svg>",
+		"bulleted,list",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_mirrored\" focusable=\"false\"><path d=\"M0 384v128h1536V384H0zm1536 512H0v128h1536V896zm0 512H0v128h1536v-128zm512-1152h-384v384h384V256zm-128 256h-128V384h128v128zm128 256h-384v384h384V768zm-128 256h-128V896h128v128zm128 256h-384v384h384v-384zm-128 256h-128v-128h128v128z\"></path></svg>",
+		"bulleted,list,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_bullet\" focusable=\"false\"><path d=\"M0 1664v-128h128v128H0zm0-384v-128h128v128H0zm0-896h128v128H0V384zm0 512V768h128v128H0z\"></path></svg>",
+		"bulleted,list,bullet",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_bullet_mirrored\" focusable=\"false\"><path d=\"M1920 1280v-128h128v128h-128zm0 384v-128h128v128h-128zm0-768V768h128v128h-128zm0-512h128v128h-128V384z\"></path></svg>",
+		"bulleted,list,bullet,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list\" focusable=\"false\"><path d=\"M0 1280v-128h128v128H0zm0-384V768h128v128H0zm384 0V768h1664v128H384zM0 512V384h128v128H0zm384-128h1664v128H384V384zm0 896v-128h1664v128H384zM0 1664v-128h128v128H0zm384 0v-128h1664v128H384z\"></path></svg>",
+		"bulleted,list",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_mirrored\" focusable=\"false\"><path d=\"M2048 1280v-128h-128v128h128zm0-384V768h-128v128h128zm-384 0V768H0v128h1664zm384-384V384h-128v128h128zm-384-128H0v128h1664V384zm0 896v-128H0v128h1664zm384 384v-128h-128v128h128zm-384 0v-128H0v128h1664z\"></path></svg>",
+		"bulleted,list,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_text\" focusable=\"false\"><path d=\"M384 1280v-128h1664v128H384zm0 384v-128h1664v128H384zm0-768V768h1664v128H384zm0-512h1664v128H384V384z\"></path></svg>",
+		"bulleted,list,text",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_list_text_mirrored\" focusable=\"false\"><path d=\"M0 1664v-128h1664v128H0zm0-384v-128h1664v128H0zm0-384V768h1664v128H0zm0-512h1664v128H0V384z\"></path></svg>",
+		"bulleted,list,text,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bulleted_tree_list\" focusable=\"false\"><path d=\"M512 384h1536v128H512V384zm512 640V896h1024v128H1024zm0 512v-128h1024v128H1024zM0 640V256h384v384H0zm128-256v128h128V384H128zm384 768V768h384v384H512zm128-256v128h128V896H640zm-128 768v-384h384v384H512zm128-256v128h128v-128H640z\"></path></svg>",
+		"bulleted,tree,list",
+		"Fluent UI MDL2"
 	]
 ]

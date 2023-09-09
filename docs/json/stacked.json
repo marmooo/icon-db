@@ -298,5 +298,25 @@
 		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M7.5 14.5H3V9h5.016c.4 0 .6 0 .795.039l.059.013c.193.045.375.127.74.292 1.132.514 1.699.771 2.3.79h.18c.601-.019 1.168-.276 2.3-.79.365-.165.547-.247.74-.292.02-.005.04-.01.06-.013.194-.039.394-.039.794-.039H21v5.5h-4.5M3 14.5h4.978c.288 0 .433 0 .573.02.187.027.369.08.54.157.13.059.252.136.496.29.777.494 1.166.741 1.577.86a3 3 0 0 0 1.672 0c.41-.119.8-.366 1.578-.86.243-.154.365-.232.494-.29.172-.077.354-.13.54-.157.141-.02.286-.02.574-.02H21V17c0 1.886 0 2.828-.586 3.414C19.828 21 18.886 21 17 21H7c-1.886 0-2.828 0-3.414-.586C3 19.828 3 18.886 3 17v-2.5zM3 9v-.204c0-.884 0-1.326.176-1.717.175-.391.506-.685 1.167-1.272l2.02-1.797c.562-.5.843-.749 1.187-.88C7.893 3 8.269 3 9.02 3h5.96c.751 0 1.127 0 1.47.13.344.131.625.38 1.187.88l2.02 1.797c.662.587.992.881 1.168 1.272.175.39.175.833.175 1.717V9\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg>",
 		"tray,stacked",
 		"IconBrew"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_bar_chart\" focusable=\"false\"><path d=\"M1919 1792v128H128V128h128v256h1024v512H256v128h1536v512H256v256h1663zM768 512v256h384V512H768zm-512 0v256h384V512H256zm768 640v256h640v-256h-640zm-768 0v256h640v-256H256z\"></path></svg>",
+		"stacked,bar,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_column_chart_fill\" focusable=\"false\"><path d=\"M1792 256v1408h-384V256h384zm-128 384V384h-128v256h128zm-384 128v896H896V768h384zm-128 384V896h-128v256h128zM768 512v1152H384V512h384zM640 896V640H512v256h128zm-384 896h1664v128H128V128h128v1664z\"></path></svg>",
+		"stacked,column,chart,filled",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_column_chart\" focusable=\"false\"><path d=\"M1920 1792v128H128V128h128v1664h1664zM768 1664H384V512h384v1152zm-128-640H512v512h128v-512zm0-384H512v256h128V640zm640 1024H896V768h384v896zm-128-384h-128v256h128v-256zm0-384h-128v256h128V896zm640 768h-384V256h384v1408zm-128-896h-128v768h128V768zm0-384h-128v256h128V384z\"></path></svg>",
+		"stacked,column,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_line_chart\" focusable=\"false\"><path d=\"M702 848l-405 355 660 330 963-602v138l-957 598-707-353v479h1664v128H128V129h128v953l452-396 252 255 704-704 256 256v166l-256-256-704 704-258-259z\"></path></svg>",
+		"stacked,line,chart",
+		"Fluent UI MDL2"
 	]
 ]

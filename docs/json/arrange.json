@@ -198,5 +198,30 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 22H15C20 22 22 20 22 15V9C22 4 20 2 15 2H9C4 2 2 4 2 9V15C2 20 4 22 9 22Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><g opacity=\"0.4\"><path d=\"M17.1494 13.8203L14.1094 16.8603\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6.85156 13.8203H17.1516\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6.85156 10.1806L9.89156 7.14062\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M17.1516 10.1797H6.85156\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-miterlimit=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"arrow,twotone,arrange,square",
 		"Iconsax"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_bring_forward\" focusable=\"false\"><path d=\"M1664 1664H0V0h1664v1664zM1536 128H128v1408h1408V128zm512 640v1280H768v-256h128v128h1024V896h-128V768h256z\"></path></svg>",
+		"arrange,bring,forward",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_bring_to_front\" focusable=\"false\"><path d=\"M1664 1664H384V384h1280v1280zM1536 512H512v1024h1024V512zM128 768h128v128H0V0h896v256H768V128H128v640zm1920 384v896h-896v-256h128v128h640v-640h-128v-128h256z\"></path></svg>",
+		"arrange,bring,to,front",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_by_from\" focusable=\"false\"><path d=\"M2048 632v464q-41-114-128-201v-36l-19 18q-24-22-50-40t-56-35l102-102-873-436-873 436 324 324h581q-16 31-28 62t-21 66H421L128 859v933h787q-25 61-39 128H0V632l1024-512 1024 512zm-284 957q65 32 117 80t90 109 57 129 20 141h-128q0-79-30-149t-82-122-123-83-149-30q-80 0-149 30t-122 82-83 123-30 149h-128q0-72 20-141t57-129 89-108 118-81q-74-55-115-136t-41-173q0-79 30-149t82-122 122-83 150-30q79 0 149 30t122 82 83 123 30 149q0 92-41 173t-115 136zm-484-309q0 53 20 99t55 82 81 55 100 20q53 0 99-20t82-55 55-81 20-100q0-53-20-99t-55-82-81-55-100-20q-53 0-99 20t-82 55-55 81-20 100z\"></path></svg>",
+		"arrange,by,from",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_send_backward\" focusable=\"false\"><path d=\"M128 1536h512v128H0V0h1664v640h-128V128H128v1408zm1920-768v1280H768V768h1280zm-128 128H896v1024h1024V896z\"></path></svg>",
+		"arrange,send,backward",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_send_to_back\" focusable=\"false\"><path d=\"M512 1536h512v128H384v-640h128v512zM1536 512h-512V384h640v640h-128V512zM896 896H0V0h896v896zM768 128H128v640h640V128zm1280 1024v896h-896v-896h896zm-128 128h-640v640h640v-640z\"></path></svg>",
+		"arrange,send,to,back",
+		"Fluent UI MDL2"
 	]
 ]

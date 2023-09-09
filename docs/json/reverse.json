@@ -308,5 +308,15 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M12 3.5a8.5 8.5 0 018.5 8.5.75.75 0 001.5 0c0-5.523-4.477-10-10-10a9.977 9.977 0 00-7.5 3.386V2.75a.75.75 0 00-1.5 0v4.5c0 .414.336.75.75.75h4.5a.75.75 0 000-1.5H5.519A8.48 8.48 0 0112 3.5zM2.75 11.25A.75.75 0 002 12c0 5.523 4.477 10 10 10a9.977 9.977 0 007.5-3.386v2.636a.75.75 0 001.5 0v-4.5a.75.75 0 00-.75-.75h-4.5a.75.75 0 000 1.5h2.731A8.5 8.5 0 013.5 12a.75.75 0 00-.75-.75z\"></path></g></svg>",
 		"sync,reverse",
 		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"play_reverse\" focusable=\"false\"><path d=\"M1536 128v1792L256 1024l1280-896zm-128 246l-929 650 929 650V374z\"></path></svg>",
+		"play,reverse",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"play_reverse_resume\" focusable=\"false\"><path d=\"M1664 256v1536h-128V256h128zM192 1024l1088-768v1536L192 1024zm960-521l-738 521 738 521V503z\"></path></svg>",
+		"play,reverse,resume",
+		"Fluent UI MDL2"
 	]
 ]

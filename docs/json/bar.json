@@ -3583,5 +3583,70 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.9362 2.99461C12.9929 2.66846 11.007 2.66846 9.06376 2.99461L8.6662 3.06134C6.80891 3.37306 5.55272 5.04814 5.77578 6.84512L5.7938 6.99034C5.81066 7.12617 5.93458 7.25 6.10718 7.25H8.98404C8.99415 7.24979 9.00429 7.24979 9.01446 7.25H14.9855C14.9957 7.24979 15.0058 7.24979 15.0159 7.25H17.8928C18.0654 7.25 18.1893 7.12616 18.2062 6.99034L18.2242 6.84512L18.9685 6.93751L18.2242 6.84512C18.4473 5.04814 17.1911 3.37306 15.3338 3.06134L14.9362 2.99461ZM15.9277 8.75H17.8928C18.7976 8.75 19.5816 8.08644 19.6948 7.17512L18.9505 7.08273L19.6948 7.17511L19.7128 7.0299C20.0381 4.409 18.2051 2.02226 15.5821 1.58203L15.1845 1.5153C13.0768 1.16157 10.9231 1.16157 8.81548 1.5153L8.41792 1.58203C5.7949 2.02226 3.96187 4.40901 4.2872 7.0299L4.30523 7.17512C4.41835 8.08644 5.20234 8.75 6.10718 8.75H8.07225L6.40117 16.5484C6.30627 16.674 6.24999 16.8304 6.24999 17C6.24999 17.0574 6.25643 17.1132 6.26863 17.1669L5.26664 21.8429C5.17985 22.2479 5.43782 22.6466 5.84284 22.7334C6.24786 22.8201 6.64655 22.5622 6.73334 22.1571L7.67773 17.75H16.3222L17.2666 22.1571C17.3534 22.5622 17.7521 22.8201 18.1571 22.7334C18.5622 22.6466 18.8201 22.2479 18.7333 21.8429L17.7314 17.1669C17.7435 17.1132 17.75 17.0574 17.75 17C17.75 16.8304 17.6937 16.674 17.5988 16.5484L15.9277 8.75ZM14.3937 8.75H9.6063L7.99916 16.25H16.0008L14.3937 8.75Z\" fill=\"black\"></path></svg>",
 		"outline,home,furniture,bar,chair",
 		"Solar Icon Set"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart\" focusable=\"false\"><path d=\"M0 2048v-640h384v640H0zm512 0V896h384v1152H512zM1536 896h384v1152h-384V896zm-512 1152V384h384v1664h-384z\"></path></svg>",
+		"bar,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_horizontal\" focusable=\"false\"><path d=\"M1536 256v384H384V256h1152zm-128 256V384H512v128h896zm-128 256v384H384V768h896zm-128 256V896H512v128h640zm640 256v384H384v-384h1408zm-128 256v-128H512v128h1152zM256 1792h1664v128H128V128h128v1664z\"></path></svg>",
+		"bar,chart,horizontal",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_vertical_edit\" focusable=\"false\"><path d=\"M1408 384v641l-128 128V256h384v531q-39 22-67 50t-61 61V384h-128zM640 512v1152H256V512h384zM512 1536V640H384v896h128zm1536-442q0 39-15 76t-43 65l-717 717-377 94 94-377 717-716q29-29 64-43t77-14q42 0 78 15t64 41 42 63 16 79zm-128 0q0-32-20-51t-52-19q-14 0-27 4t-23 15l-692 692-34 135 135-34 692-691q21-21 21-51zM896 1536h1l-25 25q-12 12-27 26-5 20-9 39t-10 38h-58V768h384v513l-127 127h-1V896H896v640zM128 128v1664h666l-32 128H0V128h128z\"></path></svg>",
+		"bar,chart,vertical,edit",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_vertical_fill\" focusable=\"false\"><path d=\"M1280 768v896H896V768h384zm512-512v1408h-384V256h384zM256 1792h1664v128H128V128h128v1664zM768 512v1152H384V512h384z\"></path></svg>",
+		"bar,chart,vertical,filled",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_vertical_filter\" focusable=\"false\"><path d=\"M1408 384v768h-128V256h384v896h-128V384h-128zm-384 1152l128 128H768V768h384v384h-128V896H896v640h128zM640 512v1152H256V512h384zM512 1536V640H384v896h128zm640-256h896v152l-256 288v328h-384v-328l-256-288v-152zm512 392l234-264h-596l234 264v248h128v-248zM128 128v1664h1152v128H0V128h128z\"></path></svg>",
+		"bar,chart,vertical,filter",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_vertical_filter_solid\" focusable=\"false\"><path d=\"M1024 1536l128 128H768V768h384v384h-128v384zm640-1280v896h-384V256h384zM640 512v1152H256V512h384zM128 128v1664h1152v128H0V128h128zm1024 1152h896v152l-256 288v328h-384v-328l-256-288v-152z\"></path></svg>",
+		"bar,chart,vertical,filter,solid",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"bar_chart_vertical\" focusable=\"false\"><path d=\"M768 512v1152H384V512h384zM640 1536V640H512v896h128zm640-768v896H896V768h384zm-128 768V896h-128v640h128zm640-1280v1408h-384V256h384zm-128 1280V384h-128v1152h128zM256 1792h1664v128H128V128h128v1664z\"></path></svg>",
+		"bar,chart,vertical",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"diagnostic_data_bar_tooltip\" focusable=\"false\"><path d=\"M128 0h1792v1792h-640l-256 256-256-256H128V0zm1664 1664V128H256v1536h564l204 204 204-204h564zM768 640v896H512V640h256zm384 384v512H896v-512h256zm384-640v1152h-256V384h256z\"></path></svg>",
+		"diagnostic,data,bar,tooltip",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"gripper_bar_horizontal\" focusable=\"false\"><path d=\"M0 768h2048v128H0V768zm0 512v-128h2048v128H0z\"></path></svg>",
+		"gripper,bar,horizontal",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"gripper_bar_vertical\" focusable=\"false\"><path d=\"M768 2048V0h128v2048H768zM1152 0h128v2048h-128V0z\"></path></svg>",
+		"gripper,bar,vertical",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"stacked_bar_chart\" focusable=\"false\"><path d=\"M1919 1792v128H128V128h128v256h1024v512H256v128h1536v512H256v256h1663zM768 512v256h384V512H768zm-512 0v256h384V512H256zm768 640v256h640v-256h-640zm-768 0v256h640v-256H256z\"></path></svg>",
+		"stacked,bar,chart",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"work_item_bar\" focusable=\"false\"><path d=\"M1280 128v1792H640V128h640zm-128 128H768v1536h384V256z\"></path></svg>",
+		"work,item,bar",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"work_item_bar_solid\" focusable=\"false\"><path d=\"M1280 128v1792H640V128h640z\"></path></svg>",
+		"work,item,bar,solid",
+		"Fluent UI MDL2"
 	]
 ]

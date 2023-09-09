@@ -353,3 +353,6 @@
   [custom](https://iconsax.io/#license)
 - [WebHostingHub Glyphs](https://www.webhostinghub.com/glyphs/) licensed under
   the [SIL-OFL-1.1](https://github.com/BanzaiTokyo/webhostinghub-glyphs)
+- [Fluent UI MDL2](https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2)
+  licensed under the
+  [MIT](https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE)

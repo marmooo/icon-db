@@ -488,5 +488,45 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M3,5H1.5a1,1,0,0,0-1,1V8a1,1,0,0,0,1,1H3Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M3,9l3.91,2.81a1,1,0,0,0,1,.08A1,1,0,0,0,8.5,11V3A1,1,0,0,0,8,2.11a1,1,0,0,0-1,.08L3,5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"10.5\" y1=\"6.5\" x2=\"13.5\" y2=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
 		"entertainment,volume,down,speaker,control,audio,music,decrease",
 		"Streamline UI Icons Line"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_arrow\" focusable=\"false\"><path d=\"M896 896v128H250l163 163-90 90L6 960l317-317 90 90-163 163h646z\"></path></svg>",
+		"decrease,indent,arrow",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_arrow_mirrored\" focusable=\"false\"><path d=\"M1731 643l317 317-317 317-90-90 163-163h-646V896h646l-163-163 90-90z\"></path></svg>",
+		"decrease,indent,arrow,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent\" focusable=\"false\"><path d=\"M128 128h1792v128H128V128zm0 1664v-128h1792v128H128zM1152 768V640h768v128h-768zm0 512v-128h768v128h-768zM317 643l90 90-163 163h646v128H244l163 163-90 90L0 960l317-317z\"></path></svg>",
+		"decrease,indent",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_legacy\" focusable=\"false\"><path d=\"M1024 384h1024v128H1024V384zm0 1152v-128h1024v128H1024zm0-512V896h1024v128H1024zm768-384v128h-768V640h768zm0 512v128h-768v-128h768zM413 733L250 896h646v128H250l163 163-90 90L6 960l317-317 90 90z\"></path></svg>",
+		"decrease,indent,legacy",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_mirrored\" focusable=\"false\"><path d=\"M1920 128v128H128V128h1792zM128 1792v-128h1792v128H128zM896 640v128H128V640h768zm0 512v128H128v-128h768zm835 125l-90-90 163-163h-646V896h646l-163-163 90-90 317 317-317 317z\"></path></svg>",
+		"decrease,indent,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_text\" focusable=\"false\"><path d=\"M1792 640v128h-768V640h768zm0 512v128h-768v-128h768zm-768-768h1024v128H1024V384zm0 640V896h1024v128H1024zm0 512v-128h1024v128H1024z\"></path></svg>",
+		"decrease,indent,text",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"decrease_indent_text_mirrored\" focusable=\"false\"><path d=\"M256 1280v-128h768v128H256zM0 1536v-128h1024v128H0zM0 384h1024v128H0V384zm0 640V896h1024v128H0zm256-256V640h768v128H256z\"></path></svg>",
+		"decrease,indent,text,mirrored",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"font_decrease\" focusable=\"false\"><path d=\"M1027 768l342 1024h-135l-85-256H771l-85 256H551L893 768h134zm79 640L960 971l-146 437h292zM2048 0l-320 320L1408 0h640z\"></path></svg>",
+		"font,decrease",
+		"Fluent UI MDL2"
 	]
 ]

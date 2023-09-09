@@ -688,5 +688,20 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M10 11h8m2 11H8.4C5.42 22 3 19.58 3 16.6V5m5.4-2h11.2A2.4 2.4 0 0 1 22 5.4v11.2a2.4 2.4 0 0 1-2.4 2.4H8.4A2.4 2.4 0 0 1 6 16.6V5.4A2.4 2.4 0 0 1 8.4 3Z\"></path></svg>",
 		"line,si,remove,from,library",
 		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_by_from\" focusable=\"false\"><path d=\"M2048 632v464q-41-114-128-201v-36l-19 18q-24-22-50-40t-56-35l102-102-873-436-873 436 324 324h581q-16 31-28 62t-21 66H421L128 859v933h787q-25 61-39 128H0V632l1024-512 1024 512zm-284 957q65 32 117 80t90 109 57 129 20 141h-128q0-79-30-149t-82-122-123-83-149-30q-80 0-149 30t-122 82-83 123-30 149h-128q0-72 20-141t57-129 89-108 118-81q-74-55-115-136t-41-173q0-79 30-149t82-122 122-83 150-30q79 0 149 30t122 82 83 123 30 149q0 92-41 173t-115 136zm-484-309q0 53 20 99t55 82 81 55 100 20q53 0 99-20t82-55 55-81 20-100q0-53-20-99t-55-82-81-55-100-20q-53 0-99 20t-82 55-55 81-20 100z\"></path></svg>",
+		"arrange,by,from",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"remove_from_shopping_list\" focusable=\"false\"><path d=\"M640 768v128H512V768h128zm896 0v128H768V768h768zM512 1280v-128h128v128H512zm256 0v-128h768v128H768zM640 384v128H512V384h128zm896 0v128H768V384h768zM384 128v1536h896v128H256V0h1536v1280h-128V128H384zm1645 1389l-211 211 211 211-90 90-211-211-211 211-90-90 211-211-211-211 90-90 211 211 211-211 90 90z\"></path></svg>",
+		"remove,from,shopping,list",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"remove_from_trash\" focusable=\"false\"><path d=\"M1086 91L281 896h999v960q0 40-15 75t-41 61-61 41-75 15H320q-40 0-75-15t-61-41-41-61-15-75v-807l-37 37-91-90 272-272-91-90q-18-18-27-41t-10-50q0-51 37-90l271-272q18-18 41-27t50-10q26 0 49 9t42 28l90 91L996 0l90 91zm66 1765v-832H256v832q0 26 19 45t45 19h768q26 0 45-19t19-45zM543 272L272 543l90 91 272-272-91-90zm1377-16h128v512h-512V640h292q-77-60-167-91t-188-31q-115 0-219 43t-185 124l-90-90q100-100 226-152t268-53q123 0 238 41t209 119V256zm-896 896v640H896v-640h128zm-256 0v640H640v-640h128zm-256 0v640H384v-640h128z\"></path></svg>",
+		"remove,from,trash",
+		"Fluent UI MDL2"
 	]
 ]

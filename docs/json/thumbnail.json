@@ -103,5 +103,15 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> image layout thumbnail</title><path d=\"M3 2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm0 15a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1z\"></path><path d=\"M17 4H3v10h14zM5 12l2.5-3 2 2L12 8l3 4zm-1 3h12v1H4z\"></path></svg>",
 		"image,layout,thumbnail",
 		"OOUI"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"thumbnail_view\" focusable=\"false\"><path d=\"M0 1152h640v640H0v-640zm128 512h384v-384H128v384zM0 256h640v640H0V256zm128 512h384V384H128v384zm1920-384v128H896V384h1152zm-384 384H896V640h768v128zm-768 512h1152v128H896v-128zm0 256h768v128H896v-128z\"></path></svg>",
+		"thumbnail,view",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"thumbnail_view_mirrored\" focusable=\"false\"><path d=\"M2048 1152h-640v640h640v-640zm-128 512h-384v-384h384v384zm128-1408h-640v640h640V256zm-128 512h-384V384h384v384zM0 384v128h1152V384H0zm384 384h768V640H384v128zm768 512H0v128h1152v-128zm0 256H384v128h768v-128z\"></path></svg>",
+		"thumbnail,view,mirrored",
+		"Fluent UI MDL2"
 	]
 ]

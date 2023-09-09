@@ -3343,5 +3343,90 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M4 11h12m-1 4 2 2 4-4M4 7h12M4 15h8\"></path></svg>",
 		"line,si,add,to,playlist",
 		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"add_to\" focusable=\"false\"><path d=\"M1088 960h320v128h-320v320H960v-320H640V960h320V640h128v320zm-64-832q124 0 238 32t214 90 181 140 140 181 91 214 32 239q0 124-32 238t-90 214-140 181-181 140-214 91-239 32q-124 0-238-32t-214-90-181-140-140-181-91-214-32-239q0-124 32-238t90-214 140-181 181-140 214-91 239-32zm0 1664q106 0 204-27t183-78 156-120 120-155 77-184 28-204q0-106-27-204t-78-183-120-156-155-120-184-77-204-28q-106 0-204 27t-183 78-156 120-120 155-77 184-28 204q0 106 27 204t78 183 120 156 155 120 184 77 204 28z\"></path></svg>",
+		"add,to",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"add_to_shopping_list\" focusable=\"false\"><path d=\"M640 896H512V768h128v128zm896 0H768V768h768v128zM512 1152h128v128H512v-128zm256 0h768v128H768v-128zM640 512H512V384h128v128zm896 0H768V384h768v128zm512 1152v128h-256v256h-128v-256h-256v-128h256v-256h128v256h256zm-1664 0h896v128H256V0h1536v1280h-128V128H384v1536z\"></path></svg>",
+		"add,to,shopping,list",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_bring_to_front\" focusable=\"false\"><path d=\"M1664 1664H384V384h1280v1280zM1536 512H512v1024h1024V512zM128 768h128v128H0V0h896v256H768V128H128v640zm1920 384v896h-896v-256h128v128h640v-640h-128v-128h256z\"></path></svg>",
+		"arrange,bring,to,front",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"arrange_send_to_back\" focusable=\"false\"><path d=\"M512 1536h512v128H384v-640h128v512zM1536 512h-512V384h640v640h-128V512zM896 896H0V0h896v896zM768 128H128v640h640V128zm1280 1024v896h-896v-896h896zm-128 128h-640v640h640v-640z\"></path></svg>",
+		"arrange,send,to,back",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"back_to_window\" focusable=\"false\"><path d=\"M256 1152h640v640H768v-421L93 2045l-90-90 674-675H256v-128zm1115-384h421v128h-640V256h128v421L1955 3l90 90-674 675z\"></path></svg>",
+		"back,to,window",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calculator_equal_to\" focusable=\"false\"><path d=\"M0 1408v-128h1920v128H0zm0-896h1920v128H0V512z\"></path></svg>",
+		"calculator,equal,to",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calculator_not_equal_to\" focusable=\"false\"><path d=\"M1432 640l-747 640h1235v128H536l-430 369-84-98 317-271H0v-128h488l747-640H0V512h1384l430-369 84 98-317 271h339v128h-488z\"></path></svg>",
+		"calculator,not,equal,to",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"clone_to_desktop\" focusable=\"false\"><path d=\"M1024 1536h256v128H640v-128h256v-128H0V256h1920v768h-128V384H128v896h1408v128h-512v128zm1021 93l-317 317-317-317 90-90 163 162v-549h128v549l163-162 90 90z\"></path></svg>",
+		"clone,to,desktop",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"event_to_do_logo\" focusable=\"false\"><path d=\"M128 640v768h256v128H0V128h256V0h128v128h768V0h128v128h256v640h-128V640H128zm128-384H128v256h1280V256h-128v128h-128V256H384v128H256V256zm1792 828q0 20-8 39t-23 34q-208 208-412 414t-413 412q-32 30-75 30t-73-30l-411-410q-15-14-23-33t-8-41q0-43 31-74l177-177q31-31 74-31 42 0 73 31l160 160 576-575q30-30 73-30 20 0 40 8t35 22l176 177q14 14 22 33t9 41zM885 1642l143-143-144-144-143 144 144 143zm1025-559l-144-144q-199 200-395 397t-397 397q36 36 71 72t72 72q200-199 397-396t396-398z\"></path></svg>",
+		"event,to,do,logo",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"go_to_dashboard\" focusable=\"false\"><path d=\"M1132 876q20 40 20 84 0 40-15 75t-41 61-61 41-75 15q-40 0-75-15t-61-41-41-61-15-75q0-40 15-75t41-61 61-41 75-15q44 0 84 20l-1-1 368-368 90 90-368 368-1-1zm-172 148q26 0 45-19t19-45q0-26-19-45t-45-19q-26 0-45 19t-19 45q0 26 19 45t45 19zm407 343q81-81 125-185t44-219q0-124-52-239l116-52q31 68 46 140t16 148q0 140-52 269t-152 229l-91-91zm-171-931q-115-52-239-52-79 0-152 20t-137 59-116 90-89 117-58 137-21 153q0 115 44 220t125 187l-91 91q-100-100-153-228t-53-270q0-97 25-187t71-168 110-142 142-109 168-71 188-25q75 0 147 15t141 47l-52 116zM128 960q0 115 30 221t84 198 130 169 168 130 199 84 221 30q16 0 32-1t32-2v128l-32 2q-16 1-32 1-132 0-254-34t-230-97-194-150-150-195-97-229T0 960q0-132 34-254t97-230 150-194 195-150 229-97T960 0q132 0 254 34t230 97 194 150 150 195 97 229 35 255q0 98-20 193t-59 187l-99-99q50-136 50-281 0-115-30-221t-84-198-130-169-168-130-199-84-221-30q-115 0-221 30t-198 84-169 130-130 168-84 199-30 221zm1920 768l-320 320-91-91 166-165h-651v-128h651l-166-165 91-91 320 320z\"></path></svg>",
+		"go,to,dashboard",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"install_to_drive\" focusable=\"false\"><path d=\"M1728 640q66 0 124 25t101 69 69 102 26 124v448h-128V960q0-40-15-75t-41-61-61-41-75-15H320q-40 0-75 15t-61 41-41 61-15 75v320h1408v128H0V960q0-66 25-124t68-101 102-69 125-26h1408zm227 899l90 90-317 317-317-317 90-90 163 162v-549h128v549l163-162zm-163-515h-128V896h128v128zm-384-128h128v128h-128V896z\"></path></svg>",
+		"install,to,drive",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"move_to_folder\" focusable=\"false\"><path d=\"M1792 1120q0 31 9 54t24 44 31 41 31 45 23 58 10 78v480q0 27-10 50t-27 40-41 28-50 10H256V0h1408q27 0 50 10t40 27 28 41 10 50v384h-128V128H384v1792h1152v-480q0-45 9-77t24-58 31-46 31-40 23-44 10-55V896h128v224zm0 320q0-24-4-42t-13-33-20-29-27-32q-15 17-26 31t-20 30-13 33-5 42v480h128v-480zm256-800v128h-677l162 163-90 90-317-317 317-317 90 90-162 163h677z\"></path></svg>",
+		"move,to,folder",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"return_to_session\" focusable=\"false\"><path d=\"M885 512q-155 0-294 58T342 737Q233 846 175 985t-58 295q0 106 27 204t78 183 120 156 155 120 184 77 204 28h896v-128H885q-88 0-170-23t-153-64-129-100-100-130-65-153-23-170q0-88 23-170t64-153 100-129 130-100 153-65 170-23h821l-426 427 74 74 566-565-566-565-74 74 426 427H885z\"></path></svg>",
+		"return,to,session",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"save_to_mobile\" focusable=\"false\"><path d=\"M1792 1664v128h-256v-128h256zM384 128v640h768v128H256V128H128v1381l154 155h102v-512h768v128H512v384h128v-256h128v256h384v128H229L0 1562V128q0-27 10-50t27-40 41-28 50-10h1536q27 0 50 10t40 27 28 41 10 50v512h-128V128h-128v512h-128V128H384zm1664 768v1024q0 27-10 50t-27 40-41 28-50 10h-512q-27 0-50-10t-40-27-28-41-10-50V896q0-27 10-50t27-40 41-28 50-10h512q27 0 50 10t40 27 28 41 10 50zm-128 1024V896h-512v1024h512z\"></path></svg>",
+		"save,to,mobile",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"snap_to_grid\" focusable=\"false\"><path d=\"M384 0v128H256V0h128zM128 256v128H0V256h128zm0-256v128H0V0h128zm0 512v128H0V512h128zm768 256V640h128v128H896zm0-768v128H768V0h128zm128 384v128H896V384h128zM1408 0v128h-128V0h128zm256 0v128h-128V0h128zM0 1920v-128h128v128H0zM1024 256H896V128h128v128zM1152 0v128h-128V0h128zM640 0v128H512V0h128zm1152 640V512h128v128h-128zM512 1920v-128h128v128H512zM768 896v128H640V896h128zm1024 0V768h128v1152H768v-128h128V896h896zm0 896v-768h-768v768h768zm0-1792h128v128h-128V0zm0 384V256h128v128h-128zM0 1664v-128h128v128H0zm512-768v128H384V896h128zM0 1152v-128h128v128H0zm0 256v-128h128v128H0zm0-640h128v128H0V768zm256 128v128H128V896h128zm0 1024v-128h128v128H256z\"></path></svg>",
+		"snap,to,grid",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"sync_to_pc\" focusable=\"false\"><path d=\"M2048 256v512h-512V640h316q-59-117-146-211t-196-161-231-103-255-37q-154 0-295 47T471 309 268 517 136 787L14 749q50-166 149-304t232-237T689 55t335-55q137 0 267 34t245 98 214 157 170 210V256h128zM196 1408q59 117 146 211t196 161 231 103 255 37h128v118q-32 4-64 7t-64 3q-136 0-266-34t-246-100-214-157-170-208v243H0v-512h511v128H196zm956-256h896v640h-384v128h127v128h-383v-128h128v-128h-384v-640zm128 512h640v-384h-640v384z\"></path></svg>",
+		"sync,to,pc",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"zoom_to_fit\" focusable=\"false\"><path d=\"M749 456l-90-91L1024 0l365 365-90 91-275-275-275 275zm550 1136l90 91-365 365-365-365 90-91 275 275 275-275zM456 749l-275 275 275 275-91 90L0 1024l365-365 91 90zm1592 275l-365 365-91-90 275-275-275-275 91-90 365 365zM640 640h768v768H640V640zm128 640h512V768H768v512z\"></path></svg>",
+		"zoom,to,fit",
+		"Fluent UI MDL2"
 	]
 ]

@@ -1193,5 +1193,20 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 9V6.5C2 4.01 4.01 2 6.5 2H9\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M15 2H17.5C19.99 2 22 4.01 22 6.5V9\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M22 16V17.5C22 19.99 19.99 22 17.5 22H16\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M9 22H6.5C4.01 22 2 19.99 2 17.5V15\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><g opacity=\"0.4\"><path d=\"M17 9.5V14.5C17 16.5 16 17.5 14 17.5H10C8 17.5 7 16.5 7 14.5V9.5C7 7.5 8 6.5 10 6.5H14C16 6.5 17 7.5 17 9.5Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M19 12H5\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"security,twotone,scan",
 		"Iconsax"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"generic_scan_filled\" focusable=\"false\"><path d=\"M1536 128h512v512h-128V256h-384V128zM128 256v384H0V128h512v128H128zm1792 1536v-384h128v512h-512v-128h384zM256 1664V384h1536v1280H256zM1536 640v768h128V640h-128zm-384 0v768h128V640h-128zm-384 0v768h128V640H768zm-384 0v768h128V640H384zm-256 768v384h384v128H0v-512h128z\"></path></svg>",
+		"generic,scan,filled",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"generic_scan\" focusable=\"false\"><path d=\"M0 640V128h512v128H128v384H0zm128 768v384h384v128H0v-512h128zm1792 384v-384h128v512h-512v-128h384zM1536 128h512v512h-128V256h-384V128zM384 1408V640h128v768H384zm384 0V640h128v768H768zm384 0V640h128v768h-128zm512-768v768h-128V640h128z\"></path></svg>",
+		"generic,scan",
+		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"site_scan\" focusable=\"false\"><path d=\"M2048 128v1031q-28-28-60-50t-68-40V640H128v1024h1088l-128 128H0V128h2048zm-128 384V256H128v256h1792zm-509 954q0-66 25-123t68-99 100-67 124-24q67 0 125 25t101 68 68 102 25 125q0 65-24 122t-67 101-99 68-123 25q-48 0-94-13t-87-39l-201 201q-23 23-45 46t-46 45q-10 9-19 14t-24 5q-26 0-46-20t-20-46q0-14 5-23t14-20q21-24 44-46t47-45q51-51 100-101t101-101q-25-41-38-86t-14-94zm128 12q0 38 14 71t39 58 58 39 72 14q39 0 74-15t64-43 44-62 17-74q0-36-15-69t-42-60-60-42-70-16q-39 0-74 16t-62 45-43 63-16 75z\"></path></svg>",
+		"site,scan",
+		"Fluent UI MDL2"
 	]
 ]
