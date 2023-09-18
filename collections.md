@@ -356,3 +356,5 @@
 - [Fluent UI MDL2](https://github.com/microsoft/fluentui/tree/master/packages/react-icons-mdl2)
   licensed under the
   [MIT](https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE)
+- [Audi Icons](https://github.com/audi/audi-icon) licensed under the
+  [Apache-2.0](https://github.com/audi/audi-icon/blob/master/package.json)
