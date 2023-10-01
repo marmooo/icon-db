@@ -10,7 +10,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 89H68v24m28-24h28v24M96 89v48m0 0h28v-24m-28 24H68v-24m56 0H68\"></path><path fill-rule=\"evenodd\" d=\"M52 28a2 2 0 0 0-2 2v132a2 2 0 0 0 2 2h88a2 2 0 0 0 2-2V62h-28a6 6 0 0 1-6-6V28H52Zm68 8.485L133.515 50H120V36.485ZM38 30c0-7.732 6.268-14 14-14h62c1.591 0 3.117.632 4.243 1.757l34 34A6 6 0 0 1 154 56v106c0 7.732-6.268 14-14 14H52c-7.732 0-14-6.268-14-14V30Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 89H68v24m28-24h28v24M96 89v48h28v-24m-28 24H68v-24m56 0H68\"></path><path fill-rule=\"evenodd\" d=\"M52 28a2 2 0 0 0-2 2v132a2 2 0 0 0 2 2h88a2 2 0 0 0 2-2V62h-28a6 6 0 0 1-6-6V28H52zm68 8.485L133.515 50H120V36.485zM38 30a14 14 0 0 1 14-14h62c1.591 0 3.117.632 4.243 1.757l34 34A6 6 0 0 1 154 56v106a14 14 0 0 1-14 14H52a14 14 0 0 1-14-14V30z\"></path></svg>",
 		"google,sheets",
 		"Lawnicons"
 	],
@@ -78,5 +78,25 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><circle cx=\"32\" cy=\"32\" r=\"27\" fill=\"#e6e6e6\" fill-rule=\"evenodd\" style=\"paint-order:stroke fill markers\"></circle><circle cx=\"32\" cy=\"32\" r=\"23\" fill=\"#fff\" fill-rule=\"evenodd\" opacity=\".5\" style=\"paint-order:stroke fill markers\"></circle><g stroke-linecap=\"round\" stroke-linejoin=\"bevel\" stroke-width=\"2\"><path fill=\"#0fb285\" d=\"M16 33.5h4v9h-4zM20 21.5h4v21h-4z\"></path><path fill=\"#c91727\" d=\"M24 29.5h4v13h-4z\"></path><path fill=\"#0fb285\" d=\"M28 27.5h4v15h-4zM32 24.5h4v18h-4z\"></path><path fill=\"#c91727\" d=\"M36 29.5h4v13h-4z\"></path><path fill=\"#0fb285\" d=\"M40 21.5h4v21h-4z\"></path><path fill=\"#c91727\" d=\"M44 25.5h4v17h-4z\"></path></g><path fill=\"#f4a01b\" fill-rule=\"evenodd\" d=\"M16 42.5v-3c2 0 2-3 4-3s1.5 4 4 4 2-4 4-4 2-4 4-4 2 4 4 4 2-2 4-2 2-5 4-5 2 7 4 7v6z\"></path></svg>",
 		"apps,sheets",
 		"Tela Icon Theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><g fill=\"currentColor\"><path d=\"M7.61 10.227H5.655V9.114H7.61v1.113zM7.61 8.318H5.655V7.205H7.61v1.113zM10.344 10.227H8.39V9.114h1.953v1.113zM10.344 8.318H8.39V7.205h1.953v1.113z\"></path><path fill-rule=\"evenodd\" d=\"M13 14.046V4.5L9.562 1H3.939A.946.946 0 003 1.955v12.09c0 .528.42.955.938.955h8.124a.946.946 0 00.938-.954zM4.875 6.409v4.614h6.25V6.409h-6.25z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"google,sheets",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M11.434 15.182H8.602V13.59h2.832v1.59zM11.434 12.455H8.602v-1.591h2.832v1.59zM15.398 15.182h-2.832V13.59h2.832v1.59zM15.398 12.455h-2.832v-1.591h2.832v1.59z\"></path><path fill-rule=\"evenodd\" d=\"M19.25 20.636V7l-4.984-5H6.109c-.75 0-1.359.61-1.359 1.364v17.272c0 .754.608 1.364 1.36 1.364h11.78c.752 0 1.36-.61 1.36-1.364zM7.469 9.727v6.591h9.062v-6.59H7.47z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"google,sheets",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#188038\" d=\"M9.5 1L13 4.5H9.5V1z\"></path><path fill=\"#34A853\" d=\"M9.5 4.5V1H3.937A.946.946 0 003 1.955v12.09c0 .528.42.955.938.955h8.124a.946.946 0 00.938-.954V4.5H9.5z\"></path><path fill=\"#FDFFFF\" d=\"M5 6v5h6V6H5zm2.625 4.138H5.75V8.93h1.875v1.207zm0-2.069H5.75V6.862h1.875V8.07zm2.625 2.069H8.375V8.93h1.875v1.207zm0-2.069H8.375V6.862h1.875V8.07z\"></path></svg>",
+		"google,sheets,color",
+		"flight-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#188038\" d=\"M14.266 2l4.984 5h-4.984V2z\"></path><path fill=\"#34A853\" d=\"M14.266 7V2H6.109c-.75 0-1.359.61-1.359 1.364v17.272c0 .754.608 1.364 1.36 1.364h11.78c.752 0 1.36-.61 1.36-1.364V7h-4.984z\"></path><path fill=\"#FDFFFF\" d=\"M7.469 9.727v6.591h9.062v-6.59H7.47zm3.965 5.455H8.602V13.59h2.832v1.59zm0-2.727H8.602v-1.591h2.832v1.59zm3.964 2.727h-2.832V13.59h2.832v1.59zm0-2.727h-2.832v-1.591h2.832v1.59z\"></path></svg>",
+		"google,sheets,color",
+		"flight-icons"
 	]
 ]

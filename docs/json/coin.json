@@ -10,7 +10,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M170 96c0 40.869-33.131 74-74 74-40.87 0-74-33.131-74-74 0-40.87 33.13-74 74-74 40.869 0 74 33.13 74 74ZM44.2 96c0 28.608 23.192 51.8 51.8 51.8 28.608 0 51.8-23.192 51.8-51.8 0-28.608-23.192-51.8-51.8-51.8-28.608 0-51.8 23.192-51.8 51.8Z\"></path><path d=\"M126.91 87.718a32.002 32.002 0 0 0-22.628-22.628\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\"></circle><circle cx=\"96\" cy=\"96\" r=\"51.8\"></circle><path d=\"M126.91 87.718a32 32 0 0 0-22.628-22.628\"></path></svg>",
 		"coin",
 		"Lawnicons"
 	],
@@ -433,6 +433,31 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g id=\"Coin_Insert\" data-name=\"Coin Insert\"><g><path d=\"M21.44,17.7H17.77a7.484,7.484,0,0,0,1.78-4.86A7.55,7.55,0,1,0,6.23,17.7H2.56a.508.508,0,0,0-.5.5.5.5,0,0,0,.5.5H21.44a.5.5,0,0,0,.5-.5A.508.508,0,0,0,21.44,17.7Zm-5.03,0H7.62a6.546,6.546,0,1,1,8.78-.01Z\"></path><path d=\"M14,13.965a1.616,1.616,0,0,1-1.5,1.61v.65a.485.485,0,0,1-.5.48.491.491,0,0,1-.5-.48v-.64h-.81a.5.5,0,0,1-.5-.5.508.508,0,0,1,.5-.5h1.69a.617.617,0,0,0,.62-.62.623.623,0,0,0-.62-.62h-.75a1.618,1.618,0,0,1-.13-3.23v-.65a.491.491,0,0,1,.5-.48.485.485,0,0,1,.5.48v.64h.81a.5.5,0,0,1,0,1H11.63a.62.62,0,0,0,0,1.24h.75A1.626,1.626,0,0,1,14,13.965Z\"></path></g></g></svg>",
 		"coin,insert",
 		"Circum Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-coin-copper\" viewBox=\"0 0 22 22\"><path d=\"M12,14H10V13H9V12H8V10H9V9H10V8H12V9H13V10H14V12H13V13H12ZM15,19H7V18H6V17H5V16H4V15H3V7H4V6H5V5H6V4H7V3H15V4H16V5H17V6H18V7H19V15H18V16H17V17H16V18H15ZM12,12V10H10V12ZM14,17V16H15V15H16V14H17V8H16V7H15V6H14V5H8V6H7V7H6V8H5V14H6V15H7V16H8V17Z\"></path></svg>",
+		"coin,copper",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-coin-electrum\" viewBox=\"0 0 22 22\"><path d=\"M17,19H5V18H4V16H3V14H2V8H3V6H4V4H5V3H17V4H18V6H19V8H20V14H19V16H18V18H17ZM12,16V14H10V16ZM16,17V15H17V12H18V10H17V7H16V5H6V7H5V10H4V12H5V15H6V17H9V16H8V14H9V13H10V12H12V13H13V14H14V16H13V17Z\"></path></svg>",
+		"coin,electrum",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-coin-gold\" viewBox=\"0 0 22 22\"><path d=\"M19,19H3V17H4V15H5V12H6V10H5V7H4V5H3V3H19V5H18V7H17V10H16V12H17V15H18V17H19ZM16,17V16H15V14H14V8H15V6H16V5H6V6H7V8H8V14H7V16H6V17Z\"></path></svg>",
+		"coin,gold",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-coin-platinum\" viewBox=\"0 0 22 22\"><path d=\"M14,21H8V20H7V19H6V18H5V17H4V16H3V15H2V14H1V8H2V7H3V6H4V5H5V4H6V3H7V2H8V1H14V2H15V3H16V4H17V5H18V6H19V7H20V8H21V14H20V15H19V16H18V17H17V18H16V19H15V20H14ZM13,19V18H14V17H15V16H16V15H17V14H18V13H19V9H18V8H17V7H16V6H15V5H14V4H13V3H9V4H8V5H7V6H6V7H5V8H4V9H3V13H4V14H5V15H6V16H7V17H8V18H9V19Z\"></path></svg>",
+		"coin,platinum",
+		"Memory Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"memory-coin-silver\" viewBox=\"0 0 22 22\"><path d=\"M13,11H14V9H13V7H12V5H10V7H9V9H8V11H9V10H10V9H12V10H13ZM19,19H3V18H2V16H3V14H4V12H5V10H6V8H7V6H8V4H9V3H10V2H12V3H13V4H14V6H15V8H16V10H17V12H18V14H19V16H20V18H19ZM12,13V11H10V13ZM17,17V15H16V13H15V11H14V13H13V14H12V15H10V14H9V13H8V11H7V13H6V15H5V17Z\"></path></svg>",
+		"coin,silver",
+		"Memory Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"7\" y1=\"4.5\" x2=\"7\" y2=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><g><path d=\"M5.5,8.5c0,.75.67,1,1.5,1s1.5,0,1.5-1c0-1.5-3-1.5-3-3,0-1,.67-1,1.5-1s1.5.38,1.5,1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"9.5\" x2=\"7\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",

@@ -5,7 +5,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path stroke-width=\"6\" d=\"M64 127h20.436c13.564 0 29.414-9.886 28.436-16.806-.977-6.92-11.24 3.954-8.797 12.852 1.861 6.777 12.544 2.636 17.594-4.943-1.466 5.107-2.052 13.247 7.331 4.943\"></path><path d=\"M162 156V36a6 6 0 0 0-6-6H36a6 6 0 0 0-6 6v120a6 6 0 0 0 6 6h120a6 6 0 0 0 6-6Z\"></path><path d=\"m116 70-8-8-34 34-7 15 15-7 34-34Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><rect width=\"132\" height=\"132\" x=\"30\" y=\"30\" ry=\"6\"></rect><path stroke-width=\"6\" d=\"M64 127h20.436c13.564 0 29.414-9.886 28.436-16.806-.977-6.92-11.24 3.954-8.797 12.852 1.861 6.777 12.544 2.636 17.594-4.943-1.466 5.107-2.052 13.247 7.331 4.943\"></path><path d=\"m116 70-8-8-34 34-7 15 15-7z\"></path></svg>",
 		"adobe,filled,sign",
 		"Lawnicons"
 	],
@@ -960,7 +960,7 @@
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-sign-stop-lights\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" d=\"M6 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4Zm2 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm0 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z\"></path><path fill-rule=\"evenodd\" d=\"M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435Zm-1.4.7a.495.495 0 0 1 .7 0l6.516 6.515a.495.495 0 0 1 0 .7L8.35 14.866a.495.495 0 0 1-.7 0L1.134 8.35a.495.495 0 0 1 0-.7L7.65 1.134Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-sign-stop-lights\" viewBox=\"0 0 16 16\"><path d=\"M6 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4Zm2 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm0 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 2a1 1 0 1 0-2 0 1 1 0 0 0 2 0Z\"></path><path d=\"M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098L9.05.435Zm-1.4.7a.495.495 0 0 1 .7 0l6.516 6.515a.495.495 0 0 1 0 .7L8.35 14.866a.495.495 0 0 1-.7 0L1.134 8.35a.495.495 0 0 1 0-.7L7.65 1.134Z\"></path></svg>",
 		"sign,stop,lights",
 		"Bootstrap Icons"
 	],
@@ -1656,6 +1656,11 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path class=\"uim-primary\" d=\"m15.707 11.293-4-4a1 1 0 0 0-1.414 1.414L12.586 11H2.05c-.03.33-.05.66-.05 1s.02.67.05 1h10.536l-2.293 2.293a1 1 0 1 0 1.414 1.414l4-4a1 1 0 0 0 0-1.414Z\"></path><path class=\"uim-tertiary\" d=\"M12 2a10 10 0 0 0-9.95 9h10.536l-2.293-2.293a1 1 0 0 1 1.414-1.414l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L12.586 13H2.05A10 10 0 1 0 12 2Z\"></path></svg>",
+		"monochrome,sign,out",
+		"Unicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" data-name=\"Layer 1\" viewBox=\"0 0 24 24\"><path class=\"uim-primary\" d=\"m21.207 11.293-3-3a1 1 0 1 0-1.414 1.415L18.086 11H12.5a1 1 0 0 0 0 2h5.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0 0-1.415Z\"></path><path class=\"uim-tertiary\" d=\"M12.5 13a1 1 0 0 1 0-2h4V5a3.003 3.003 0 0 0-3-3h-8a3.003 3.003 0 0 0-3 3v14a3.003 3.003 0 0 0 3 3h8a3.003 3.003 0 0 0 3-3v-6Z\"></path></svg>",
 		"monochrome,sign,out",
 		"Unicons"
 	],
