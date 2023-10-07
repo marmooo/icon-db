@@ -358,3 +358,5 @@
   [MIT](https://github.com/microsoft/fluentui/blob/master/packages/react-icons-mdl2/LICENSE)
 - [Audi Icons](https://github.com/audi/audi-icon) licensed under the
   [Apache-2.0](https://github.com/audi/audi-icon/blob/master/package.json)
+- [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) licensed under the
+  [MIT](https://github.com/Vectopus/Atlas-icons-font/blob/main/LICENSE)
