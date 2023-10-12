@@ -148,6 +148,8 @@
 - [Subway Icon Set](https://github.com/mariuszostrowski/subway) licensed under
   the
   [CC-BY-4.0](https://github.com/mariuszostrowski/subway/blob/master/LICENSE.md)
+- [Iconoir](https://github.com/iconoir-icons/iconoir) licensed under the
+  [MIT](https://github.com/iconoir-icons/iconoir/blob/main/LICENSE)
 - [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons)
   licensed under the
   [CC0-1.0](https://github.com/spothq/cryptocurrency-icons/blob/master/LICENSE.md)
