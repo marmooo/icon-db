@@ -362,3 +362,5 @@
   [Apache-2.0](https://github.com/audi/audi-icon/blob/master/package.json)
 - [Atlas icons](https://github.com/Vectopus/Atlas-icons-font) licensed under the
   [MIT](https://github.com/Vectopus/Atlas-icons-font/blob/main/LICENSE)
+- [IconaMoon](https://github.com/dariushhpg1/IconaMoon) licensed under the
+  [CC-BY-4.0](https://www.figma.com/community/file/1014143897459418663/iconamoon-1-1-2400-icons-8-styles)
