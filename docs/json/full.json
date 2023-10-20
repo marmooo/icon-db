@@ -2273,5 +2273,30 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 9L4 6C4 4.89543 4.89543 4 6 4L9 4\" stroke=\"#292929\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M20 15V18C20 19.1046 19.1046 20 18 20H15\" stroke=\"#292929\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M15 4L18 4C19.1046 4 20 4.89543 20 6L20 9\" stroke=\"#292929\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M9 20L6 20C4.89543 20 4 19.1046 4 18L4 15\" stroke=\"#292929\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"thin,interface,screen,full,svg",
 		"IconaMoon"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"186\" x2=\"326\" y1=\"134.7\" y2=\"377.3\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\"></circle></svg>",
+		"filled,static,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"186\" x2=\"326\" y1=\"134.7\" y2=\"377.3\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\"></circle></svg>",
+		"filled,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\"></circle></svg>",
+		"line,static,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\"></circle></svg>",
+		"line,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ee\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\"></circle></g></svg>",
+		"monochrome,static,moon,full",
+		"Meteocons"
 	]
 ]

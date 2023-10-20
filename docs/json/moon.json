@@ -2963,5 +2963,230 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.03107 12.4209C2.39107 17.5709 6.76107 21.7609 11.9911 21.9909C15.6811 22.1509 18.9811 20.4309 20.9611 17.7209C21.7811 16.6109 21.3411 15.8709 19.9711 16.1209C19.3011 16.2409 18.6111 16.2909 17.8911 16.2609C13.0011 16.0609 9.00107 11.9709 8.98107 7.14094C8.97107 5.84094 9.24107 4.61094 9.73107 3.49094C10.2711 2.25094 9.62107 1.66094 8.37107 2.19094C4.41107 3.86094 1.70107 7.85094 2.03107 12.4209Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"weather,twotone,moon",
 		"Iconsax"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"193.7\" x2=\"325.5\" y1=\"147.7\" y2=\"376\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M310 126.1a140.4 140.4 0 00-57-12.6 140 140 0 0126 152.1A140 140 0 01148.7 348c14 17.3 25.6 24.1 47.5 33.9 72 32 156 .8 187.4-69.8s-1.5-153.9-73.6-186Z\"></path></svg>",
+		"filled,static,moon,first,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"186\" x2=\"326\" y1=\"134.7\" y2=\"377.3\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\"></circle></svg>",
+		"filled,static,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"12482\" x2=\"12613.8\" y1=\"147.7\" y2=\"376\" gradientTransform=\"matrix(-1 0 0 1 12799.71 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M201.5 126.1a140.3 140.3 0 0157-12.6 140 140 0 00-26.2 152.1A140 140 0 00363 348c-14 17.3-25.7 24.1-47.5 33.9-72.1 32-156 .8-187.5-69.8s1.5-153.9 73.6-186Z\"></path></svg>",
+		"filled,static,moon,last,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path></svg>",
+		"filled,static,moon,new",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"11988.7\" x2=\"12107.6\" y1=\"166.7\" y2=\"372.6\" gradientTransform=\"matrix(-1 0 0 1 12286.71 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M199 127.5a142.4 142.4 0 0119.2-7l-.8.6h0c-92.2 96.7-21 256.7 112.6 252.8l.8-.1a140 140 0 11-131.7-246.3Z\"></path></svg>",
+		"filled,static,moon,waning,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"12993.6\" x2=\"13126.8\" y1=\"143.9\" y2=\"374.7\" gradientTransform=\"matrix(-1 0 0 1 13312.32 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M121.2 214.8a134.1 134.1 0 01155.6-95.1 135.6 135.6 0 00-13.8 31.9c-20.7 73.2 22 151 95.4 173.8a145.4 145.4 0 0014.9 3.6 134.6 134.6 0 01-156.7 59.6 142.6 142.6 0 01-95.4-173.8Z\"></path></svg>",
+		"filled,static,moon,waning,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"211.4\" x2=\"330.3\" y1=\"166.7\" y2=\"372.6\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M310.3 127.5a142.3 142.3 0 00-19-7l.7.6h0c92.2 96.7 21 256.7-112.6 252.8l-.8-.1a141.4 141.4 0 0017.8 9.5 140 140 0 10114-255.8Z\"></path></svg>",
+		"filled,static,moon,waxing,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"193.9\" x2=\"327.1\" y1=\"143.9\" y2=\"374.7\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M391.4 214.8a134.1 134.1 0 00-155.6-95.1 135.2 135.2 0 0113.8 31.9c20.7 73.2-22 151-95.4 173.8a145.4 145.4 0 01-14.8 3.6c31 52.5 94.7 78.7 156.6 59.6a142.6 142.6 0 0095.4-173.8Z\"></path></svg>",
+		"filled,static,moon,waxing,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 512 512\"><defs><symbol id=\"e\" viewBox=\"0 0 172 172\"><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"M160.6 107.4a84.8 84.8 0 01-85.4-84.3A83.3 83.3 0 0178 2 84.7 84.7 0 002 85.7 84.8 84.8 0 0087.4 170a85.2 85.2 0 0082.6-63.1 88 88 0 01-9.4.5Z\"></path></symbol><symbol id=\"g\" viewBox=\"0 0 72 168\"><circle cx=\"36\" cy=\"132\" r=\"36\" fill=\"#ef4444\"></circle><path fill=\"none\" stroke=\"#ef4444\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"></path></symbol><symbol id=\"h\" viewBox=\"0 0 118 278\"><path fill=\"url(#b)\" stroke=\"url(#c)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M115 218.2c0 31.4-25 56.8-56 56.8S3 249.6 3 218.2a57 57 0 0124-46.6V35.5a32 32 0 1164 0v136a57 57 0 0124 46.7ZM63 83h28M63 51h28m-28 64h28\"></path></symbol><symbol id=\"f\" viewBox=\"0 0 118 278\"><use xlink:href=\"#g\" width=\"72\" height=\"168\" transform=\"translate(23 87)\"></use><use xlink:href=\"#h\" width=\"118\" height=\"278\"></use></symbol><linearGradient id=\"a\" x1=\"34.7\" x2=\"119.2\" y1=\"18.6\" y2=\"165\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient><linearGradient id=\"b\" x1=\"-7.2\" x2=\"116.4\" y1=\"36.3\" y2=\"250.4\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#515a69\" stop-opacity=\".1\"></stop><stop offset=\".5\" stop-color=\"#6b7280\" stop-opacity=\".1\"></stop><stop offset=\"1\" stop-color=\"#384354\" stop-opacity=\".1\"></stop></linearGradient><linearGradient id=\"c\" x1=\"-8.7\" x2=\"117.9\" y1=\"33.7\" y2=\"253\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#d4d7dd\"></stop><stop offset=\".5\" stop-color=\"#d4d7dd\"></stop><stop offset=\"1\" stop-color=\"#bec1c6\"></stop></linearGradient><clipPath id=\"d\"><path fill=\"none\" d=\"M256 392c31 0 56-25.4 56-56.8a57 57 0 00-24-46.6V152.5a32.2 32.2 0 00-32-32.5V79.7h167.2V392Zm4-192h28m-28-32h28m-28 64h28\"></path></clipPath></defs><g clip-path=\"url(#d)\"><use xlink:href=\"#e\" width=\"172\" height=\"172\" transform=\"translate(228 120)\"></use></g><use xlink:href=\"#f\" width=\"118\" height=\"278\" transform=\"translate(197 117)\"></use></svg>",
+		"filled,static,thermometer,moon",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"193.7\" x2=\"325.5\" y1=\"147.7\" y2=\"376\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M310 126.1a140.4 140.4 0 00-57-12.6 140 140 0 0126 152.1A140 140 0 01148.7 348c14 17.3 25.6 24.1 47.5 33.9 72 32 156 .8 187.4-69.8s-1.5-153.9-73.6-186Z\"></path></svg>",
+		"filled,moon,first,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"186\" x2=\"326\" y1=\"134.7\" y2=\"377.3\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\"></circle></svg>",
+		"filled,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"12482\" x2=\"12613.8\" y1=\"147.7\" y2=\"376\" gradientTransform=\"matrix(-1 0 0 1 12799.71 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M201.5 126.1a140.3 140.3 0 0157-12.6 140 140 0 00-26.2 152.1A140 140 0 00363 348c-14 17.3-25.7 24.1-47.5 33.9-72.1 32-156 .8-187.5-69.8s1.5-153.9 73.6-186Z\"></path></svg>",
+		"filled,moon,last,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path></svg>",
+		"filled,moon,new",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"11988.7\" x2=\"12107.6\" y1=\"166.7\" y2=\"372.6\" gradientTransform=\"matrix(-1 0 0 1 12286.71 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M199 127.5a142.4 142.4 0 0119.2-7l-.8.6h0c-92.2 96.7-21 256.7 112.6 252.8l.8-.1a140 140 0 11-131.7-246.3Z\"></path></svg>",
+		"filled,moon,waning,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"12993.6\" x2=\"13126.8\" y1=\"143.9\" y2=\"374.7\" gradientTransform=\"matrix(-1 0 0 1 13312.32 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M121.2 214.8a134.1 134.1 0 01155.6-95.1 135.6 135.6 0 00-13.8 31.9c-20.7 73.2 22 151 95.4 173.8a145.4 145.4 0 0014.9 3.6 134.6 134.6 0 01-156.7 59.6 142.6 142.6 0 01-95.4-173.8Z\"></path></svg>",
+		"filled,moon,waning,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"211.4\" x2=\"330.3\" y1=\"166.7\" y2=\"372.6\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M310.3 127.5a142.3 142.3 0 00-19-7l.7.6h0c92.2 96.7 21 256.7-112.6 252.8l-.8-.1a141.4 141.4 0 0017.8 9.5 140 140 0 10114-255.8Z\"></path></svg>",
+		"filled,moon,waxing,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"193.9\" x2=\"327.1\" y1=\"143.9\" y2=\"374.7\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"none\" stroke=\"#e5e7eb\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"17.4\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M391.4 214.8a134.1 134.1 0 00-155.6-95.1 135.2 135.2 0 0113.8 31.9c20.7 73.2-22 151-95.4 173.8a145.4 145.4 0 01-14.8 3.6c31 52.5 94.7 78.7 156.6 59.6a142.6 142.6 0 0095.4-173.8Z\"></path></svg>",
+		"filled,moon,waxing,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 512 512\"><defs><symbol id=\"e\" overflow=\"visible\" viewBox=\"0 0 172 172\"><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"M160.6 107.4a84.8 84.8 0 01-85.4-84.3A83.3 83.3 0 0178 2 84.7 84.7 0 002 85.7 84.8 84.8 0 0087.4 170a85.2 85.2 0 0082.6-63.1 88 88 0 01-9.4.5Z\"><animateTransform additive=\"sum\" attributeName=\"transform\" dur=\"6s\" repeatCount=\"indefinite\" type=\"rotate\" values=\"-15 86 86; 9 86 86; -15 86 86\"></animateTransform></path></symbol><symbol id=\"g\" viewBox=\"0 0 72 168\"><circle cx=\"36\" cy=\"132\" r=\"36\" fill=\"#ef4444\"></circle><path fill=\"none\" stroke=\"#ef4444\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"><animateTransform attributeName=\"transform\" calcMode=\"spline\" dur=\"1s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"translate\" values=\"0 0; 0 18; 0 0\"></animateTransform></path></symbol><symbol id=\"h\" viewBox=\"0 0 118 278\"><path fill=\"url(#b)\" stroke=\"url(#c)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M115 218.2c0 31.4-25 56.8-56 56.8S3 249.6 3 218.2a57 57 0 0124-46.6V35.5a32 32 0 1164 0v136a57 57 0 0124 46.7ZM63 83h28M63 51h28m-28 64h28\"></path></symbol><symbol id=\"f\" viewBox=\"0 0 118 278\"><use xlink:href=\"#g\" width=\"72\" height=\"168\" transform=\"translate(23 87)\"></use><use xlink:href=\"#h\" width=\"118\" height=\"278\"></use></symbol><linearGradient id=\"a\" x1=\"34.7\" x2=\"119.2\" y1=\"18.6\" y2=\"165\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient><linearGradient id=\"b\" x1=\"-7.2\" x2=\"116.4\" y1=\"36.3\" y2=\"250.4\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#515a69\" stop-opacity=\".1\"></stop><stop offset=\".5\" stop-color=\"#6b7280\" stop-opacity=\".1\"></stop><stop offset=\"1\" stop-color=\"#384354\" stop-opacity=\".1\"></stop></linearGradient><linearGradient id=\"c\" x1=\"-8.7\" x2=\"117.9\" y1=\"33.7\" y2=\"253\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#d4d7dd\"></stop><stop offset=\".5\" stop-color=\"#d4d7dd\"></stop><stop offset=\"1\" stop-color=\"#bec1c6\"></stop></linearGradient><clipPath id=\"d\"><path fill=\"none\" d=\"M256 392c31 0 56-25.4 56-56.8a57 57 0 00-24-46.6V152.5a32.2 32.2 0 00-32-32.5V79.7h167.2V392Zm4-192h28m-28-32h28m-28 64h28\"></path></clipPath></defs><g clip-path=\"url(#d)\"><use xlink:href=\"#e\" width=\"172\" height=\"172\" transform=\"translate(228 120)\"></use></g><use xlink:href=\"#f\" width=\"118\" height=\"278\" transform=\"translate(197 117)\"></use></svg>",
+		"filled,thermometer,moon",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.6\" d=\"M306.4 138a127.2 127.2 0 00-51.6-11.5 127 127 0 0123.6 138.1A127.1 127.1 0 01160 339.3c12.7 15.7 23.3 22 43 30.8 65.5 29 141.6.7 170.2-63.4s-1.4-139.6-66.8-168.7Z\"></path></svg>",
+		"line,static,moon,first,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\"></circle></svg>",
+		"line,static,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\" d=\"M204.8 137.3a128.1 128.1 0 0152-11.5 127.6 127.6 0 00-23.9 138.8A127.8 127.8 0 00352 339.8c-12.8 15.7-23.4 22-43.3 30.9-65.8 29.2-142.3.7-171-63.7s1.4-140.4 67.1-169.7Z\"></path></svg>",
+		"line,static,moon,last,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path></svg>",
+		"line,static,moon,new",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.6\" d=\"M201.3 139.4a128.4 128.4 0 0117.3-6.2l-.6.4h0c-83.8 87.9-19.1 233.2 102.2 229.7l.8-.2a127.2 127.2 0 11-119.7-223.7Z\"></path></svg>",
+		"line,static,moon,waning,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.8\" d=\"M130.9 218c17.8-63 80.2-100 143.4-87.7a124.8 124.8 0 00-12.7 29.5 131.5 131.5 0 0088 160.1 128.2 128.2 0 0013.6 3.4 124 124 0 01-144.3 55 131.6 131.6 0 01-88-160.3Z\"></path></svg>",
+		"line,static,moon,waning,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\" d=\"M308.2 139a129.4 129.4 0 00-17.4-6.4l.6.5h0c84.2 88.2 19.3 234.1-102.6 230.7l-.8-.2a129 129 0 0016.3 8.7 127.7 127.7 0 10103.9-233.4Z\"></path></svg>",
+		"line,static,moon,waxing,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.8\" d=\"M381.8 218c-17.9-63-80.2-100-143.4-87.7a124.8 124.8 0 0112.7 29.5 131.5 131.5 0 01-88 160.1 128.2 128.2 0 01-13.7 3.4 124 124 0 00144.4 55c67.7-21 107-92.7 88-160.3Z\"></path></svg>",
+		"line,static,moon,waxing,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 512 512\"><defs><symbol id=\"b\" viewBox=\"0 0 178 178\"><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M163.6 110.4a84.8 84.8 0 01-85.4-84.3A83.3 83.3 0 0181 5 84.7 84.7 0 005 88.7 84.8 84.8 0 0090.4 173a85.2 85.2 0 0082.6-63.1 88 88 0 01-9.4.5Z\"></path></symbol><symbol id=\"d\" viewBox=\"0 0 72 168\"><circle cx=\"36\" cy=\"132\" r=\"36\" fill=\"#ef4444\"></circle><path fill=\"none\" stroke=\"#ef4444\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"></path></symbol><symbol id=\"e\" viewBox=\"0 0 118 278\"><path fill=\"none\" stroke=\"#cbd5e1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M115 218.2c0 31.4-25 56.8-56 56.8S3 249.6 3 218.2a57 57 0 0124-46.6V35.5a32 32 0 1164 0v136a57 57 0 0124 46.7ZM63 83h28M63 51h28m-28 64h28\"></path></symbol><symbol id=\"c\" viewBox=\"0 0 118 278\"><use xlink:href=\"#d\" width=\"72\" height=\"168\" transform=\"translate(23 87)\"></use><use xlink:href=\"#e\" width=\"118\" height=\"278\"></use></symbol><clipPath id=\"a\"><path fill=\"none\" d=\"M256 392c31 0 56-25.4 56-56.8a57 57 0 00-24-46.6V152.5a32.2 32.2 0 00-32-32.5V79.7h167.2V392Zm4-192h28m-28-32h28m-28 64h28\"></path></clipPath></defs><g clip-path=\"url(#a)\"><use xlink:href=\"#b\" width=\"178\" height=\"178\" transform=\"translate(225 117)\"></use></g><use xlink:href=\"#c\" width=\"118\" height=\"278\" transform=\"translate(197 117)\"></use></svg>",
+		"line,static,thermometer,moon",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.6\" d=\"M306.4 138a127.2 127.2 0 00-51.6-11.5 127 127 0 0123.6 138.1A127.1 127.1 0 01160 339.3c12.7 15.7 23.3 22 43 30.8 65.5 29 141.6.7 170.2-63.4s-1.4-139.6-66.8-168.7Z\"></path></svg>",
+		"line,moon,first,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\"></circle></svg>",
+		"line,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\" d=\"M204.8 137.3a128.1 128.1 0 0152-11.5 127.6 127.6 0 00-23.9 138.8A127.8 127.8 0 00352 339.8c-12.8 15.7-23.4 22-43.3 30.9-65.8 29.2-142.3.7-171-63.7s1.4-140.4 67.1-169.7Z\"></path></svg>",
+		"line,moon,last,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path></svg>",
+		"line,moon,new",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.6\" d=\"M201.3 139.4a128.4 128.4 0 0117.3-6.2l-.6.4h0c-83.8 87.9-19.1 233.2 102.2 229.7l.8-.2a127.2 127.2 0 11-119.7-223.7Z\"></path></svg>",
+		"line,moon,waning,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.8\" d=\"M130.9 218c17.8-63 80.2-100 143.4-87.7a124.8 124.8 0 00-12.7 29.5 131.5 131.5 0 0088 160.1 128.2 128.2 0 0013.6 3.4 124 124 0 01-144.3 55 131.6 131.6 0 01-88-160.3Z\"></path></svg>",
+		"line,moon,waning,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\" d=\"M308.2 139a129.4 129.4 0 00-17.4-6.4l.6.5h0c84.2 88.2 19.3 234.1-102.6 230.7l-.8-.2a129 129 0 0016.3 8.7 127.7 127.7 0 10103.9-233.4Z\"></path></svg>",
+		"line,moon,waxing,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#e2e8f0\" stroke-dasharray=\"16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128Z\"></path><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.8\" d=\"M381.8 218c-17.9-63-80.2-100-143.4-87.7a124.8 124.8 0 0112.7 29.5 131.5 131.5 0 01-88 160.1 128.2 128.2 0 01-13.7 3.4 124 124 0 00144.4 55c67.7-21 107-92.7 88-160.3Z\"></path></svg>",
+		"line,moon,waxing,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 512 512\"><defs><symbol id=\"b\" overflow=\"visible\" viewBox=\"0 0 178 178\"><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M163.6 110.4a84.8 84.8 0 01-85.4-84.3A83.3 83.3 0 0181 5 84.7 84.7 0 005 88.7 84.8 84.8 0 0090.4 173a85.2 85.2 0 0082.6-63.1 88 88 0 01-9.4.5Z\"><animateTransform additive=\"sum\" attributeName=\"transform\" dur=\"6s\" repeatCount=\"indefinite\" type=\"rotate\" values=\"-15 86 86; 9 86 86; -15 86 86\"></animateTransform></path></symbol><symbol id=\"d\" viewBox=\"0 0 72 168\"><circle cx=\"36\" cy=\"132\" r=\"36\" fill=\"#ef4444\"></circle><path fill=\"none\" stroke=\"#ef4444\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"><animateTransform attributeName=\"transform\" calcMode=\"spline\" dur=\"1s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"translate\" values=\"0 0; 0 18; 0 0\"></animateTransform></path></symbol><symbol id=\"e\" viewBox=\"0 0 118 278\"><path fill=\"none\" stroke=\"#cbd5e1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M115 218.2c0 31.4-25 56.8-56 56.8S3 249.6 3 218.2a57 57 0 0124-46.6V35.5a32 32 0 1164 0v136a57 57 0 0124 46.7ZM63 83h28M63 51h28m-28 64h28\"></path></symbol><symbol id=\"c\" viewBox=\"0 0 118 278\"><use xlink:href=\"#d\" width=\"72\" height=\"168\" transform=\"translate(23 87)\"></use><use xlink:href=\"#e\" width=\"118\" height=\"278\"></use></symbol><clipPath id=\"a\"><path fill=\"none\" d=\"M256 392c31 0 56-25.4 56-56.8a57 57 0 00-24-46.6V152.5a32.2 32.2 0 00-32-32.5V79.7h167.2V392Zm4-192h28m-28-32h28m-28 64h28\"></path></clipPath></defs><g clip-path=\"url(#a)\"><use xlink:href=\"#b\" width=\"178\" height=\"178\" transform=\"translate(225 117)\"></use></g><use xlink:href=\"#c\" width=\"118\" height=\"278\" transform=\"translate(197 117)\"></use></svg>",
+		"line,thermometer,moon",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ec\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M306.4 138a127.6 127.6 0 00-51.6-11.5 127 127 0 0123.6 138A127.1 127.1 0 01160 339.3c12.7 15.7 23.3 22 43 30.8 65.5 29 141.6.7 170.2-63.4A128.4 128.4 0 00306.4 138Z\"></path></g></svg>",
+		"monochrome,static,moon,first,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ee\"><circle cx=\"256\" cy=\"256\" r=\"140\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"13.7\"></circle></g></svg>",
+		"monochrome,static,moon,full",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"eg\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M204.8 137.3c20-8.8 37-11.2 52-11.5a127.7 127.7 0 00-23.9 138.8A127.8 127.8 0 00352 339.8c-12.8 15.7-23.4 22-43.3 30.9a129 129 0 01-171-63.7 129 129 0 0167.1-169.7Z\"></path></g></svg>",
+		"monochrome,static,moon,last,quarter",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ea\"><path fill=\"none\" stroke=\"#000\" stroke-dasharray=\"0 0 16.9 56.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path></g></svg>",
+		"monochrome,static,moon,new",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"eh\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M201.3 139.4a128 128 0 0117.3-6.2l-.6.4h0c-83.8 87.9-19.1 233.2 102.2 229.7l.8-.2a127.2 127.2 0 11-119.7-223.7Z\"></path></g></svg>",
+		"monochrome,static,moon,waning,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ef\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M130.9 218c17.8-63 80.2-100 143.4-87.7a120 120 0 00-12.7 29.5 131.5 131.5 0 00101.6 163.5 124 124 0 01-144.4 55c-67.6-21-107-92.7-88-160.3Z\"></path></g></svg>",
+		"monochrome,static,moon,waning,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"eb\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M308.2 139c-5.7-2.6-11.5-4.7-17.4-6.4l.7.5h0c84.1 88.2 19.1 234.1-102.8 230.7l-.7-.2a127.7 127.7 0 10120.2-224.7Z\"></path></g></svg>",
+		"monochrome,static,moon,waxing,crescent",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ed\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-dasharray=\"0 0 16.9 56.2\" stroke-width=\"12\" d=\"M384 256a128 128 0 00-128-128c-169.8 6.7-169.7 249.3 0 256a128 128 0 00128-128h0Z\"></path><path stroke-width=\"13.7\" d=\"M381.8 218c-17.8-63-80.2-100-143.4-87.7a124 124 0 0112.7 29.5 131.5 131.5 0 01-101.7 163.5 124 124 0 00144.4 55c67.7-21 107-92.7 88-160.3Z\"></path></g></svg>",
+		"monochrome,static,moon,waxing,gibbous",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 512 512\"><defs><symbol id=\"a\" viewBox=\"0 0 183 183\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\" d=\"M166.1 112.9a84.8 84.8 0 01-85.4-84.3 83 83 0 012.8-21.1 84.7 84.7 0 00-76 83.7 84.8 84.8 0 0085.4 84.3c39.8 0 73-26.8 82.6-63.1-3 .3-6.2.5-9.4.5Z\"></path></symbol><symbol id=\"b\" viewBox=\"0 0 121 281\"><g><use xlink:href=\"#d\" width=\"72\" height=\"168\" transform=\"translate(24.5 88.5)\"></use><use xlink:href=\"#c\" width=\"121\" height=\"281\"></use></g></symbol><symbol id=\"c\" viewBox=\"0 0 121 281\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"9\" d=\"M116.5 219.7c0 31.4-25 56.8-56 56.8s-56-25.4-56-56.8a57 57 0 0124-46.6V37c0-18 14.3-32.5 32-32.5s32 14.5 32 32.5v136a57 57 0 0124 46.7Zm-52-135.2h28m-28-32h28m-28 64h28\"></path></symbol><symbol id=\"d\" viewBox=\"0 0 72 168\"><g><circle cx=\"36\" cy=\"132\" r=\"36\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"></path></g></symbol><clipPath id=\"id\"><path fill=\"none\" d=\"M256 392a57 57 0 0032-103.5v-136c0-18-14.3-32.5-32-32.5V79.7h167.2V392H256Zm4-192h28m-28-32h28m-28 64h28\"></path></clipPath><style>.ih,.ii,.ij,.ik{fill:none;}.ii{stroke-width:9px;}.ii,.ij,.ik{stroke:#000;stroke-linecap:round;}.ii,.ik{stroke-linejoin:round;}.ij{stroke-miterlimit:10;stroke-width:24px;}.il{clip-path:url(#id);}.ik{stroke-width:15px;}</style></defs><g id=\"ic\"><g clip-path=\"url(#id)\"><use xlink:href=\"#a\" width=\"183\" height=\"183\" transform=\"translate(222.5 114.5)\"></use></g><use xlink:href=\"#b\" width=\"121\" height=\"281\" transform=\"translate(195.5 115.5)\"></use></g></svg>",
+		"monochrome,static,thermometer,moon",
+		"Meteocons"
 	]
 ]

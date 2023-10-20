@@ -478,5 +478,30 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"snowflake\" focusable=\"false\"><path d=\"M1871 1276l33 124-200 53 53 201-124 33-63-237-546-315v631l173 173-90 90-147-146-147 146-90-90 173-173v-631l-546 315-63 237-124-33 53-201-200-53 33-124 237 63 546-315-546-315-237 63-33-124 200-53-53-201 124-33 63 237 546 315V282L723 109l90-90 147 146 147-146 90 90-173 173v631l546-315 63-237 124 33-53 201 200 53-33 124-237-63-546 315 546 315 237-63z\"></path></svg>",
 		"snowflake",
 		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"192\" x2=\"320\" y1=\"145.2\" y2=\"366.8\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"m372 295.2-34.3-19.7a83.8 83.8 0 000-39l34.3-19.7a24 24 0 10-24-41.6L313.7 195a81.4 81.4 0 00-33.7-19.4V136a24 24 0 00-48 0v39.6a84 84 0 00-33.7 19.4L164 175.2a24 24 0 10-24 41.6l34.3 19.7a83.8 83.8 0 000 39L140 295.1a24 24 0 1024 41.6l34.3-19.8a80.6 80.6 0 0033.7 19.4V376a24 24 0 0048 0v-39.7a84 84 0 0033.7-19.3l34.3 19.8a24 24 0 1024-41.6Zm-134-8a36 36 0 1149.2-13.2 36 36 0 01-49.2 13.2Z\"></path></svg>",
+		"filled,static,snowflake",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><defs><linearGradient id=\"a\" x1=\"192\" x2=\"320\" y1=\"145.2\" y2=\"366.8\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#86c3db\"></stop><stop offset=\".5\" stop-color=\"#86c3db\"></stop><stop offset=\"1\" stop-color=\"#5eafcf\"></stop></linearGradient></defs><path fill=\"url(#a)\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"m372 295.2-34.3-19.7a83.8 83.8 0 000-39l34.3-19.7a24 24 0 10-24-41.6L313.7 195a81.4 81.4 0 00-33.7-19.4V136a24 24 0 00-48 0v39.6a84 84 0 00-33.7 19.4L164 175.2a24 24 0 10-24 41.6l34.3 19.7a83.8 83.8 0 000 39L140 295.1a24 24 0 1024 41.6l34.3-19.8a80.6 80.6 0 0033.7 19.4V376a24 24 0 0048 0v-39.7a84 84 0 0033.7-19.3l34.3 19.8a24 24 0 1024-41.6Zm-134-8a36 36 0 1149.2-13.2 36 36 0 01-49.2 13.2Z\"><animateTransform attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"scale\" values=\"1 1; .9 .9; 1 1; .9 .9; 1 1\"></animateTransform><animateTransform additive=\"sum\" attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"translate\" values=\"0 0; 25.75 25.75; 0 0; 25.75 25.75; 0 0\"></animateTransform><animateTransform additive=\"sum\" attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"rotate\" values=\"-6 256 256; 6 256 256; -6 256 256\"></animateTransform></path></svg>",
+		"filled,snowflake",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\" d=\"m372 295.2-34.3-19.7a83.8 83.8 0 000-39l34.3-19.7a24 24 0 10-24-41.6L313.7 195a81.4 81.4 0 00-33.7-19.4V136a24 24 0 00-48 0v39.6a84 84 0 00-33.7 19.4L164 175.2a24 24 0 10-24 41.6l34.3 19.7a83.8 83.8 0 000 39L140 295.1a24 24 0 1024 41.6l34.3-19.8a80.6 80.6 0 0033.7 19.4V376a24 24 0 0048 0v-39.7a84 84 0 0033.7-19.3l34.3 19.8a24 24 0 1024-41.6Zm-134-8a36 36 0 1149.2-13.2 36 36 0 01-49.2 13.2Z\"></path></svg>",
+		"line,static,snowflake",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"none\" stroke=\"#72b9d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\" d=\"m372 295.2-34.3-19.7a83.8 83.8 0 000-39l34.3-19.7a24 24 0 10-24-41.6L313.7 195a81.4 81.4 0 00-33.7-19.4V136a24 24 0 00-48 0v39.6a84 84 0 00-33.7 19.4L164 175.2a24 24 0 10-24 41.6l34.3 19.7a83.8 83.8 0 000 39L140 295.1a24 24 0 1024 41.6l34.3-19.8a80.6 80.6 0 0033.7 19.4V376a24 24 0 0048 0v-39.7a84 84 0 0033.7-19.3l34.3 19.8a24 24 0 1024-41.6Zm-134-8a36 36 0 1149.2-13.2 36 36 0 01-49.2 13.2Z\"><animateTransform attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"scale\" values=\"1 1; .9 .9; 1 1; .9 .9; 1 1\"></animateTransform><animateTransform additive=\"sum\" attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"translate\" values=\"0 0; 25.75 25.75; 0 0; 25.75 25.75; 0 0\"></animateTransform><animateTransform additive=\"sum\" attributeName=\"transform\" calcMode=\"spline\" dur=\"6s\" keySplines=\".42, 0, .58, 1; .42, 0, .58, 1\" repeatCount=\"indefinite\" type=\"rotate\" values=\"-6 256 256; 6 256 256; -6 256 256\"></animateTransform></path></svg>",
+		"line,snowflake",
+		"Meteocons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><g id=\"ej\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"15\" d=\"m372 295.2-34.3-19.7c3.1-13 3-26.3 0-39l34.3-19.7a24 24 0 10-24-41.6L313.7 195a83.5 83.5 0 00-33.7-19.4V136a24 24 0 00-48 0v39.6a84 84 0 00-33.7 19.4L164 175.2a24 24 0 10-24 41.6l34.3 19.7c-3 13-3 26.3 0 39L140 295.1a24 24 0 1024 41.6l34.3-19.8a83.5 83.5 0 0033.7 19.4V376a24 24 0 0048 0v-39.7a84 84 0 0033.7-19.3l34.3 19.8a23.8 23.8 0 0032.8-8.8 24 24 0 00-8.8-32.8Zm-134-8a36 36 0 1136-62.4 36 36 0 01-36 62.4Z\"></path></g></svg>",
+		"monochrome,static,snowflake",
+		"Meteocons"
 	]
 ]
