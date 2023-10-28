@@ -174,9 +174,8 @@
 - [Simple Line Icons](https://github.com/thesabbir/simple-line-icons) licensed
   under the
   [MIT](https://github.com/thesabbir/simple-line-icons/blob/master/LICENSE.md)
-- [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) licensed
-  under the
-  [MIT](https://github.com/phosphor-icons/phosphor-icons/blob/master/LICENSE)
+- [Phosphor Icons](https://github.com/phosphor-icons/core) licensed under the
+  [MIT](https://github.com/phosphor-icons/core/blob/main/LICENSE)
 - [Unicons](https://github.com/Iconscout/unicons) licensed under the
   [IconScout Simple License](https://github.com/Iconscout/unicons/blob/master/LICENSE)
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome) licensed under
