@@ -140,6 +140,16 @@
 		"Emoji Two"
 	],
 	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><rect x=\"12.125\" y=\"12.0413\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"37.502 27.34 31.036 41.96 41.214 41.96\"></polyline><line x1=\"39.5379\" x2=\"39.5379\" y1=\"36.5708\" y2=\"44.7422\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></line></g></svg>",
+		"keycap,4,twotone",
+		"OpenMoji"
+	],
+	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><rect x=\"11.875\" y=\"12.2913\" width=\"48\" height=\"47.834\" fill=\"#d0cfce\"></rect></g><g id=\"line\"><rect x=\"12.125\" y=\"12.0413\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"37.502 27.34 31.036 41.96 41.214 41.96\"></polyline><line x1=\"39.5379\" x2=\"39.5379\" y1=\"36.5708\" y2=\"44.7422\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></line></g></svg>",
+		"keycap,4,twotone,color",
+		"OpenMoji"
+	],
+	[
 		"<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><g><path style=\"fill:#427687;\" d=\"M116.46,3.96h-104c-4.42,0-8,3.58-8,8v104c0,4.42,3.58,8,8,8h104c4.42,0,8-3.58,8-8v-104 C124.46,7.54,120.88,3.96,116.46,3.96z\"></path><path style=\"fill:#8CAFBF;\" d=\"M122.16,6.26c-1.54-1.46-3.58-2.28-5.7-2.3h-104c-4.42,0-8,3.58-8,8v104 c0.02,2.12,0.84,4.16,2.3,5.7l16.8-16.8h76c3.26-0.01,5.89-2.64,5.9-5.9v-76L122.16,6.26z\"></path><path style=\"fill:#FAFAFA;\" d=\"M80.86,73.26h4.9c1.05,0,1.9,0.85,1.9,1.9l0,0v5.5c0,1.05-0.85,1.9-1.9,1.9l0,0h-4.9 c-1.05,0-1.9,0.85-1.9,1.9l0,0v11.6c0,1.05-0.85,1.9-1.9,1.9l0,0h-7.8c-1.05,0-1.9-0.85-1.9-1.9l0,0v-11.7c0-1.05-0.85-1.9-1.9-1.9 l0,0h-26.1c-0.99-0.04-1.8-0.81-1.9-1.8l-0.2-4.6c-0.01-0.39,0.1-0.77,0.3-1.1l28.9-45.3c0.34-0.56,0.95-0.9,1.6-0.9h9 c1.05,0,1.9,0.85,1.9,1.9v0v40.7C79.01,72.39,79.83,73.21,80.86,73.26z M52.76,73.26h12.8c1.05,0,1.9-0.85,1.9-1.9l0,0v-27 l-0.9,1.5l-15.4,24.5c-0.53,0.93-0.21,2.12,0.72,2.65C52.15,73.16,52.45,73.25,52.76,73.26z\"></path><path style=\"opacity:0.5;fill:#B4E1ED;enable-background:new ;\" d=\"M40.16,12.86c0-2.3-1.6-3-10.8-2.7c-7.7,0.3-11.5,1.2-13.8,4 s-2.9,8.5-3,15.3c0,4.8,0,9.3,2.5,9.3c3.4,0,3.4-7.9,6.2-12.3C26.66,17.76,40.16,15.86,40.16,12.86z\"></path></g></svg>",
 		"keycap,4",
 		"Noto Color Emoji"
@@ -668,6 +678,16 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.9631 13.7865C11.4702 14.2936 11.4702 15.1157 10.9631 15.6228C10.4561 16.1299 9.63395 16.1299 9.12688 15.6228C8.61982 15.1157 8.61982 14.2936 9.12688 13.7865C9.63395 13.2795 10.4561 13.2795 10.9631 13.7865Z\" fill=\"#212121\"></path></svg>",
 		"wifi,4,wifi,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 20.4V3.6C3 3.26863 3.26863 3 3.6 3H20.4C20.7314 3 21 3.26863 21 3.6V20.4C21 20.7314 20.7314 21 20.4 21H3.6C3.26863 21 3 20.7314 3 20.4Z\" stroke=\"currentColor\"></path><path d=\"M13.5 16V8L9 13.5H15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,number,4,square",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.6 2.25C2.85442 2.25 2.25 2.85441 2.25 3.6V20.4C2.25 21.1456 2.85441 21.75 3.6 21.75H20.4C21.1456 21.75 21.75 21.1456 21.75 20.4V3.6C21.75 2.85442 21.1456 2.25 20.4 2.25H3.6ZM14.25 8C14.25 7.683 14.0507 7.40023 13.7521 7.29365C13.4536 7.18708 13.1203 7.27972 12.9195 7.52507L8.41953 13.0251C8.23602 13.2494 8.19815 13.5593 8.32225 13.8212C8.44635 14.083 8.71021 14.25 9 14.25H12.75V16C12.75 16.4142 13.0858 16.75 13.5 16.75C13.9142 16.75 14.25 16.4142 14.25 16V14.25H15C15.4142 14.25 15.75 13.9142 15.75 13.5C15.75 13.0858 15.4142 12.75 15 12.75H14.25V8ZM12.75 10.1011V12.75H10.5827L12.75 10.1011Z\" fill=\"currentColor\"></path></svg>",
+		"solid,number,4,square",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M384.78,88h-.1v.1L208.78,264h-.1v.1L16,456.78V496H496V16H456.78Zm-264.1,376H54.034l66.647-66.646Zm88,0h-56V365.354l56-56Zm88,0h-56V277.354l56-56Zm88,0h-56V189.354l56-56ZM464,464H416.681V101.354L464,54.034Z\" class=\"ci-primary\"></path></svg>",

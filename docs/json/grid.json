@@ -80,6 +80,21 @@
 		"Geomicons Open"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-grid-large\" viewBox=\"0 0 24 24\"><path d=\"M12,4V12H20V6A2,2 0 0,0 18,4H12M20,13H12V21H18A2,2 0 0,0 20,19V13M11,21V13H3V19A2,2 0 0,0 5,21H11M3,12H11V4H5A2,2 0 0,0 3,6V12M5,3H18A3,3 0 0,1 21,6V19A3,3 0 0,1 18,22H5A3,3 0 0,1 2,19V6A3,3 0 0,1 5,3Z\"></path></svg>",
+		"grid,large",
+		"Material Design Icons Light"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-grid-off\" viewBox=\"0 0 24 24\"><path d=\"M0.79,2.46L1.5,1.75L22.25,22.5L21.54,23.21L19.76,21.43C19.27,21.79 18.66,22 18,22H5A3,3 0 0,1 2,19V6C2,5.34 2.21,4.73 2.57,4.24L0.79,2.46M5,3H18A3,3 0 0,1 21,6V19L20.91,19.74L20,18.84V16H17.16L16.16,15H20V10H15V13.84L14,12.84V10H11.16L10.16,9H14V4H9V7.84L8,6.84V4H5.16L4.26,3.09L5,3M3,6V9H7.34L3.29,4.96C3.11,5.26 3,5.62 3,6M9,15H13.34L9,10.66V15M15,21H18C18.38,21 18.74,20.89 19.04,20.71L15,16.66V21M3,19A2,2 0 0,0 5,21H8V16H3V19M8,10H3V15H8V10M20,6A2,2 0 0,0 18,4H15V9H20V6M9,21H14V16H9V21Z\"></path></svg>",
+		"grid,off",
+		"Material Design Icons Light"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-grid\" viewBox=\"0 0 24 24\"><path d=\"M5,3H18A3,3 0 0,1 21,6V19A3,3 0 0,1 18,22H5A3,3 0 0,1 2,19V6A3,3 0 0,1 5,3M5,4A2,2 0 0,0 3,6V9H8V4H5M3,19A2,2 0 0,0 5,21H8V16H3V19M8,10H3V15H8V10M18,21A2,2 0 0,0 20,19V16H15V21H18M20,10H15V15H20V10M20,6A2,2 0 0,0 18,4H15V9H20V6M9,4V9H14V4H9M9,21H14V16H9V21M14,10H9V15H14V10Z\"></path></svg>",
+		"grid",
+		"Material Design Icons Light"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><rect x=\"0\" fill=\"none\" width=\"20\" height=\"20\"></rect><g><path d=\"M2 1h16c.55 0 1 .45 1 1v16c0 .55-.45 1-1 1H2c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1zm7.01 7.99v-6H3v6h6.01zm8 0v-6h-6v6h6zm-8 8.01v-6H3v6h6.01zm8 0v-6h-6v6h6z\"></path></g></svg>",
 		"grid,view",
 		"Dashicons"
@@ -953,6 +968,26 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 14V10.5H6V12.5C6 13.3284 6.67157 14 7.5 14H9.5V16H6C4.89543 16 4 15.1046 4 14ZM10.5 14H12.5C13.3284 14 14 13.3284 14 12.5V10.5H16V14C16 15.1046 15.1046 16 14 16H10.5V14ZM13 10.5V12.5C13 12.7761 12.7761 13 12.5 13H10.5V10.5H13ZM14 9.5V7.5C14 6.67157 13.3284 6 12.5 6H10.5V4H14C15.1046 4 16 4.89543 16 6V9.5H14ZM10.5 7H12.5C12.7761 7 13 7.22386 13 7.5V9.5H10.5V7ZM9.5 6H7.5C6.67157 6 6 6.67157 6 7.5V9.5H4V6C4 4.89543 4.89543 4 6 4H9.5V6ZM7 9.5V7.5C7 7.22386 7.22386 7 7.5 7H9.5V9.5H7ZM7 10.5H9.5V13H7.5C7.22386 13 7 12.7761 7 12.5V10.5Z\" fill=\"#212121\"></path></svg>",
 		"sub,grid,sub,grid,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.9922 17H16.9922H19.9922\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M4 9.4V4.6C4 4.26863 4.26863 4 4.6 4H9.4C9.73137 4 10 4.26863 10 4.6V9.4C10 9.73137 9.73137 10 9.4 10H4.6C4.26863 10 4 9.73137 4 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M4 19.4V14.6C4 14.2686 4.26863 14 4.6 14H9.4C9.73137 14 10 14.2686 10 14.6V19.4C10 19.7314 9.73137 20 9.4 20H4.6C4.26863 20 4 19.7314 4 19.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M14 9.4V4.6C14 4.26863 14.2686 4 14.6 4H19.4C19.7314 4 20 4.26863 20 4.6V9.4C20 9.73137 19.7314 10 19.4 10H14.6C14.2686 10 14 9.73137 14 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,grid,minus",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.9922 17H16.9922M19.9922 17H16.9922M16.9922 17V14M16.9922 17V20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M4 9.4V4.6C4 4.26863 4.26863 4 4.6 4H9.4C9.73137 4 10 4.26863 10 4.6V9.4C10 9.73137 9.73137 10 9.4 10H4.6C4.26863 10 4 9.73137 4 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M4 19.4V14.6C4 14.2686 4.26863 14 4.6 14H9.4C9.73137 14 10 14.2686 10 14.6V19.4C10 19.7314 9.73137 20 9.4 20H4.6C4.26863 20 4 19.7314 4 19.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M14 9.4V4.6C14 4.26863 14.2686 4 14.6 4H19.4C19.7314 4 20 4.26863 20 4.6V9.4C20 9.73137 19.7314 10 19.4 10H14.6C14.2686 10 14 9.73137 14 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,grid,plus",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.8713 19.1213L16.9926 17M19.114 14.8787L16.9926 17M16.9926 17L14.8713 14.8787M16.9926 17L19.114 19.1213\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M4 9.4V4.6C4 4.26863 4.26863 4 4.6 4H9.4C9.73137 4 10 4.26863 10 4.6V9.4C10 9.73137 9.73137 10 9.4 10H4.6C4.26863 10 4 9.73137 4 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M4 19.4V14.6C4 14.2686 4.26863 14 4.6 14H9.4C9.73137 14 10 14.2686 10 14.6V19.4C10 19.7314 9.73137 20 9.4 20H4.6C4.26863 20 4 19.7314 4 19.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M14 9.4V4.6C14 4.26863 14.2686 4 14.6 4H19.4C19.7314 4 20 4.26863 20 4.6V9.4C20 9.73137 19.7314 10 19.4 10H14.6C14.2686 10 14 9.73137 14 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,grid,xmark",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 20.4V14.6C14 14.2686 14.2686 14 14.6 14H20.4C20.7314 14 21 14.2686 21 14.6V20.4C21 20.7314 20.7314 21 20.4 21H14.6C14.2686 21 14 20.7314 14 20.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M3 20.4V14.6C3 14.2686 3.26863 14 3.6 14H9.4C9.73137 14 10 14.2686 10 14.6V20.4C10 20.7314 9.73137 21 9.4 21H3.6C3.26863 21 3 20.7314 3 20.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M14 9.4V3.6C14 3.26863 14.2686 3 14.6 3H20.4C20.7314 3 21 3.26863 21 3.6V9.4C21 9.73137 20.7314 10 20.4 10H14.6C14.2686 10 14 9.73137 14 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M3 9.4V3.6C3 3.26863 3.26863 3 3.6 3H9.4C9.73137 3 10 3.26863 10 3.6V9.4C10 9.73137 9.73137 10 9.4 10H3.6C3.26863 10 3 9.73137 3 9.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,view,grid",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zM9 9H5V5h4v4zm5 2h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1zm1-6h4v4h-4V5zM3 20a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v6zm2-5h4v4H5v-4zm8 5a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v6zm2-5h4v4h-4v-4z\"></path></svg>",

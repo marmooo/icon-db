@@ -285,6 +285,16 @@
 		"Emoji Two"
 	],
 	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><rect x=\"5\" y=\"17\" width=\"62\" height=\"38\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect></g></svg>",
+		"tv,twotone",
+		"OpenMoji"
+	],
+	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><rect x=\"5\" y=\"17\" width=\"62\" height=\"38\" fill=\"#92d3f5\"></rect><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"58.707 25 60.035 21 61.18 24.939 58 22.565 62 22.467 58.707 25\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"58.707 41 60.035 37 61.18 40.939 58 38.565 62 38.467 58.707 41\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"51.709 45 53.037 41 54.181 44.939 51.002 42.565 55.002 42.467 51.709 45\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"26.709 52 28.037 48 29.181 51.939 26.002 49.565 30.002 49.467 26.709 52\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"47.294 45 45.967 49 44.822 45.061 48.002 47.435 44.002 47.533 47.294 45\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.294 46 35.967 50 34.822 46.061 38.002 48.435 34.002 48.533 37.294 46\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"37.294 39 35.967 43 34.822 39.061 38.002 41.435 34.002 41.533 37.294 39\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"50.891 29.207 50.041 25.079 53.002 27.918 49.061 27.452 52.476 25.366 50.891 29.207\"></polygon><polygon fill=\"#f1b31c\" stroke=\"#f1b31c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" points=\"44.891 31.207 44.041 27.079 47.002 29.918 43.061 29.452 46.476 27.366 44.891 31.207\"></polygon><rect x=\"5\" y=\"17\" width=\"31\" height=\"19\" fill=\"#1e50a0\"></rect><g><polygon fill=\"#fff\" points=\"9.887 18 6 18 6 20.332 32.113 36 36 36 36 33.668 9.887 18\"></polygon><polygon fill=\"#fff\" points=\"36 20.332 36 18 32.113 18 6 33.668 6 36 9.887 36 36 20.332\"></polygon><rect x=\"6\" y=\"24\" width=\"30\" height=\"6\" fill=\"#fff\"></rect><rect x=\"18\" y=\"18\" width=\"6\" height=\"18\" fill=\"#fff\"></rect><rect x=\"20\" y=\"18\" width=\"2\" height=\"18\" fill=\"#d22f27\"></rect><rect x=\"6\" y=\"26\" width=\"30\" height=\"2\" fill=\"#d22f27\"></rect><polygon fill=\"#d22f27\" points=\"36 33.668 29.887 30 26 30 36 36 36 33.668\"></polygon><polygon fill=\"#d22f27\" points=\"36 18 32.113 18 24 22.868 24 24 26 24 36 18\"></polygon><polygon fill=\"#d22f27\" points=\"6 20.332 12.113 24 16 24 6 18 6 20.332\"></polygon><polygon fill=\"#d22f27\" points=\"6 36 9.887 36 18 31.132 18 30 16 30 6 36\"></polygon></g></g><g id=\"line\"><rect x=\"5\" y=\"17\" width=\"62\" height=\"38\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect></g></svg>",
+		"tv,twotone,color",
+		"OpenMoji"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-tv-fill\" viewBox=\"0 0 16 16\"><path d=\"M2.5 13.5A.5.5 0 0 1 3 13h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zM2 2h12s2 0 2 2v6s0 2-2 2H2s-2 0-2-2V4s0-2 2-2z\"></path></svg>",
 		"tv,filled",
 		"Bootstrap Icons"
@@ -1033,6 +1043,31 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6C2 4.89543 2.89543 4 4 4H16C17.1046 4 18 4.89543 18 6V13C18 14.1046 17.1046 15 16 15H4C2.89543 15 2 14.1046 2 13V6ZM4 5C3.44772 5 3 5.44772 3 6V13C3 13.5523 3.44772 14 4 14H16C16.5523 14 17 13.5523 17 13V6C17 5.44772 16.5523 5 16 5H4ZM5 16.5C5 16.2239 5.22386 16 5.5 16H14.5C14.7761 16 15 16.2239 15 16.5C15 16.7761 14.7761 17 14.5 17H5.5C5.22386 17 5 16.7761 5 16.5Z\" fill=\"#212121\"></path></svg>",
 		"tv,tv,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7 21L17 21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M13.5 7L13.5 11M13.5 13L13.5 11M13.5 11L14.8706 9.43363M17 7L14.8706 9.43363M14.8706 9.43363L17 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M9.5 7L6.5 11.5L10 11.5L10 13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M2 16.4V3.6C2 3.26863 2.26863 3 2.6 3H21.4C21.7314 3 22 3.26863 22 3.6V16.4C22 16.7314 21.7314 17 21.4 17H2.6C2.26863 17 2 16.7314 2 16.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,modern,tv,4k",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7 21L17 21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M2 16.4V3.6C2 3.26863 2.26863 3 2.6 3H21.4C21.7314 3 22 3.26863 22 3.6V16.4C22 16.7314 21.7314 17 21.4 17H2.6C2.26863 17 2 16.7314 2 16.4Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
+		"regular,modern,tv",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 20V9C2 7.89543 2.89543 7 4 7H20C21.1046 7 22 7.89543 22 9V20C22 21.1046 21.1046 22 20 22H4C2.89543 22 2 21.1046 2 20Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M13.6569 12.8284L10.8284 15.6568\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16.4853 12.8284C15.7042 13.6095 14.4379 13.6095 13.6569 12.8284C12.8758 12.0474 12.8758 10.781 13.6569 10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M10.8284 18.4853C11.6094 17.7043 11.6094 16.4379 10.8284 15.6569C10.0473 14.8758 8.78102 14.8758 7.99997 15.6569\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M8.5 2.5L12 6L15.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,tv,fix",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 11V14\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 18.01L12.01 17.9989\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M2 20V9C2 7.89543 2.89543 7 4 7H20C21.1046 7 22 7.89543 22 9V20C22 21.1046 21.1046 22 20 22H4C2.89543 22 2 21.1046 2 20Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M8.5 2.5L12 6L15.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,tv,warning",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 20V9C2 7.89543 2.89543 7 4 7H20C21.1046 7 22 7.89543 22 9V20C22 21.1046 21.1046 22 20 22H4C2.89543 22 2 21.1046 2 20Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path><path d=\"M8.5 2.5L12 6L15.5 2.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,tv",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-tv\" viewBox=\"0 0 512 512\"><path fill=\"#009fca\" d=\"M0 0h512v512H0z\"></path><path fill=\"#fff40d\" fill-rule=\"evenodd\" d=\"m478 226.3 7.1 20.4-18.4-12.6-18.5 12.6 7.1-20.4-18.5-12.6h22.9l7-20.4 7 20.4h22.8zm-57.2 162.8 7 20.4-18.4-12.7-18.4 12.7 7-20.4-18.4-12.7h22.8l7-20.4 7 20.5h22.9zm57.3-36.9 7 20.4-18.4-12.6-18.5 12.6 7.1-20.4-18.5-12.6h22.9l7-20.4 7 20.4h22.8zm-246.2 118 7.1 20.5-18.4-12.7-18.5 12.7 7.1-20.4-18.5-12.6h22.8l7-20.4 7.1 20.4h22.8zm43.1-88.4-7-20.4 18.4 12.6 18.4-12.6-7 20.4 18.4 12.6h-22.8l-7 20.4-7-20.4h-22.8zm67.3-93-7.1-20.4 18.4 12.6 18.5-12.6-7 20.4 18.4 12.6h-22.8l-7 20.4-7-20.4h-22.9zm56.5-19.3-7-20.4 18.4 12.6 18.4-12.6-7 20.4 18.4 12.6h-22.8l-7 20.4-7-20.4h-22.9zm-56.5 161-7.1-20.4 18.4 12.6 18.5-12.6-7 20.4 18.4 12.6h-22.8l-7 20.4-7-20.4h-22.9zM275 446.9l-7-20.4 18.4 12.6 18.4-12.6-7 20.4 18.4 12.6h-22.8l-7 20.4-7-20.4h-22.8z\"></path><path fill=\"#012169\" d=\"M0 0h256v256H0z\"></path><path fill=\"#FFF\" d=\"M256 0v32l-95 96 95 93.5V256h-33.5L127 162l-93 94H0v-34l93-93.5L0 37V0h31l96 94 93-94z\"></path><path fill=\"#C8102E\" d=\"m92 162 5.5 17L21 256H0v-1.5zm62-6 27 4 75 73.5V256zM256 0l-96 98-2-22 75-76zM0 .5 96.5 95 67 91 0 24.5z\"></path><path fill=\"#FFF\" d=\"M88 0v256h80V0zM0 88v80h256V88z\"></path><path fill=\"#C8102E\" d=\"M0 104v48h256v-48zM104 0v256h48V0z\"></path></svg>",

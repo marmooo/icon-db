@@ -80,6 +80,16 @@
 		"Emoji Two"
 	],
 	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><rect x=\"12.125\" y=\"11.9163\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"30.984 31.679 30.984 27.386 40.766 27.386 34.722 44.781\"></polyline></g></svg>",
+		"keycap,7,twotone",
+		"OpenMoji"
+	],
+	[
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><rect x=\"11.875\" y=\"12.1663\" width=\"48\" height=\"47.834\" fill=\"#d0cfce\"></rect></g><g id=\"line\"><rect x=\"12.125\" y=\"11.9163\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"30.984 31.679 30.984 27.386 40.766 27.386 34.722 44.781\"></polyline></g></svg>",
+		"keycap,7,twotone,color",
+		"OpenMoji"
+	],
+	[
 		"<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><g><linearGradient id=\"SVGID_1_\" gradientUnits=\"userSpaceOnUse\" x1=\"9.9803\" y1=\"-831.3516\" x2=\"123.2803\" y2=\"-945.1216\" gradientTransform=\"matrix(1 0 0 -1 -4 -826.1102)\"><stop offset=\"0\" style=\"stop-color:#81D4FA\"></stop><stop offset=\"1\" style=\"stop-color:#0094D6\"></stop></linearGradient><path style=\"fill:url(#SVGID_1_);\" d=\"M116.46,123.96h-104c-4.42,0-8-3.58-8-8v-104c0-4.42,3.58-8,8-8h104c4.42,0,8,3.58,8,8v104 C124.46,120.38,120.88,123.96,116.46,123.96z\"></path><g style=\"opacity:0.2;\"><path style=\"fill:#424242;\" d=\"M116.46,3.96h-104c-4.42,0-8,3.58-8,8v104c0,4.42,3.58,8,8,8h104c4.42,0,8-3.58,8-8v-104 C124.46,7.54,120.88,3.96,116.46,3.96z\"></path></g><path style=\"fill:#427687;\" d=\"M116.46,3.96h-104c-4.42,0-8,3.58-8,8v104c0,4.42,3.58,8,8,8h104c4.42,0,8-3.58,8-8v-104 C124.46,7.54,120.88,3.96,116.46,3.96z\"></path><path style=\"fill:#8CAFBF;\" d=\"M122.16,6.26c-1.54-1.46-3.58-2.28-5.7-2.3h-104c-4.42,0-8,3.58-8,8v104 c0.02,2.12,0.84,4.16,2.3,5.7l16.8-16.8h76c3.26-0.01,5.89-2.64,5.9-5.9v-76L122.16,6.26z\"></path><path style=\"fill:#FAFAFA;\" d=\"M88.26,35.56l-27,61.2c-0.3,0.67-0.97,1.1-1.7,1.1h-8c-1.03,0.01-1.88-0.81-1.89-1.85 c0-0.3,0.06-0.59,0.19-0.85l25.1-54.5c0.45-0.94,0.05-2.07-0.9-2.52c-0.25-0.12-0.52-0.18-0.8-0.18h-30.9c-1.05,0-1.9-0.85-1.9-1.9 v0v-5.5c0-1.05,0.85-1.9,1.9-1.9l0,0h44.2c1.05,0,1.9,0.85,1.9,1.9v0v4.1C88.41,34.97,88.35,35.27,88.26,35.56z\"></path><path style=\"opacity:0.5;fill:#B4E1ED;enable-background:new ;\" d=\"M40.16,12.86c0-2.3-1.6-3-10.8-2.7c-7.7,0.3-11.5,1.2-13.8,4 s-2.9,8.5-3,15.3c0,4.8,0,9.3,2.5,9.3c3.4,0,3.4-7.9,6.2-12.3C26.66,17.76,40.16,15.86,40.16,12.86z\"></path></g></svg>",
 		"keycap,7",
 		"Noto Color Emoji"
@@ -273,6 +283,16 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10ZM10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2ZM7.5 6C7.22386 6 7 6.22386 7 6.5C7 6.77614 7.22386 7 7.5 7H11.5762C11.3674 7.34491 11.1122 7.79558 10.8412 8.33958C10.1715 9.68405 9.40236 11.6061 9.00716 13.9157C8.96059 14.1879 9.14348 14.4463 9.41567 14.4928C9.68786 14.5394 9.94626 14.3565 9.99284 14.0843C10.3676 11.8939 11.0985 10.066 11.7363 8.78542C12.0549 8.14578 12.3494 7.6446 12.5628 7.30524C12.6695 7.13562 12.7558 7.00659 12.8146 6.92109C12.844 6.87834 12.8665 6.84649 12.8813 6.82589L12.8975 6.8035L12.901 6.79873C13.0135 6.64708 13.0316 6.44419 12.9467 6.27544C12.8618 6.10657 12.689 6 12.5 6H7.5Z\" fill=\"#212121\"></path></svg>",
 		"number,circle,7,number,circle,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 20.4V3.6C3 3.26863 3.26863 3 3.6 3H20.4C20.7314 3 21 3.26863 21 3.6V20.4C21 20.7314 20.7314 21 20.4 21H3.6C3.26863 21 3 20.7314 3 20.4Z\" stroke=\"currentColor\"></path><path d=\"M10.5 16C10.5 12 14.5 8 14.5 8H9.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,number,7,square",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.6 2.25C2.85442 2.25 2.25 2.85441 2.25 3.6V20.4C2.25 21.1456 2.85441 21.75 3.6 21.75H20.4C21.1456 21.75 21.75 21.1456 21.75 20.4V3.6C21.75 2.85442 21.1456 2.25 20.4 2.25H3.6ZM9.5 7.25C9.08579 7.25 8.75 7.58579 8.75 8C8.75 8.41421 9.08579 8.75 9.5 8.75H12.8507C12.5496 9.12806 12.213 9.57843 11.876 10.084C10.8511 11.6213 9.75 13.7746 9.75 16C9.75 16.4142 10.0858 16.75 10.5 16.75C10.9142 16.75 11.25 16.4142 11.25 16C11.25 14.2254 12.1489 12.3787 13.124 10.916C13.6035 10.1969 14.084 9.59615 14.4444 9.17559C14.6243 8.96571 14.7735 8.80173 14.8764 8.69143C14.9279 8.6363 14.9677 8.59465 14.994 8.56746L15.0231 8.53767L15.0295 8.53114L15.0303 8.53033L15.0305 8.53012L15.0306 8.53007C15.2449 8.31557 15.3089 7.99313 15.1929 7.71299C15.0768 7.43273 14.8033 7.25 14.5 7.25H9.5Z\" fill=\"currentColor\"></path></svg>",
+		"solid,number,7,square",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><polyline points=\"12 6 12 12 9.5 16\"></polyline></svg>",

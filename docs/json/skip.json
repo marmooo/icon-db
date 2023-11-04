@@ -50,6 +50,16 @@
 		"Paper Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-skip-next\" viewBox=\"0 0 24 24\"><path d=\"M15.4,12.5L5,6V19L6,18.38L15.4,12.5M13.5,12.5L6,17.2V7.8L13.5,12.5M18,6H17V19H18V6Z\"></path></svg>",
+		"skip,next",
+		"Material Design Icons Light"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-skip-previous\" viewBox=\"0 0 24 24\"><path d=\"M7.6,12.5L18,6V19L17,18.38L7.6,12.5M9.5,12.5L17,17.2V7.8L9.5,12.5M5,6H6V19H5V6Z\"></path></svg>",
+		"skip,previous",
+		"Material Design Icons Light"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" style=\"fill: ;\"><path d=\"M 7 5 C 6.449 5 6 5.449 6 6 L 6 20 C 6 20.551 6.449 21 7 21 L 10 21 C 10.551 21 11 20.551 11 20 L 11 15.125 L 18.09375 20.75 C 18.49675 20.953 18.991 20.9205 19.375 20.6875 C 19.761 20.4555 20 20.03775 20 19.59375 L 20 6.40625 C 20 5.96325 19.761 5.5455 19.375 5.3125 C 19.167 5.1865 18.9265 5.125 18.6875 5.125 C 18.4865 5.125 18.27875 5.158 18.09375 5.25 L 11 10.875 L 11 6 C 11 5.449 10.551 5 10 5 L 7 5 z\"></path></svg>",
 		"skip,to,start",
 		"Icons8 WPF Framework"
@@ -643,6 +653,26 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><title>file_type_manifest_skip</title><path d=\"M20.75,2H4.35V30h23.3V9Zm4.6,25.7H6.75V4.3h11.7v7h7V27.7Z\" style=\"fill:#c5c5c5\"></path><path d=\"M25.535,26.266l.587-.583c2.715.089,2.756-.007,2.876-.286l.746-1.816.055-.171-.061-.151c-.032-.08-.13-.317-1.825-1.933v-.85c1.956-1.884,1.914-1.981,1.8-2.256l-.743-1.835c-.111-.275-.154-.383-2.849-.309l-.587-.606a13.147,13.147,0,0,0-.092-2.677l-.076-.171-1.939-.848c-.286-.13-.386-.177-2.217,1.816l-.823-.012c-1.88-2.012-1.97-1.978-2.252-1.862l-1.8.729c-.282.114-.382.155-.273,2.893l-.582.58c-2.713-.089-2.755.008-2.873.286l-.749,1.816-.059.174.061.151c.032.078.126.313,1.825,1.931v.848c-1.956,1.884-1.913,1.981-1.8,2.257l.742,1.837c.113.281.154.381,2.848.31l.587.61a13.2,13.2,0,0,0,.089,2.673l.076.173,1.951.853c.284.119.382.161,2.207-1.825l.823.01c1.887,2.014,1.984,1.975,2.26,1.864l1.8-.727C25.55,29.045,25.649,29,25.535,26.266ZM17.8,22.013a3.232,3.232,0,1,1,4.23,1.841A3.269,3.269,0,0,1,17.8,22.012Z\" style=\"fill:#40535b\"></path><path d=\"M11,31,25.182,21,11,11ZM27.655,11V31H31V11Z\" style=\"fill:#99b8c4\"></path></svg>",
 		"file,type,manifest,skip",
 		"vscode-icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 7V17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6.97179 5.2672C6.57832 4.95657 6 5.23682 6 5.73813V18.2619C6 18.7632 6.57832 19.0434 6.97179 18.7328L14.9035 12.4709C15.2078 12.2307 15.2078 11.7693 14.9035 11.5291L6.97179 5.2672Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,skip,next",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 7V17\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M17.0282 5.2672C17.4217 4.95657 18 5.23682 18 5.73813V18.2619C18 18.7632 17.4217 19.0434 17.0282 18.7328L9.09651 12.4709C8.79223 12.2307 8.79223 11.7693 9.09651 11.5291L17.0282 5.2672Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,skip,prev",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 7V17\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6.97179 5.2672C6.57832 4.95657 6 5.23682 6 5.73813V18.2619C6 18.7632 6.57832 19.0434 6.97179 18.7328L14.9035 12.4709C15.2078 12.2307 15.2078 11.7693 14.9035 11.5291L6.97179 5.2672Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"solid,skip,next",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 7V17\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M17.0282 5.2672C17.4217 4.95657 18 5.23682 18 5.73813V18.2619C18 18.7632 17.4217 19.0434 17.0282 18.7328L9.09651 12.4709C8.79223 12.2307 8.79223 11.7693 9.09651 11.5291L17.0282 5.2672Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"solid,skip,prev",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z\"></path><path d=\"m8 16 5-4-5-4zm5-4v4h2V8h-2z\"></path></svg>",

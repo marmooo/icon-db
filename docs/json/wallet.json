@@ -145,6 +145,11 @@
 		"Glyph"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-wallet\" viewBox=\"0 0 24 24\"><path d=\"M4,3A3,3 0 0,0 1,6V19A3,3 0 0,0 4,22H17A3,3 0 0,0 20,19V17.23C20.63,16.66 21,15.85 21,15V10C21,9.15 20.63,8.34 20,7.77V6A3,3 0 0,0 17,3H4M4,4H17A2,2 0 0,1 19,6V7.17C18.68,7.06 18.34,7 18,7H12A3,3 0 0,0 9,10V15A3,3 0 0,0 12,18H18C18.34,18 18.68,17.94 19,17.83V19A2,2 0 0,1 17,21H4A2,2 0 0,1 2,19V6A2,2 0 0,1 4,4M12,8H18A2,2 0 0,1 20,10V15A2,2 0 0,1 18,17H12A2,2 0 0,1 10,15V10A2,2 0 0,1 12,8M14.5,10A2.5,2.5 0 0,0 12,12.5A2.5,2.5 0 0,0 14.5,15A2.5,2.5 0 0,0 17,12.5A2.5,2.5 0 0,0 14.5,10M14.5,11A1.5,1.5 0 0,1 16,12.5A1.5,1.5 0 0,1 14.5,14A1.5,1.5 0 0,1 13,12.5A1.5,1.5 0 0,1 14.5,11Z\"></path></svg>",
+		"wallet",
+		"Material Design Icons Light"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path d=\"M0 4c0-1.1.9-2 2-2h15a1 1 0 0 1 1 1v1H2v1h17a1 1 0 0 1 1 1v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm16.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z\"></path></svg>",
 		"wallet",
 		"Zondicons"
@@ -528,6 +533,21 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.5 11C13.2239 11 13 11.2239 13 11.5C13 11.7761 13.2239 12 13.5 12H14.5C14.7761 12 15 11.7761 15 11.5C15 11.2239 14.7761 11 14.5 11H13.5ZM3 4.5C3 3.67157 3.67157 3 4.5 3H14C15.1046 3 16 3.89543 16 5V5.26756C16.5978 5.61337 17 6.25972 17 7V15C17 16.1046 16.1046 17 15 17H5.5C4.11929 17 3 15.8807 3 14.5V4.5ZM14 4H4.5C4.22386 4 4 4.22386 4 4.5C4 4.77614 4.22386 5 4.5 5H15C15 4.44772 14.5523 4 14 4ZM4.5 6C4.32468 6 4.15639 5.96992 4 5.91465V14.5C4 15.3284 4.67157 16 5.5 16H15C15.5523 16 16 15.5523 16 15V7C16 6.44772 15.5523 6 15 6H4.5Z\" fill=\"#212121\"></path></svg>",
 		"wallet,wallet,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" stroke-width=\"1.5\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 21H5C3.89543 21 3 20.1046 3 19V5C3 3.89543 3.89543 3 5 3H19C20.1046 3 21 3.89543 21 5V19C21 20.1046 20.1046 21 19 21Z\" stroke=\"currentColor\"></path><path d=\"M3 15H9.4C9.73137 15 10.0053 15.2783 10.1504 15.5762C10.3564 15.9991 10.8442 16.5 12 16.5C13.1558 16.5 13.6436 15.9991 13.8496 15.5762C13.9947 15.2783 14.2686 15 14.6 15H21\" stroke=\"currentColor\"></path><path d=\"M3 7H21\" stroke=\"currentColor\"></path><path d=\"M3 11H21\" stroke=\"currentColor\"></path></svg>",
+		"regular,apple,wallet",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" stroke-width=\"1.5\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 20H5C3.89543 20 3 19.1046 3 18V9C3 7.89543 3.89543 7 5 7H19C20.1046 7 21 7.89543 21 9V18C21 19.1046 20.1046 20 19 20Z\" stroke=\"currentColor\"></path><path d=\"M7 7V3.6C7 3.26863 7.26863 3 7.6 3H16.4C16.7314 3 17 3.26863 17 3.6V7\" stroke=\"currentColor\"></path><path d=\"M10 3V7\" stroke=\"currentColor\"></path><path d=\"M12 3V7\" stroke=\"currentColor\"></path><path d=\"M16.5 14C16.2239 14 16 13.7761 16 13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5C17 13.7761 16.7761 14 16.5 14Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,card,wallet",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" stroke-width=\"1.5\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 20H5C3.89543 20 3 19.1046 3 18V9C3 7.89543 3.89543 7 5 7H19C20.1046 7 21 7.89543 21 9V18C21 19.1046 20.1046 20 19 20Z\" stroke=\"currentColor\"></path><path d=\"M16.5 14C16.2239 14 16 13.7761 16 13.5C16 13.2239 16.2239 13 16.5 13C16.7761 13 17 13.2239 17 13.5C17 13.7761 16.7761 14 16.5 14Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18 7V5.60322C18 4.28916 16.7544 3.33217 15.4847 3.67075L4.48467 6.60409C3.60917 6.83756 3 7.63046 3 8.53656V9\" stroke=\"currentColor\"></path></svg>",
+		"regular,wallet",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 3H5C3.346 3 2 4.346 2 6v12c0 1.654 1.346 3 3 3h15c1.103 0 2-.897 2-2V5c0-1.103-.897-2-2-2zM5 19c-.552 0-1-.449-1-1V6c0-.551.448-1 1-1h15v3h-6c-1.103 0-2 .897-2 2v4c0 1.103.897 2 2 2h6.001v3H5zm15-9v4h-6v-4h6z\"></path></svg>",
