@@ -55,12 +55,12 @@
 		"Icons8 WPF Framework"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M0 192h1024v-128h-1024zM512 832l512-512h-1024z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M0 832h1024v128h-1024zM512 192l512 512h-1024z\"></path></svg>",
 		"eject",
 		"Metro UI CSS"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M40 512q-40 37 -13 62l463 435q15 14 37.5 14t38.5 -14l463 -435q27 -26 -13 -62h-976zM144 256h768q53 0 90.5 -37.5t37.5 -90.5t-37.5 -90.5t-90.5 -37.5h-768q-53 0 -90.5 37.5t-37.5 90.5t37.5 90.5t90.5 37.5z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M40 512q-40-37-13-62l463-435q15-14 37.5-14t38.5 14l463 435q27 26-13 62h-976zM144 768h768q53 0 90.5 37.5t37.5 90.5-37.5 90.5-90.5 37.5h-768q-53 0-90.5-37.5t-37.5-90.5 37.5-90.5 90.5-37.5z\"></path></svg>",
 		"eject",
 		"WebHostingHub Glyphs"
 	],
@@ -75,17 +75,7 @@
 		"Emoji Two"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><g transform=\"matrix(0 -.9544 .9545 0 1.727 66.7)\"><path fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" d=\"m19.06 55.61c0.4848 0.1782 1.03 0.297 1.576 0.297 0.8485 0 1.697-0.297 2.424-0.7722l30-15.98 0.303-0.297c0.7879-0.7722 1.212-1.723 1.212-2.792s-0.4242-2.079-1.212-2.792l-0.303-0.297-30-16.1c-1.091-0.8316-2.667-1.01-4-0.4752-1.515 0.594-2.485 2.079-2.485 3.683v31.84c-1e-4 1.604 0.9696 3.089 2.485 3.683z\"></path></g><line x1=\"17\" x2=\"55\" y1=\"57.38\" y2=\"57.38\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"></line></g></svg>",
-		"eject,button,twotone",
-		"OpenMoji"
-	],
-	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"></g><g id=\"hair\"></g><g id=\"skin\"></g><g id=\"skin-shadow\"></g><g id=\"line\"><g transform=\"matrix(0 -.9544 .9545 0 1.727 66.7)\"><path fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\" d=\"m19.06 55.61c0.4848 0.1782 1.03 0.297 1.576 0.297 0.8485 0 1.697-0.297 2.424-0.7722l30-15.98 0.303-0.297c0.7879-0.7722 1.212-1.723 1.212-2.792s-0.4242-2.079-1.212-2.792l-0.303-0.297-30-16.1c-1.091-0.8316-2.667-1.01-4-0.4752-1.515 0.594-2.485 2.079-2.485 3.683v31.84c-1e-4 1.604 0.9696 3.089 2.485 3.683z\"></path></g><line x1=\"17\" x2=\"55\" y1=\"57.38\" y2=\"57.38\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"2\"></line></g></svg>",
-		"eject,button,twotone,color",
-		"OpenMoji"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"2600\" height=\"2400\" viewBox=\"0 0 2600 2400\"><path d=\"M2175 2240L425 2240Q358 2240 309 2191 260 2142 260 2075L260 2075 260 325Q260 257 309 208.5 358 160 425 160L425 160 2174 160Q2242 160 2291 208 2340 256 2340 324L2340 324 2340 2075Q2340 2142 2291.5 2191 2243 2240 2175 2240L2175 2240ZM785 1614L785 1809 1815 1809 1815 1614 785 1614ZM1300 545L780 1428 1820 1428 1300 545Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2400\"><path d=\"M2175 2240L425 2240Q358 2240 309 2191 260 2142 260 2075L260 2075 260 325Q260 257 309 208.5 358 160 425 160L425 160 2174 160Q2242 160 2291 208 2340 256 2340 324L2340 324 2340 2075Q2340 2142 2291.5 2191 2243 2240 2175 2240L2175 2240ZM785 1614L785 1809 1815 1809 1815 1614 785 1614ZM1300 545L780 1428 1820 1428 1300 545Z\"></path></svg>",
 		"eject,button",
 		"Noto Emoji Twotone"
 	],
