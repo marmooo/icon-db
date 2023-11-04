@@ -155,6 +155,16 @@
 		"Ionicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-calendar-sad\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12zm12 -4v4m-8 -4v4m-4 4h16m-9.995 3h.01m3.99 0h.01\"></path><path d=\"M10 18a3.5 3.5 0 0 1 4 0\"></path></svg>",
+		"calendar,sad",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-file-sad\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 3v4a1 1 0 0 0 1 1h4\"></path><path d=\"M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2zm-7 -7h.01m3.99 0h.01\"></path><path d=\"M10 18a3.5 3.5 0 0 1 4 0\"></path></svg>",
+		"file,sad",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-mood-sad-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path><path d=\"M14.5 16.05a3.5 3.5 0 0 0 -5 0\"></path><path d=\"M10 9.25c-.5 1 -2.5 1 -3 0\"></path><path d=\"M17 9.25c-.5 1 -2.5 1 -3 0\"></path></svg>",
 		"mood,sad,2",
 		"Tabler Icons"
@@ -243,11 +253,6 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.5 9.5C8.05228 9.5 8.5 9.05228 8.5 8.5C8.5 7.94772 8.05228 7.5 7.5 7.5C6.94772 7.5 6.5 7.94772 6.5 8.5C6.5 9.05228 6.94772 9.5 7.5 9.5ZM13.5 8.5C13.5 9.05228 13.0523 9.5 12.5 9.5C11.9477 9.5 11.5 9.05228 11.5 8.5C11.5 7.94772 11.9477 7.5 12.5 7.5C13.0523 7.5 13.5 7.94772 13.5 8.5ZM13.5624 13.3904C13.3477 13.5621 13.035 13.5283 12.862 13.3153L12.8591 13.312C12.8552 13.3075 12.8476 13.2988 12.8362 13.2865C12.8134 13.2619 12.7755 13.2231 12.7222 13.1746C12.6155 13.0776 12.4477 12.9426 12.2153 12.8059C11.7535 12.5341 11.0282 12.25 10.0019 12.25C8.97555 12.25 8.24918 12.5342 7.78622 12.8061C7.55332 12.9429 7.38494 13.078 7.27783 13.1751C7.22431 13.2236 7.18628 13.2625 7.16335 13.2871C7.15188 13.2994 7.14422 13.3081 7.14031 13.3126L7.13743 13.316C6.96401 13.5287 6.65118 13.5619 6.43687 13.3898C6.22158 13.2169 6.18723 12.9022 6.36016 12.6869L6.74998 13C6.36016 12.6869 6.35998 12.6871 6.36016 12.6869L6.36088 12.686L6.36169 12.685L6.36361 12.6826L6.36861 12.6766L6.3833 12.6592C6.39519 12.6455 6.4113 12.6273 6.43168 12.6054C6.47243 12.5617 6.5304 12.5029 6.60614 12.4343C6.75752 12.297 6.98064 12.1195 7.27973 11.9439C7.88076 11.5908 8.78034 11.25 10.0019 11.25C11.2235 11.25 12.1222 11.5908 12.7225 11.9441C13.0212 12.1198 13.2439 12.2974 13.3949 12.4347C13.4705 12.5034 13.5284 12.5623 13.569 12.606C13.5893 12.6279 13.6054 12.6461 13.6173 12.6599L13.6319 12.6773L13.6369 12.6833L13.6389 12.6857L13.6397 12.6867C13.6398 12.6869 13.6404 12.6876 13.25 13L13.6404 12.6876C13.8129 12.9032 13.778 13.2179 13.5624 13.3904ZM10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2ZM3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10Z\" fill=\"#212121\"></path></svg>",
 		"emoji,sad,emoji,sad,regular",
 		"Fluent UI System Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.5 9C8.22386 9 8 8.77614 8 8.5C8 8.22386 8.22386 8 8.5 8C8.77614 8 9 8.22386 9 8.5C9 8.77614 8.77614 9 8.5 9Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M15.5 9C15.2239 9 15 8.77614 15 8.5C15 8.22386 15.2239 8 15.5 8C15.7761 8 16 8.22386 16 8.5C16 8.77614 15.7761 9 15.5 9Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M7.5 15.5C7.5 15.5 9 13.5 12 13.5C15 13.5 16.5 15.5 16.5 15.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
-		"emoji,sad",
-		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 18c-4.411 0-8-3.589-8-8s3.589-8 8-8 8 3.589 8 8-3.589 8-8 8z\"></path><circle cx=\"8.5\" cy=\"10.5\" r=\"1.5\"></circle><circle cx=\"15.493\" cy=\"10.493\" r=\"1.493\"></circle><path d=\"M12 14c-3 0-4 3-4 3h8s-1-3-4-3z\"></path></svg>",

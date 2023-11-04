@@ -1055,6 +1055,11 @@
 		"Tabler Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-stack-back\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 8l8 4l8 -4l-8 -4z\"></path><path d=\"M12 16l-4 -2l-4 2l8 4l8 -4l-4 -2l-4 2z\" fill=\"currentColor\"></path><path d=\"M8 10l-4 2l4 2m8 0l4 -2l-4 -2\"></path></svg>",
+		"stack,back",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-arrange-send-to-back\" viewBox=\"0 0 24 24\"><path d=\"M2,2H11V11H2V2M9,4H4V9H9V4M22,13V22H13V13H22M15,20H20V15H15V20M16,8V11H13V8H16M11,16H8V13H11V16Z\"></path></svg>",
 		"arrange,send,to,back",
 		"Material Design"
@@ -1543,16 +1548,6 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8.73244 9C8.90261 9.29417 9 9.63571 9 10C9 11.1046 8.10457 12 7 12C5.89543 12 5 11.1046 5 10C5 8.89543 5.89543 8 7 8H13C13.7423 8 14.3902 8.40442 14.7353 9.00494C14.6573 9.00166 14.5788 9 14.5 9C14.1376 9 13.7833 9.03506 13.4404 9.10197C13.3076 9.03667 13.1581 9 13 9C12.6114 9 12.2745 9.22169 12.109 9.5455C11.716 9.73553 11.349 9.97094 11.0148 10.2449C11.005 10.1647 11 10.0829 11 10C11 9.63571 11.0974 9.29417 11.2676 9H8.73244ZM6 10C6 10.5523 6.44772 11 7 11C7.55228 11 8 10.5523 8 10C8 9.44772 7.55228 9 7 9C6.44772 9 6 9.44772 6 10ZM17 6V9.59971C17.3578 9.78261 17.6929 10.0035 18 10.2572V6C18 4.89543 17.1046 4 16 4H4C2.89543 4 2 4.89543 2 6V14C2 15.1046 2.89543 16 4 16H9.20703C9.11588 15.6777 9.05337 15.3434 9.02242 15H4C3.44772 15 3 14.5523 3 14V6C3 5.44772 3.44772 5 4 5H16C16.5523 5 17 5.44772 17 6ZM14.5 19C16.9853 19 19 16.9853 19 14.5C19 12.0147 16.9853 10 14.5 10C12.0147 10 10 12.0147 10 14.5C10 16.9853 12.0147 19 14.5 19ZM13.6036 12.6036L12.7071 13.5H14.25C15.7688 13.5 17 14.7312 17 16.25V16.5C17 16.7761 16.7761 17 16.5 17C16.2239 17 16 16.7761 16 16.5V16.25C16 15.2835 15.2165 14.5 14.25 14.5H12.7071L13.6036 15.3964C13.7988 15.5917 13.7988 15.9083 13.6036 16.1036C13.4083 16.2988 13.0917 16.2988 12.8964 16.1036L11.1443 14.3514C11.0974 14.304 11.062 14.2495 11.0379 14.1914C11.0135 14.1324 11 14.0678 11 14C11 13.9322 11.0135 13.8676 11.0379 13.8086C11.0623 13.7496 11.0985 13.6944 11.1464 13.6464L12.8964 11.8964C13.0917 11.7012 13.4083 11.7012 13.6036 11.8964C13.7988 12.0917 13.7988 12.4083 13.6036 12.6036Z\" fill=\"#212121\"></path></svg>",
 		"voicemail,arrow,back,voicemail,arrow,back,regular",
 		"Fluent UI System Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 12C14 14.2091 15.7909 16 18 16C20.2091 16 22 14.2091 22 12C22 9.79086 20.2091 8 18 8C15.7909 8 14 9.79086 14 12ZM14 12H2V15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6 12V15\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
-		"key,back",
-		"Iconoir"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4.36463 19.787L11.6678 13.2953C11.8573 13.1269 12.1427 13.1269 12.3322 13.2953L19.6354 19.787C20.0155 20.1249 19.707 20.7486 19.2078 20.6515L12.0954 19.2686C12.0324 19.2563 11.9676 19.2563 11.9046 19.2686L4.79225 20.6515C4.29295 20.7486 3.98446 20.1249 4.36463 19.787Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M5.5 11C5.5 7.5 5.5 6 5.5 6V6C5.5 6 5.5 2.5 8.5 2.5C12 2.5 12 6 12 6V10.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M9 7.5C7.63317 8.86683 6.86683 9.63317 5.5 11C4.13317 9.63317 3.36683 8.86683 2 7.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
-		"maps,turn,back",
-		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21 11H6.414l5.293-5.293-1.414-1.414L2.586 12l7.707 7.707 1.414-1.414L6.414 13H21z\"></path></svg>",

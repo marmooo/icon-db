@@ -85,6 +85,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"10\" d=\"M105 116V76l32 20-32 20Z\"></path><path stroke-width=\"12\" d=\"M40 76s32-36 74-36M40 76l20 12m-38 20 38-20m-38 20s50 44 92 44m0 0a56 56 0 0 0 0-112\"></path></svg>",
+		"youtube,go",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><g fill=\"none\" stroke=\"#000\" stroke-width=\"1.625\"><path d=\"M21.39 13.19v-.22c-.01-.86-.5-5-.78-5.74-.32-.85-.76-1.5-1.31-1.91-.9-.67-1.66-.82-2.6-.84h-.02c-.4 0-3.01.32-5.2.62-2.2.3-4.95.7-5.6.94-.9.33-1.62.77-2.19 1.33-1.05 1.04-1.18 2.11-1.04 3.51.1 1.09.69 5.37 1.02 6.35.45 1.32 1.33 2.12 2.47 2.24.28.03.55.05.82.05 1 0 1.8-.21 2.72-.46 1.45-.39 3.25-.87 6.97-.87h.11c.91 0 3.14-.2 4.16-2.07.52-1 .49-2.21.47-2.93z\" transform=\"matrix(7.83738 0 0 6.96095 1.899 12.469)\"></path><path d=\"M11.59 14.76c-.48.36-.8.45-1.01.45a.54.54 0 0 1-.3-.08c-.34-.18-.42-.61-.5-1.2l-.01-.1c-.04-.31-.26-2.1-.38-3.16l-.09-.73c-.04-.28-.1-.75.24-1 .32-.23.75-.09.96-.03.53.17 3.6 1.23 4.59 1.73.21.09.67.28.68.83.01.5-.38.74-.53.82z\" transform=\"matrix(7.83738 0 0 6.96095 1.899 12.469)\"></path></g></svg>",
 		"youtube,kids",
 		"Lawnicons"
@@ -390,11 +395,6 @@
 		"Remix Icon"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 12L10.5 14V10L14 12Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M2 12.7075V11.2924C2 8.39705 2 6.94939 2.90549 6.01792C3.81099 5.08645 5.23656 5.04613 8.08769 4.96549C9.43873 4.92728 10.8188 4.8999 12 4.8999C13.1812 4.8999 14.5613 4.92728 15.9123 4.96549C18.7634 5.04613 20.189 5.08645 21.0945 6.01792C22 6.94939 22 8.39705 22 11.2924V12.7075C22 15.6028 22 17.0505 21.0945 17.9819C20.189 18.9134 18.7635 18.9537 15.9124 19.0344C14.5613 19.0726 13.1812 19.1 12 19.1C10.8188 19.1 9.43867 19.0726 8.0876 19.0344C5.23651 18.9537 3.81097 18.9134 2.90548 17.9819C2 17.0505 2 15.6028 2 12.7075Z\" stroke=\"currentColor\" stroke-width=\"1.5\"></path></svg>",
-		"youtube",
-		"Iconoir"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21.593 7.203a2.506 2.506 0 0 0-1.762-1.766C18.265 5.007 12 5 12 5s-6.264-.007-7.831.404a2.56 2.56 0 0 0-1.766 1.778c-.413 1.566-.417 4.814-.417 4.814s-.004 3.264.406 4.814c.23.857.905 1.534 1.763 1.765 1.582.43 7.83.437 7.83.437s6.265.007 7.831-.403a2.515 2.515 0 0 0 1.767-1.763c.414-1.565.417-4.812.417-4.812s.02-3.265-.407-4.831zM9.996 15.005l.005-6 5.207 3.005-5.212 2.995z\"></path></svg>",
 		"logos,bxl,youtube",
 		"Boxicons"
@@ -518,6 +518,21 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_100_7)\"><path d=\"M23.4994 6.50662C23.3672 6.02747 23.1033 5.58939 22.7342 5.2363C22.365 4.88321 21.9036 4.62752 21.3961 4.49486C19.5182 4.00074 11.9939 4.00074 11.9939 4.00074C8.85647 3.96531 5.7199 4.1225 2.60425 4.47133C2.0966 4.61368 1.63593 4.87526 1.26573 5.23138C0.895536 5.58749 0.628022 6.02638 0.488446 6.50662C0.151841 8.32067 -0.0115629 10.1594 0.000183311 12.0007C-0.0123684 13.8421 0.151042 15.6809 0.488446 17.4949C0.625149 17.9738 0.892086 18.4111 1.26304 18.7639C1.63399 19.1166 2.09619 19.3725 2.60425 19.5066C4.50723 20.0007 11.9939 20.0007 11.9939 20.0007C15.1355 20.0362 18.2763 19.879 21.3961 19.5301C21.9036 19.3975 22.365 19.1418 22.7342 18.7887C23.1033 18.4356 23.3672 17.9975 23.4994 17.5184C23.8446 15.7052 24.0122 13.8662 24.0002 12.0243C24.0261 10.1741 23.8583 8.32597 23.4994 6.50662ZM9.60269 15.4243V8.57721L15.8625 12.0007L9.60269 15.4243Z\" fill=\"black\"></path></g><defs><clipPath id=\"clip0_100_7\"><rect width=\"24\" height=\"24\" fill=\"white\"></rect></clipPath></defs></svg>",
 		"youtube,filled",
 		"akar-icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><mask id=\"youtube-mask\"><path d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\" fill=\"white\" fill-opacity=\"0\" stroke=\"white\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0\" dur=\"0.6s\" fill=\"freeze\"></animate><animate attributeName=\"fill-opacity\" values=\"0;1\" begin=\"0.6s\" dur=\"0.5s\" fill=\"freeze\"></animate></path><path fill=\"black\" d=\"M10 8.5L16 12L10 15.5z\"></path></mask><rect mask=\"url(#youtube-mask)\" width=\"24\" height=\"24\" fill=\"currentColor\"></rect></svg>",
+		"youtube,filled",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\" fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0\" dur=\"0.6s\" fill=\"freeze\"></animate><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"0.6s\" dur=\"0.15s\" fill=\"freeze\"></animate></path><path fill=\"currentColor\" d=\"M10 8.5L16 12L10 15.5z\" fill-opacity=\"0\"><set attributeName=\"fill-opacity\" to=\"1\" begin=\"0.8s\"></set><animate attributeName=\"d\" values=\"M12 11L12 12L12 13z;M10 8.5L16 12L10 15.5z\" begin=\"0.8s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></svg>",
+		"youtube,twotone",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M12 5C21 5 21 5 21 12C21 19 21 19 12 19C3 19 3 19 3 12C3 5 3 5 12 5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path fill=\"currentColor\" d=\"M10 8.5L16 12L10 15.5z\" fill-opacity=\"0\"><set attributeName=\"fill-opacity\" to=\"1\" begin=\"0.7s\"></set><animate attributeName=\"d\" values=\"M12 11L12 12L12 13z;M10 8.5L16 12L10 15.5z\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></svg>",
+		"youtube",
+		"Material Line Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g id=\"youtube\"><path d=\"M19.67,8.14a2,2,0,0,0-1.42-1.43A48.44,48.44,0,0,0,12,6.38a48.44,48.44,0,0,0-6.25.33A2,2,0,0,0,4.33,8.14,21.27,21.27,0,0,0,4,12a21.42,21.42,0,0,0,.33,3.88,2,2,0,0,0,1.42,1.4,48.44,48.44,0,0,0,6.25.33,48.44,48.44,0,0,0,6.25-.33,2,2,0,0,0,1.42-1.4A21.42,21.42,0,0,0,20,12,21.27,21.27,0,0,0,19.67,8.14Zm-9.31,6.25V9.63L14.55,12l-4.19,2.38Z\"></path></g></svg>",

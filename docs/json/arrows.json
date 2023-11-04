@@ -3165,11 +3165,6 @@
 		"Fluent UI System Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 20L21 20\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M6 17L6 4M6 4L2 8M6 4L10 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M18 17V4M18 4L14 8M18 4L22 8\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
-		"arrows,up,from,line",
-		"Iconoir"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M200.49,183.51a12,12,0,0,1,0,17c-1.13,1.12-28,27.51-72.49,27.51-33.71,0-59.35-17.46-76-33.86V208a12,12,0,0,1-24,0V160a12,12,0,0,1,12-12H88a12,12,0,0,1,0,24H64.12c13.1,14.32,35.08,32,63.88,32,34.63,0,55.31-20.28,55.51-20.49A12,12,0,0,1,200.49,183.51ZM216,36a12,12,0,0,0-12,12V61.86C187.35,45.46,161.71,28,128,28,83.54,28,56.64,54.39,55.51,55.51a12,12,0,0,0,17,17C72.69,72.28,93.37,52,128,52c28.8,0,50.78,17.68,63.88,32H168a12,12,0,0,0,0,24h48a12,12,0,0,0,12-12V48A12,12,0,0,0,216,36Z\"></path></svg>",
 		"bold,arrows,clockwise",
 		"Phosphor Icons"
@@ -3845,6 +3840,11 @@
 		"Lucide"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"5\" cy=\"6\" r=\"3\"></circle><path d=\"M12 6h5a2 2 0 0 1 2 2v7\"></path><path d=\"m15 9-3-3 3-3\"></path><circle cx=\"19\" cy=\"18\" r=\"3\"></circle><path d=\"M12 18H7a2 2 0 0 1-2-2V9\"></path><path d=\"m9 15 3 3-3 3\"></path></svg>",
+		"git,compare,arrows",
+		"Lucide"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M135.3 38.88L25.22 73.93l74.73 87.97 12.75-44.5c44.9 15 73.8 35.5 91.6 58.3 20.6 26.2 27.5 56.2 25.7 88.9-3.6 65.4-45.7 139.7-83.8 185.5l27.6 23c31.7-37.9 65.6-91.6 82.2-149.5 16.6 57.9 50.5 111.6 82.2 149.5l27.6-23C327.7 404.3 285.6 330 282 264.6c-1.8-32.7 5.1-62.7 25.7-88.9 17.8-22.8 46.7-43.3 91.5-58.3l12.8 44.5 74.8-87.97-110.1-35.05 12.6 43.94c-50.8 16.8-86.7 40.98-110 70.68-10.3 13.2-17.9 27.2-23.3 41.9-5.4-14.7-13-28.7-23.3-41.9-23.3-29.7-59.2-53.88-110-70.68z\"></path></svg>",
 		"split,arrows",
 		"Game Icons"
@@ -4102,6 +4102,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M7 9l-3 3m0 0l3 3m-3-3h16m-3 3l3-3m0 0l-3-3\"></path></svg>",
 		"arrows,horizontal",
+		"Humbleicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"m7.5 13.5-3 3m0 0 3 3m-3-3h16m-3-6 3-3m0 0-3-3m3 3h-16\"></path></svg>",
+		"arrows,right,left",
+		"Humbleicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 7 8 4m0 0L5 7m3-3v16m6-3 3 3m0 0 3-3m-3 3V4\"></path></svg>",
+		"arrows,up,down",
 		"Humbleicons"
 	],
 	[

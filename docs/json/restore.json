@@ -15,6 +15,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"12\" d=\"M164 22H28a6 6 0 0 0-6 6v124a6 6 0 0 0 6 6h20.62c1.82 0 3.543.826 4.681 2.247l6.018 7.505c2.402 2.995 6.96 2.995 9.362 0l6.018-7.505a5.998 5.998 0 0 1 4.68-2.247H164a6 6 0 0 0 6-6V28a6 6 0 0 0-6-6Z\"></path><path stroke-width=\"10\" d=\"M64.887 121.113a44.004 44.004 0 0 1-9.538-47.951A44 44 0 0 1 96 46m31 13v16m-31-5v26m-31 9v16m62.113-62.113a44.006 44.006 0 0 1 9.538 47.951A44.006 44.006 0 0 1 96 134m47-75h-16m-13 41-18-4m-31 25H49\"></path></svg>",
+		"sms,backup,restore",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15.982\" height=\"16\" viewBox=\"0 0 15 16\"><path d=\"m 676.0002,34.000001 c 0,0 -1,0 -1,1 v 4 h 2 v -3 h 3 v -2 z m -10,0 v 2 h 3 v 3 h 2 v -4 c 0,0 0,-1 -1,-1 z m 9,-7 v 4 c 0,0 0,1 1,1 h 4 v -2 h -3 v -3 z m -6,0 v 3 h -3 v 2 h 4 c 1,0 1,-1 1,-1 v -4 z\" color=\"#bebebe\" fill=\"#4c5263\" transform=\"translate(-665 -24.997)\"></path></svg>",
 		"actions,view,restore,symbolic",
 		"Paper Icons"
@@ -275,11 +280,6 @@
 		"Material Design"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 6V12C4 12 4 15 11 15C18 15 18 12 18 12V6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M11 3C18 3 18 6 18 6C18 6 18 9 11 9C4 9 4 6 4 6C4 6 4 3 11 3Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M11 21C4 21 4 18 4 18V12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M19 22V16M19 16L22 19M19 16L16 19\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
-		"database,restore",
-		"Iconoir"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M352,153H40.247a24.028,24.028,0,0,0-24,24V458a24.028,24.028,0,0,0,24,24H352a24.028,24.028,0,0,0,24-24V177A24.028,24.028,0,0,0,352,153Zm-8,32v45.22H48.247V185ZM48.247,450V262.22H344V450Z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M472,32H152a24.028,24.028,0,0,0-24,24v65h32V64H464V339.143H408v32h64a24.028,24.028,0,0,0,24-24V56A24.028,24.028,0,0,0,472,32Z\" class=\"ci-primary\"></path></svg>",
 		"window,restore",
 		"CoreUI Icons Free Icons"
@@ -343,6 +343,11 @@
 		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Clarity Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Clarity Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"m 102.17045,11.963501 c 7.587,0 13.86605,6.279048 13.86605,13.866053 l 0,76.340896 c 0,7.587 -6.27905,13.86605 -13.86605,13.86605 l -76.3409,0 c -7.587,0 -13.86605,-6.27905 -13.86605,-13.86605 l 0,-76.340896 c 0,-7.587005 6.27905,-13.866053 13.86605,-13.866053 l 76.3409,0 z m 0,11.175624 -76.3409,0 c -1.58902,0 -2.69043,1.101412 -2.69043,2.690429 l 0,76.340896 c 0,1.58902 1.10141,2.69043 2.69043,2.69043 l 76.3409,0 c 1.58902,0 2.69043,-1.10141 2.69043,-2.69043 l 0,-76.340896 c 0,-1.589017 -1.10141,-2.690429 -2.69043,-2.690429 z M 34.340621,24.251514 46.809719,36.694743 58.761427,24.743034 60.18425,60.184249 24.74303,58.761426 36.720613,46.809718 24.25151,34.340619 34.340621,24.251514 z M 67.841622,67.84162 103.28284,69.238574 91.305258,81.190283 103.77436,93.659381 93.659382,103.74849 81.216153,91.305257 69.238575,103.25697 67.841622,67.84162 z\" style=\"fill:#aaaaaa\"></path></svg>",
 		"actions,view,restore",
 		"Clarity"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M4.25 14C5.14 17.45 8.27 20 12 20C16.42 20 20 16.42 20 12C20 7.58 16.42 4 12 4C9.61 4 7.47 5.05 6 6.71L4 9\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"48\" stroke-dashoffset=\"48\"><animate attributeName=\"stroke-dashoffset\" values=\"48;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><g fill=\"currentColor\"><path d=\"M3.25 10H3.89645C4.11917 10 4.23071 9.73071 4.07322 9.57322L3.42678 8.92678C3.26929 8.76929 3 8.88083 3 9.10355V9.75C3 9.88807 3.11193 10 3.25 10Z\" fill-opacity=\"0\"><set attributeName=\"fill-opacity\" to=\"1\" begin=\"0.6s\"></set><animate attributeName=\"d\" values=\"M3.25 10H3.89645C4.11917 10 4.23071 9.73071 4.07322 9.57322L3.42678 8.92678C3.26929 8.76929 3 8.88083 3 9.10355V9.75C3 9.88807 3.11193 10 3.25 10Z;M3.5 10H7.79289C8.23835 10 8.46143 9.46143 8.14645 9.14645L3.85355 4.85355C3.53857 4.53857 3 4.76165 3 5.20711V9.5C3 9.77614 3.22386 10 3.5 10Z\" begin=\"0.6s\" dur=\"0.2s\" fill=\"freeze\"></animate></path><circle cx=\"12\" cy=\"12\" r=\"0\"><animate attributeName=\"r\" values=\"0;2\" begin=\"0.8s\" dur=\"0.2s\" fill=\"freeze\"></animate></circle></g></svg>",
+		"backup,restore",
+		"Material Line Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> restore</title><path d=\"M1.22 0 0 1.22l4 4V17a2 2 0 0 0 2 2h8a2 2 0 0 0 2-1.8l2.8 2.8 1.2-1.22zM17 4V2h-3.5l-1-1h-5l-1 1h-.84l2 2zM8.66 5H16v7.34z\"></path></svg>",
