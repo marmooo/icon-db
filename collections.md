@@ -365,3 +365,5 @@
   [CC-BY-4.0](https://www.figma.com/community/file/1014143897459418663/iconamoon-1-1-2400-icons-8-styles)
 - [Meteocons](https://github.com/basmilius/weather-icons) licensed under the
   [MIT](https://github.com/basmilius/weather-icons/blob/dev/LICENSE)
+- [MynaUI Icons](https://github.com/praveenjuge/mynaui-icons) licensed under the
+  [MIT](https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE)
