@@ -343,7 +343,7 @@
   [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/nasty-icons)
 - [Streamline Core](https://github.com/webalys-hq/streamline-vectors) licensed
   under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/ui-icons)
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/core)
 - [Solar Icon Set](https://github.com/480-Design/Solar-icon-set) licensed under
   the [CC-BY-4.0](https://www.figma.com/community/file/1166831539721848736)
 - [Basil Icons](https://craftwork.design/downloads/basil/) licensed under the
