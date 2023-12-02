@@ -1,5 +1,10 @@
 [
 	[
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><polyline class=\"c\" points=\"43.5 14.5947 27.933 14.5947 24 18.5277 20.067 14.5947 4.5 14.5947\"></polyline><polyline class=\"c\" points=\"4.5 24.9817 20.067 24.9817 24 21.0487 27.933 24.9817 43.5 24.9817\"></polyline><path class=\"c\" d=\"m35.5338,33.4046l3.9432-4.1647,4.0231,4.1647\"></path><path class=\"c\" d=\"m33.7928,33.4046v-4.1647\"></path><path class=\"c\" d=\"m4.5,33.2526v-4.0127l4.0503,2.0532,4.0503-2.0532v4.0669\"></path><path class=\"c\" d=\"m24.0669,29.2397h5.8605l2.124,2.131-2.0669,2.0337h-5.9176\"></path><path class=\"c\" d=\"m14.3419,31.3717h5.8197m2.1648-2.131h-5.8605l-2.124,2.131,2.0669,2.0337h5.9176\"></path></svg>",
+		"dacia,media",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g id=\"a\"><path class=\"c\" d=\"m4.5,11.5c0-1.6569,1.3431-3,3-3h8.7181c.8337,0,1.6465.2605,2.325.7451l4.9138,3.5099c.6784.4846,1.4913.7451,2.325.7451h14.7181c1.6569,0,3,1.3431,3,3v20c0,1.6569-1.3431,3-3,3H7.5c-1.6569,0-3-1.3431-3-3V11.5Z\"></path></g><g id=\"b\"><polygon class=\"c\" points=\"30.0622 26.5 17.9378 19.5 17.9378 33.5 30.0622 26.5\"></polygon></g></svg>",
 		"folder,media",
 		"Arcticons"
@@ -835,6 +840,26 @@
 		"Remix Icon"
 	],
 	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 7C3 5.067 4.567 3.5 6.5 3.5C8.433 3.5 10 5.067 10 7C10 8.933 8.433 10.5 6.5 10.5C4.567 10.5 3 8.933 3 7ZM20 8H12V6H20V8ZM14 17C14 15.067 15.567 13.5 17.5 13.5C19.433 13.5 21 15.067 21 17C21 18.933 19.433 20.5 17.5 20.5C15.567 20.5 14 18.933 14 17ZM12 16V18H4V16H12Z\"></path></svg>",
+		"media,equalizer,2,filled",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 7C5 6.17157 5.67157 5.5 6.5 5.5C7.32843 5.5 8 6.17157 8 7C8 7.82843 7.32843 8.5 6.5 8.5C5.67157 8.5 5 7.82843 5 7ZM6.5 3.5C4.567 3.5 3 5.067 3 7C3 8.933 4.567 10.5 6.5 10.5C8.433 10.5 10 8.933 10 7C10 5.067 8.433 3.5 6.5 3.5ZM12 8H20V6H12V8ZM16 17C16 16.1716 16.6716 15.5 17.5 15.5C18.3284 15.5 19 16.1716 19 17C19 17.8284 18.3284 18.5 17.5 18.5C16.6716 18.5 16 17.8284 16 17ZM17.5 13.5C15.567 13.5 14 15.067 14 17C14 18.933 15.567 20.5 17.5 20.5C19.433 20.5 21 18.933 21 17C21 15.067 19.433 13.5 17.5 13.5ZM4 16V18H12V16H4Z\"></path></svg>",
+		"media,equalizer,2,line",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7 3V6H3V8H7V11H10V3H7ZM12 8H21V6H12V8ZM17 13V16H21V18H17V21H14V13H17ZM12 18H3V16H12V18Z\"></path></svg>",
+		"media,equalizer,3,filled",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7 3V6H3V8H7V11H9V3H7ZM11 8H21V6H11V8ZM17 13V16H21V18H17V21H15V13H17ZM13 18H3V16H13V18Z\"></path></svg>",
+		"media,equalizer,3,line",
+		"Remix Icon"
+	],
+	[
 		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.17071 18C6.58254 16.8348 7.69378 16 9 16C10.3062 16 11.4175 16.8348 11.8293 18H22V20H11.8293C11.4175 21.1652 10.3062 22 9 22C7.69378 22 6.58254 21.1652 6.17071 20H2V18H6.17071ZM12.1707 11C12.5825 9.83481 13.6938 9 15 9C16.3062 9 17.4175 9.83481 17.8293 11H22V13H17.8293C17.4175 14.1652 16.3062 15 15 15C13.6938 15 12.5825 14.1652 12.1707 13H2V11H12.1707ZM6.17071 4C6.58254 2.83481 7.69378 2 9 2C10.3062 2 11.4175 2.83481 11.8293 4H22V6H11.8293C11.4175 7.16519 10.3062 8 9 8C7.69378 8 6.58254 7.16519 6.17071 6H2V4H6.17071Z\"></path></svg>",
 		"media,equalizer,filled",
 		"Remix Icon"
@@ -982,6 +1007,16 @@
 	[
 		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M21 15V18H24V20H21V23H19V20H16V18H19V15H21ZM21.0082 3C21.556 3 22 3.44495 22 3.9934V13H20V5H4V18.999L14 9L17 12V14.829L14 11.8284L6.827 19H14V21H2.9918C2.44405 21 2 20.5551 2 20.0066V3.9934C2 3.44476 2.45531 3 2.9918 3H21.0082ZM8 7C9.10457 7 10 7.89543 10 9C10 10.1046 9.10457 11 8 11C6.89543 11 6 10.1046 6 9C6 7.89543 6.89543 7 8 7Z\"></path></svg>",
 		"media,image,add,line",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.5762 14.5759L15.7073 10.707C15.3168 10.3164 14.6836 10.3164 14.2931 10.707L6.86516 18.1349C5.11372 16.6674 4 14.4637 4 12C4 7.58172 7.58172 4 12 4C16.4183 4 20 7.58172 20 12C20 12.9012 19.851 13.7676 19.5762 14.5759ZM12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM11 10C11 11.1046 10.1046 12 9 12C7.89543 12 7 11.1046 7 10C7 8.89543 7.89543 8 9 8C10.1046 8 11 8.89543 11 10Z\"></path></svg>",
+		"media,image,circle,filled",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.5761 14.5764L15.7067 10.707C15.3162 10.3164 14.683 10.3164 14.2925 10.707L6.86484 18.1346C5.11358 16.6671 4 14.4636 4 12C4 7.58172 7.58172 4 12 4C16.4183 4 20 7.58172 20 12C20 12.9014 19.8509 13.7679 19.5761 14.5764ZM8.58927 19.2386L14.9996 12.8283L18.6379 16.4666C17.1992 18.6003 14.7613 19.9998 11.9996 19.9998C10.7785 19.9998 9.62345 19.7268 8.58927 19.2386ZM12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM11 10C11 11.1046 10.1046 12 9 12C7.89543 12 7 11.1046 7 10C7 8.89543 7.89543 8 9 8C10.1046 8 11 8.89543 11 10Z\"></path></svg>",
+		"media,image,circle,line",
 		"Remix Icon"
 	],
 	[
@@ -1295,7 +1330,7 @@
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.75194 5.43872L18.2596 11.5682C18.4981 11.7073 18.5787 12.0135 18.4396 12.252C18.3961 12.3265 18.3341 12.3885 18.2596 12.432L7.75194 18.5615C7.51341 18.7006 7.20725 18.62 7.06811 18.3815C7.0235 18.305 7 18.2181 7 18.1296V5.87061C7 5.59446 7.22386 5.37061 7.5 5.37061C7.58853 5.37061 7.67547 5.39411 7.75194 5.43872Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.75194 5.43823L18.2596 11.5677C18.4981 11.7068 18.5787 12.013 18.4396 12.2515C18.3961 12.326 18.3341 12.388 18.2596 12.4315L7.75194 18.561C7.51341 18.7001 7.20725 18.6195 7.06811 18.381C7.0235 18.3045 7 18.2176 7 18.1291V5.87012C7 5.59397 7.22386 5.37012 7.5 5.37012C7.58853 5.37012 7.67547 5.39362 7.75194 5.43823Z\"></path></svg>",
 		"media,play,mini,filled",
 		"Remix Icon"
 	],
@@ -3393,141 +3428,6 @@
 		"<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"17\" height=\"17\" viewBox=\"0 0 17 17\"><g></g><path d=\"M8 4v9h9v-9h-9zM16 12h-7v-7h7v7zM1.174 4h5.826v1h-5.826v-1zM3.503 7.996h3.497v1h-3.497v-1zM6.991 6.998h-6.991v-1h6.991v1zM0.009 9.993h6.991v1h-6.991v-1zM1.174 12h5.826v1h-5.826v-1z\" fill=\"#000000\"></path></svg>",
 		"layout,media,right",
 		"Themify Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"6.87\" cy=\"5\" r=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"6.87\" cy=\"5\" r=\"2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M6,9.42l-.88,3.7a.51.51,0,0,1-.26.33.54.54,0,0,1-.43,0L1.11,12a.51.51,0,0,1-.18-.78L3.5,8\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M8,9.37l.9,3.75a.5.5,0,0,0,.27.33.51.51,0,0,0,.42,0L12.89,12a.5.5,0,0,0,.28-.35.48.48,0,0,0-.1-.43L10.39,7.81\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,favorite,award,ribbon,reward,like,social,rating,media",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M3.37,8.15l2.54,4.06a1.09,1.09,0,0,0,.94.52h0A1.11,1.11,0,0,0,8,11.63V8.72h4.39A1.15,1.15,0,0,0,13.49,7.4l-.8-5.16a1.14,1.14,0,0,0-1.13-1H5a2,2,0,0,0-.9.21l-.72.36\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.37\" y1=\"8.15\" x2=\"3.37\" y2=\"1.84\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M1,1.84H3.37a0,0,0,0,1,0,0V8.15a0,0,0,0,1,0,0H1a.5.5,0,0,1-.5-.5V2.34A.5.5,0,0,1,1,1.84Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,favorite,dislike,reward,down,thumb,hand,social,media,rating",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><g><path d=\"M.5,8.5h2A2.5,2.5,0,0,1,5,11H5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M2,11H7a2,2,0,0,1,2,2H9a.5.5,0,0,1-.5.5H.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g><path d=\"M8.75,8.5l-4-3.7c-2.18-2.19,1-6.43,4-3,3-3.42,6.21.82,4,3Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,favorite,give,heart,reward,social,rating,media,hand",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M7,12.45l-5.52-5c-3-3,1.41-8.76,5.52-4.1,4.11-4.66,8.5,1.12,5.52,4.1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,favorite,heart,reward,social,rating,media,it,like,love",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M3.37,5.85,5.91,1.79a1.09,1.09,0,0,1,.94-.52h0A1.11,1.11,0,0,1,8,2.37V5.28h4.39A1.15,1.15,0,0,1,13.49,6.6l-.8,5.16a1.14,1.14,0,0,1-1.13,1H5a2,2,0,0,1-.9-.21l-.72-.36\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.37\" y1=\"5.85\" x2=\"3.37\" y2=\"12.16\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M1,5.85H3.37a0,0,0,0,1,0,0v6.31a0,0,0,0,1,0,0H1a.5.5,0,0,1-.5-.5V6.35A.5.5,0,0,1,1,5.85Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,favorite,like,reward,social,up,rating,media,thumb,hand",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M7.49,1.09,9.08,4.3a.51.51,0,0,0,.41.3L13,5.12a.54.54,0,0,1,.3.93L10.77,8.56a.53.53,0,0,0-.16.48l.61,3.53a.55.55,0,0,1-.8.58L7.26,11.48a.59.59,0,0,0-.52,0L3.58,13.15a.55.55,0,0,1-.8-.58L3.39,9a.53.53,0,0,0-.16-.48L.67,6.05A.54.54,0,0,1,1,5.12L4.51,4.6a.51.51,0,0,0,.41-.3L6.51,1.09A.54.54,0,0,1,7.49,1.09Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,favorite,star,reward,rating,rate,social,media,like,stars",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M10.5,10a2.75,2.75,0,0,0,3-3,2.75,2.75,0,0,0-3-3c-2.75,0-4.25,6-7,6a2.75,2.75,0,0,1-3-3,2.75,2.75,0,0,1,3-3C6.25,4,7.75,10,10.5,10Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,page,controller,button,loop,multimedia,multi,repeat,media,infinity,controls",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M5,9.43A2.37,2.37,0,0,1,3.5,10a2.75,2.75,0,0,1-3-3,2.75,2.75,0,0,1,3-3c2.75,0,4.25,6,7,6a2.75,2.75,0,0,0,3-3,2.75,2.75,0,0,0-3-3,2.37,2.37,0,0,0-1.45.57\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,page,controller,button,loop,multimedia,multi,repeat,media,infinity,controls",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"11.5 2 13.5 4 11.5 6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"8.5\" y1=\"4\" x2=\"13.5\" y2=\"4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"11.5 8 13.5 10 11.5 12\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"0.5 4 4 4 8 10 13.5 10\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"0.5\" y1=\"10\" x2=\"4\" y2=\"10\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,arrows,shuffle,multimedia,multi,button,controls,media",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M13.5,4l-3,3L7,2,3.5,7,.5,4v6.5A1.5,1.5,0,0,0,2,12H12a1.5,1.5,0,0,0,1.5-1.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,award,crown,reward,social,rating,media,queen,vip,king",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M10.25.5a.54.54,0,0,0-.49.32L8.17,4.18a.52.52,0,0,1-.41.31L4.22,5a.58.58,0,0,0-.3,1L6.48,8.63a.58.58,0,0,1,.16.5L6,12.83a.56.56,0,0,0,.8.6L10,11.69a.59.59,0,0,1,.26-.07Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"interface,award,half,star,reward,rating,rate,social,media,favorite,like,stars",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"7\" y1=\"8.5\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4.5\" y1=\"13.5\" x2=\"9.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M3.5,5.5a3,3,0,0,1-3-3v-1H4v4Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M10.5,5.5a3,3,0,0,0,3-3v-1H10v4Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M10,5.5a3,3,0,0,1-6,0V.5h6Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,award,trophy,reward,rating,social,media",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M.5,12.5V1.5a1,1,0,0,1,1-1h11a1,1,0,0,1,1,1v11a1,1,0,0,1-1,1h-3V8.76h.71a.61.61,0,0,0,.61-.61V7.38a.61.61,0,0,0-.61-.61H9.54V5.83c0-.84.38-.84.76-.84h.49a.55.55,0,0,0,.43-.18.58.58,0,0,0,.18-.43V3.64A.62.62,0,0,0,10.8,3L9.65,3A2.32,2.32,0,0,0,7.26,5.6V6.77H6.62A.61.61,0,0,0,6,7.38v.77a.61.61,0,0,0,.62.61h.64V13.5H1.5A1,1,0,0,1,.5,12.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,logo,facebook,media,social",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M8,4C8,3,8.5,3,9,3h.6a.75.75,0,0,0,.76-.76V1.3A.76.76,0,0,0,9.59.54L8.17.52a2.86,2.86,0,0,0-2.95,3.2V5.17H4.43a.76.76,0,0,0-.76.76v.94a.76.76,0,0,0,.76.76h.79V13a.5.5,0,0,0,.5.5H7.53A.5.5,0,0,0,8,13V7.63h.88a.76.76,0,0,0,.76-.76V5.93a.76.76,0,0,0-.76-.76H8Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,logo,facebook,media,social",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M11.36,5.83H8.87a.51.51,0,0,0-.51.52V7.76a.51.51,0,0,0,.51.51h1.29a2.75,2.75,0,0,1-3,2.79c-2.24,0-3.32-1.9-3.32-4.06S5,2.94,7.16,2.94A4.07,4.07,0,0,1,9.8,3.8a.49.49,0,0,0,.72-.22l.63-1.44A.51.51,0,0,0,11,1.51a7.07,7.07,0,0,0-3.8-1C3.56.5,1.08,3.33,1.08,7s2.49,6.5,6.08,6.5,5.76-2.56,5.76-6C12.92,6.4,12.48,5.83,11.36,5.83Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,logo,google,media,social",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M4,9.4a6.77,6.77,0,0,1-2.41,1.21.5.5,0,0,0,0,.94C8.51,14.39,12.91,10,12.24,5.13l1.12-2.32h-1.3C10.44.82,6.14.92,6.85,5.16c0,0-2.3.41-5.24-2.48A.5.5,0,0,0,.76,3,5.52,5.52,0,0,0,4,9.4Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,logo,twitter,media,social",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"3\" width=\"13\" height=\"5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M12.5,8v4.5a1,1,0,0,1-1,1h-9a1,1,0,0,1-1-1V8\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"3\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"10 0.5 7 3 4 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"shopping,gift,reward,box,social,present,media,rating,bow",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.49,10.56V6.73A.36.36,0,0,1,6,6.42L9.32,8.33a.37.37,0,0,1,0,.63L6,10.88A.37.37,0,0,1,5.49,10.56Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"4\" x2=\"13.5\" y2=\"4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4\" y1=\"4\" x2=\"5.5\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8.5\" y1=\"4\" x2=\"10\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,play,list,screen,television,display,player,movies,movie,tv,media,players,video",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M5.5,8.68V5.32c0-.25.23-.4.41-.28L8.36,6.72a.35.35,0,0,1,0,.56L5.91,9C5.73,9.08,5.5,8.93,5.5,8.68Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><rect x=\"3\" y=\"1.5\" width=\"8\" height=\"11\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"0.5\" y1=\"3\" x2=\"0.5\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"13.5\" y1=\"3\" x2=\"13.5\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,play,list,player,television,movies,slider,media,tv,players,video",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"2.75\" y=\"0.5\" width=\"8.5\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.27,7.14V3.82a.31.31,0,0,1,.47-.28L8.59,5.21a.31.31,0,0,1,0,.54L5.74,7.41A.31.31,0,0,1,5.27,7.14Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"2.75\" y1=\"10.5\" x2=\"11.25\" y2=\"10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,play,list,player,television,display,movies,smartphone,media,tv,players,screen,video",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.23,9.23V4.91a.41.41,0,0,1,.62-.35l3.7,2.15a.41.41,0,0,1,0,.71L5.85,9.58A.41.41,0,0,1,5.23,9.23Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"entertainment,play,list,screen,television,display,player,movies,players,tv,media,video",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"9.5\" y1=\"5\" x2=\"9.5\" y2=\"9\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polygon points=\"4.5 4.5 7.5 7 4.5 9.5 4.5 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polygon></g></svg>",
-		"entertainment,control,button,next,circle,multi,multimedia,skip,media,controls",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"5.5\" y1=\"4.5\" x2=\"5.5\" y2=\"9.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8.5\" y1=\"4.5\" x2=\"8.5\" y2=\"9.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,control,button,pause,circle,controls,multi,media,multimedia",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><polygon points=\"5.5 4.5 9.5 7 5.5 9.5 5.5 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polygon></g></svg>",
-		"entertainment,control,button,play,circle,controls,media,multi,multimedia",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"4.5\" y1=\"5\" x2=\"4.5\" y2=\"9\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polygon points=\"9.5 4.5 6.5 7 9.5 9.5 9.5 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polygon></g></svg>",
-		"entertainment,control,button,previous,circle,controls,multi,media,multimedia",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"7\" cy=\"7\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"entertainment,control,button,record,multimedia,multi,media,controls,circle",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><rect x=\"4.5\" y=\"4.5\" width=\"5\" height=\"5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect></g></svg>",
-		"entertainment,control,button,stop,circle,controls,multi,media,multimedia",
-		"Streamline UI Icons Line"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.5331 13.3093C10.3929 14.953 8.00762 16.2503 5.46438 17.1535L4.99833 17.319C3.9748 17.6826 2.89799 16.9901 2.76002 15.938C2.42033 13.3479 2.42033 10.6521 2.76002 8.06198C2.89799 7.0099 3.9748 6.31742 4.99832 6.68094L5.46438 6.84646C8.00761 7.74973 10.3929 9.04699 12.5331 10.6906C12.5707 9.80785 12.6463 8.92899 12.76 8.06198C12.898 7.0099 13.9748 6.31742 14.9983 6.68094L15.4644 6.84646C18.0369 7.76012 20.4478 9.0769 22.6069 10.7475C23.4262 11.3815 23.4262 12.6185 22.6069 13.2525C20.4478 14.9231 18.0369 16.2399 15.4644 17.1535L14.9983 17.319C13.9748 17.6826 12.898 16.9901 12.76 15.938C12.6463 15.071 12.5707 14.1921 12.5331 13.3093ZM11.6889 11.9338C11.7322 11.9673 11.7322 12.0327 11.6889 12.0661C9.65557 13.6395 7.38505 14.8796 4.96235 15.74L4.4963 15.9055C4.3961 15.9411 4.26437 15.8733 4.24728 15.743C3.92458 13.2824 3.92458 10.7176 4.24728 8.25703C4.26437 8.12673 4.3961 8.05885 4.4963 8.09443L4.96235 8.25996C7.38505 9.12041 9.65557 10.3605 11.6889 11.9338ZM21.6889 11.9338C21.7322 11.9673 21.7322 12.0327 21.6889 12.0661C19.6556 13.6395 17.3851 14.8796 14.9624 15.74L14.4963 15.9055C14.3961 15.9411 14.2644 15.8733 14.2473 15.743C13.9246 13.2824 13.9246 10.7176 14.2473 8.25703C14.2644 8.12673 14.3961 8.05885 14.4963 8.09443L14.9624 8.25996C17.3851 9.12041 19.6556 10.3605 21.6889 11.9338Z\" fill=\"black\"></path></svg>",

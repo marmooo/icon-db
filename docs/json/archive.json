@@ -180,12 +180,12 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-archive-fill\" viewBox=\"0 0 16 16\"><path d=\"M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15h9.286zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1zM.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8H.8z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-archive-fill\" viewBox=\"0 0 16 16\"><path d=\"M12.643 15C13.979 15 15 13.845 15 12.5V5H1v7.5C1 13.845 2.021 15 3.357 15zM5.5 7h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1M.8 1a.8.8 0 0 0-.8.8V3a.8.8 0 0 0 .8.8h14.4A.8.8 0 0 0 16 3V1.8a.8.8 0 0 0-.8-.8H.8z\"></path></svg>",
 		"archive,filled",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-archive\" viewBox=\"0 0 16 16\"><path d=\"M0 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1v7.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 12.5V5a1 1 0 0 1-1-1V2zm2 3v7.5A1.5 1.5 0 0 0 3.5 14h9a1.5 1.5 0 0 0 1.5-1.5V5H2zm13-3H1v2h14V2zM5 7.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-archive\" viewBox=\"0 0 16 16\"><path d=\"M0 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1v7.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 12.5V5a1 1 0 0 1-1-1zm2 3v7.5A1.5 1.5 0 0 0 3.5 14h9a1.5 1.5 0 0 0 1.5-1.5V5zm13-3H1v2h14zM5 7.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5\"></path></svg>",
 		"archive",
 		"Bootstrap Icons"
 	],
@@ -1250,19 +1250,24 @@
 		"Memory Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M1.5,5.54h11a0,0,0,0,1,0,0v7a1,1,0,0,1-1,1h-9a1,1,0,0,1-1-1v-7A0,0,0,0,1,1.5,5.54Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><rect x=\"5\" y=\"-2.96\" width=\"4\" height=\"13\" rx=\"1\" transform=\"translate(10.54 -3.46) rotate(90)\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"5.5\" y1=\"8.54\" x2=\"8.5\" y2=\"8.54\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,content,archive,box,banker,file",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"archive-box--box-content-banker-archive-file\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M1.5 5h11v7a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V5Z\"></path><path id=\"Vector_2\" fill=\"#37d7ff\" d=\"M13.5 4V2a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 5h11v7a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V5v0Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 4V2a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.5 8h3\"></path></g></svg>",
+		"archive,box",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,9.54a1,1,0,0,0-1-1h-3v1h-5v-1h-3a1,1,0,0,0-1,1v3a1,1,0,0,0,1,1h11a1,1,0,0,0,1-1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"1.5\" y1=\"5.54\" x2=\"12.5\" y2=\"5.54\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"1.5\" y1=\"2.54\" x2=\"12.5\" y2=\"2.54\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,content,archive,folder,outbox,file,inbox",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"archive-box--box-content-banker-archive-file\"><g id=\"Vector 1932\"><path fill=\"#37d7ff\" d=\"M13 5H1v6.75a1.5 1.5 0 0 0 1.5 1.5h9a1.5 1.5 0 0 0 1.5-1.5V5Z\"></path></g><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5.75A1.5 1.5 0 0 0 0 2.25v1.5a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5v-1.5a1.5 1.5 0 0 0-1.5-1.5h-11Zm4 6.875a.625.625 0 1 0 0 1.25h3a.625.625 0 1 0 0-1.25h-3Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"archive,box",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M1.5.5h11a1,1,0,0,1,1,1v10a2,2,0,0,1-2,2h-9a2,2,0,0,1-2-2V1.5A1,1,0,0,1,1.5.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"7\" x2=\"13.5\" y2=\"7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"3.5\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"7\" cy=\"10\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"interface,content,archive,locker,file,cabinet",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"archive-box--box-content-banker-archive-file\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 5h11v7a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V5v0Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 4V2a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.5 8h3\"></path></g></svg>",
+		"archive,box",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"archive-box--box-content-banker-archive-file\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M0 2A1.5 1.5 0 0 1 1.5.5h11A1.5 1.5 0 0 1 14 2v1.5A1.5 1.5 0 0 1 12.5 5h-11A1.5 1.5 0 0 1 0 3.5V2Zm13 4.25H1V12a1.5 1.5 0 0 0 1.5 1.5h9A1.5 1.5 0 0 0 13 12V6.25ZM5.5 7.875a.625.625 0 1 0 0 1.25h3a.625.625 0 1 0 0-1.25h-3Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"archive,box",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M3.46447 20.5355C4.92893 22 7.28595 22 12 22C16.714 22 19.0711 22 20.5355 20.5355C22 19.0711 22 16.714 22 12C22 7.28595 22 4.92893 20.5355 3.46447C19.0711 2 16.714 2 12 2C7.28595 2 4.92893 2 3.46447 3.46447C2 4.92893 2 7.28595 2 12C2 16.714 2 19.0711 3.46447 20.5355Z\" fill=\"black\"></path><path d=\"M5 8.49982V7.5C5 6.67157 5.67157 6 6.5 6H17.5C18.3284 6 19 6.67157 19 7.5V8.49982C18.5822 8.18597 18.0628 8 17.5 8H6.5C5.9372 8 5.41783 8.18597 5 8.49982Z\" fill=\"black\"></path><path d=\"M5 11.4998V10.5C5 9.67157 5.67157 9 6.5 9H17.5C18.3284 9 19 9.67157 19 10.5V11.4998C18.5822 11.186 18.0628 11 17.5 11H6.5C5.9372 11 5.41783 11.186 5 11.4998Z\" fill=\"black\"></path><path d=\"M20.75 15C20.75 14.5858 20.4142 14.25 20 14.25H18.9793V13.2503C18.8604 12.5407 18.2434 12 17.5 12H6.5C5.75663 12 5.13956 12.5407 5.02068 13.2503V14.25H4C3.58579 14.25 3.25 14.5858 3.25 15C3.25 15.4142 3.58579 15.75 4 15.75H6.30147C7.17044 15.75 7.39887 15.7629 7.59386 15.8423C7.6145 15.8507 7.63492 15.8597 7.65508 15.8692C7.84554 15.9589 8.00971 16.1183 8.59805 16.7578L8.63351 16.7963L8.70937 16.8789C9.14654 17.3549 9.49191 17.731 9.94463 17.9581C10.0289 18.0004 10.1153 18.0383 10.2035 18.0717C10.6771 18.2511 11.1877 18.2506 11.834 18.2501L11.9462 18.25L12.052 18.2501C12.6634 18.2506 13.1464 18.251 13.5987 18.089C13.683 18.0588 13.7658 18.0245 13.8467 17.9863C14.2811 17.781 14.6223 17.4392 15.0543 17.0065L15.1291 16.9316L15.3588 16.7019C15.9801 16.0806 16.1524 15.927 16.3501 15.8452C16.5477 15.7633 16.7782 15.75 17.6569 15.75H20C20.4142 15.75 20.75 15.4142 20.75 15Z\" fill=\"black\"></path></svg>",

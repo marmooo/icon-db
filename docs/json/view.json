@@ -465,12 +465,12 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-view-list\" viewBox=\"0 0 16 16\"><path d=\"M3 4.5h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1H3zM1 2a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 2zm0 12a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 14z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-view-list\" viewBox=\"0 0 16 16\"><path d=\"M3 4.5h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2m0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1zM1 2a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 2m0 12a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 14\"></path></svg>",
 		"view,list",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-view-stacked\" viewBox=\"0 0 16 16\"><path d=\"M3 0h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3zm0 8h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1H3z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-view-stacked\" viewBox=\"0 0 16 16\"><path d=\"M3 0h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2m0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm0 8h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2m0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z\"></path></svg>",
 		"view,stacked",
 		"Bootstrap Icons"
 	],
@@ -2710,6 +2710,16 @@
 		"Carbon"
 	],
 	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><path d=\"m28,12h-8v2h8v14h-8v2h8c1.1025,0,2-.897,2-2v-14c0-1.1025-.8975-2-2-2Z\"></path><path d=\"m19,16l-1.4141,1.4141,2.5859,2.5859h-4.1719c-2.2056,0-4-1.7944-4-4v-2h-2v2c0,3.3086,2.6917,6,6,6h4.1719l-2.5859,2.5859,1.4141,1.4141,5-5-5-5Z\"></path><path d=\"m12,28h-6V8h16v-4c0-1.103-.8975-2-2-2H6c-1.103,0-2,.897-2,2v24c0,1.1025.897,2,2,2h6v-2ZM6,4h14v2H6v-2Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"mobile,view,orientation",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><circle cx=\"23\" cy=\"24\" r=\"2\"></circle><path d=\"m30.7769,23.4785c-1.4229-3.3287-4.4761-5.4785-7.7769-5.4785s-6.3538,2.1499-7.7769,5.4785l-.2231.5215.2231.5215c1.4231,3.3287,4.4761,5.4785,7.7769,5.4785s6.354-2.1499,7.7769-5.4785l.2231-.5215-.2231-.5215Zm-7.7769,4.5215c-2.2056,0-4-1.7944-4-4s1.7944-4,4-4,4,1.7944,4,4-1.7944,4-4,4Z\"></path><path d=\"m14,28h-5V8h14v7h2V4c0-1.103-.8975-2-2-2h-14c-1.103,0-2,.897-2,2v24c0,1.1025.897,2,2,2h5v-2ZM9,4h14v2h-14v-2Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"mobile,view",
+		"Carbon"
+	],
+	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><circle cx=\"23\" cy=\"23.9999\" r=\"2\"></circle><path d=\"M30.7769,23.4785A8.64,8.64,0,0,0,23,18a8.64,8.64,0,0,0-7.7769,5.4785L15,24l.2231.5215A8.64,8.64,0,0,0,23,30a8.64,8.64,0,0,0,7.7769-5.4785L31,24ZM23,28a4,4,0,1,1,4-4A4.0045,4.0045,0,0,1,23,28Z\" transform=\"translate(0 -0.0001)\"></path><path d=\"M12.3989,20.8A6,6,0,1,1,22,16H20a4,4,0,1,0-6.4,3.2Z\" transform=\"translate(0 -0.0001)\"></path><path d=\"M29.3047,11.0439,26.9441,6.9561a1.9977,1.9977,0,0,0-2.3728-.8946l-2.4341.8233a11.0419,11.0419,0,0,0-1.312-.7583l-.5037-2.5186A2,2,0,0,0,18.36,2H13.64a2,2,0,0,0-1.9611,1.6079l-.5037,2.5186A10.9666,10.9666,0,0,0,9.8481,6.88L7.4287,6.0615a1.9977,1.9977,0,0,0-2.3728.8946L2.6953,11.0439a2.0006,2.0006,0,0,0,.4119,2.5025l1.9309,1.6968C5.021,15.4946,5,15.7446,5,16c0,.2578.01.5127.0278.7656l-1.9206,1.688a2.0006,2.0006,0,0,0-.4119,2.5025l2.3606,4.0878a1.9977,1.9977,0,0,0,2.3728.8946l2.4341-.8233a10.9736,10.9736,0,0,0,1.312.7583l.5037,2.5186A2,2,0,0,0,13.64,30H15V28H13.64l-.71-3.5508a9.0953,9.0953,0,0,1-2.6948-1.5713l-3.4468,1.166-2.36-4.0878L7.1528,17.561a8.9263,8.9263,0,0,1-.007-3.1279L4.4275,12.0439,6.7886,7.9561l3.4267,1.1591a9.0305,9.0305,0,0,1,2.7141-1.5644L13.64,4H18.36l.71,3.5508a9.0978,9.0978,0,0,1,2.6948,1.5713l3.4468-1.166,2.36,4.0878-2.7978,2.4522L26.0923,16l2.8-2.4536A2.0006,2.0006,0,0,0,29.3047,11.0439Z\" transform=\"translate(0 -0.0001)\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"settings,view",
 		"Carbon"
@@ -2840,7 +2850,7 @@
 		"System UIcons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M512 160c320 0 512 352 512 352S832 864 512 864 0 512 0 512s192-352 512-352zm0 64c-225.28 0-384.128 208.064-436.8 288 52.608 79.872 211.456 288 436.8 288 225.28 0 384.128-208.064 436.8-288-52.608-79.872-211.456-288-436.8-288zm0 64a224 224 0 1 1 0 448 224 224 0 0 1 0-448zm0 64a160.192 160.192 0 0 0-160 160c0 88.192 71.744 160 160 160s160-71.808 160-160-71.744-160-160-160z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M512 160c320 0 512 352 512 352S832 864 512 864 0 512 0 512s192-352 512-352m0 64c-225.28 0-384.128 208.064-436.8 288 52.608 79.872 211.456 288 436.8 288 225.28 0 384.128-208.064 436.8-288-52.608-79.872-211.456-288-436.8-288zm0 64a224 224 0 1 1 0 448 224 224 0 0 1 0-448m0 64a160.192 160.192 0 0 0-160 160c0 88.192 71.744 160 160 160s160-71.808 160-160-71.744-160-160-160\"></path></svg>",
 		"view",
 		"Element Plus Icons"
 	],
@@ -3008,21 +3018,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g id=\"View_Timeline\" data-name=\"View Timeline\"><g><path d=\"M18.436,20.94H5.562a2.5,2.5,0,0,1-2.5-2.5V5.567a2.5,2.5,0,0,1,2.5-2.5H18.436a2.5,2.5,0,0,1,2.5,2.5V18.44A2.5,2.5,0,0,1,18.436,20.94ZM5.562,4.067a1.5,1.5,0,0,0-1.5,1.5V18.44a1.5,1.5,0,0,0,1.5,1.5H18.436a1.5,1.5,0,0,0,1.5-1.5V5.567a1.5,1.5,0,0,0-1.5-1.5Z\"></path><path d=\"M6.544,8.287h0a.5.5,0,0,1,0-1H12a.5.5,0,0,1,0,1Z\"></path><path d=\"M9.271,12.5h0a.5.5,0,0,1,0-1h5.454a.5.5,0,0,1,0,1Z\"></path><path d=\"M12,16.724h0a.5.5,0,0,1,0-1h5.455a.5.5,0,0,1,0,1Z\"></path></g></g></svg>",
 		"view,timeline",
 		"Circum Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"3\" cy=\"11\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M5.5,3V1.5a1,1,0,0,0-1-1H3.32a1,1,0,0,0-1,.81L.55,10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"4.5\" y1=\"5.5\" x2=\"9.5\" y2=\"5.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"5.5\" y1=\"8\" x2=\"5.5\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"11\" cy=\"11\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M8.5,3V1.5a1,1,0,0,1,1-1h1.18a1,1,0,0,1,1,.81l1.79,9.19\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"8.5\" y1=\"8\" x2=\"8.5\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,edit,binocular,binoculars,view,zoom",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.23,6.33a1,1,0,0,1,0,1.34C12.18,8.8,9.79,11,7,11S1.82,8.8.77,7.67a1,1,0,0,1,0-1.34C1.82,5.2,4.21,3,7,3S12.18,5.2,13.23,6.33Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><circle cx=\"7\" cy=\"7\" r=\"2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"interface,edit,view,eye,eyeball,open",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M12.29,5.4c.38.34.7.67.94.93a1,1,0,0,1,0,1.34C12.18,8.8,9.79,11,7,11H6.6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M3.87,10.13A12.4,12.4,0,0,1,.77,7.67a1,1,0,0,1,0-1.34C1.82,5.2,4.21,3,7,3a6.56,6.56,0,0,1,3.13.87\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"12.5\" y1=\"1.5\" x2=\"1.5\" y2=\"12.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M5.59,8.41A2,2,0,0,1,5,7,2,2,0,0,1,7,5a2,2,0,0,1,1.41.59\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M8.74,8A2,2,0,0,1,8,8.73\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,edit,view,off,disable,eye,eyeball,hide",
-		"Streamline UI Icons Line"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"M8.4 4H5.6A1.6 1.6 0 0 0 4 5.6v2.8A1.6 1.6 0 0 0 5.6 10h2.8A1.6 1.6 0 0 0 10 8.4V5.6A1.6 1.6 0 0 0 8.4 4ZM18.4 14h-2.8a1.6 1.6 0 0 0-1.6 1.6v2.8a1.6 1.6 0 0 0 1.6 1.6h2.8a1.6 1.6 0 0 0 1.6-1.6v-2.8a1.6 1.6 0 0 0-1.6-1.6Z\"></path><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M8.4 4H5.6A1.6 1.6 0 0 0 4 5.6v2.8A1.6 1.6 0 0 0 5.6 10h2.8A1.6 1.6 0 0 0 10 8.4V5.6A1.6 1.6 0 0 0 8.4 4ZM8.4 14H5.6A1.6 1.6 0 0 0 4 15.6v2.8A1.6 1.6 0 0 0 5.6 20h2.8a1.6 1.6 0 0 0 1.6-1.6v-2.8A1.6 1.6 0 0 0 8.4 14ZM18.4 4h-2.8A1.6 1.6 0 0 0 14 5.6v2.8a1.6 1.6 0 0 0 1.6 1.6h2.8A1.6 1.6 0 0 0 20 8.4V5.6A1.6 1.6 0 0 0 18.4 4ZM18.4 14h-2.8a1.6 1.6 0 0 0-1.6 1.6v2.8a1.6 1.6 0 0 0 1.6 1.6h2.8a1.6 1.6 0 0 0 1.6-1.6v-2.8a1.6 1.6 0 0 0-1.6-1.6Z\"></path></svg>",

@@ -10,7 +10,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><rect width=\"132\" height=\"132\" x=\"30\" y=\"30\" stroke-width=\"12\" ry=\"6\"></rect><path stroke-width=\"12\" d=\"M75 30v77a6 6 0 0 1-6 6H30\"></path><path d=\"M125 156a5.005 5.005 0 0 0-1.464-3.536 5.005 5.005 0 0 0-7.072 0A5.005 5.005 0 0 0 115 156h10Z\"></path><circle cx=\"120\" cy=\"128\" r=\"5\"></circle><circle cx=\"120\" cy=\"100\" r=\"5\"></circle><circle cx=\"120\" cy=\"72\" r=\"5\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><rect width=\"132\" height=\"132\" x=\"30\" y=\"30\" stroke-width=\"12\" ry=\"6\"></rect><path stroke-width=\"12\" d=\"M75 30v77a6 6 0 0 1-6 6H30\"></path><path d=\"M125 156a5.005 5.005 0 0 0-8.536-3.536A5.005 5.005 0 0 0 115 156h10Z\"></path><circle cx=\"120\" cy=\"128\" r=\"5\"></circle><circle cx=\"120\" cy=\"100\" r=\"5\"></circle><circle cx=\"120\" cy=\"72\" r=\"5\"></circle></svg>",
 		"snake,vs,block",
 		"Lawnicons"
 	],
@@ -690,34 +690,104 @@
 		"Streamline Covid Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"5\" cy=\"2.75\" r=\"2.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"10.25\" cy=\"10.25\" r=\"3.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7.95\" y1=\"12.55\" x2=\"12.55\" y2=\"7.95\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M6,6.61A4.49,4.49,0,0,0,.5,11v1.5h4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,user,block,actions,close,denied,deny,geometric,human,person,single,up",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"block-bell-notification--notification-alarm-alert-bell-block\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M7.37 2.242A3.999 3.999 0 0 0 2 6v3.5A1.5 1.5 0 0 1 .5 11h11A1.5 1.5 0 0 1 10 9.5V6.99a3.25 3.25 0 0 1-2.63-4.748Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M10.25 7a3.25 3.25 0 1 1 0-6.5 3.25 3.25 0 0 1 0 6.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.25 7a3.25 3.25 0 1 1 0-6.5 3.25 3.25 0 0 1 0 6.5Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13.5h2\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.48 2.3A4 4 0 0 0 2 6v3.5A1.5 1.5 0 0 1 .5 11h11A1.5 1.5 0 0 1 10 9.5\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m12.55 6.05-4.6-4.6\"></path></g></svg>",
+		"block,bell,notification",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M1.5,2.5a1,1,0,0,0-1,1v9a1,1,0,0,0,1,1h11a1,1,0,0,0,1-1v-9a1,1,0,0,0-1-1h-2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.5\" y1=\"0.5\" x2=\"3.5\" y2=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"10.5\" y1=\"0.5\" x2=\"10.5\" y2=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"3.5\" y1=\"2.5\" x2=\"8.5\" y2=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"8.5\" r=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"4.88\" y1=\"10.62\" x2=\"9.12\" y2=\"6.38\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,calendar,block,date,day,month",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"chat-bubble-square-block--messages-message-bubble-chat-square-block\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"m1.5 10.5-1 3 4-1h8a1 1 0 0 0 1-1v-10a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v9Zm9.328-4a3.25 3.25 0 1 1-6.5.001 3.25 3.25 0 0 1 6.5 0Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M7.578 9.751a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.578 9.751a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.5-4 1 1-3v-9a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-8Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m9.878 8.8-4.6-4.6\"></path></g></svg>",
+		"chat,bubble,square,block",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M5.5,13.5h-4a1,1,0,0,1-1-1V2.5a1,1,0,0,1,1-1H3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M8,1.5H9.5a1,1,0,0,1,1,1v2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><rect x=\"3\" y=\"0.5\" width=\"5\" height=\"2.5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><circle cx=\"10.25\" cy=\"10.25\" r=\"3.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7.95\" y1=\"12.55\" x2=\"12.55\" y2=\"7.95\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,file,clipboard,block,edit,task,edition,form",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"inbox-block--mail-envelope-email-message-block-spam-remove\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M12.5 7.905A3.251 3.251 0 0 0 7.087 9.5H1.5a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v6.405Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M10.25 13.5a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.25 13.5a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m12.55 12.55-4.6-4.6\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 9.5h-3a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1V5\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 1.76 6.5 6l6-4.24\"></path></g></svg>",
+		"inbox,block",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M4.75,12H1.5a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1H5.19a1,1,0,0,1,1,.76L6.47,2.5h6a1,1,0,0,1,1,1V5.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><circle cx=\"10.25\" cy=\"10.25\" r=\"3.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7.95\" y1=\"12.55\" x2=\"12.55\" y2=\"7.95\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,folder,block,subtract",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"browser-block--block-access-denied-window-browser-privacy-remove\"><path id=\"Vector\" fill=\"#ffffff\" d=\"M12.5 13.5a1 1 0 0 0 1-1V3.508H.5V12.5a1 1 0 0 0 1 1h11Z\"></path><path id=\"Vector_2\" fill=\"#37d7ff\" d=\"M7 11.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z\"></path><path id=\"Vector_3\" fill=\"#37d7ff\" d=\"M.793.793A1 1 0 0 0 .5 1.5v2.011h13V1.5a1 1 0 0 0-1-1h-11a1 1 0 0 0-.707.293Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.793.793A1 1 0 0 0 .5 1.5v2.011h13V1.5a1 1 0 0 0-1-1h-11a1 1 0 0 0-.707.293Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 13.5a1 1 0 0 0 1-1V3.508H.5V12.5a1 1 0 0 0 1 1h11Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 11.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z\"></path><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.123 10.623 4.877 6.377\"></path></g></svg>",
+		"browser,block",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"2.4\" y1=\"11.6\" x2=\"11.6\" y2=\"2.4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,block,remove,circle,garbage,trash,delete",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cloud-block--cloud-network-internet-block-server-deny\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M11.267 5.53c.03.036.07.062.116.075a2.73 2.73 0 0 1-.61 5.388H9.187a2.8 2.8 0 1 0-4.375 0H3.92a3.193 3.193 0 0 1-.428-6.371.228.228 0 0 0 .21-.127 3.868 3.868 0 0 1 7.508.91c.006.046.026.09.057.125Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M7 12.044a2.8 2.8 0 1 1 0-5.6 2.8 2.8 0 0 1 0 5.6Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 12.044a2.8 2.8 0 1 1 0-5.6 2.8 2.8 0 0 1 0 5.6Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.982 11.226 5.018 7.263\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.819 10.874a3.193 3.193 0 0 1 .673-6.252.228.228 0 0 0 .21-.127 3.868 3.868 0 0 1 7.508.91.245.245 0 0 0 .173.2 2.73 2.73 0 0 1-.116 5.34\"></path></g></svg>",
+		"cloud,block",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M11.5,2H13a.5.5,0,0,1,.5.5v8a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5v-8A.5.5,0,0,1,1,2H2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"6\" y1=\"11\" x2=\"5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8\" y1=\"11\" x2=\"9\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4\" y1=\"13.5\" x2=\"10\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"5\" r=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"4.88\" y1=\"7.12\" x2=\"9.12\" y2=\"2.88\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,desktop,block,device,display,disable,permission",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"block-bell-notification--notification-alarm-alert-bell-block\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M12.95 6.35a3.748 3.748 0 0 0-5.3-5.3.758.758 0 0 0-.097.097A3.748 3.748 0 0 0 12.95 6.35Zm-.45-2.602a2.248 2.248 0 0 0-3.217-2.03l2.998 3a2.24 2.24 0 0 0 .219-.97Zm-1.28 2.03L8.223 2.78a2.248 2.248 0 0 0 2.998 2.998Z\" clip-rule=\"evenodd\"></path><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M10.572 8.737a4.998 4.998 0 0 1-4.788-7.232A4.713 4.713 0 0 0 2.78 2.747c-.86.804-1.351 1.901-1.351 3.053v3.775c0 .234-.1.466-.289.642-.219.204-.391.283-.639.283a.5.5 0 0 0 0 1h11a.5.5 0 1 0 0-1c-.248 0-.42-.079-.64-.283a.879.879 0 0 1-.287-.642v-.838ZM5 12.5A.75.75 0 0 0 5 14h2a.75.75 0 0 0 0-1.5H5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"block,bell,notification",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"chat-bubble-square-block--messages-message-bubble-chat-square-block\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M2.5 0A1.5 1.5 0 0 0 1 1.5v8.919l-.974 2.923a.5.5 0 0 0 .595.643L4.561 13H12.5a1.5 1.5 0 0 0 1.5-1.5v-10A1.5 1.5 0 0 0 12.5 0h-10Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.217 4.256a2.625 2.625 0 0 1 3.606 3.606L6.217 4.256Zm-1.334-.54a.635.635 0 0 0-.09.09 3.875 3.875 0 0 0 5.479 5.48.637.637 0 0 0 .091-.09 3.875 3.875 0 0 0-5.48-5.479Zm4.056 5.03A2.625 2.625 0 0 1 5.333 5.14L8.94 8.746Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"chat,bubble,square,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"inbox-block--mail-envelope-email-message-block-spam-remove\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.576 0h9.311c.858 0 1.552.695 1.552 1.552v4.677a4.671 4.671 0 0 0-6.507 3.082H1.576A1.552 1.552 0 0 1 .024 7.76V1.552C.024.695.72 0 1.576 0Z\" clip-rule=\"evenodd\"></path><path id=\"Intersect\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M12.44 1.63 6.231 4.732.024 1.629v1.398L5.952 5.99a.625.625 0 0 0 .56 0l5.927-2.964V1.629Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M12.487 10.46a2.028 2.028 0 0 0-2.83-1.863l2.665 2.665a2.02 2.02 0 0 0 .165-.802ZM13 12.907a3.528 3.528 0 1 0-5.082-4.894A3.528 3.528 0 0 0 13 12.906Zm-1.738-.585L8.597 9.657a2.028 2.028 0 0 0 2.665 2.665Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"inbox,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"browser-block--block-access-denied-window-browser-privacy-remove\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.75.046C.81.046.047.81.047 1.751v10.498c0 .942.763 1.705 1.705 1.705H12.25c.942 0 1.705-.763 1.705-1.705V1.751c0-.942-.763-1.705-1.705-1.705H1.751Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" d=\"M1.75.046C.81.046.047.81.047 1.751V3.5h13.908V1.75c0-.94-.763-1.704-1.705-1.704H1.751Z\"></path><path id=\"Union_3\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M10.748 8.748A3.748 3.748 0 0 0 7 5c-.986 0-1.954.398-2.652 1.096a3.748 3.748 0 1 0 6.4 2.652Zm-1.5 0a2.248 2.248 0 0 0-3.217-2.03l2.999 3a2.24 2.24 0 0 0 .218-.97Zm-1.28 2.03L4.972 7.78a2.248 2.248 0 0 0 2.998 2.998Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"browser,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cloud-block--cloud-network-internet-block-server-deny\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M5.041.748a4.368 4.368 0 0 1 6.645 3.115 3.23 3.23 0 0 1 .208 6.118 4.906 4.906 0 0 0-9.776-.145 3.692 3.692 0 0 1 1.183-7.004A4.368 4.368 0 0 1 5.04.748Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M9.127 10.325a2.127 2.127 0 0 0-3.004-1.939l2.815 2.816a2.12 2.12 0 0 0 .19-.877Zm.485 2.516a3.627 3.627 0 1 0-5.225-5.032 3.627 3.627 0 0 0 5.225 5.032Zm-1.734-.578L5.062 9.447a2.127 2.127 0 0 0 2.816 2.816Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"cloud,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"block-bell-notification--notification-alarm-alert-bell-block\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 13.5h2\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.48 2.3A4 4 0 0 0 2 6v3.5A1.5 1.5 0 0 1 .5 11h11A1.5 1.5 0 0 1 10 9.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.25 7a3.25 3.25 0 1 1 0-6.5 3.25 3.25 0 0 1 0 6.5Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m12.55 6.05-4.6-4.6\"></path></g></svg>",
+		"block,bell,notification",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"chat-bubble-square-block--messages-message-bubble-chat-square-block\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.578 9.751a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m9.878 8.8-4.6-4.6\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.5-4 1 1-3v-9a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-8Z\"></path></g></svg>",
+		"chat,bubble,square,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"inbox-block--mail-envelope-email-message-block-spam-remove\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.25 13.5a3.25 3.25 0 1 0 0-6.5 3.25 3.25 0 0 0 0 6.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m12.55 12.55-4.6-4.6\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 9.5h-3a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1V5\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 1.76 6.5 6l6-4.24\"></path></g></svg>",
+		"inbox,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"browser-block--block-access-denied-window-browser-privacy-remove\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 3.494h13\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5.5h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 11.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.123 10.623 4.877 6.377\"></path></g></svg>",
+		"browser,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cloud-block--cloud-network-internet-block-server-deny\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 12.044a2.8 2.8 0 1 1 0-5.6 2.8 2.8 0 0 1 0 5.6Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.982 11.226 5.018 7.263\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.819 10.874a3.193 3.193 0 0 1 .673-6.252.228.228 0 0 0 .21-.127 3.868 3.868 0 0 1 7.508.91.246.246 0 0 0 .173.2 2.73 2.73 0 0 1-.116 5.34\"></path></g></svg>",
+		"cloud,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"block-bell-notification--notification-alarm-alert-bell-block\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M14 3.748c0 1.01-.4 1.928-1.05 2.602a.738.738 0 0 1-.097.097 3.748 3.748 0 0 1-5.3-5.3.761.761 0 0 1 .097-.098A3.748 3.748 0 0 1 14 3.748ZM10.252 1.5a2.248 2.248 0 0 1 2.03 3.217l-3-2.998a2.24 2.24 0 0 1 .97-.219Zm-2.03 1.28 2.998 2.998A2.248 2.248 0 0 1 8.222 2.78Zm2.03 5.967c.107 0 .214-.004.32-.01v.838c0 .234.1.466.289.642.219.204.391.283.639.283a.5.5 0 0 1 0 1H.5a.5.5 0 0 1 0-1c.248 0 .42-.079.64-.283a.878.878 0 0 0 .288-.642V5.8c0-1.152.49-2.25 1.351-3.052a4.713 4.713 0 0 1 3.005-1.243 4.998 4.998 0 0 0 4.467 7.242ZM4.25 13.25A.75.75 0 0 1 5 12.5h2A.75.75 0 0 1 7 14H5a.75.75 0 0 1-.75-.75Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"block,bell,notification",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"chat-bubble-square-block--messages-message-bubble-chat-square-block\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M2.5 0A1.5 1.5 0 0 0 1 1.5v8.919l-.974 2.923a.5.5 0 0 0 .595.643L4.561 13H12.5a1.5 1.5 0 0 0 1.5-1.5v-10A1.5 1.5 0 0 0 12.5 0h-10Zm2.833 5.14A2.625 2.625 0 0 0 8.94 8.746L5.333 5.14Zm-.54-1.334a3.875 3.875 0 0 0 5.48 5.48.655.655 0 0 0 .09-.09 3.875 3.875 0 0 0-5.48-5.48.632.632 0 0 0-.09.09Zm1.424.45 3.606 3.606a2.625 2.625 0 0 0-3.606-3.606Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"chat,bubble,square,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"inbox-block--mail-envelope-email-message-block-spam-remove\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.576 0h9.311c.858 0 1.552.695 1.552 1.552v.077L6.232 4.733.024 1.629v-.077C.024.695.72 0 1.576 0Zm4.935 5.99 5.928-2.963v3.202a4.671 4.671 0 0 0-6.507 3.082H1.576A1.552 1.552 0 0 1 .024 7.76V3.027L5.952 5.99a.625.625 0 0 0 .56 0Zm3.949 2.442a2.028 2.028 0 0 1 1.862 2.83L9.657 8.597c.246-.106.518-.165.803-.165Zm3.527 2.028a3.516 3.516 0 0 1-1.08 2.54 3.528 3.528 0 1 1 1.08-2.54Zm-5.39-.803 2.665 2.665a2.028 2.028 0 0 1-2.665-2.665Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"inbox,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"browser-block--block-access-denied-window-browser-privacy-remove\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.546 3.315v8.934c0 .113.092.205.205.205h10.498a.204.204 0 0 0 .205-.205V3.315H1.546ZM1.751.046C.809.046.046.81.046 1.751v10.498c0 .942.763 1.705 1.705 1.705h10.498c.942 0 1.705-.763 1.705-1.705V1.751c0-.942-.763-1.705-1.705-1.705H1.751ZM7 4a3.748 3.748 0 1 1-3.75 3.748c0-.986.399-1.954 1.097-2.652A3.778 3.778 0 0 1 7 4Zm0 1.5a2.248 2.248 0 0 1 2.03 3.217l-3-2.997A2.24 2.24 0 0 1 7 5.5ZM4.97 6.78l2.998 2.998A2.248 2.248 0 0 1 4.97 6.78Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"browser,block",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cloud-block--cloud-network-internet-block-server-deny\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M5.041.748a4.368 4.368 0 0 1 6.645 3.115 3.23 3.23 0 0 1 .208 6.118 4.906 4.906 0 0 0-9.776-.145 3.692 3.692 0 0 1 1.183-7.004A4.368 4.368 0 0 1 5.04.748ZM7 8.198a2.127 2.127 0 0 1 1.938 3.004L6.123 8.386A2.12 2.12 0 0 1 7 8.198Zm-2.517-.485a.758.758 0 0 0-.095.095 3.627 3.627 0 1 0 .095-.095Zm3.395 4.55a2.127 2.127 0 0 1-2.816-2.816l2.816 2.816Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"cloud,block",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"12\" cy=\"6\" r=\"4\" fill=\"black\"></circle><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18 15.75C16.7574 15.75 15.75 16.7574 15.75 18C15.75 18.3473 15.8287 18.6763 15.9693 18.97L18.9701 15.9693C18.6763 15.8287 18.3474 15.75 18 15.75ZM20.0307 17.0299L17.0299 20.0307C17.3236 20.1713 17.6526 20.25 18 20.25C19.2426 20.25 20.25 19.2426 20.25 18C20.25 17.6526 20.1713 17.3237 20.0307 17.0299ZM14.25 18C14.25 15.9289 15.9289 14.25 18 14.25C20.0711 14.25 21.75 15.9289 21.75 18C21.75 20.0711 20.0711 21.75 18 21.75C15.9289 21.75 14.25 20.0711 14.25 18Z\" fill=\"black\"></path><path opacity=\"0.5\" d=\"M17.2157 14.3321C15.5211 14.6927 14.25 16.1979 14.25 18C14.25 18.9823 14.6277 19.8764 15.2457 20.5449C14.2756 20.8356 13.1714 21 12 21C8.13401 21 5 19.2091 5 17C5 14.7909 8.13401 13 12 13C14.0722 13 15.934 13.5145 17.2157 14.3321Z\" fill=\"black\"></path></svg>",

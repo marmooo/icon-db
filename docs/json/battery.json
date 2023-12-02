@@ -25,6 +25,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M72 40H52a6 6 0 0 0-6 6v118a6 6 0 0 0 6 6h88a6 6 0 0 0 6-6V46a6 6 0 0 0-6-6h-20\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M146 70H46m50 23s8 10 24 8c0 20-12 46-24 46s-24-26-24-46c16 2 24-8 24-8Z\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M120 40V28a6 6 0 0 0-6-6H78a6 6 0 0 0-6 6v12\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"battery,charge,limit",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" stroke=\"#000\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M101.2 167.7c-3.3 1.6-7.2 1.6-10.5 0-27.6-13.1-45.6-41.1-45.7-72-.1-31.1 17.9-59.4 45.7-72.6 3.3-1.6 7.2-1.6 10.5 0 27.9 13.2 45.8 41.5 45.7 72.6 0 31-18.1 59-45.7 72zm-49-105.3c-2.1-.6-4.6-1.1-7.5-1.5-3.3-.4-6.3-.4-8.9-.3-7.1 11.1-11.1 24.2-11.1 38.2 0 39.3 31.9 71.2 71.2 71.2s71.2-31.8 71.2-71.2c0-14-4-27.1-11.1-38.2-2.5-.1-5.4-.1-8.8.3-2.8.3-5.2.9-7.4 1.5m4.3 11.8c-3.8-2.3-14.9-8.4-29.7-7.2-8.1.7-15.9 3.4-22.7 7.9-4.6 3-8.4 7.2-12.8 10.3-4.7 3.3-10.5 5.1-16.3 4.9-8.9-.2-14.8-4.5-16.8-6\"></path><path stroke-width=\"6\" d=\"m105.7 92.8-25 24.3c-.6.6-.2 1.7.7 1.7H91a.225.35 0 0 1 .9 1.4l-6.5 16.3c-.4 1 .9 1.8 1.6 1.1l25.7-25.1c.6-.6.2-1.7-.7-1.7h-9a.225.325 0 0 1-.9-1.3l5.3-15.6c.3-1-.9-1.8-1.7-1.1z\"></path></svg>",
 		"battery,guru",
 		"Lawnicons"
@@ -505,16 +510,6 @@
 		"OpenMoji"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2400\"><path d=\"M1300 2240L1300 2240Q1150 2240 1027.5 2203.5 905 2167 832.5 2103.5 760 2040 760 1961L760 1961 760 485Q760 393 832.5 319.5 905 246 1028 203 1151 160 1300 160L1300 160Q1450 160 1572.5 203 1695 246 1767.5 319.5 1840 393 1840 485L1840 485 1840 1961Q1840 2040 1767.5 2103.5 1695 2167 1573 2203.5 1451 2240 1300 2240ZM1300 2160L1300 2160Q1425 2160 1529.5 2132 1634 2104 1697 2058.5 1760 2013 1760 1961L1760 1961 1760 637Q1692 702 1570 741.5 1448 781 1300 781L1300 781Q1153 781 1030.5 741.5 908 702 840 637L840 637 840 1961Q840 2013 903 2058.5 966 2104 1071 2132 1176 2160 1300 2160ZM1300 701L1300 701Q1422 701 1527 673 1632 645 1696 596 1760 547 1760 485L1760 485Q1760 423 1697 367 1634 311 1529.5 275.5 1425 240 1300 240L1300 240Q1176 240 1071 275.5 966 311 903 367 840 423 840 485L840 485Q840 547 904.5 596 969 645 1074 673 1179 701 1300 701ZM1300 1945L1300 1945Q1171 1945 1084 1907L1084 1907 1084 1826Q1171 1864 1300 1864L1300 1864Q1429 1864 1516 1826L1516 1826 1516 1907Q1429 1945 1300 1945ZM1300 499L1300 499Q1212 499 1149.5 464 1087 429 1087 373L1087 373 1087 330Q1087 271 1150.5 234.5 1214 198 1300 198L1300 198Q1386 198 1449.5 234.5 1513 271 1513 330L1513 330 1513 373Q1513 429 1451 464 1389 499 1300 499ZM1300 399L1300 399Q1362 399 1396.5 379 1431 359 1431 329L1431 329Q1431 296 1393.5 277.5 1356 259 1300 259L1300 259Q1245 259 1207.5 278 1170 297 1170 329L1170 329Q1170 359 1204.5 379 1239 399 1300 399ZM1084 1187L1084 1187 1084 1107Q1118 1115 1170.5 1119 1223 1123 1260 1123L1260 1123 1260 963Q1269 964 1278.5 964.5 1288 965 1300 965L1300 965Q1312 965 1321.5 964.5 1331 964 1340 963L1340 963 1340 1123Q1378 1123 1430 1119 1482 1115 1516 1107L1516 1107 1516 1187Q1482 1195 1430 1199 1378 1203 1340 1203L1340 1203 1340 1368Q1331 1369 1321.5 1369.5 1312 1370 1300 1370L1300 1370Q1288 1370 1278.5 1369.5 1269 1369 1260 1368L1260 1368 1260 1203Q1222 1203 1170 1199 1118 1195 1084 1187Z\"></path></svg>",
-		"battery",
-		"Noto Emoji Twotone"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2400\"><path d=\"M1300 2048L1300 2048Q1244 2048 1181.5 2037 1119 2026 1064 2009.5 1009 1993 974.5 1975 940 1957 940 1944L940 1944 940 1666Q940 1616 984 1585 1028 1554 1108.5 1539 1189 1524 1300 1524L1300 1524Q1411 1524 1492 1539 1573 1554 1617 1585 1661 1616 1661 1666L1661 1666 1661 1944Q1661 1957 1626.5 1975 1592 1993 1537 2009.5 1482 2026 1419 2037 1356 2048 1300 2048ZM1300 2240L1300 2240Q1150 2240 1027.5 2203.5 905 2167 832.5 2103.5 760 2040 760 1961L760 1961 760 485Q760 393 832.5 319.5 905 246 1028 203 1151 160 1300 160L1300 160Q1450 160 1572.5 203 1695 246 1767.5 319.5 1840 393 1840 485L1840 485 1840 1961Q1840 2040 1767.5 2103.5 1695 2167 1573 2203.5 1451 2240 1300 2240ZM1300 2160L1300 2160Q1425 2160 1529.5 2132 1634 2104 1697 2058.5 1760 2013 1760 1961L1760 1961 1760 637Q1692 702 1570 741.5 1448 781 1300 781L1300 781Q1153 781 1030.5 741.5 908 702 840 637L840 637 840 1961Q840 2013 903 2058.5 966 2104 1071 2132 1176 2160 1300 2160ZM1300 701L1300 701Q1422 701 1527 673 1632 645 1696 596 1760 547 1760 485L1760 485Q1760 423 1697 367 1634 311 1529.5 275.5 1425 240 1300 240L1300 240Q1176 240 1071 275.5 966 311 903 367 840 423 840 485L840 485Q840 547 904.5 596 969 645 1074 673 1179 701 1300 701ZM1300 1945L1300 1945Q1429 1945 1516 1907L1516 1907 1516 1826Q1429 1864 1300 1864L1300 1864Q1171 1864 1084 1826L1084 1826 1084 1907Q1171 1945 1300 1945ZM1300 499L1300 499Q1212 499 1149.5 464 1087 429 1087 373L1087 373 1087 330Q1087 271 1150.5 234.5 1214 198 1300 198L1300 198Q1386 198 1449.5 234.5 1513 271 1513 330L1513 330 1513 373Q1513 429 1451 464 1389 499 1300 499ZM1300 399L1300 399Q1362 399 1396.5 379 1431 359 1431 329L1431 329Q1431 296 1393.5 277.5 1356 259 1300 259L1300 259Q1245 259 1207.5 278 1170 297 1170 329L1170 329Q1170 359 1204.5 379 1239 399 1300 399ZM1084 1187L1084 1187 1084 1107Q1118 1115 1170.5 1119 1223 1123 1260 1123L1260 1123 1260 963Q1269 964 1278.5 964.5 1288 965 1300 965L1300 965Q1312 965 1321.5 964.5 1331 964 1340 963L1340 963 1340 1123Q1378 1123 1430 1119 1482 1115 1516 1107L1516 1107 1516 1187Q1482 1195 1430 1199 1378 1203 1340 1203L1340 1203 1340 1368Q1331 1369 1321.5 1369.5 1312 1370 1300 1370L1300 1370Q1288 1370 1278.5 1369.5 1269 1369 1260 1368L1260 1368 1260 1203Q1222 1203 1170 1199 1118 1195 1084 1187Z\"></path></svg>",
-		"low,battery",
-		"Noto Emoji Twotone"
-	],
-	[
 		"<svg version=\"1.1\" id=\"Layer_1_copy\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><g><path style=\"fill:#8DCC47;\" d=\"M34.02,20.35v88.57c0,7.92,13.42,14.34,29.98,14.34c16.56,0,29.98-6.42,29.98-14.34V20.35H34.02z\"></path><path style=\"fill:#9EE350;\" d=\"M94,20.36c0,9.44-15.79,15.37-29.98,15.37c-13.82,0-29.02-5.96-29.98-15.37 c-1.03-10.14,13.42-17.1,29.98-17.1S94,10.92,94,20.36z\"></path><g><ellipse style=\"fill:#D9D9D9;\" cx=\"64.2\" cy=\"17.55\" rx=\"23.64\" ry=\"11.43\"></ellipse><path style=\"fill:#9E9E9E;\" d=\"M76.56,6.44c0,0,0,0.25,0,0.66C76.59,6.69,76.56,6.44,76.56,6.44z\"></path></g><path style=\"fill:#FFFFFF;\" d=\"M76.99,51.54c0-0.66-0.25-1.06-0.86-1.3c-0.57-0.23-1.4,0.01-2.25,0.23 c-1.68,0.42-3.41,0.66-4.97,0.64c-0.63-0.01-0.57-0.61-0.57-1.16c0-0.43,0-3.94,0-5.48c0-0.6-0.07-1.36-1.18-1.36 c-0.67,0-1.48,0.18-3.17,0.2c-1.69-0.01-2.5-0.2-3.17-0.2c-1.11,0-1.18,0.76-1.18,1.36c0,1.54,0,5.05,0,5.48 c0,0.55,0.06,1.15-0.57,1.16c-1.56,0.02-3.29-0.22-4.97-0.64c-0.86-0.21-1.68-0.45-2.25-0.23c-0.61,0.25-0.86,0.64-0.86,1.3 l-0.03,5.09c0.28,0.79,0.57,1.36,0.89,1.53c0.94,0.49,2.99,1.24,6.27,1.4c0.65,0.03,1.38-0.19,1.53,0.52c0.07,0.35,0,4.67,0,6.42 c0,1.59,2.3,1.76,3.54,1.86c0.27,0.02,1.35,0.02,1.61,0c1.23-0.11,3.54-0.27,3.54-1.86c0-1.75-0.07-6.07,0-6.42 c0.15-0.71,0.87-0.49,1.53-0.52c3.28-0.16,5.33-0.92,6.27-1.4c0.31-0.16,0.61-0.73,0.89-1.53L76.99,51.54z\"></path><path style=\"fill:#FFFFFF;\" d=\"M75.07,102.56c0,0-3.85,1.17-11.07,1.17s-11.07-1.17-11.07-1.17c-1.37-0.2-1.95,0.87-1.95,1.95v4.22 c0,1,0.65,1.93,1.81,2.5c2.39,1.18,6.25,1.98,10.87,1.93c0.12,0,0.23-0.01,0.35-0.01c0.12,0,0.23,0.01,0.35,0.01 c4.63,0.05,8.48-0.75,10.87-1.93c1.16-0.57,1.81-1.5,1.81-2.5v-4.22C77.03,103.43,76.44,102.36,75.07,102.56z\"></path><path style=\"fill:#F5F5F5;\" d=\"M58.59,27.81c1.6-1.54-4.16-2.87-6.88-3.8c-3.42-1.17-7-3.23-8.09-7.26 c-0.82-3.04-2.25-2.09-2.51-1.73c-0.37,0.51-1.8,3.49,0.95,6.8c1.89,2.28,4.95,4.01,7.56,4.89C53.19,27.92,57.53,28.83,58.59,27.81 z\"></path><path style=\"fill:#F5F5F5;\" d=\"M56,13.18c0.33-1.12,3.23-1.81,4.99-1.83c3.01-0.04,6.11,2.27,6.57,3.06 c1.29,2.2-1.65,2.98-6.79,2.53C57.31,16.64,55.67,14.31,56,13.18z\"></path><path style=\"fill:#9E9E9E;\" d=\"M73.11,15.01c-0.35-0.62-0.71-1.27-1.05-1.9c-0.36-0.65-0.35,0.05-0.43,0.32 c-0.41,1.42-1.22,2.05-1.79,2.36c-1.72,0.92-3.78,1.36-5.83,1.33c-2.06,0.02-4.11-0.41-5.83-1.33c-0.58-0.31-1.38-0.94-1.79-2.36 c-0.08-0.28-0.07-0.97-0.43-0.32c-0.35,0.63-0.7,1.28-1.05,1.9c-0.9,1.58-0.12,3.33,1.03,4.45c2.01,1.95,5.13,2.85,8.08,2.85h0h0 c2.95,0,6.07-0.9,8.08-2.85C73.24,18.33,74.01,16.58,73.11,15.01z\"></path></g></svg>",
 		"battery",
 		"Noto Color Emoji"
@@ -530,27 +525,22 @@
 		"Blobmoji"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2850\"><path d=\"M1256 2323L1256 2323Q1305 2323 1338 2318.5 1371 2314 1390.5 2304.5 1410 2295 1418 2280.5 1426 2266 1426 2247L1426 2247Q1426 2207 1393 2193L1393 2193Q1360 2178 1244 2178L1244 2178Q1149 2178 1109 2194.5 1069 2211 1069 2251L1069 2251Q1069 2274 1080.5 2288.5 1092 2303 1115 2310.5 1138 2318 1173.5 2320.5 1209 2323 1256 2323ZM1455 1165L1455 1165Q1455 1141 1445.5 1127 1436 1113 1422 1105 1408 1097 1392 1094 1376 1091 1361.5 1089 1347 1087 1337 1084 1327 1081 1326 1074L1326 1074 1320 1035Q1315 997 1298.5 978.5 1282 960 1248 960L1248 960Q1211 960 1196 977.5 1181 995 1176 1017.5 1171 1040 1170.5 1060 1170 1080 1162 1086L1162 1086 1156 1089Q1133 1089 1112 1094 1091 1099 1075 1109 1059 1119 1049.5 1134 1040 1149 1040 1169L1040 1169Q1040 1201 1060.5 1220.5 1081 1240 1137 1245L1137 1245Q1169 1245 1169 1266L1169 1266Q1182 1373 1249 1373L1249 1373Q1283 1373 1299.5 1352.5 1316 1332 1322 1292L1322 1292 1327 1257Q1329 1246 1346 1245L1346 1245Q1379 1241 1400 1234 1421 1227 1433 1217 1445 1207 1450 1194.5 1455 1182 1455 1165ZM848 624L848 624Q848 711 965 777L965 777Q1024 809 1094.5 825.5 1165 842 1251 842L1251 842Q1335 842 1405 826.5 1475 811 1534 779L1534 779Q1652 715 1652 632L1652 632Q1652 546 1553 483L1553 483 1553 578Q1553 653 1464 706L1464 706Q1375 758 1251 758L1251 758Q1120 758 1035 703L1035 703Q948 648 948 570L948 570 948 483Q848 544 848 624ZM1251 327L1251 327Q1210 327 1176 334 1142 341 1113 357L1113 357Q1055 387 1055 433L1055 433Q1055 478 1113 509L1113 509Q1171 539 1251 539L1251 539Q1332 539 1390 507L1390 507Q1448 477 1448 433L1448 433Q1448 389 1389 358L1389 358Q1359 343 1325 335 1291 327 1251 327ZM1761 639L1761 639 1675 2298Q1669 2403 1548 2479L1548 2479Q1427 2552 1251 2552L1251 2552Q1073 2552 952 2479L952 2479Q832 2403 827 2298L827 2298 739 639Q737 600 752.5 563.5 768 527 798 494.5 828 462 869.5 435 911 408 962 387L962 387Q990 330 1071 295L1071 295Q1155 260 1251 260L1251 260Q1302 260 1348 269.5 1394 279 1432 295.5 1470 312 1498 335.5 1526 359 1541 387L1541 387Q1590 408 1631.5 435 1673 462 1702.5 494.5 1732 527 1747.5 563.5 1763 600 1761 639Z\"></path></svg>",
-		"battery",
-		"Android Emoji"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-charging\" viewBox=\"0 0 16 16\"><path d=\"M9.585 2.568a.5.5 0 0 1 .226.58L8.677 6.832h1.99a.5.5 0 0 1 .364.843l-5.334 5.667a.5.5 0 0 1-.842-.49L5.99 9.167H4a.5.5 0 0 1-.364-.843l5.333-5.667a.5.5 0 0 1 .616-.09z\"></path><path d=\"M2 4h4.332l-.94 1H2a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2.38l-.308 1H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z\"></path><path d=\"M2 6h2.45L2.908 7.639A1.5 1.5 0 0 0 3.313 10H2V6zm8.595-2-.308 1H12a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9.276l-.942 1H12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.405z\"></path><path d=\"M12 10h-1.783l1.542-1.639c.097-.103.178-.218.241-.34V10zm0-3.354V6h-.646a1.5 1.5 0 0 1 .646.646zM16 8a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-charging\" viewBox=\"0 0 16 16\"><path d=\"M9.585 2.568a.5.5 0 0 1 .226.58L8.677 6.832h1.99a.5.5 0 0 1 .364.843l-5.334 5.667a.5.5 0 0 1-.842-.49L5.99 9.167H4a.5.5 0 0 1-.364-.843l5.333-5.667a.5.5 0 0 1 .616-.09z\"></path><path d=\"M2 4h4.332l-.94 1H2a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2.38l-.308 1H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2\"></path><path d=\"M2 6h2.45L2.908 7.639A1.5 1.5 0 0 0 3.313 10H2zm8.595-2-.308 1H12a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9.276l-.942 1H12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2z\"></path><path d=\"M12 10h-1.783l1.542-1.639c.097-.103.178-.218.241-.34zm0-3.354V6h-.646a1.5 1.5 0 0 1 .646.646M16 8a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8\"></path></svg>",
 		"battery,charging",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-full\" viewBox=\"0 0 16 16\"><path d=\"M2 6h10v4H2V6z\"></path><path d=\"M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-full\" viewBox=\"0 0 16 16\"><path d=\"M2 6h10v4H2z\"></path><path d=\"M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8\"></path></svg>",
 		"battery,full",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-half\" viewBox=\"0 0 16 16\"><path d=\"M2 6h5v4H2V6z\"></path><path d=\"M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h10zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery-half\" viewBox=\"0 0 16 16\"><path d=\"M2 6h5v4H2z\"></path><path d=\"M2 4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm10 1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1zm4 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8\"></path></svg>",
 		"battery,half",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery\" viewBox=\"0 0 16 16\"><path d=\"M0 6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6zm2-1a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H2zm14 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-battery\" viewBox=\"0 0 16 16\"><path d=\"M0 6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zm14 3a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8\"></path></svg>",
 		"battery",
 		"Bootstrap Icons"
 	],
@@ -4845,24 +4835,164 @@
 		"Streamline Emojis"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,battery,empty,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 4.5V7\"></path><g id=\"Group 4500\"><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 9.125a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 9.125a.25.25 0 0 0 0-.5\"></path></g></g></svg>",
+		"battery,alert",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"6.25\" y1=\"5.5\" x2=\"6.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"9.25\" y1=\"5.5\" x2=\"9.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,full,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-charging--phone-mobile-charge-device-electricity-power-battery-charging\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m7.177 4.658-1.658 2.24h2.168l-1.182 2.13\"></path></g></svg>",
+		"battery,charging",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,low,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"6.25\" y1=\"5.5\" x2=\"6.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,medium,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.5 2.5h9a1 1 0 0 1 1 1V5h.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-.5v1.5a1 1 0 0 1-1 1\"></path><path id=\"Vector 2426\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 3.5v7a1 1 0 0 0 1 1h7\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-full-1--phone-mobile-charge-device-electricity-power-battery-full\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.25 5v4\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.25 5v4\"></path></g></svg>",
+		"battery,full",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-low-1--phone-mobile-charge-device-electricity-power-battery-low\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path></g></svg>",
+		"battery,low",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-medium-1--phone-mobile-charge-medium-device-electricity-power-battery\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.25 5v4\"></path></g></svg>",
+		"battery,medium",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"car-battery-charging\"><path id=\"Vector 2469\" fill=\"#ffffff\" d=\"M2 4V2h3v2H2Z\"></path><path id=\"Vector 2470\" fill=\"#ffffff\" d=\"M9 4V2h3v2H9Z\"></path><path id=\"Vector 1972\" fill=\"#37d7ff\" d=\"M.5 5v7.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1Z\"></path><path id=\"Vector 1975\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 5v7.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1Z\"></path><path id=\"Vector 1973\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2 4V2h3v2\"></path><path id=\"Vector 1974\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 4V2h3v2\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m7.5 6-2 2.5h3l-2 3\"></path></g></svg>",
+		"car,battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.125 4.5a.625.625 0 1 0-1.25 0V7a.625.625 0 1 0 1.25 0V4.5Zm.125 4.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,alert",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-charging--phone-mobile-charge-device-electricity-power-battery-charging\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.361 4.28a.625.625 0 0 1 .13.875l-.919 1.243H7.5a.625.625 0 0 1 .546.928l-1.182 2.13A.625.625 0 1 1 5.77 8.85l.667-1.202H5.332a.625.625 0 0 1-.503-.997l1.658-2.24a.625.625 0 0 1 .874-.13Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 0 0 1.061-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-full-1--phone-mobile-charge-device-electricity-power-battery-full\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M2.75 4.375c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625Zm3.5 0c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625ZM10.375 5a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,full",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-low-1--phone-mobile-charge-device-electricity-power-battery-low\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M2.75 4.375c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,low",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-medium-1--phone-mobile-charge-medium-device-electricity-power-battery\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M3.375 5a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Zm3.5 0a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,medium",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"car-battery-charging\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 2a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5V2Zm7 0a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H9a.5.5 0 0 1-.5-.5V2Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#37d7ff\" d=\"M1.5 3.5A1.5 1.5 0 0 0 0 5v7.5A1.5 1.5 0 0 0 1.5 14h11a1.5 1.5 0 0 0 1.5-1.5V5a1.5 1.5 0 0 0-1.5-1.5h-11Z\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.849 5.741c.27.216.313.61.097.879l-1.02 1.276h1.449a.625.625 0 0 1 .52.972l-1.833 2.75a.625.625 0 0 1-1.04-.694l1.185-1.778H5.625a.625.625 0 0 1-.488-1.016L6.97 5.84a.625.625 0 0 1 .879-.098Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"car,battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 4.5V7\"></path><g id=\"Group 4500\"><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 9.125a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 9.125a.25.25 0 0 0 0-.5\"></path></g></g></svg>",
+		"battery,alert",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-charging--phone-mobile-charge-device-electricity-power-battery-charging\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m7.177 4.658-1.658 2.24h2.168l-1.182 2.13\"></path></g></svg>",
+		"battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.5 2.5h9a1 1 0 0 1 1 1V5h.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-.5v1.5a1 1 0 0 1-1 1\"></path><path id=\"Vector 2426\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 3.5v7a1 1 0 0 0 1 1h7\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-full-1--phone-mobile-charge-device-electricity-power-battery-full\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.25 5v4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.25 5v4\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path></g></svg>",
+		"battery,full",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-low-1--phone-mobile-charge-device-electricity-power-battery-low\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path></g></svg>",
+		"battery,low",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-medium-1--phone-mobile-charge-medium-device-electricity-power-battery\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 5v4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.25 5v4\"></path></g></svg>",
+		"battery,medium",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"car-battery-charging\"><path id=\"Vector 1972\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 5v7.5a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1Z\"></path><path id=\"Vector 1973\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2 4V2h3v2\"></path><path id=\"Vector 1974\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 4V2h3v2\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m7.5 6-2 2.5h3l-2 3\"></path></g></svg>",
+		"car,battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-alert-1--phone-mobile-charge-device-electricity-power-battery-alert-warning\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M13.5 5.5A.5.5 0 0 0 13 5h-.5V3.5a1 1 0 0 0-1-1h-10a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V9h.5a.5.5 0 0 0 .5-.5v-3Zm-7-1.625c.345 0 .625.28.625.625V7a.625.625 0 1 1-1.25 0V4.5c0-.345.28-.625.625-.625Zm.75 5.375a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,alert",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-charging--phone-mobile-charge-device-electricity-power-battery-charging\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M13.354 5.146a.5.5 0 0 1 .146.354v3a.5.5 0 0 1-.5.5h-.5v1.5a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1V5h.5a.5.5 0 0 1 .354.146Zm-5.862.009a.625.625 0 1 0-1.005-.744L4.83 6.651a.625.625 0 0 0 .503.997h1.106L5.771 8.85a.625.625 0 1 0 1.093.607l1.182-2.13a.625.625 0 0 0-.546-.93h-.928l.92-1.242Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,charging",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-1--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 2A1.5 1.5 0 0 0 0 3.5v7A1.5 1.5 0 0 0 1.5 12h10a1.5 1.5 0 0 0 1.5-1.5v-1a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1v-1A1.5 1.5 0 0 0 11.5 2h-10Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-empty-2--phone-mobile-charge-device-electricity-empty-power-battery\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06l.178.179c.018.014.035.03.051.046l12.328 12.328a.75.75 0 0 0 1.005-1.112l-1.543-1.542a1 1 0 0 0 .262-.675v-1.5h.5a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 0-.5-.5h-.5v-1.5a1 1 0 0 0-1-1H3.564L1.28.22a.75.75 0 0 0-1.061 0ZM8.68 11.503.514 3.337a1 1 0 0 0-.014.166v7a1 1 0 0 0 1 1h7.18Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,empty",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-full-1--phone-mobile-charge-device-electricity-power-battery-full\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.44 2.44A1.5 1.5 0 0 1 1.5 2h10A1.5 1.5 0 0 1 13 3.5v1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1v1a1.5 1.5 0 0 1-1.5 1.5h-10A1.5 1.5 0 0 1 0 10.5v-7c0-.398.158-.78.44-1.06ZM3.374 5a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Zm3.5 0a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Zm2.875-.625c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,full",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-low-1--phone-mobile-charge-device-electricity-power-battery-low\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.44 2.44A1.5 1.5 0 0 1 1.5 2h10A1.5 1.5 0 0 1 13 3.5v1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1v1a1.5 1.5 0 0 1-1.5 1.5h-10A1.5 1.5 0 0 1 0 10.5v-7c0-.398.158-.78.44-1.06ZM3.374 5a.625.625 0 1 0-1.25 0v4a.625.625 0 1 0 1.25 0V5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,low",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"battery-medium-1--phone-mobile-charge-medium-device-electricity-power-battery\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.44 2.44A1.5 1.5 0 0 1 1.5 2h10A1.5 1.5 0 0 1 13 3.5v1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1v1a1.5 1.5 0 0 1-1.5 1.5h-10A1.5 1.5 0 0 1 0 10.5v-7c0-.398.158-.78.44-1.06Zm2.31 1.935c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625Zm3.5 0c.345 0 .625.28.625.625v4a.625.625 0 1 1-1.25 0V5c0-.345.28-.625.625-.625Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"battery,medium",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"car-battery-charging\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 2a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v1.5h3V2a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v1.5A1.5 1.5 0 0 1 14 5v7.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 12.5V5a1.5 1.5 0 0 1 1.5-1.5V2Zm6.446 4.62a.625.625 0 0 0-.976-.781L5.137 8.13a.625.625 0 0 0 .488 1.016h1.582l-1.185 1.778a.625.625 0 1 0 1.04.694l1.833-2.75a.625.625 0 0 0-.52-.972h-1.45L7.946 6.62Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"car,battery,charging",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M3.17157 5.17157C2 6.34315 2 8.22876 2 12C2 15.7712 2 17.6569 3.17157 18.8284C4.34315 20 6.22876 20 10 20H11.5C15.2712 20 17.1569 20 18.3284 18.8284C19.5 17.6569 19.5 15.7712 19.5 12C19.5 8.22876 19.5 6.34315 18.3284 5.17157C17.1569 4 15.2712 4 11.5 4H10C6.22876 4 4.34315 4 3.17157 5.17157Z\" fill=\"black\"></path><path d=\"M21.25 14C21.25 14.4142 21.5858 14.75 22 14.75C22.4142 14.75 22.75 14.4142 22.75 14V10C22.75 9.58579 22.4142 9.25 22 9.25C21.5858 9.25 21.25 9.58579 21.25 10V14Z\" fill=\"black\"></path><path d=\"M12.0762 9.48016C12.3413 9.16195 12.2984 8.68903 11.9801 8.42385C11.6619 8.15868 11.189 8.20167 10.9238 8.51988L8.42384 11.5199C8.23754 11.7434 8.19738 12.0546 8.32082 12.3181C8.44425 12.5817 8.709 12.75 9.00001 12.75H10.8987L9.42384 14.5199C9.15867 14.8381 9.20166 15.311 9.51987 15.5762C9.83808 15.8414 10.311 15.7984 10.5762 15.4802L13.0762 12.4802C13.2625 12.2566 13.3026 11.9454 13.1792 11.6819C13.0558 11.4184 12.791 11.25 12.5 11.25H10.6013L12.0762 9.48016Z\" fill=\"black\"></path></svg>",

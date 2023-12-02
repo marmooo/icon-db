@@ -95,7 +95,7 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-type-underline\" viewBox=\"0 0 16 16\"><path d=\"M5.313 3.136h-1.23V9.54c0 2.105 1.47 3.623 3.917 3.623s3.917-1.518 3.917-3.623V3.136h-1.23v6.323c0 1.49-.978 2.57-2.687 2.57-1.709 0-2.687-1.08-2.687-2.57V3.136zM12.5 15h-9v-1h9v1z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-type-underline\" viewBox=\"0 0 16 16\"><path d=\"M5.313 3.136h-1.23V9.54c0 2.105 1.47 3.623 3.917 3.623s3.917-1.518 3.917-3.623V3.136h-1.23v6.323c0 1.49-.978 2.57-2.687 2.57-1.709 0-2.687-1.08-2.687-2.57V3.136zM12.5 15h-9v-1h9z\"></path></svg>",
 		"type,underline",
 		"Bootstrap Icons"
 	],
@@ -910,9 +910,24 @@
 		"Themify Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M2.5.5V7.25A4.25,4.25,0,0,0,6.75,11.5h0A4.25,4.25,0,0,0,11,7.25V.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"1.5\" y1=\"13.5\" x2=\"12.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,text,formatting,underline,format",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"underline-text-1--text-underline-formatting-format\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 13.5h11\"></path><path id=\"Vector 2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5v8a3 3 0 0 0 3 3v0a3 3 0 0 0 3-3v-8\"></path></g></svg>",
+		"underline,text",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"underline-text-1--text-underline-formatting-format\"><path id=\"Vector 2 (Stroke)\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M4 0a.75.75 0 0 1 .75.75V7.5a2.25 2.25 0 0 0 4.5 0V.75a.75.75 0 0 1 1.5 0V7.5a3.75 3.75 0 1 1-7.5 0V.75A.75.75 0 0 1 4 0Z\" clip-rule=\"evenodd\"></path><path id=\"Vector 1640 (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M0 13.25a.75.75 0 0 1 .75-.75h12.5a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"underline,text",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"underline-text-1--text-underline-formatting-format\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 13.5h11\"></path><path id=\"Vector 2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5v8a3 3 0 0 0 3 3v0a3 3 0 0 0 3-3v-8\"></path></g></svg>",
+		"underline,text",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"underline-text-1--text-underline-formatting-format\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M4.75.75a.75.75 0 0 0-1.5 0V7.5a3.75 3.75 0 1 0 7.5 0V.75a.75.75 0 0 0-1.5 0V7.5a2.25 2.25 0 0 1-4.5 0V.75Zm-4 11.75a.75.75 0 0 0 0 1.5h12.5a.75.75 0 0 0 0-1.5H.75Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"underline,text",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2Z\" fill=\"black\"></path><path d=\"M7.25 17C7.25 16.5858 7.58579 16.25 8 16.25H16C16.4142 16.25 16.75 16.5858 16.75 17C16.75 17.4142 16.4142 17.75 16 17.75H8C7.58579 17.75 7.25 17.4142 7.25 17Z\" fill=\"black\"></path><path d=\"M8.75 7C8.75 6.58579 8.41421 6.25 8 6.25C7.58579 6.25 7.25 6.58579 7.25 7V10C7.25 12.6234 9.37665 14.75 12 14.75C14.6234 14.75 16.75 12.6234 16.75 10V7C16.75 6.58579 16.4142 6.25 16 6.25C15.5858 6.25 15.25 6.58579 15.25 7V10C15.25 11.7949 13.7949 13.25 12 13.25C10.2051 13.25 8.75 11.7949 8.75 10V7Z\" fill=\"black\"></path></svg>",

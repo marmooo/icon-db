@@ -30,7 +30,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M38.9 143.07C52.47 159.52 73.01 170 96 170s42.75-10.09 56.32-26m-1.77-98C137.02 31.25 117.59 22 96 22s-41.02 9.25-54.55 24m37.76 50h25.65m6.13-31h-26c-3.31 0-6 2.69-6 6v50c0 3.31 2.69 6 6 6h26m-88.99.92v-57c0-3.31 2.69-6 6-6h9.84c7.97 0 14.43 7.47 14.43 16.68h0c0 9.21-6.46 16.68-14.43 16.68H26.7h3.25c5.33 0 10.23 3.4 12.74 8.84l9.58 20.81m117.73-5.5c-13.95 8.99-37.64 1.46-37.64-27.75S156.05 58.72 170 67.71\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M38.9 143.07C52.47 159.52 73.01 170 96 170s42.75-10.09 56.32-26m-1.77-98C137.02 31.25 117.59 22 96 22s-41.02 9.25-54.55 24m37.76 50h25.65m6.13-31h-26a6 6 0 0 0-6 6v50c0 3.31 2.69 6 6 6h26m-88.99.92v-57c0-3.31 2.69-6 6-6h9.84c7.97 0 14.43 7.47 14.43 16.68h0c0 9.21-6.46 16.68-14.43 16.68H26.7h3.25c5.33 0 10.23 3.4 12.74 8.84l9.58 20.81m117.73-5.5c-13.95 8.99-37.64 1.46-37.64-27.75S156.05 58.72 170 67.71\"></path></svg>",
 		"audio,recorder",
 		"Lawnicons"
 	],
@@ -40,12 +40,17 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"52\" cy=\"96\" r=\"30\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"52\" cy=\"96\" r=\"5\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M52 126h88\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"140\" cy=\"96\" r=\"30\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"nothing,recorder",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M72 26v140M48 61v70m48-70v70m48-70v70M24 88v24m96-24v24m48-24v24\"></path></svg>",
 		"recorder",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M122 48H34a12 12 0 0 0-12 12v72a12 12 0 0 0 12 12h88a12 12 0 0 0 12-12V60a12 12 0 0 0-12-12zm12 40 36-28v72l-36-28\"></path><path d=\"M49 98a3 3 0 0 0-3 3v24a2.998 2.998 0 0 0 3 3 2.999 2.999 0 0 0 3-3v-4.758l6.879 6.879a2.998 2.998 0 1 0 4.242-4.242l-7.09-7.09c4.435-.54 7.97-4.219 7.97-8.789 0-4.935-4.066-9-9-9H49zm26 0c-3.278 0-6 2.722-6 6v18c0 3.278 2.722 6 6 6h9a2.999 2.999 0 0 0 2.121-5.121A2.999 2.999 0 0 0 84 122h-9v-6h3a2.999 2.999 0 0 0 2.121-5.121A2.999 2.999 0 0 0 78 110h-3v-6h9a2.999 2.999 0 0 0 2.121-5.121A3 3 0 0 0 84 98h-9zm26 0c-4.935 0-9 4.065-9 9v12c0 4.935 4.065 9 9 9h6c.796 0 1.559-.316 2.121-.879a2.996 2.996 0 0 0 0-4.242A2.996 2.996 0 0 0 107 122h-6c-1.692 0-3-1.308-3-3v-12c0-1.692 1.308-3 3-3h6c.796 0 1.559-.316 2.121-.879a2.996 2.996 0 0 0 0-4.242A2.998 2.998 0 0 0 107 98h-6zm-49 6h3c1.692 0 3 1.308 3 3s-1.308 3-3 3h-3v-6z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M122 48H34a12 12 0 0 0-12 12v72a12 12 0 0 0 12 12h88a12 12 0 0 0 12-12V60a12 12 0 0 0-12-12zm12 40 36-28v72l-36-28\"></path><path d=\"M49 98a3 3 0 0 0-3 3v24a2.999 2.999 0 0 0 6 0v-4.758l6.879 6.879a2.998 2.998 0 1 0 4.242-4.242l-7.09-7.09c4.435-.54 7.97-4.219 7.97-8.789 0-4.935-4.066-9-9-9H49zm26 0c-3.278 0-6 2.722-6 6v18c0 3.278 2.722 6 6 6h9a2.999 2.999 0 0 0 0-6h-9v-6h3a2.999 2.999 0 0 0 0-6h-3v-6h9a3 3 0 0 0 0-6h-9zm26 0c-4.935 0-9 4.065-9 9v12c0 4.935 4.065 9 9 9h6c.796 0 1.559-.316 2.121-.879A2.996 2.996 0 0 0 107 122h-6c-1.692 0-3-1.308-3-3v-12c0-1.692 1.308-3 3-3h6c.796 0 1.559-.316 2.121-.879A2.998 2.998 0 0 0 107 98h-6zm-49 6h3c1.692 0 3 1.308 3 3s-1.308 3-3 3h-3v-6z\"></path></svg>",
 		"screen,recorder",
 		"Lawnicons"
 	],
@@ -55,7 +60,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 170v-26M75 91V43m42 48V43m32 48a53.007 53.007 0 0 1-15.523 37.477 53.007 53.007 0 0 1-74.954 0A53.01 53.01 0 0 1 43 91\"></path><path d=\"M117 91a20.989 20.989 0 0 1-6.151 14.849A20.993 20.993 0 0 1 96 112a20.989 20.989 0 0 1-14.85-6.151A21 21 0 0 1 75 91m0-48a21.001 21.001 0 0 1 35.849-14.85A20.993 20.993 0 0 1 117 43\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 170v-26M75 91V43m42 48V43m32 48a53.007 53.007 0 0 1-90.477 37.477A53.01 53.01 0 0 1 43 91\"></path><path d=\"M117 91a21 21 0 0 1-42 0m0-48a20.993 20.993 0 0 1 42 0\"></path></svg>",
 		"voice,recorder",
 		"Lawnicons"
 	],
@@ -88,11 +93,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 16.933 16.933\"><defs><linearGradient id=\"a\" x1=\"14.679\" x2=\"2.293\" y1=\"293.79\" y2=\"282.98\" gradientTransform=\"matrix(.99997 0 0 1.0434 0 -292.6)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#66bcff\"></stop><stop offset=\"1\" stop-color=\"#b29aff\"></stop></linearGradient></defs><rect width=\"14.816\" height=\"12.7\" x=\"1.058\" y=\"2.117\" fill=\"url(#a)\" rx=\"1.323\" ry=\"1.323\"></rect><rect width=\"13.229\" height=\"1.058\" x=\"1.852\" y=\"2.646\" opacity=\".35\" rx=\".529\" ry=\".529\"></rect><rect width=\"1.058\" height=\".529\" x=\"2.117\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"2.646\" height=\".529\" x=\"7.144\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".529\" height=\".529\" x=\"14.287\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".794\" height=\".529\" x=\"13.229\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".529\" height=\".529\" x=\"12.435\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"10.053\" height=\"1.323\" x=\"3.44\" y=\"12.7\" fill=\"#fff\" opacity=\".35\" paint-order=\"markers stroke fill\" rx=\".265\" ry=\".265\"></rect><g fill=\"#ccdfff\" transform=\"translate(0 1.722)\"><rect width=\"1.323\" height=\"1.323\" x=\"4.233\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"6.614\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"8.996\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"11.376\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect></g><path fill=\"#f9f9f9\" d=\"m12.17 6.879-1.587 1.058c-.05.343-.118.682 0 1.059l1.588 1.058z\"></path><path fill=\"#f9f9f9\" d=\"M5.556 6.35a.264.264 0 0 0-.264.264v3.704c0 .147.118.265.264.265h4.763a.264.264 0 0 0 .264-.265V6.614a.264.264 0 0 0-.264-.264zm2.381.793A1.323 1.323 0 0 1 9.26 8.466a1.323 1.323 0 0 1-1.323 1.323 1.323 1.323 0 0 1-1.322-1.323 1.323 1.323 0 0 1 1.322-1.323z\"></path></svg>",
 		"apps,screen,recorder",
 		"Tela Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"3.5\" cy=\"3.5\" r=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"10.5\" cy=\"4.5\" r=\"2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><rect x=\"3.5\" y=\"9\" width=\"7.5\" height=\"4.5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"13.5\" y1=\"10\" x2=\"13.5\" y2=\"12.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,camera,video,film,television,tv,movies,recorder",
-		"Streamline UI Icons Line"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20.97 10.37V13.56C20.97 15.88 19.09 17.76 16.77 17.76H13.21C12.66 17.76 12.21 18.2 12.21 18.76V19.58C12.21 20.13 12.66 20.58 13.21 20.58H15.47C15.86 20.58 16.18 20.89 16.18 21.29C16.18 21.68 15.86 22 15.47 22H7.53C7.14 22 6.82 21.68 6.82 21.29C6.82 20.89 7.14 20.58 7.53 20.58H9.79C10.34 20.58 10.79 20.13 10.79 19.58V18.76C10.79 18.2 10.34 17.76 9.79 17.76H6.19C3.88 17.76 2 15.88 2 13.56V7.19C2 4.88 3.88 3 6.19 3H10.5C11.05 3 11.5 3.45 11.5 4V6.15C11.5 8.08 12.79 9.37 14.71 9.37H19.97C20.52 9.37 20.97 9.82 20.97 10.37Z\" fill=\"#292D32\"></path><path d=\"M21.99 2.35962L20.86 3.14962V2.72962C20.86 1.77962 20.09 1.01962 19.15 1.01962H14.87C13.84 1.00962 13 1.84962 13 2.87962V6.15962C13 7.01962 13.43 7.86962 14.71 7.86962H19.14C20.09 7.86962 20.85 7.09962 20.85 6.15962V5.72962L21.98 6.51962C22.55 6.90962 23 6.66962 23 5.98962V2.88962C23 2.20962 22.55 1.97962 21.99 2.35962Z\" fill=\"#292D32\"></path></svg>",

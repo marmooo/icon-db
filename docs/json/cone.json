@@ -70,7 +70,7 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-cone-striped\" viewBox=\"0 0 16 16\"><path d=\"m9.97 4.88.953 3.811C10.159 8.878 9.14 9 8 9c-1.14 0-2.158-.122-2.923-.309L6.03 4.88C6.635 4.957 7.3 5 8 5s1.365-.043 1.97-.12zm-.245-.978L8.97.88C8.718-.13 7.282-.13 7.03.88L6.275 3.9C6.8 3.965 7.382 4 8 4c.618 0 1.2-.036 1.725-.098zm4.396 8.613a.5.5 0 0 1 .037.96l-6 2a.5.5 0 0 1-.316 0l-6-2a.5.5 0 0 1 .037-.96l2.391-.598.565-2.257c.862.212 1.964.339 3.165.339s2.303-.127 3.165-.339l.565 2.257 2.391.598z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-cone-striped\" viewBox=\"0 0 16 16\"><path d=\"m9.97 4.88.953 3.811C10.159 8.878 9.14 9 8 9c-1.14 0-2.158-.122-2.923-.309L6.03 4.88C6.635 4.957 7.3 5 8 5s1.365-.043 1.97-.12m-.245-.978L8.97.88C8.718-.13 7.282-.13 7.03.88L6.275 3.9C6.8 3.965 7.382 4 8 4c.618 0 1.2-.036 1.725-.098zm4.396 8.613a.5.5 0 0 1 .037.96l-6 2a.5.5 0 0 1-.316 0l-6-2a.5.5 0 0 1 .037-.96l2.391-.598.565-2.257c.862.212 1.964.339 3.165.339s2.303-.127 3.165-.339l.565 2.257 2.391.598\"></path></svg>",
 		"cone,striped",
 		"Bootstrap Icons"
 	],
@@ -275,9 +275,44 @@
 		"neuicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.36,6.48l-2.87,6.7a.54.54,0,0,1-1,0L3.64,6.48\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><circle cx=\"4.88\" cy=\"4.75\" r=\"2.13\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M4.88,2.63a2.12,2.12,0,1,1,4.24,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><circle cx=\"9.13\" cy=\"4.75\" r=\"2.13\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"food,ice,cream,cook,frozen,cone,cooking,nutrition,freezer,cold",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cone-shape\"><path id=\"rectangle 631\" fill=\"#37d7ff\" d=\"M6.489.872 1.793 9.99a.5.5 0 0 0 .444.729l10.049.003-5.07-9.85c-.173-.336-.554-.336-.727 0Z\"></path><path id=\"rectangle 632\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.489.872 1.793 9.99a.5.5 0 0 0 .444.729l10.049.003-5.07-9.85c-.173-.336-.554-.336-.727 0Z\"></path><path id=\"vector\" fill=\"#ffffff\" d=\"M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z\"></path><path id=\"vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z\"></path></g></svg>",
+		"cone,shape",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"traffic-cone--street-sign-traffic-cone-road\"><path id=\"Vector 1993\" fill=\"#37d7ff\" d=\"M5.3 1.24 2 13.5h10L8.7 1.24A1 1 0 0 0 7.733.5H6.266a1 1 0 0 0-.965.74Z\"></path><path id=\"Intersect\" fill=\"#ffffff\" d=\"M9.577 4.5H4.423l-1.346 5h7.846l-1.346-5Z\"></path><path id=\"Vector 1994\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.3 1.24 2 13.5h10L8.7 1.24A1 1 0 0 0 7.733.5H6.266a1 1 0 0 0-.965.74Z\"></path><path id=\"Vector 1992\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 13.5h13\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.423 4.5h5.154\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.077 9.5h7.846\"></path></g></svg>",
+		"traffic,cone",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cone\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M7.66.643C7.504.339 7.21.12 6.852.12c-.357 0-.651.219-.808.523l-5.037 9.78a1 1 0 0 0-.095.279l-.06.333a.5.5 0 0 0-.008.09c0 .488.244.906.585 1.236.34.33.804.602 1.338.821 1.07.439 2.515.698 4.085.698 1.57 0 3.013-.26 4.084-.698.534-.219.999-.492 1.338-.82.341-.33.585-.75.585-1.238 0-.03-.002-.06-.008-.09l-.074-.402a.498.498 0 0 0-.047-.139L7.66.643Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.852 8.368c-1.57 0-3.014.26-4.085.698-.534.219-.999.492-1.338.82-.341.331-.585.75-.585 1.238 0 .489.244.907.585 1.237.34.33.804.602 1.338.821 1.07.439 2.515.698 4.085.698 1.57 0 3.013-.26 4.084-.698.534-.219.999-.492 1.338-.82.341-.33.585-.75.585-1.238 0-.489-.244-.907-.585-1.237-.34-.33-.804-.602-1.338-.821-1.07-.439-2.515-.698-4.084-.698Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"cone",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"traffic-cone--street-sign-traffic-cone-road\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M6.338.531h1.323a1 1 0 0 1 .966.74l.87 3.229H4.5l.873-3.229a1 1 0 0 1 .965-.74Zm5.422 12.375H2.24L3.292 9h7.416l1.052 3.906Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M4.5 4.5h4.996L10.708 9H3.292L4.5 4.5ZM.812 12.156a.75.75 0 0 0 0 1.5h12.376a.75.75 0 1 0 0-1.5H.812Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"traffic,cone",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cone-shape\"><path id=\"vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.852 13.38c3.041 0 5.507-1.01 5.507-2.256 0-1.246-2.466-2.256-5.507-2.256-3.042 0-5.508 1.01-5.508 2.256 0 1.246 2.466 2.256 5.508 2.256Z\"></path><path id=\"rectangle 631\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.418 10.718 6.488.872c.174-.336.555-.336.728 0l5.07 9.85\"></path></g></svg>",
+		"cone,shape",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"traffic-cone--street-sign-traffic-cone-road\"><path id=\"Vector 1992\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 13.5h13\"></path><path id=\"Vector 1993\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.3 1.24 2 13.5h10L8.7 1.24A1 1 0 0 0 7.733.5H6.266a1 1 0 0 0-.965.74Z\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.423 4.5h5.154\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.077 9.5h7.846\"></path></g></svg>",
+		"traffic,cone",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"cone-shape\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.66.643C7.504.339 7.21.12 6.852.12c-.357 0-.651.219-.808.523L1.637 9.199c.237-.14.495-.265.769-.377 1.17-.48 2.741-.761 4.446-.761 1.704 0 3.276.282 4.445.76.273.113.531.238.767.377L7.66.643ZM1.525 11.124c0-.115.054-.284.277-.5.225-.218.584-.443 1.078-.646.985-.403 2.389-.667 3.972-.667 1.582 0 2.986.264 3.971.667.494.203.853.428 1.078.646.223.216.277.385.277.5 0 .115-.054.284-.277.5-.225.218-.584.443-1.078.646-.985.403-2.389.667-3.971.667-1.583 0-2.987-.264-3.972-.667-.494-.203-.853-.428-1.078-.646-.223-.216-.277-.385-.277-.5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"cone,shape",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"traffic-cone--street-sign-traffic-cone-road\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"m4.715 3.714.658-2.443a1 1 0 0 1 .965-.74h1.323a1 1 0 0 1 .966.74l.658 2.443h-4.57Zm-.336 1.25-.945 3.51h7.132l-.945-3.51H4.38Zm-1.937 7.192.655-2.432h7.806l.655 2.432h1.63a.75.75 0 0 1 0 1.5H.812a.75.75 0 1 1 0-1.5h1.63Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"traffic,cone",
+		"Streamline Core"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"M5 21 9.84 3.59c.1-.35.41-.59.77-.59h2.78c.36 0 .67.24.77.59L19 21\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M5 21 9.84 3.59c.1-.35.41-.59.77-.59h2.78c.36 0 .67.24.77.59L19 21M15.64 9.67c-1.18.22-2.4.33-3.64.33-1.32 0-2.6-.13-3.85-.37m9.09 5.84c-1.69.35-3.44.53-5.24.53-1.8 0-3.63-.19-5.36-.55M2 21h20\"></path></svg>",

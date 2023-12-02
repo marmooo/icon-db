@@ -35,7 +35,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"123\" r=\"12\"></circle><path stroke-linecap=\"round\" d=\"M127 53a30.999 30.999 0 0 0-52.92-21.92A31 31 0 0 0 65 53v22m40 95h38a6 6 0 0 0 6-6V82a6 6 0 0 0-6-6H49a6 6 0 0 0-6 6v42m84-71v22\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"123\" r=\"12\"></circle><path stroke-linecap=\"round\" d=\"M127 53a31 31 0 0 0-62 0v22m40 95h38a6 6 0 0 0 6-6V82a6 6 0 0 0-6-6H49a6 6 0 0 0-6 6v42m84-71v22\"></path></svg>",
 		"lock,screen",
 		"Lawnicons"
 	],
@@ -45,7 +45,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M122 48H34a12 12 0 0 0-12 12v72a12 12 0 0 0 12 12h88a12 12 0 0 0 12-12V60a12 12 0 0 0-12-12zm12 40 36-28v72l-36-28\"></path><path d=\"M49 98a3 3 0 0 0-3 3v24a2.998 2.998 0 0 0 3 3 2.999 2.999 0 0 0 3-3v-4.758l6.879 6.879a2.998 2.998 0 1 0 4.242-4.242l-7.09-7.09c4.435-.54 7.97-4.219 7.97-8.789 0-4.935-4.066-9-9-9H49zm26 0c-3.278 0-6 2.722-6 6v18c0 3.278 2.722 6 6 6h9a2.999 2.999 0 0 0 2.121-5.121A2.999 2.999 0 0 0 84 122h-9v-6h3a2.999 2.999 0 0 0 2.121-5.121A2.999 2.999 0 0 0 78 110h-3v-6h9a2.999 2.999 0 0 0 2.121-5.121A3 3 0 0 0 84 98h-9zm26 0c-4.935 0-9 4.065-9 9v12c0 4.935 4.065 9 9 9h6c.796 0 1.559-.316 2.121-.879a2.996 2.996 0 0 0 0-4.242A2.996 2.996 0 0 0 107 122h-6c-1.692 0-3-1.308-3-3v-12c0-1.692 1.308-3 3-3h6c.796 0 1.559-.316 2.121-.879a2.996 2.996 0 0 0 0-4.242A2.998 2.998 0 0 0 107 98h-6zm-49 6h3c1.692 0 3 1.308 3 3s-1.308 3-3 3h-3v-6z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M122 48H34a12 12 0 0 0-12 12v72a12 12 0 0 0 12 12h88a12 12 0 0 0 12-12V60a12 12 0 0 0-12-12zm12 40 36-28v72l-36-28\"></path><path d=\"M49 98a3 3 0 0 0-3 3v24a2.999 2.999 0 0 0 6 0v-4.758l6.879 6.879a2.998 2.998 0 1 0 4.242-4.242l-7.09-7.09c4.435-.54 7.97-4.219 7.97-8.789 0-4.935-4.066-9-9-9H49zm26 0c-3.278 0-6 2.722-6 6v18c0 3.278 2.722 6 6 6h9a2.999 2.999 0 0 0 0-6h-9v-6h3a2.999 2.999 0 0 0 0-6h-3v-6h9a3 3 0 0 0 0-6h-9zm26 0c-4.935 0-9 4.065-9 9v12c0 4.935 4.065 9 9 9h6c.796 0 1.559-.316 2.121-.879A2.996 2.996 0 0 0 107 122h-6c-1.692 0-3-1.308-3-3v-12c0-1.692 1.308-3 3-3h6c.796 0 1.559-.316 2.121-.879A2.998 2.998 0 0 0 107 98h-6zm-49 6h3c1.692 0 3 1.308 3 3s-1.308 3-3 3h-3v-6z\"></path></svg>",
 		"screen,recorder",
 		"Lawnicons"
 	],
@@ -250,22 +250,22 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM70-120q-12.75 0-21.375-8.675Q40-137.351 40-150.175 40-163 48.625-171.5T70-180h820q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.5T593-555q0-57-39-96t-96-39q-57 0-96 39t-39 96q0 57 39 96t96 39q22 0 41.5-7.5T538-446l85 85ZM458-470q-35 0-60-25t-25-60q0-35 25-60t60-25q35 0 60 25t25 60q0 35-25 60t-60 25ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,search,desktop,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM70-120q-12.75 0-21.375-8.675Q40-137.351 40-150.175 40-163 48.625-171.5T70-180h820q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,search,desktop",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M333-387h60v-90q0-24 16-40t40-16h81v70l100-100-100-100v70h-81q-48 0-82 34t-34 82v90ZM70-120q-13 0-21.5-8.5T40-150q0-13 8.5-21.5T70-180h820q13 0 21.5 8.5T920-150q0 13-8.5 21.5T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M333-387h60v-90q0-24 16-40t40-16h81v70l100-100-100-100v70h-81q-48 0-82 34t-34 82v90ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,share,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M333-387h60v-90q0-23.8 16.1-39.9Q425.2-533 449-533h81v70l100-100-100-100v70h-81q-48.333 0-82.167 33.833Q333-525.333 333-477v90ZM70-120q-12.75 0-21.375-8.675Q40-137.351 40-150.175 40-163 48.625-171.5T70-180h820q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M333-387h60v-90q0-23.8 16.1-39.9Q425.2-533 449-533h81v70l100-100-100-100v70h-81q-48.333 0-82.167 33.833Q333-525.333 333-477v90ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,share",
 		"Material Symbols"
 	],
@@ -2050,7 +2050,7 @@
 		"akar-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"m160 96.064 192 .192a32 32 0 0 1 0 64l-192-.192V352a32 32 0 0 1-64 0V96h64v.064zm0 831.872V928H96V672a32 32 0 1 1 64 0v191.936l192-.192a32 32 0 1 1 0 64l-192 .192zM864 96.064V96h64v256a32 32 0 1 1-64 0V160.064l-192 .192a32 32 0 1 1 0-64l192-.192zm0 831.872-192-.192a32 32 0 0 1 0-64l192 .192V672a32 32 0 1 1 64 0v256h-64v-.064z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"m160 96.064 192 .192a32 32 0 0 1 0 64l-192-.192V352a32 32 0 0 1-64 0V96h64zm0 831.872V928H96V672a32 32 0 1 1 64 0v191.936l192-.192a32 32 0 1 1 0 64zM864 96.064V96h64v256a32 32 0 1 1-64 0V160.064l-192 .192a32 32 0 1 1 0-64l192-.192zm0 831.872-192-.192a32 32 0 0 1 0-64l192 .192V672a32 32 0 1 1 64 0v256h-64z\"></path></svg>",
 		"full,screen",
 		"Element Plus Icons"
 	],
@@ -2225,74 +2225,84 @@
 		"IconBrew"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M11.5,3H13a.5.5,0,0,1,.5.5v7a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5v-7A.5.5,0,0,1,1,3H2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"11\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"5\" y1=\"13.5\" x2=\"9\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7\" y1=\"0.5\" x2=\"7\" y2=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5 4.5 7 6.5 9 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,download,desktop,action,actions,computer,device,display,monitor,screen",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-1--screen-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" fill=\"#ffffff\" d=\"M5 13.5 6 11h2l1 2.5H5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m6 11-1 2.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m8 11 1 2.5\"></path><path id=\"Vector_4\" fill=\"#37d7ff\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 2H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-8A.5.5 0 0 0 13 2Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 13.5h6\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"7\" y1=\"7\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"4.5 11 7 13.5 9.5 11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><path d=\"M2.5,13.5h-1a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1h11a1,1,0,0,1,1,1v11a1,1,0,0,1-1,1h-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"3.5\" x2=\"13.5\" y2=\"3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,download,website,action,actions,computer,device,display,monitor,screen",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-2--screen-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" fill=\"#37d7ff\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 1.5H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5V2a.5.5 0 0 0-.5-.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.53 13.5a3.51 3.51 0 0 1 6.94 0\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M12,3h1a.5.5,0,0,1,.5.5v7a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5v-7A.5.5,0,0,1,1,3H2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"11\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"5\" y1=\"13.5\" x2=\"9\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7\" y1=\"6.5\" x2=\"7\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5 2.5 7 0.5 9 2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,upload,desktop,action,actions,computer,device,display,monitor,screen",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-curve--screen-curved-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" fill=\"#37d7ff\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.93 11.34a42.073 42.073 0 0 0-11.86 0 .5.5 0 0 1-.57-.49V2.49A.49.49 0 0 1 1.07 2c3.934.55 7.926.55 11.86 0a.49.49 0 0 1 .57.48v8.36a.501.501 0 0 1-.57.5v0Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 10.92v2.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 13.42h5\"></path></g></svg>",
+		"screen,curve",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M3.5,13.5h-2a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1h11a1,1,0,0,1,1,1v11a1,1,0,0,1-1,1h-2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"3.5\" x2=\"13.5\" y2=\"3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7\" y1=\"13.5\" x2=\"7\" y2=\"7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"4.5 9.5 7 7 9.5 9.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,upload,website,action,actions,computer,device,display,monitor,screen",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M12.5 12h-8a4 4 0 0 0-4-4V3a1 1 0 0 1 1-1h11a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 8a4 4 0 0 1 4 4\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 10.5A1.5 1.5 0 0 1 2 12\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 12h5.5a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2.5\"></path></g></svg>",
+		"screen,broadcast",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M5,.5H1A.5.5,0,0,0,.5,1V5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M13.5,5V1A.5.5,0,0,0,13,.5H9\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M9,13.5h4a.5.5,0,0,0,.5-.5V9\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M.5,9v4a.5.5,0,0,0,.5.5H5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,page,controller,fit,screen,adjust,display,artboard,frame,corner",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-1--screen-device-electronics-monitor-diplay-computer\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M5.635 10.577a.5.5 0 0 1 .47-.332h1.79a.5.5 0 0 1 .47.332l.687 1.918H10a.75.75 0 1 1 0 1.5H4a.75.75 0 0 1 0-1.5h.948l.686-1.918Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.457.5C.652.5 0 1.152 0 1.957v7.586C0 10.348.652 11 1.457 11h11.086C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348.5 12.543.5H1.457Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"2\" width=\"13\" height=\"9\" rx=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"6\" y1=\"11\" x2=\"5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8\" y1=\"11\" x2=\"9\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4\" y1=\"13.5\" x2=\"10\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,screen,device,electronics,monitor,diplay",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-2--screen-device-electronics-monitor-diplay-computer\"><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7 11.135a2.605 2.605 0 0 1 2.575 2.212.75.75 0 1 0 1.483-.226 4.105 4.105 0 0 0-8.116 0 .75.75 0 1 0 1.483.226A2.604 2.604 0 0 1 7 11.135Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M12.543.5C13.348.5 14 1.152 14 1.957v7.586c0 .805-.652 1.457-1.457 1.457H1.457A1.457 1.457 0 0 1 0 9.543V1.957C0 1.152.652.5 1.457.5h11.086Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"1.5\" width=\"13\" height=\"9\" rx=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M3.53,13.5a3.51,3.51,0,0,1,6.94,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"computer,screen,device,electronics,monitor,diplay",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-curve--screen-curved-device-electronics-monitor-diplay-computer\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.75 10.687a.75.75 0 0 0-1.5 0V12.3H4.639a.75.75 0 0 0 0 1.5H9.36a.75.75 0 0 0 0-1.5H7.75v-1.612Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M14 2.495C14 1.32 12.904.542 11.853.73 10.62.952 8.737 1.145 7 1.145c-1.737 0-3.619-.193-4.853-.415C1.097.542 0 1.32 0 2.495v7.01c0 1.175 1.096 1.954 2.147 1.765 1.234-.222 3.116-.415 4.853-.415 1.737 0 3.619.193 4.853.415 1.05.189 2.147-.59 2.147-1.765v-7.01Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen,curve",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M12.93,11.34a42.07,42.07,0,0,0-11.86,0,.5.5,0,0,1-.57-.49V2.49A.49.49,0,0,1,1.07,2,42.83,42.83,0,0,0,12.93,2a.49.49,0,0,1,.57.48v8.36A.5.5,0,0,1,12.93,11.34Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"10.92\" x2=\"7\" y2=\"13.42\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4.5\" y1=\"13.42\" x2=\"9.5\" y2=\"13.42\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,screen,curve,curved,device,electronics,monitor,diplay",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M.58 1.961A1.92 1.92 0 0 1 1.937 1.4H12.06a1.92 1.92 0 0 1 1.92 1.92v7.362a1.92 1.92 0 0 1-1.92 1.92H6.995A6.283 6.283 0 0 0 .017 5.524V3.32c0-.51.202-.998.563-1.358Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.768 6.73a.75.75 0 1 0 0 1.5 3.533 3.533 0 0 1 3.533 3.532.75.75 0 0 0 1.5 0A5.033 5.033 0 0 0 .768 6.73Zm0 2.676a.75.75 0 0 0 0 1.5.856.856 0 0 1 .856.856.75.75 0 1 0 1.5 0A2.356 2.356 0 0 0 .768 9.406Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen,broadcast",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"3\" width=\"13\" height=\"10.5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><rect x=\"3\" y=\"5.5\" width=\"8\" height=\"5.5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><polyline points=\"5 0.5 7 3 9 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"computer,screen,tv,movies,television,cathode,crt,ray,tube,vintage,video",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-1--screen-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 2H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-8A.5.5 0 0 0 13 2Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m6 11-1 2.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m8 11 1 2.5\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 13.5h6\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"1.5\" y=\"0.5\" width=\"11\" height=\"8\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M12.28,11.05a1,1,0,0,0-.9-.55H2.62a1,1,0,0,0-.9.55l-.5,1a1,1,0,0,0,.05,1,1,1,0,0,0,.85.47h9.76a1,1,0,0,0,.85-.47,1,1,0,0,0,0-1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"1.5\" y1=\"6\" x2=\"12.5\" y2=\"6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,desktop,screen,device,display,electronics,monitor,keyboard",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-2--screen-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 1.5H1a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5V2a.5.5 0 0 0-.5-.5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.53 13.5a3.51 3.51 0 0 1 6.94 0\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M11,5.5h1.5a1,1,0,0,1,1,1v6a1,1,0,0,1-1,1H9\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><rect x=\"0.5\" y=\"5.5\" width=\"8\" height=\"6\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"4.5\" y1=\"11.5\" x2=\"4.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"2.5\" y1=\"13.5\" x2=\"6.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,monitor,screen,desktop,device,electronics,display",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-curve--screen-curved-device-electronics-monitor-diplay-computer\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.93 11.34a42.073 42.073 0 0 0-11.86 0 .5.5 0 0 1-.57-.49V2.49A.49.49 0 0 1 1.07 2c3.934.55 7.926.55 11.86 0a.49.49 0 0 1 .57.48v8.36a.501.501 0 0 1-.57.5v0Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 10.92v2.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 13.42h5\"></path></g></svg>",
+		"screen,curve",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.49,10.56V6.73A.36.36,0,0,1,6,6.42L9.32,8.33a.37.37,0,0,1,0,.63L6,10.88A.37.37,0,0,1,5.49,10.56Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"4\" x2=\"13.5\" y2=\"4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"4\" y1=\"4\" x2=\"5.5\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"8.5\" y1=\"4\" x2=\"10\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,play,list,screen,television,display,player,movies,movie,tv,media,players,video",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 8a4 4 0 0 1 4 4\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 10.5A1.5 1.5 0 0 1 2 12\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 12h5.5a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v2.5\"></path></g></svg>",
+		"screen,broadcast",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"2.75\" y=\"0.5\" width=\"8.5\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.27,7.14V3.82a.31.31,0,0,1,.47-.28L8.59,5.21a.31.31,0,0,1,0,.54L5.74,7.41A.31.31,0,0,1,5.27,7.14Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"2.75\" y1=\"10.5\" x2=\"11.25\" y2=\"10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,play,list,player,television,display,movies,smartphone,media,tv,players,screen,video",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-1--screen-device-electronics-monitor-diplay-computer\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M2 9V2.5h10V9H2ZM1.457.5C.652.5 0 1.152 0 1.957v7.586C0 10.348.652 11 1.457 11h4.026l-.535 1.495H4a.75.75 0 0 0 0 1.5h6a.75.75 0 0 0 0-1.5h-.948L8.517 11h4.026C13.348 11 14 10.348 14 9.543V1.957C14 1.152 13.348.5 12.543.5H1.457Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M5.23,9.23V4.91a.41.41,0,0,1,.62-.35l3.7,2.15a.41.41,0,0,1,0,.71L5.85,9.58A.41.41,0,0,1,5.23,9.23Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"entertainment,play,list,screen,television,display,player,movies,players,tv,media,video",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-2--screen-device-electronics-monitor-diplay-computer\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M12 9V2.5H2V9h10Zm.543-8.5C13.348.5 14 1.152 14 1.957v7.586c0 .805-.652 1.457-1.457 1.457h-2.486a4.1 4.1 0 0 1 1 2.121.75.75 0 0 1-1.482.226 2.604 2.604 0 0 0-5.15 0 .75.75 0 1 1-1.483-.226c.121-.793.47-1.53 1.001-2.121H1.457A1.457 1.457 0 0 1 0 9.543V1.957C0 1.152.652.5 1.457.5h11.086Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-curve--screen-curved-device-electronics-monitor-diplay-computer\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M14 2.495C14 1.32 12.904.542 11.853.73 10.62.952 8.737 1.145 7 1.145c-1.737 0-3.619-.193-4.853-.415C1.097.542 0 1.32 0 2.495v7.01c0 1.175 1.096 1.954 2.147 1.765 1.058-.19 2.592-.36 4.103-.404v1.433H4.639a.75.75 0 0 0 0 1.5H9.36a.75.75 0 0 0 0-1.5H7.75v-1.433c1.51.045 3.045.214 4.103.404 1.05.189 2.147-.59 2.147-1.765v-7.01Zm-7 .65c1.766 0 3.66-.184 5-.41v6.53a32.188 32.188 0 0 0-5-.41c-1.766 0-3.66.184-5 .41v-6.53c1.34.226 3.234.41 5 .41Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen,curve",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"screen-broadcast--wireless-feed-rss-transmit-broadcast-monitor-screen\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.939 1.399a1.92 1.92 0 0 0-1.92 1.92v1.475a1 1 0 0 0 2 0V3.399h9.963V10.6h-4.27a1 1 0 1 0 0 2h4.35a1.92 1.92 0 0 0 1.92-1.92V3.319a1.92 1.92 0 0 0-1.92-1.92H1.938Zm-1.92 6.08a.75.75 0 0 1 .75-.75 5.033 5.033 0 0 1 5.034 5.033.75.75 0 1 1-1.5 0A3.533 3.533 0 0 0 .769 8.23a.75.75 0 0 1-.75-.75Zm0 2.677a.75.75 0 0 1 .75-.75 2.356 2.356 0 0 1 2.357 2.356.75.75 0 0 1-1.5 0 .856.856 0 0 0-.857-.856.75.75 0 0 1-.75-.75Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"screen,broadcast",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M8.14114 4.5C8 5.34287 8 6.46249 8 8V16C8 17.5375 8 18.6571 8.14114 19.5H8C5.64298 19.5 4.46447 19.5 3.73223 18.7678C3 18.0355 3 16.857 3 14.5V9.5C3 7.14298 3 5.96447 3.73223 5.23223C4.46447 4.5 5.64298 4.5 8 4.5H8.14114Z\" fill=\"black\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.87868 2.87868C8 3.75736 8 5.17157 8 8V16C8 18.8284 8 20.2426 8.87868 21.1213C9.75736 22 11.1716 22 14 22H15C17.8284 22 19.2426 22 20.1213 21.1213C21 20.2426 21 18.8284 21 16V8C21 5.17157 21 3.75736 20.1213 2.87868C19.2426 2 17.8284 2 15 2H14C11.1716 2 9.75736 2 8.87868 2.87868ZM15.0303 7.46967C14.7374 7.17678 14.2626 7.17678 13.9697 7.46967L11.4697 9.96967C11.1768 10.2626 11.1768 10.7374 11.4697 11.0303C11.7626 11.3232 12.2374 11.3232 12.5303 11.0303L13.75 9.81066V16C13.75 16.4142 14.0858 16.75 14.5 16.75C14.9142 16.75 15.25 16.4142 15.25 16V9.81066L16.4697 11.0303C16.7626 11.3232 17.2374 11.3232 17.5303 11.0303C17.8232 10.7374 17.8232 10.2626 17.5303 9.96967L15.0303 7.46967Z\" fill=\"black\"></path></svg>",

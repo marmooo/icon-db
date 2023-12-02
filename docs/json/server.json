@@ -30,7 +30,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" viewBox=\"0 0 192 192\"><path stroke-width=\"12\" d=\"M163.092 55.052h-64.17C91.332 54.672 76.42 39 67.843 39H30.275a8.273 8.273 0 0 0-8.273 8.462v27.664h147.996V62.148a6.935 6.935 0 0 0-4.145-6.51 6.944 6.944 0 0 0-2.646-.586h-.115zm6.906 20.036H22.002v71.038a8.271 8.271 0 0 0 8.197 8.349h131.527a8.274 8.274 0 0 0 8.272-8.273V75.088z\"></path><path d=\"M105.616 121.341a14.944 14.944 0 0 0-19.096-.052v.052\"></path><path stroke-width=\"6\" d=\"M96.03 127.461a5.99 5.99 0 0 0-5.537 3.699 5.99 5.99 0 0 0 1.3 6.532 6 6 0 0 0 6.531 1.299 5.998 5.998 0 0 0 3.699-5.537 5.992 5.992 0 0 0-5.993-5.993z\"></path><path d=\"M114.731 110.979a29.39 29.39 0 0 0-37.402 0m46.388-10.875a43.447 43.447 0 0 0-55.434 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" viewBox=\"0 0 192 192\"><path stroke-width=\"12\" d=\"M163.092 55.052h-64.17C91.332 54.672 76.42 39 67.843 39H30.275a8.273 8.273 0 0 0-8.273 8.462v27.664h147.996V62.148a6.944 6.944 0 0 0-6.791-7.096h-.115zm6.906 20.036H22.002v71.038a8.271 8.271 0 0 0 8.197 8.349h131.527a8.274 8.274 0 0 0 8.272-8.273V75.088z\"></path><path d=\"M105.616 121.341a14.944 14.944 0 0 0-19.096-.052v.052\"></path><path stroke-width=\"6\" d=\"M96.03 127.461a5.99 5.99 0 0 0-4.237 10.231 5.998 5.998 0 0 0 10.23-4.238 5.992 5.992 0 0 0-5.993-5.993z\"></path><path d=\"M114.731 110.979a29.39 29.39 0 0 0-37.402 0m46.388-10.875a43.447 43.447 0 0 0-55.434 0\"></path></svg>",
 		"wifi,pro,ftp,server",
 		"Lawnicons"
 	],
@@ -230,7 +230,7 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-server\" viewBox=\"0 0 16 16\"><path d=\"M1.333 2.667C1.333 1.194 4.318 0 8 0s6.667 1.194 6.667 2.667V4c0 1.473-2.985 2.667-6.667 2.667S1.333 5.473 1.333 4V2.667z\"></path><path d=\"M1.333 6.334v3C1.333 10.805 4.318 12 8 12s6.667-1.194 6.667-2.667V6.334a6.51 6.51 0 0 1-1.458.79C11.81 7.684 9.967 8 8 8c-1.966 0-3.809-.317-5.208-.876a6.508 6.508 0 0 1-1.458-.79z\"></path><path d=\"M14.667 11.668a6.51 6.51 0 0 1-1.458.789c-1.4.56-3.242.876-5.21.876-1.966 0-3.809-.316-5.208-.876a6.51 6.51 0 0 1-1.458-.79v1.666C1.333 14.806 4.318 16 8 16s6.667-1.194 6.667-2.667v-1.665z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-server\" viewBox=\"0 0 16 16\"><path d=\"M1.333 2.667C1.333 1.194 4.318 0 8 0s6.667 1.194 6.667 2.667V4c0 1.473-2.985 2.667-6.667 2.667S1.333 5.473 1.333 4V2.667z\"></path><path d=\"M1.333 6.334v3C1.333 10.805 4.318 12 8 12s6.667-1.194 6.667-2.667V6.334a6.51 6.51 0 0 1-1.458.79C11.81 7.684 9.967 8 8 8c-1.966 0-3.809-.317-5.208-.876a6.508 6.508 0 0 1-1.458-.79z\"></path><path d=\"M14.667 11.668a6.51 6.51 0 0 1-1.458.789c-1.4.56-3.242.876-5.21.876-1.966 0-3.809-.316-5.208-.876a6.51 6.51 0 0 1-1.458-.79v1.666C1.333 14.806 4.318 16 8 16s6.667-1.194 6.667-2.667z\"></path></svg>",
 		"server",
 		"Bootstrap Icons"
 	],
@@ -790,6 +790,11 @@
 		"Carbon"
 	],
 	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><circle cx=\"29\" cy=\"5\" r=\"2\"></circle><circle cx=\"29\" cy=\"27\" r=\"2\"></circle><path d=\"m7,13H1v6h6v-6Zm-2,4h-2v-2h2v2Z\"></path><path d=\"m17.4999,6.6774c-1.316-1.67-3.3437-2.6774-5.4999-2.6774-2.4907,0-4.8135,1.3403-6.063,3.499l-1.1655,2.0186,1.7324,1,1.165-2.0176c.8921-1.542,2.5518-2.5,4.3311-2.5s3.439.958,4.3311,2.4995c.0048.0082.011.0154.0158.0236l-1.9328,3.348c-1.1128,1.9282-3.188,3.1274-5.415,3.1289l.001,1-.001,1c2.2271.002,4.3022,1.2002,5.415,3.1289l1.9326,3.347c-.0049.0084-.0112.0156-.0161.024-.8916,1.542-2.5513,2.5-4.3306,2.5s-3.439-.958-4.3306-2.499l-1.165-2.0186-1.7324,1,1.1655,2.0195c1.249,2.1572,3.5718,3.498,6.0625,3.498,2.1555,0,4.1829-1.0075,5.5004-2.6772,1.3154,1.6699,3.3427,2.6772,5.4996,2.6772h2v-2h-2c-1.7387,0-3.3566-.918-4.2612-2.3972.9349-1.003,2.254-1.6018,3.6547-1.6018h2.6064v-2h-2.6064c-1.7564,0-3.4199.6761-4.6906,1.824l-1.5565-2.6961c-.7776-1.3467-1.9164-2.4129-3.2465-3.1289,1.3301-.716,2.4688-1.7822,3.2465-3.1289l1.5565-2.6962c1.2706,1.1483,2.9341,1.8246,4.6906,1.8246h2.6064v-2h-2.6064c-1.4005,0-2.7194-.5986-3.6552-1.6017.9044-1.4795,2.5226-2.3978,4.2616-2.3978h2v-2h-2c-2.157,0-4.1844,1.0074-5.5001,2.6774Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"ibm,dynamic,route,server",
+		"Carbon"
+	],
+	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><circle cx=\"9\" cy=\"26\" r=\"1\"></circle><path d=\"m26,30H6c-1.1041-.0012-1.9988-.8959-2-2v-4c.0012-1.1041.8959-1.9988,2-2h20c1.1041.0012,1.9988.8959,2,2v4c-.0012,1.1041-.8959,1.9988-2,2Zm-20-6v4h20v-4H6Z\"></path><circle cx=\"9\" cy=\"16\" r=\"1\"></circle><path d=\"m26,20H6c-1.1041-.0012-1.9988-.8959-2-2v-4c.0012-1.1041.8959-1.9988,2-2h20c1.1041.0012,1.9988.8959,2,2v4c-.0012,1.1041-.8959,1.9988-2,2ZM6,14v4h20v-4H6Z\"></path><circle cx=\"9\" cy=\"6\" r=\"1\"></circle><path d=\"m26,10H6c-1.1041-.0012-1.9988-.8959-2-2v-4c.0012-1.1041.8959-1.9988,2-2h20c1.1041.0012,1.9988.8959,2,2v4c-.0012,1.1041-.8959,1.9988-2,2ZM6,4v4h20v-4H6Z\"></path><g id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\"><rect class=\"cls-1\" width=\"32\" height=\"32\"></rect></g></svg>",
 		"ibm,cloud,bare,metal,server",
 		"Carbon"
@@ -1010,159 +1015,44 @@
 		"Circum Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M2.5,13.5h-1a1,1,0,0,1-1-1v-8h13v8a1,1,0,0,1-1,1h-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"4.5 11 7 13.5 9.5 11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"13.5\" x2=\"7\" y2=\"7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M11.29,1A1,1,0,0,0,10.45.5H3.55A1,1,0,0,0,2.71,1L.5,4.5h13Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"0.5\" x2=\"7\" y2=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,download,box,arrow,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-1--server-network-internet\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M12.5 1h-11a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 4.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 4H11\"></path><path id=\"Vector_4\" fill=\"#37d7ff\" d=\"M1.5 7a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 1h-11a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 7a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1\"></path><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 10.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"></path><path id=\"Vector_8\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 10H11\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,4.75h1a.5.5,0,0,1,.5.5v7.5a.5.5,0,0,1-.5.5h-9a.5.5,0,0,1-.5-.5V5.25a.5.5,0,0,1,.5-.5h1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"0.75\" x2=\"7\" y2=\"8.75\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5 6.75 7 8.75 9 6.75\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,download,button,arrow,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-2--server-network-internet\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M12.5.5h-11a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" fill=\"#37d7ff\" d=\"M1.5 5.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5.5h-11a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 5.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1\"></path><g id=\"Group 623\"><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 8.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 8.25a.25.25 0 0 0 0-.5\"></path></g><g id=\"Group 627\"><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 3.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_8\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 3.25a.25.25 0 0 0 0-.5\"></path></g><path id=\"Vector_9\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 10.5v3\"></path><path id=\"Vector_10\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2 13.5h10\"></path><path id=\"Vector_11\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 3H11\"></path><path id=\"Vector_12\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 8H11\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M.5,10.5v1a2,2,0,0,0,2,2h9a2,2,0,0,0,2-2v-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"4 6 7 9.5 10 6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"9.5\" x2=\"7\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,download,button,arrow,bottom,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-1--server-network-internet\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5.407a1.5 1.5 0 0 0-1.5 1.5v2.925a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5V1.907a1.5 1.5 0 0 0-1.5-1.5h-11ZM0 9.168a1.5 1.5 0 0 1 1.5-1.5h11a1.5 1.5 0 0 1 1.5 1.5v2.925a1.5 1.5 0 0 1-1.5 1.5h-11a1.5 1.5 0 0 1-1.5-1.5V9.168Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M3.171 2.245a1.125 1.125 0 1 0 0 2.25 1.125 1.125 0 0 0 0-2.25ZM2.046 10.63a1.125 1.125 0 1 1 2.25 0 1.125 1.125 0 0 1-2.25 0Zm4.829-7.26c0-.346.28-.625.625-.625H11a.625.625 0 1 1 0 1.25H7.5a.625.625 0 0 1-.625-.625Zm.625 6.635a.625.625 0 0 0 0 1.25H11a.625.625 0 1 0 0-1.25H7.5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"4 7 7 10.5 10 7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"10.5\" x2=\"7\" y2=\"3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"interface,download,circle,arrow,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-2--server-network-internet\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.75 10.237a.75.75 0 0 0-1.5 0v2.25H2a.75.75 0 0 0 0 1.5h10a.75.75 0 0 0 0-1.5H7.75v-2.25Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5 0A1.5 1.5 0 0 0 0 1.5V3a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 3V1.5A1.5 1.5 0 0 0 12.5 0h-11Zm0 6A1.5 1.5 0 0 0 0 7.5V9a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 14 9V7.5A1.5 1.5 0 0 0 12.5 6h-11Z\" clip-rule=\"evenodd\"></path><path id=\"Union_3\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M2.75 3a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm4.456-.75c0-.345.28-.625.625-.625H11a.625.625 0 1 1 0 1.25H7.83a.625.625 0 0 1-.624-.625ZM2.75 9a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm5.08-1.375a.625.625 0 1 0 0 1.25H11a.625.625 0 1 0 0-1.25H7.83Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M1.91,9.5.61,12.05a1,1,0,0,0,0,1,1,1,0,0,0,.87.47h11a1,1,0,0,0,.87-.47,1,1,0,0,0,0-1L12.09,9.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"5 4.5 7 6.5 9 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"6.5\" x2=\"7\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M2.5,4.63A1,1,0,0,0,2,5.5v4H12v-4a1,1,0,0,0-.5-.87\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,download,laptop,arrow,computer,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-1--server-network-internet\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 1h-11a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 4.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 4H11\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 7a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V8a1 1 0 0 0-1-1\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 10.5a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 10H11\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><polyline points=\"4 7 7 10.5 10 7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"10.5\" x2=\"7\" y2=\"3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,download,square,arrow,down,internet,network,server,upload",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-2--server-network-internet\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5.5h-11a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 3H11\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 5.5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1\"></path><g id=\"Group 623\"><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 8.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 8.25a.25.25 0 0 0 0-.5\"></path></g><g id=\"Group 627\"><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 3.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.25 3.25a.25.25 0 0 0 0-.5\"></path></g><path id=\"Vector_8\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.5 8H11\"></path><path id=\"Vector_9\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 10.5v3\"></path><path id=\"Vector_10\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2 13.5h10\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M3.5,13.5h-2a1,1,0,0,1-1-1v-8h13v8a1,1,0,0,1-1,1h-2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"4.5 10 7 7.5 9.5 10\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"7.5\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M11.29,1A1,1,0,0,0,10.45.5H3.55A1,1,0,0,0,2.71,1L.5,4.5h13Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"0.5\" x2=\"7\" y2=\"4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,upload,box,arrow,download,internet,network,server,up",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-1--server-network-internet\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5.407a1.5 1.5 0 0 0-1.5 1.5v2.925a1.5 1.5 0 0 0 1.5 1.5h11a1.5 1.5 0 0 0 1.5-1.5V1.907a1.5 1.5 0 0 0-1.5-1.5h-11ZM0 9.168a1.5 1.5 0 0 1 1.5-1.5h11a1.5 1.5 0 0 1 1.5 1.5v2.925a1.5 1.5 0 0 1-1.5 1.5h-11a1.5 1.5 0 0 1-1.5-1.5V9.168ZM2.046 3.37a1.125 1.125 0 1 1 2.25 0 1.125 1.125 0 0 1-2.25 0Zm0 7.261a1.125 1.125 0 1 1 2.25 0 1.125 1.125 0 0 1-2.25 0Zm4.829-7.26c0-.346.28-.626.625-.626H11a.625.625 0 1 1 0 1.25H7.5a.625.625 0 0 1-.625-.625Zm.625 6.635a.625.625 0 1 0 0 1.25H11a.625.625 0 1 0 0-1.25H7.5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,5h1a.5.5,0,0,1,.5.5V13a.5.5,0,0,1-.5.5h-9A.5.5,0,0,1,2,13V5.5A.5.5,0,0,1,2.5,5h1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7\" y1=\"7.5\" x2=\"7\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5 2.5 7 0.5 9 2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,upload,button,arrow,download,internet,network,server,up",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"4 7 7 3.5 10 7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"3.5\" x2=\"7\" y2=\"10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"interface,upload,circle,arrow,download,internet,network,server,up",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M1.91,9.5.61,12.05a1,1,0,0,0,0,1,1,1,0,0,0,.87.47h11a1,1,0,0,0,.87-.47,1,1,0,0,0,0-1L12.09,9.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"5 2.5 7 0.5 9 2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"0.5\" x2=\"7\" y2=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M3,4.5a1,1,0,0,0-1,1v4H12v-4a1,1,0,0,0-1-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"interface,upload,laptop,arrow,computer,download,internet,network,server,up",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><polyline points=\"4 7 7 3.5 10 7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"7\" y1=\"3.5\" x2=\"7\" y2=\"10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,upload,square,arrow,download,internet,network,server,up",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"0.5 10.5 10.5 0.5 6 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"13.5 3.5 3.5 13.5 8 13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,arrows,data,transfer,diagonal,arrow,server,internet,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"2.5 3.5 5.5 0.5 5.5 13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"11.5 10.5 8.5 13.5 8.5 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,arrows,data,trasnfer,vertical,arrow,server,internet,transfer,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"1.5\" y1=\"8.5\" x2=\"9.5\" y2=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"9.5 4 9.5 0.5 9.5 0.5 6 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"12.5\" y1=\"5.5\" x2=\"4.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"4.5 10 4.5 13.5 4.5 13.5 8 13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"interface,arrows,diagonal,arrow,server,data,internet,transfer,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"0.5\" y1=\"7\" x2=\"13.5\" y2=\"7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M9.5,7A11.22,11.22,0,0,1,7,13.5,11.22,11.22,0,0,1,4.5,7,11.22,11.22,0,0,1,7,.5,11.22,11.22,0,0,1,9.5,7Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"programming,web,server,world,internet,earth,www,globe,worldwide,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M10.5,11A3,3,0,1,0,8.35,5.91,4,4,0,1,0,4.5,11Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"programming,cloud,internet,server,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,8.5A3,3,0,1,0,8.35,3.41,4,4,0,1,0,4.5,8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"10\" y1=\"11\" x2=\"5\" y2=\"11\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7.5\" y1=\"8.5\" x2=\"7.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"programming,cloud,add,network,internet,server,plus",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M12,8.1A3,3,0,1,0,8.35,3.41,4,4,0,1,0,1.38,7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"3.5 9.5 5.5 7.5 5.5 13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"10.5 11.5 8.5 13.5 8.5 7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"programming,cloud,data,transfer,internet,server,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,8.5A3,3,0,1,0,8.35,3.41,4,4,0,1,0,4.5,8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7.5\" y1=\"13.5\" x2=\"7.5\" y2=\"7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5.5 11.5 7.5 13.5 9.5 11.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"programming,cloud,download,down,internet,network,server,arrow",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M2.17,3.17A4.08,4.08,0,0,1,8.35,5.41a3,3,0,1,1,2.24,5.09l-1,.05\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M.75,5.1A4,4,0,0,0,.5,6.5a4,4,0,0,0,4,4H6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"1.5\" x2=\"11.5\" y2=\"12.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"programming,cloud,off,network,internet,disable,server",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,8.5A3,3,0,1,0,8.35,3.41,4,4,0,1,0,4.5,8.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"10\" y1=\"11.5\" x2=\"5\" y2=\"11.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"programming,cloud,remove,network,internet,subtract,minus,server",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"6.5\" y1=\"7.5\" x2=\"6.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"4.5 9.5 6.5 7.5 8.5 9.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><path d=\"M12,8.1A3,3,0,1,0,8.35,3.41,4,4,0,0,0,.5,4.5,4,4,0,0,0,1.38,7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"programming,cloud,upload,server,internet,up,arrow,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M10.5,13.5A3,3,0,1,0,8.35,8.41,4,4,0,1,0,4.5,13.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M10.48,1.2a9,9,0,0,0-7,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M9.18,3.36a6.78,6.78,0,0,0-4.36,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"programming,cloud,wifi,internet,server,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"1\" width=\"13\" height=\"6\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><circle cx=\"3.5\" cy=\"4\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7.5\" y1=\"4\" x2=\"11\" y2=\"4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M1.5,7a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1h11a1,1,0,0,0,1-1V8a1,1,0,0,0-1-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><circle cx=\"3.5\" cy=\"10\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7.5\" y1=\"10\" x2=\"11\" y2=\"10\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,database,server,network,internet",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M3.25,2.25A.75.75,0,1,0,4,3a.76.76,0,0,0-.75-.75Z\" style=\"fill: #000001\"></path><line x1=\"6\" y1=\"3\" x2=\"8\" y2=\"3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M1.5,5.5a1,1,0,0,0-1,1v3a1,1,0,0,0,1,1h11a1,1,0,0,0,1-1v-3a1,1,0,0,0-1-1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M3.25,7.25A.75.75,0,1,0,4,8a.76.76,0,0,0-.75-.75Z\" style=\"fill: #000001\"></path><line x1=\"6\" y1=\"8\" x2=\"8\" y2=\"8\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7\" y1=\"10.5\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"2\" y1=\"13.5\" x2=\"12\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,database,server,network,internet",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"3\" width=\"13\" height=\"6\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><circle cx=\"3.5\" cy=\"6\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"6.5\" y1=\"6\" x2=\"8.5\" y2=\"6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"7\" y1=\"9\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"2\" y1=\"13.5\" x2=\"12\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,database,server,network,internet",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><polyline points=\"3.25 9.5 10.75 4 6.75 0.5 6.75 13.5 10.75 10 3.25 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></svg>",
-		"computer,connection,bluetooth,internet,server,network,wireless",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"7\" y1=\"10.5\" x2=\"7\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"2\" y1=\"13.5\" x2=\"12\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7\" cy=\"5.5\" r=\"5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"2\" y1=\"5.5\" x2=\"12\" y2=\"5.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M7,10.5C10,7.08,10,3.74,7,.5,4.06,3.62,4,6.94,7,10.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"computer,connection,network,server,internet,ethernet",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"3 9.5 0.5 7 3 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"11 9.5 13.5 7 11 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><circle cx=\"9\" cy=\"7\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"5\" cy=\"7\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"computer,connection,signal,loading,bracket,internet,angle,server,network,connecting",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"10.94\" r=\"1.31\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M4.53,8a3.49,3.49,0,0,1,5,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M2.36,6.31a6.55,6.55,0,0,1,9.29,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M.5,4.45a9.19,9.19,0,0,1,13,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"computer,connection,wifi,wireless,internet,server,network",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M3.39,10.61H1.94a1.45,1.45,0,0,1,0-2.89h2.3L5.72,6.24,1.66,3.74a1.45,1.45,0,0,1-.52-1.91,1.47,1.47,0,0,1,2-.77L8.44,3.51,11,.92A1.45,1.45,0,0,1,13.08,3L10.49,5.56l2.45,5.35a1.46,1.46,0,0,1-.77,1.95,1.45,1.45,0,0,1-1.91-.52L7.76,8.28,6.28,9.76v2.3a1.45,1.45,0,0,1-2.89,0Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"phone,mode,airplane,server,plane,disable,wireless,internet,network",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"database-server-2--server-network-internet\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M0 1.5A1.5 1.5 0 0 1 1.5 0h11A1.5 1.5 0 0 1 14 1.5V3a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 0 3V1.5Zm0 6A1.5 1.5 0 0 1 1.5 6h11A1.5 1.5 0 0 1 14 7.5V9a1.5 1.5 0 0 1-1.5 1.5H7.75v1.987H12a.75.75 0 0 1 0 1.5H2a.75.75 0 0 1 0-1.5h4.25V10.5H1.5A1.5 1.5 0 0 1 0 9V7.5Zm3.5-5.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm4.33-.625a.625.625 0 1 0 0 1.25H11a.625.625 0 1 0 0-1.25H7.83ZM3.5 8.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm3.706 0c0-.345.28-.625.625-.625H11a.625.625 0 1 1 0 1.25H7.83a.625.625 0 0 1-.624-.625Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"database,server",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g opacity=\"0.5\"><path d=\"M6 13H18C19.8856 13 20.8284 13 21.4142 13.5858C22 14.1716 22 15.1144 22 17C22 18.8856 22 19.8284 21.4142 20.4142C20.8284 21 19.8856 21 18 21H6C4.11438 21 3.17157 21 2.58579 20.4142C2 19.8284 2 18.8856 2 17C2 15.1144 2 14.1716 2.58579 13.5858C3.17157 13 4.11438 13 6 13Z\" fill=\"black\"></path><path d=\"M6 3H18C19.8856 3 20.8284 3 21.4142 3.58579C22 4.17157 22 5.11438 22 7C22 8.88562 22 9.82843 21.4142 10.4142C20.8284 11 19.8856 11 18 11H6C4.11438 11 3.17157 11 2.58579 10.4142C2 9.82843 2 8.88562 2 7C2 5.11438 2 4.17157 2.58579 3.58579C3.17157 3 4.11438 3 6 3Z\" fill=\"black\"></path></g><path d=\"M12.75 7C12.75 6.58579 13.0858 6.25 13.5 6.25H18C18.4142 6.25 18.75 6.58579 18.75 7C18.75 7.41421 18.4142 7.75 18 7.75H13.5C13.0858 7.75 12.75 7.41421 12.75 7Z\" fill=\"black\"></path><path d=\"M6 8.75C5.58579 8.75 5.25 8.41421 5.25 8V6C5.25 5.58579 5.58579 5.25 6 5.25C6.41421 5.25 6.75 5.58579 6.75 6V8C6.75 8.41421 6.41421 8.75 6 8.75Z\" fill=\"black\"></path><path d=\"M9 8.75C8.58579 8.75 8.25 8.41421 8.25 8V6C8.25 5.58579 8.58579 5.25 9 5.25C9.41421 5.25 9.75 5.58579 9.75 6V8C9.75 8.41421 9.41421 8.75 9 8.75Z\" fill=\"black\"></path><path d=\"M12.75 17C12.75 16.5858 13.0858 16.25 13.5 16.25H18C18.4142 16.25 18.75 16.5858 18.75 17C18.75 17.4142 18.4142 17.75 18 17.75H13.5C13.0858 17.75 12.75 17.4142 12.75 17Z\" fill=\"black\"></path><path d=\"M6 18.75C5.58579 18.75 5.25 18.4142 5.25 18V16C5.25 15.5858 5.58579 15.25 6 15.25C6.41421 15.25 6.75 15.5858 6.75 16V18C6.75 18.4142 6.41421 18.75 6 18.75Z\" fill=\"black\"></path><path d=\"M9 18.75C8.58579 18.75 8.25 18.4142 8.25 18V16C8.25 15.5858 8.58579 15.25 9 15.25C9.41421 15.25 9.75 15.5858 9.75 16V18C9.75 18.4142 9.41421 18.75 9 18.75Z\" fill=\"black\"></path></svg>",

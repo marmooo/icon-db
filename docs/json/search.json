@@ -15,6 +15,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.b{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"b\" d=\"m39.0788,35.9575l1.6094,1.5985c3.1127-3.8321,4.8118-8.6187,4.8118-13.556h0c0-11.8741-9.626-21.5-21.5-21.5S2.5,12.126,2.5,24s9.626,21.5,21.5,21.5c4.8313,0,9.5218-1.6272,13.3152-4.6192l-6.4795-6.4781c-.8988.5933-1.8739,1.0712-2.8981,1.4112-3.1468,1.0543-6.7123.7887-9.6516-.7573-3.3297-1.6876-5.7892-4.9665-6.4895-8.6306-.7592-3.6779.2887-7.6717,2.7495-10.5063,2.013-2.3945,4.9705-3.9236,8.0681-4.2931h0c.1458-.008.2917-.0161.4375-.024,4.8101-.4637,9.7059,2.2508,11.9323,6.5271,1.9117,3.4955,1.9367,7.9041.1445,11.4487-.2643.5323-.5683,1.0435-.9074,1.5298l4.8578,4.8494Z\"></path></svg>",
+		"petal,search",
+		"Arcticons"
+	],
+	[
 		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.d{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><g id=\"c\"><circle class=\"d\" cx=\"17.808\" cy=\"17.8044\" r=\"13.041\"></circle><rect class=\"d\" x=\"33.1121\" y=\"28.3765\" width=\"4.5606\" height=\"13.7947\" transform=\"translate(-14.5762 35.3576) rotate(-45)\"></rect><line class=\"d\" x1=\"30.3863\" y1=\"27.0471\" x2=\"27.1637\" y2=\"30.2697\"></line></g></svg>",
 		"pixel,search",
 		"Arcticons"
@@ -40,7 +45,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" stroke-width=\"12\" d=\"m170 170-28-28m-31.4 13.683a67.991 67.991 0 0 0 30.483-17.6 67.991 67.991 0 0 0 17.6-65.683 68.001 68.001 0 0 0-131.366 0m0 35.2A68.001 68.001 0 0 0 75.4 155.683\"></path><circle cx=\"60\" cy=\"90\" r=\"5\"></circle><circle cx=\"92\" cy=\"90\" r=\"5\"></circle><circle cx=\"124\" cy=\"90\" r=\"5\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" stroke-width=\"12\" d=\"m170 170-28-28m-31.4 13.683A67.991 67.991 0 0 0 158.683 72.4a68.001 68.001 0 0 0-131.366 0m0 35.2A68.001 68.001 0 0 0 75.4 155.683\"></path><circle cx=\"60\" cy=\"90\" r=\"5\"></circle><circle cx=\"92\" cy=\"90\" r=\"5\"></circle><circle cx=\"124\" cy=\"90\" r=\"5\"></circle></svg>",
 		"search,by,image",
 		"Lawnicons"
 	],
@@ -415,17 +420,17 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search-heart-fill\" viewBox=\"0 0 16 16\"><path d=\"M6.5 13a6.474 6.474 0 0 0 3.845-1.258h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.008 1.008 0 0 0-.115-.1A6.471 6.471 0 0 0 13 6.5 6.502 6.502 0 0 0 6.5 0a6.5 6.5 0 1 0 0 13Zm0-8.518c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.69 0-5.018Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search-heart-fill\" viewBox=\"0 0 16 16\"><path d=\"M6.5 13a6.474 6.474 0 0 0 3.845-1.258h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.008 1.008 0 0 0-.115-.1A6.471 6.471 0 0 0 13 6.5 6.502 6.502 0 0 0 6.5 0a6.5 6.5 0 1 0 0 13m0-8.518c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.69 0-5.018Z\"></path></svg>",
 		"search,heart,filled",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search-heart\" viewBox=\"0 0 16 16\"><path d=\"M6.5 4.482c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.69 0-5.018Z\"></path><path d=\"M13 6.5a6.471 6.471 0 0 1-1.258 3.844c.04.03.078.062.115.098l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1.007 1.007 0 0 1-.1-.115h.002A6.5 6.5 0 1 1 13 6.5ZM6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search-heart\" viewBox=\"0 0 16 16\"><path d=\"M6.5 4.482c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.69 0-5.018\"></path><path d=\"M13 6.5a6.471 6.471 0 0 1-1.258 3.844c.04.03.078.062.115.098l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1.007 1.007 0 0 1-.1-.115h.002A6.5 6.5 0 1 1 13 6.5M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11\"></path></svg>",
 		"search,heart",
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search\" viewBox=\"0 0 16 16\"><path d=\"M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-search\" viewBox=\"0 0 16 16\"><path d=\"M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0\"></path></svg>",
 		"search",
 		"Bootstrap Icons"
 	],
@@ -490,12 +495,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM70-120q-12.75 0-21.375-8.675Q40-137.351 40-150.175 40-163 48.625-171.5T70-180h820q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.5T593-555q0-57-39-96t-96-39q-57 0-96 39t-39 96q0 57 39 96t96 39q22 0 41.5-7.5T538-446l85 85ZM458-470q-35 0-60-25t-25-60q0-35 25-60t60-25q35 0 60 25t25 60q0 35-25 60t-60 25ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,search,desktop,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM70-120q-12.75 0-21.375-8.675Q40-137.351 40-150.175 40-163 48.625-171.5T70-180h820q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T890-120H70Zm70-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m623-361 32-32-88-88q11-17 18.5-35.356T593-555q0-57-39-96t-96-39q-57 0-96 39.075-39 39.076-39 96Q323-498 362-459t96 39q22.086 0 41.543-7.5T537.72-446L623-361ZM458.044-470Q423-470 398-494.956q-25-24.955-25-60Q373-590 397.969-615T458-640q35 0 60 24.956 25 24.955 25 60Q543-520 518.044-495q-24.955 25-60 25ZM140-240q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480ZM40-120v-60h880v60H40Z\"></path></svg>",
 		"outline,screen,search,desktop",
 		"Material Symbols"
 	],
@@ -3050,7 +3055,7 @@
 		"akar-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"m795.904 750.72 124.992 124.928a32 32 0 0 1-45.248 45.248L750.656 795.904a416 416 0 1 1 45.248-45.248zM480 832a352 352 0 1 0 0-704 352 352 0 0 0 0 704z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"m795.904 750.72 124.992 124.928a32 32 0 0 1-45.248 45.248L750.656 795.904a416 416 0 1 1 45.248-45.248zM480 832a352 352 0 1 0 0-704 352 352 0 0 0 0 704\"></path></svg>",
 		"search",
 		"Element Plus Icons"
 	],
@@ -3605,29 +3610,124 @@
 		"Streamline Guidance"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"5.92\" cy=\"5.92\" r=\"5.42\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"13.5\" y1=\"13.5\" x2=\"9.75\" y2=\"9.75\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"interface,search,glass,magnifying",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"heart-rate-search--health-medical-monitor-heart-rate-search\"><path id=\"Ellipse 650\" fill=\"#37d7ff\" d=\"M.5 6a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0-11 0\"></path><path id=\"Ellipse 651\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 6a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0-11 0\"></path><path id=\"Vector 1950\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.995 9.995 13 13\"></path><path id=\"Vector 2105\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.516 6.156h1.53l1.032-1.968 1.563 3.625 1.343-1.657h1.5\"></path></g></svg>",
+		"heart,rate,search",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><g><circle cx=\"6.5\" cy=\"6.5\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"10\" y1=\"10\" x2=\"8.27\" y2=\"8.27\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></g></svg>",
-		"interface,search,circle,glass,magnifying",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"medical-search-diagnosis\"><path id=\"vector\" fill=\"#37d7ff\" d=\"M6.478 12.207a5.729 5.729 0 1 0 0-11.457 5.729 5.729 0 0 0 0 11.457Z\"></path><path id=\"union\" fill=\"#ffffff\" d=\"M5.666 3.26a.5.5 0 0 0-.5.5v1.406H3.759a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.407a.5.5 0 0 0 .5.5H7.29a.5.5 0 0 0 .5-.5V7.79h1.406a.5.5 0 0 0 .5-.5V5.666a.5.5 0 0 0-.5-.5H7.791V3.76a.5.5 0 0 0-.5-.5H5.666Z\"></path><path id=\"vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.478 12.207a5.729 5.729 0 1 0 0-11.457 5.729 5.729 0 0 0 0 11.457Z\"></path><path id=\"vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.25 13.25-2.722-2.723\"></path><path id=\"union_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.666 3.26a.5.5 0 0 0-.5.5v1.406H3.759a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.407a.5.5 0 0 0 .5.5H7.29a.5.5 0 0 0 .5-.5V7.79h1.406a.5.5 0 0 0 .5-.5V5.666a.5.5 0 0 0-.5-.5H7.791V3.76a.5.5 0 0 0-.5-.5H5.666Z\"></path></g></svg>",
+		"medical,search,diagnosis",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><g><circle cx=\"6.5\" cy=\"6.5\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"10\" y1=\"10\" x2=\"8.27\" y2=\"8.27\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect></g></svg>",
-		"interface,search,square,glass,magnifying",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-visual\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 10.5v2a1 1 0 0 1-1 1h-2\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.5.5h2a1 1 0 0 1 1 1v2\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 3.5v-2a1 1 0 0 1 1-1h2\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 13.5h-2a1 1 0 0 1-1-1v-2\"></path><path id=\"Ellipse 1174\" fill=\"#ffffff\" d=\"M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0\"></path><path id=\"Ellipse 1175\" fill=\"#37d7ff\" d=\"M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0\"></path><path id=\"Ellipse 1176\" stroke=\"#3e3e3e\" d=\"M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0\"></path><path id=\"Vector 2507\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m8.5 8.5 2 2\"></path></g></svg>",
+		"search,visual",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M5.5,12.5h-4a1,1,0,0,1-1-1V1.5a1,1,0,0,1,1-1h11a1,1,0,0,1,1,1v5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"3.5\" x2=\"13.5\" y2=\"3.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"9.5\" cy=\"9.5\" r=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"11.27\" y1=\"11.27\" x2=\"13.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"programming,browser,search,window,glass,app,code,query,find,magnifying,apps",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-search--inbox-envelope-email-message-search\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M12.5 8.5a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 9.5H1.5a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 1.76 6.5 6l6-4.24\"></path><path id=\"Vector_4\" fill=\"#ffffff\" d=\"M9.987 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.987 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.487 13.5-1.73-1.73\"></path></g></svg>",
+		"mail,search",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"6.5\" cy=\"6.5\" r=\"6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"10.74\" y1=\"10.74\" x2=\"13.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"6.5\" y1=\"4\" x2=\"6.5\" y2=\"2.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M5,8c0,.75.67,1,1.5,1S8,9,8,8C8,6.5,5,6.5,5,5c0-1,.67-1,1.5-1S8,4.38,8,5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"6.5\" y1=\"9\" x2=\"6.5\" y2=\"10.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"money,cash,search,dollar,pay,product,currency,query,magnifying,business,glass",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"definition-search-book\"><path id=\"vector\" fill=\"#37d7ff\" d=\"M5.5.5h-5v10h12a1 1 0 0 0 1-1v-9h-5A1.5 1.5 0 0 0 7 2 1.5 1.5 0 0 0 5.5.5Z\"></path><path id=\"vector_2\" fill=\"#ffffff\" d=\"M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.5 13.5-1.73-1.73\"></path><path id=\"vector 2652\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 2v0A1.5 1.5 0 0 0 5.5.5h-5v10h5\"></path><path id=\"vector 2655\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 7.5v-7h-5A1.5 1.5 0 0 0 7 2\"></path><path id=\"vector 2656\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 2v4.5\"></path></g></svg>",
+		"definition,search,book",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m10.74 10.74 2.76 2.76\"></path><path id=\"Vector_4\" fill=\"#ffffff\" d=\"M3.5 6.099c0-.489.396-.885.885-.885h4.23c.489 0 .885.396.885.885v2.516a.884.884 0 0 1-.885.885h-4.23a.884.884 0 0 1-.885-.885V6.1Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 5.849c0-.489.396-.885.885-.885h4.23c.489 0 .885.396.885.885v2.516a.884.884 0 0 1-.885.885h-4.23a.884.884 0 0 1-.885-.885V5.85Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.214 4.76v-.51a1 1 0 0 1 1-1h.572a1 1 0 0 1 1 1v.51\"></path></g></svg>",
+		"search,dollar",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"heart-rate-search--health-medical-monitor-heart-rate-search\"><path id=\"Ellipse 650\" fill=\"#37d7ff\" d=\"M.75 6.25a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0-11 0\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 6.25a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0ZM6.25 0a6.25 6.25 0 1 0 3.656 11.32l2.387 2.387a1 1 0 0 0 1.414-1.414L11.32 9.906A6.25 6.25 0 0 0 6.25 0Z\" clip-rule=\"evenodd\"></path><path id=\"Vector 2105 (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M5.428 4.181c.228.01.432.142.534.346L6.998 6.61l.62-.663a.625.625 0 0 1 .457-.197h1.38a.625.625 0 1 1 0 1.25h-1.11L7.296 8.12a.625.625 0 0 1-1.015-.148l-.931-1.87-.36.595A.625.625 0 0 1 4.454 7H3.046a.625.625 0 1 1 0-1.25H4.1l.766-1.267a.625.625 0 0 1 .56-.302Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"heart,rate,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"medical-search-diagnosis\"><path id=\"Subtract\" fill=\"#37d7ff\" d=\"M1.5 6.25a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0Z\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 6.25a4.75 4.75 0 1 1 9.5 0 4.75 4.75 0 0 1-9.5 0ZM6.25 0a6.25 6.25 0 1 0 3.656 11.32l2.387 2.387a1 1 0 0 0 1.414-1.414L11.32 9.906A6.25 6.25 0 0 0 6.25 0Z\" clip-rule=\"evenodd\"></path><path id=\"union\" fill=\"#3e3e3e\" d=\"M5.438 3.031a.5.5 0 0 0-.5.5v1.406H3.53a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.406V8.97a.5.5 0 0 0 .5.5h1.625a.5.5 0 0 0 .5-.5V7.562H8.97a.5.5 0 0 0 .5-.5V5.437a.5.5 0 0 0-.5-.5H7.563V3.531a.5.5 0 0 0-.5-.5H5.438Z\"></path></g></svg>",
+		"medical,search,diagnosis",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-visual\"><path id=\"Ellipse 1174\" fill=\"#37d7ff\" d=\"M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0\"></path><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.573 1.573A.25.25 0 0 1 1.75 1.5h1.5a.75.75 0 0 0 0-1.5h-1.5A1.75 1.75 0 0 0 0 1.75v1.5a.75.75 0 0 0 1.5 0v-1.5a.25.25 0 0 1 .073-.177ZM14 10.75a.75.75 0 0 0-1.5 0v1.5a.25.25 0 0 1-.25.25h-1.5a.75.75 0 0 0 0 1.5h1.5A1.75 1.75 0 0 0 14 12.25v-1.5ZM.75 10a.75.75 0 0 1 .75.75v1.5a.25.25 0 0 0 .25.25h1.5a.75.75 0 0 1 0 1.5h-1.5A1.75 1.75 0 0 1 0 12.25v-1.5A.75.75 0 0 1 .75 10Zm10-10a.75.75 0 0 0 0 1.5h1.5a.25.25 0 0 1 .25.25v1.5a.75.75 0 0 0 1.5 0v-1.5A1.75 1.75 0 0 0 12.25 0h-1.5Z\" clip-rule=\"evenodd\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M4 6.25a2.25 2.25 0 1 1 4.5 0 2.25 2.25 0 0 1-4.5 0ZM6.25 2.5a3.75 3.75 0 1 0 2.068 6.879L9.97 11.03a.75.75 0 1 0 1.06-1.06L9.38 8.318A3.75 3.75 0 0 0 6.25 2.5Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"search,visual",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-search--inbox-envelope-email-message-search\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.567 0h9.31c.858 0 1.553.695 1.553 1.552V6.22a4.501 4.501 0 0 0-6.89 3.091H1.566A1.552 1.552 0 0 1 .015 7.76V1.552C.015.695.709 0 1.567 0Z\" clip-rule=\"evenodd\"></path><path id=\"Intersect\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M12.43 1.63 6.222 4.732.015 1.629v1.398L5.943 5.99a.625.625 0 0 0 .559 0l5.928-2.964V1.629Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M8.237 10a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0Zm1.75-3.25a3.25 3.25 0 1 0 1.716 6.01l1.016 1.02a.75.75 0 0 0 1.062-1.06l-1.021-1.024A3.25 3.25 0 0 0 9.987 6.75Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"mail,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"definition-search-book\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M.5.125a.5.5 0 0 0-.5.5v10a.5.5 0 0 0 .5.5h4.756A4.492 4.492 0 0 1 5 9.625c0-1.271.527-2.42 1.375-3.238v-4.96A2 2 0 0 0 4.5.126h-4Zm7.125 1.303v4.105a4.5 4.5 0 0 1 6.347 3.584H14V.625a.5.5 0 0 0-.5-.5h-4a2 2 0 0 0-1.875 1.303Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M7.75 9.625a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0Zm1.75-3.25a3.25 3.25 0 1 0 1.706 6.017l1.263 1.263a.75.75 0 0 0 1.06-1.06l-1.262-1.264A3.25 3.25 0 0 0 9.5 6.375Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"definition,search,book",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass\"><path id=\"Union\" fill=\"#37d7ff\" d=\"M6.5 0a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z\"></path><path id=\"Union_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 6.5a5 5 0 1 1 10 0 5 5 0 0 1-10 0Zm5-6.5a6.5 6.5 0 1 0 3.835 11.749l1.958 1.958a1 1 0 0 0 1.414-1.414l-1.958-1.958A6.5 6.5 0 0 0 6.5 0Z\" clip-rule=\"evenodd\"></path><path id=\"Union_3\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.153 4.303a.316.316 0 0 0-.316.316v.498h1.326v-.498a.316.316 0 0 0-.317-.316h-.693Zm2.065.814v-.498A1.37 1.37 0 0 0 6.846 3.25h-.693a1.37 1.37 0 0 0-1.371 1.37v.497h-.46a.949.949 0 0 0-.948.948v2.24c0 .525.425.949.949.949h4.354a.95.95 0 0 0 .95-.948V6.065a.949.949 0 0 0-.95-.948h-.46Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"search,dollar",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"heart-rate-search--health-medical-monitor-heart-rate-search\"><path id=\"Ellipse 650\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 6a5.5 5.5 0 1 0 11 0 5.5 5.5 0 1 0-11 0\"></path><path id=\"Vector 1950\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.995 9.995 13 13\"></path><path id=\"Vector 2105\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.516 6.156h1.53l1.032-1.968 1.563 3.625 1.343-1.657h1.5\"></path></g></svg>",
+		"heart,rate,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"medical-search-diagnosis\"><path id=\"vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.478 12.207a5.729 5.729 0 1 0 0-11.457 5.729 5.729 0 0 0 0 11.457Z\"></path><path id=\"vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.25 13.25-2.722-2.723\"></path><path id=\"union\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.666 3.26a.5.5 0 0 0-.5.5v1.406H3.759a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.407v1.407a.5.5 0 0 0 .5.5H7.29a.5.5 0 0 0 .5-.5V7.79h1.406a.5.5 0 0 0 .5-.5V5.666a.5.5 0 0 0-.5-.5H7.791V3.76a.5.5 0 0 0-.5-.5H5.666Z\"></path></g></svg>",
+		"medical,search,diagnosis",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-visual\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 10.5v2a1 1 0 0 1-1 1h-2\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.5.5h2a1 1 0 0 1 1 1v2\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 3.5v-2a1 1 0 0 1 1-1h2\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 13.5h-2a1 1 0 0 1-1-1v-2\"></path><path id=\"Ellipse 1174\" stroke=\"#3e3e3e\" d=\"M3.25 6.25a3 3 0 1 0 6 0 3 3 0 1 0-6 0\"></path><path id=\"Vector 2507\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m8.5 8.5 2 2\"></path></g></svg>",
+		"search,visual",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-search--inbox-envelope-email-message-search\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 9.5H1.5a1 1 0 0 1-1-1v-7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v4\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 1.76 6.5 6l6-4.24\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.5 13.5-1.73-1.73\"></path></g></svg>",
+		"mail,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"definition-search-book\"><path id=\"vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10 12.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z\"></path><path id=\"vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.5 13.5-1.73-1.73\"></path><path id=\"vector 2652\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 2v0A1.5 1.5 0 0 0 5.5.5h-5v10h5\"></path><path id=\"vector 2656\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 2v4.5\"></path><path id=\"vector 2653\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 2v0A1.5 1.5 0 0 1 8.5.5h5v7\"></path></g></svg>",
+		"definition,search,book",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.5 12.5a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m10.74 10.74 2.76 2.76\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 5.849c0-.489.396-.885.885-.885h4.23c.489 0 .885.396.885.885v2.516a.884.884 0 0 1-.885.885h-4.23a.884.884 0 0 1-.885-.885V5.85Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.214 4.76v-.51a1 1 0 0 1 1-1h.572a1 1 0 0 1 1 1v.51\"></path></g></svg>",
+		"search,dollar",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"heart-rate-search--health-medical-monitor-heart-rate-search\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.25 1.5a4.75 4.75 0 1 0 0 9.5 4.75 4.75 0 0 0 0-9.5ZM0 6.25a6.25 6.25 0 1 1 11.32 3.656l2.387 2.387a1 1 0 1 1-1.414 1.414L9.906 11.32A6.25 6.25 0 0 1 0 6.25Zm5.962-1.723a.625.625 0 0 0-1.095-.044L4.101 5.75H3.046a.625.625 0 1 0 0 1.25h1.408a.625.625 0 0 0 .535-.302l.36-.596.93 1.87a.625.625 0 0 0 1.016.15L8.345 7h1.11a.625.625 0 1 0 0-1.25h-1.38a.625.625 0 0 0-.456.197l-.621.663-1.036-2.083Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"heart,rate,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"medical-search-diagnosis\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.25 1.5a4.75 4.75 0 1 0 0 9.5 4.75 4.75 0 0 0 0-9.5ZM0 6.25a6.25 6.25 0 1 1 11.32 3.656l2.387 2.387a1 1 0 0 1-1.414 1.414L9.906 11.32A6.25 6.25 0 0 1 0 6.25Zm5.438-3.22a.5.5 0 0 0-.5.5v1.406H3.53a.5.5 0 0 0-.5.5v1.625a.5.5 0 0 0 .5.5h1.406V8.97a.5.5 0 0 0 .5.5h1.625a.5.5 0 0 0 .5-.5V7.562H8.97a.5.5 0 0 0 .5-.5V5.437a.5.5 0 0 0-.5-.5H7.563V3.531a.5.5 0 0 0-.5-.5H5.438Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"medical,search,diagnosis",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-visual\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.75 1.5a.25.25 0 0 0-.25.25v1.5a.75.75 0 0 1-1.5 0v-1.5A1.75 1.75 0 0 1 1.75 0h1.5a.75.75 0 0 1 0 1.5h-1.5Zm11.5 8.5a.75.75 0 0 1 .75.75v1.5A1.75 1.75 0 0 1 12.25 14h-1.5a.75.75 0 0 1 0-1.5h1.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 .75-.75Zm-11.75.75a.75.75 0 0 0-1.5 0v1.5A1.75 1.75 0 0 0 1.75 14h1.5a.75.75 0 0 0 0-1.5h-1.5a.25.25 0 0 1-.25-.25v-1.5Zm8.5-10a.75.75 0 0 1 .75-.75h1.5A1.75 1.75 0 0 1 14 1.75v1.5a.75.75 0 0 1-1.5 0v-1.5a.25.25 0 0 0-.25-.25h-1.5A.75.75 0 0 1 10 .75ZM6.25 4a2.25 2.25 0 1 0 0 4.5 2.25 2.25 0 0 0 0-4.5ZM2.5 6.25a3.75 3.75 0 1 1 6.879 2.068L11.03 9.97a.75.75 0 1 1-1.06 1.06L8.318 9.38A3.75 3.75 0 0 1 2.5 6.25Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"search,visual",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-search--inbox-envelope-email-message-search\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.566 0h9.312c.857 0 1.552.695 1.552 1.552v.077L6.222 4.733.015 1.629v-.077C.015.695.709 0 1.566 0Zm4.936 5.99 5.928-2.963V6.22a4.501 4.501 0 0 0-6.89 3.091H1.565A1.552 1.552 0 0 1 .015 7.76V3.027L5.943 5.99a.625.625 0 0 0 .559 0Zm3.485 2.26a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5ZM6.737 10a3.25 3.25 0 1 1 6.023 1.696l1.021 1.024a.75.75 0 0 1-1.062 1.06l-1.016-1.02A3.25 3.25 0 0 1 6.737 10Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"mail,search",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"definition-search-book\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.5.125a.5.5 0 0 0-.5.5v10a.5.5 0 0 0 .5.5h4.756A4.492 4.492 0 0 1 5 9.625c0-1.271.527-2.42 1.375-3.238v-4.96A2 2 0 0 0 4.5.126h-4Zm7.125 1.303v4.105a4.5 4.5 0 0 1 6.347 3.584H14V.625a.5.5 0 0 0-.5-.5h-4a2 2 0 0 0-1.875 1.303ZM9.5 7.875a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5Zm-3.25 1.75a3.25 3.25 0 1 1 6.017 1.706l1.263 1.263a.75.75 0 0 1-1.06 1.061l-1.264-1.263A3.25 3.25 0 0 1 6.25 9.625Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"definition,search,book",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"search-dollar--search-pay-product-currency-query-magnifying-cash-business-money-glass\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.5 1.5a5 5 0 1 0 0 10 5 5 0 0 0 0-10ZM0 6.5a6.5 6.5 0 1 1 11.749 3.835l1.958 1.958a1 1 0 1 1-1.414 1.414l-1.958-1.958A6.5 6.5 0 0 1 0 6.5Zm5.837-1.88c0-.175.141-.317.316-.317h.693c.175 0 .317.142.317.316v.498H5.837v-.498Zm2.38 0v.497h.46a.95.95 0 0 1 .95.948v2.24a.949.949 0 0 1-.95.949H4.323a.949.949 0 0 1-.95-.948V6.065a.95.95 0 0 1 .95-.948h.459v-.498A1.37 1.37 0 0 1 6.153 3.25h.693a1.37 1.37 0 0 1 1.372 1.37Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"search,dollar",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M10.5371 21.6744C11.4657 22.1085 12.5343 22.1085 13.4629 21.6744C17.4467 19.8124 20 14.6055 20 10.1433C20 5.64588 16.4183 2 12 2C7.58172 2 4 5.64588 4 10.1433C4 14.6055 6.55332 19.8124 10.5371 21.6744Z\" fill=\"black\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 6.25C9.92893 6.25 8.25 7.92893 8.25 10C8.25 12.0711 9.92893 13.75 12 13.75C12.7651 13.75 13.4774 13.5203 14.0706 13.1268L14.9681 14.0293C15.2602 14.323 15.7351 14.3243 16.0288 14.0322C16.3225 13.7401 16.3238 13.2652 16.0317 12.9715L15.1304 12.0653C15.5217 11.4731 15.75 10.7628 15.75 10C15.75 7.92893 14.0711 6.25 12 6.25ZM12 7.75C10.7574 7.75 9.75 8.75736 9.75 10C9.75 11.2426 10.7574 12.25 12 12.25C12.6229 12.25 13.1854 11.9979 13.5937 11.5883C14.0001 11.1806 14.25 10.6202 14.25 10C14.25 8.75736 13.2426 7.75 12 7.75Z\" fill=\"black\"></path></svg>",

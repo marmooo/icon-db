@@ -20,7 +20,12 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M148.326 41.649c10.349 10.46 17.397 23.785 20.252 38.293a75.532 75.532 0 0 1-4.211 43.211c-5.601 13.665-15.086 25.346-27.255 33.564A73.443 73.443 0 0 1 96 169.321a73.445 73.445 0 0 1-41.112-12.604c-12.17-8.218-21.654-19.899-27.255-33.564a75.53 75.53 0 0 1-4.211-43.211c2.855-14.508 9.903-27.834 20.252-38.293M96 22v71.94\"></path></svg>",
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"c\" cx=\"24\" cy=\"24\" r=\"21.5\"></circle><polyline class=\"c\" points=\"8.9159 41.1776 30.9533 38.7103 21.8131 33.8318 45.5 30.6916\"></polyline><path class=\"c\" d=\"m16.5701,24.5794c1.2336-4.2056,2.4953-6.5888,4.7664-6.5888,2.4673,0,2.8879,2.1589,4.7103,2.1589s2.9439-5.3271,2.9439-5.3271\"></path><path class=\"c\" d=\"m33,28.0561c-4.9065-1.2897-10.8224-4.9065-10.8224-4.9065-.6449,2.6636-1.3738,7.5421-4.8224,7.5421-2.972,0-4.2056-2.215-4.2056-2.215\"></path><path class=\"c\" d=\"m22.9907,10.3505c1.2891,0,2.3341,1.045,2.3341,2.3341s-1.045,2.3341-2.3341,2.3341-2.3341-1.045-2.3341-2.3341v-2.3341h2.3341Z\"></path></svg>",
+		"power,marathon",
+		"Arcticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M148.326 41.649c10.349 10.46 17.397 23.785 20.252 38.293a75.532 75.532 0 0 1-4.211 43.211c-5.601 13.665-15.086 25.346-27.255 33.564a73.445 73.445 0 0 1-82.224 0c-12.17-8.218-21.654-19.899-27.255-33.564a75.53 75.53 0 0 1-4.211-43.211c2.855-14.508 9.903-27.834 20.252-38.293M96 22v71.94\"></path></svg>",
 		"power",
 		"Lawnicons"
 	],
@@ -160,7 +165,7 @@
 		"Atlas icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-power\" viewBox=\"0 0 16 16\"><path d=\"M7.5 1v7h1V1h-1z\"></path><path d=\"M3 8.812a4.999 4.999 0 0 1 2.578-4.375l-.485-.874A6 6 0 1 0 11 3.616l-.501.865A5 5 0 1 1 3 8.812z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-power\" viewBox=\"0 0 16 16\"><path d=\"M7.5 1v7h1V1z\"></path><path d=\"M3 8.812a4.999 4.999 0 0 1 2.578-4.375l-.485-.874A6 6 0 1 0 11 3.616l-.501.865A5 5 0 1 1 3 8.812\"></path></svg>",
 		"power",
 		"Bootstrap Icons"
 	],
@@ -385,12 +390,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M260-570h200q8 0 14-6t6-14q0-8-6-14t-14-6H260q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-100h200q8 0 14-6t6-14q0-8-6-14t-14-6H260q-8 0-14 6t-6 14q0 8 6 14t14 6Zm420 150v-240h60q24.75 0 42.375 17.625T800-700v30h90q12.75 0 21.375 8.625T920-640q0 12-8.625 21T890-610h-90v30q0 24.75-17.625 42.375T740-520h-60ZM480-340H260v-100h-20q-66 0-113-47T80-600v-80q0-66 47-113t113-47h340q24.75 0 42.375 17.625T640-780v280q0 24.75-17.625 42.375T580-440H480v100ZM225-120q-18.75 0-31.875-13.125T180-165v-90q0-18.75 13.125-31.875T225-300h290q18.75 0 31.875 13.125T560-255v90q0 18.75-13.125 31.875T515-120H225Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M240-570h240v-40H240v40Zm0-100h240v-40H240v40Zm440 150v-240h90l30 30v60h120v60H800v60l-30 30h-90ZM260-340v-100h-20q-66 0-113-47T80-600v-80q0-66 47-113t113-47h400v400H480v100H260Zm-80 220v-180h380v180H180Z\"></path></svg>",
 		"sharp,tools,power,drill,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M240-180h260v-70H240v70Zm20-390h200q8 0 14-6t6-14q0-8-6-14t-14-6H260q-8 0-14 6t-6 14q0 8 6 14t14 6Zm0-100h200q8 0 14-6t6-14q0-8-6-14t-14-6H260q-8 0-14 6t-6 14q0 8 6 14t14 6Zm380 150v-60h100v-120H640v-60h100q24.75 0 42.375 17.625T800-700v30h90q12.75 0 21.375 8.625T920-640q0 12-8.625 21T890-610h-90v30q0 24.75-17.625 42.375T740-520H640ZM480-310h-60v-190h160v-280H240q-42 0-71 29t-29 71v80q0 42 29 71t71 29h80v190h-60v-130h-20q-66 0-113-47T80-600v-80q0-66 47-113t113-47h340q24.75 0 42.375 17.625T640-780v280q0 24.75-17.625 42.375T580-440H480v130ZM225-120q-18.75 0-31.875-13.125T180-165v-100q0-18.75 13.125-31.875T225-310h290q18.75 0 31.875 13.125T560-265v100q0 18.75-13.125 31.875T515-120H225Zm135-520Zm140 460H240h260Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M240-180h260v-70H240v70Zm0-390h240v-40H240v40Zm0-100h240v-40H240v40Zm400 150v-60h100v-120H640v-60h130l30 30v60h120v60H800v60l-30 30H640ZM480-310h-60v-190h160v-280H240q-42 0-71 29t-29 71v80q0 42 29 71t71 29h80v190h-60v-130h-20q-66 0-113-47T80-600v-80q0-66 47-113t113-47h400v400H480v130ZM180-120v-190h380v190H180Zm180-520Zm140 460H240h260Z\"></path></svg>",
 		"sharp,tools,power,drill",
 		"Material Symbols"
 	],
@@ -1025,7 +1030,7 @@
 		"Pixelarticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M160 64q32 0 32 32v832q0 32-32 32t-32-32V96q0-32 32-32zm416 354.624 128-11.584V168.96l-128-11.52v261.12zm-64 5.824V151.552L320 134.08V160h-64V64l616.704 56.064A96 96 0 0 1 960 215.68v144.64a96 96 0 0 1-87.296 95.616L256 512V224h64v217.92l192-17.472zm256-23.232 98.88-8.96A32 32 0 0 0 896 360.32V215.68a32 32 0 0 0-29.12-31.872l-98.88-8.96v226.368z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M160 64q32 0 32 32v832q0 32-32 32t-32-32V96q0-32 32-32m416 354.624 128-11.584V168.96l-128-11.52v261.12zm-64 5.824V151.552L320 134.08V160h-64V64l616.704 56.064A96 96 0 0 1 960 215.68v144.64a96 96 0 0 1-87.296 95.616L256 512V224h64v217.92zm256-23.232 98.88-8.96A32 32 0 0 0 896 360.32V215.68a32 32 0 0 0-29.12-31.872l-98.88-8.96z\"></path></svg>",
 		"wind,power",
 		"Element Plus Icons"
 	],
@@ -1270,54 +1275,24 @@
 		"Circum Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"0.5\" width=\"13\" height=\"13\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><polyline points=\"5.5 3.5 3.5 3.5 3.5 5.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><line x1=\"3.5\" y1=\"3.5\" x2=\"7\" y2=\"7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M8.57,3.87a3.5,3.5,0,1,1-4.7,4.7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"computer,keyboard,power,off,button,on",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-power-1--power-button-on-off\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 .5v5.456\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.968 1.969a6.448 6.448 0 1 1-7.936 0\"></path></g></svg>",
+		"button,power",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"computer,battery,empty,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-power-1--power-button-on-off\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M8 1a1 1 0 0 0-2 0v5.077a1 1 0 1 0 2 0V1ZM3.923 3.059a1 1 0 0 0-1.23-1.577 7 7 0 1 0 8.615 0 1 1 0 0 0-1.231 1.577 5 5 0 1 1-6.154 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"button,power",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"6.25\" y1=\"5.5\" x2=\"6.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"9.25\" y1=\"5.5\" x2=\"9.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,full,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-power-1--power-button-on-off\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 .5V6\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M11 1.876a6.5 6.5 0 1 1-8 0\"></path></g></svg>",
+		"button,power",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,low,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,5.5A.5.5,0,0,0,13,5H12V4a1,1,0,0,0-1-1H1.5a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9h1a.5.5,0,0,0,.5-.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"3.25\" y1=\"5.5\" x2=\"3.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"6.25\" y1=\"5.5\" x2=\"6.25\" y2=\"8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,battery,medium,phone,mobile,charge,device,electricity,power",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M4.25.5,2,5.81a.5.5,0,0,0,.46.69H5.25l-2,7,8.59-8.14a.5.5,0,0,0-.34-.86H7.75l2-4Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"image,flash,power,connect,charge,electricity,lightning",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><polygon points=\"8 0.5 8 5.5 11.5 5.5 6 13.5 6 8.5 2.5 8.5 8 0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polygon></svg>",
-		"image,flash,power,connect,charge,electricity,lightning",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"0.5\" y1=\"0.5\" x2=\"13.5\" y2=\"13.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><polyline points=\"5.19 5.19 8.5 0.5 8.5 5 11.5 5 8.81 8.81\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><polyline points=\"7.15 11.16 5.5 13.5 5.5 9 2.5 9 3.91 7\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"image,flash,off,power,connect,charge,electricity,lightning",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><line x1=\"7\" y1=\"0.5\" x2=\"7\" y2=\"6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M11,1.88a6.5,6.5,0,1,1-8,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"entertainment,control,button,power,on,off",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"7\" cy=\"7\" r=\"6.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><line x1=\"7\" y1=\"4.5\" x2=\"7\" y2=\"9.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"entertainment,control,button,power,on,off",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-power-1--power-button-on-off\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M8 1a1 1 0 0 0-2 0v5.077a1 1 0 1 0 2 0V1ZM3.923 3.059a1 1 0 0 0-1.23-1.577 7 7 0 1 0 8.615 0 1 1 0 0 0-1.231 1.577 5 5 0 1 1-6.154 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"button,power",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M8.7919 5.14693C9.17345 4.98572 9.35208 4.54573 9.19087 4.16417C9.02966 3.78262 8.58966 3.60399 8.2081 3.7652C4.70832 5.24388 2.25 8.70906 2.25 12.7502C2.25 18.1349 6.61522 22.5002 12 22.5002C17.3848 22.5002 21.75 18.1349 21.75 12.7502C21.75 8.70906 19.2917 5.24388 15.7919 3.7652C15.4103 3.60399 14.9703 3.78262 14.8091 4.16417C14.6479 4.54573 14.8265 4.98572 15.2081 5.14693C18.1722 6.39928 20.25 9.33294 20.25 12.7502C20.25 17.3065 16.5563 21.0002 12 21.0002C7.44365 21.0002 3.75 17.3065 3.75 12.7502C3.75 9.33294 5.82779 6.39928 8.7919 5.14693Z\" fill=\"black\"></path><path d=\"M12.75 2.75C12.75 2.33579 12.4142 2 12 2C11.5858 2 11.25 2.33579 11.25 2.75V6.75C11.25 7.16421 11.5858 7.5 12 7.5C12.4142 7.5 12.75 7.16421 12.75 6.75V2.75Z\" fill=\"black\"></path></svg>",

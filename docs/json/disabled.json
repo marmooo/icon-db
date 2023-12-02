@@ -1170,9 +1170,104 @@
 		"Streamline Guidance"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"8\" cy=\"2.5\" r=\"2\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M8,4.5v4h3a1,1,0,0,1,1,1v4\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M5.5,6.5a3.5,3.5,0,1,0,3.22,4.88\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"travel,wayfinder,disability,person,access,wheelchair,accomodation,human,disabled,user",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.75 6.75 10.5 4 6.5.5v5.937\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.77 11.514 6.5 13.5V9.31\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3 9.5 1.875-1.375\"></path><path id=\"Vector 2439\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"wifi-disabled--wireless-wifi-internet-server-network-disabled-off-offline-connection\"><path id=\"Vector 2432\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector\" fill=\"#37d7ff\" d=\"M7 13.25a1.31 1.31 0 1 0 0-2.62 1.31 1.31 0 0 0 0 2.62Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.25a1.31 1.31 0 1 0 0-2.62 1.31 1.31 0 0 0 0 2.62Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.53 9a3.49 3.49 0 0 1 1.143-.78\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.36 7.31c.609-.612 1.257-.986 1.257-.986\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.55 5.543s.592-.165 1.455-.165A6.55 6.55 0 0 1 11.65 7.31\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.482 3.457A9.19 9.19 0 0 1 13.5 5.45\"></path><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 5.45c.36-.36.732-.657 1.176-.99\"></path></g></svg>",
+		"wifi,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M13.5 5a1 1 0 0 0-1-1h-2L9 2H5L3.5 4h-2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V5Z\"></path><path id=\"Ellipse 1037\" fill=\"#ffffff\" d=\"M4.75 7.5a2.25 2.25 0 1 0 4.5 0 2.25 2.25 0 1 0-4.5 0\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h8.219\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.679 5.679a2.25 2.25 0 0 1 3.143 3.143\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.714 3.714 5 2h4l1.5 2h2a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H12\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.778 7.145a2.25 2.25 0 0 0 2.577 2.577\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 13.5.5.5\"></path></g></svg>",
+		"camera,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off\"><path id=\"Ellipse 873\" fill=\"#37d7ff\" d=\"M1.563 6.043c0 3.64 3.614 6.405 4.95 7.303.297.2.677.2.975 0 1.335-.898 4.95-3.664 4.95-7.303C12.438 2.982 10.002.5 7 .5 3.997.5 1.562 2.982 1.562 6.043Z\"></path><path id=\"Ellipse 1114\" fill=\"#ffffff\" d=\"M5 5.5a2 2 0 1 0 4 0 2 2 0 1 0-4 0\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.503.502 12.995 12.996\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.45 7.45a2 2 0 1 0-2.4-2.4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.678 2.678A5.394 5.394 0 0 1 7 .5c3.003 0 5.438 2.482 5.438 5.543 0 1.752-.839 3.302-1.857 4.538\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.776 4.5a5.646 5.646 0 0 0-.214 1.543c0 3.64 3.615 6.405 4.95 7.303.298.2.678.2.976 0a15.889 15.889 0 0 0 1.758-1.376\"></path></g></svg>",
+		"location,pin,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"airplane-disabled--server-plane-airplane-disabled-off-wireless-mode-internet-network\"><path id=\"Vector 1960\" fill=\"#37d7ff\" d=\"m5.031 5-.19-1.298a2.966 2.966 0 0 1 .607-2.267 1.977 1.977 0 0 1 3.104 0c.505.64.725 1.46.607 2.267L8.969 5l3.833 1.944a.989.989 0 0 1-.665 1.846L8.5 7.97 8.281 10l1.9 1.61a.99.99 0 0 1-1.035 1.665L7 12.343l-2.146.93a.99.99 0 0 1-1.035-1.664L5.72 10 5.5 7.969l-3.637.821a.989.989 0 0 1-.665-1.846L5.03 5Z\"></path><path id=\"Vector 1961\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.146 13.274 7 12.344l-2.146.93a.99.99 0 0 1-1.035-1.665L5.72 10 5.5 7.969l-3.637.821a.989.989 0 0 1-.665-1.846l1.916-.972\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 13.5.5.5\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m5.031 5-.19-1.298a2.966 2.966 0 0 1 .607-2.267 1.977 1.977 0 0 1 3.104 0c.505.64.725 1.46.607 2.267L8.969 5l3.833 1.944a.989.989 0 0 1-.665 1.846L8.5 7.97l-.052.48\"></path></g></svg>",
+		"airplane,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector (Stroke)\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M6.216.16a.75.75 0 0 1 .804.12l3.789 3.315a.75.75 0 0 1-.05 1.169L7.709 7l3.05 2.237a.75.75 0 0 1 .05 1.17L7.02 13.72a.75.75 0 0 1-1.244-.564v-4.74L3.655 9.972a.75.75 0 1 1-.887-1.21L5.172 7 2.768 5.236a.75.75 0 0 1 .887-1.21l2.121 1.556V.843a.75.75 0 0 1 .44-.683Zm1.06 8.383 1.84 1.35-1.84 1.61v-2.96Zm0-3.087v-2.96l1.84 1.61-1.84 1.35Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 0 0 1.061-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"wifi-disabled--wireless-wifi-internet-server-network-disabled-off-offline-connection\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.347 6.073c3.096-3.096 8.151-3.096 11.247 0a.75.75 0 1 0 1.061-1.06C9.973 1.33 3.968 1.33.286 5.012a.75.75 0 0 0 1.06 1.06Zm1.906 1.683a5.27 5.27 0 0 1 7.435 0 .75.75 0 0 0 1.061-1.06c-2.632-2.633-6.924-2.633-9.557 0a.75.75 0 1 0 1.06 1.06Zm5.435 1.658a2.436 2.436 0 0 0-3.435 0 .75.75 0 0 1-1.06-1.06 3.936 3.936 0 0 1 5.556 0 .75.75 0 1 1-1.06 1.06ZM8.31 11.94a1.31 1.31 0 1 1-2.62 0 1.31 1.31 0 0 1 2.62 0Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 0 0 1.061-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"wifi,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M13.5 5a1 1 0 0 0-1-1h-2L9 2H5L3.5 4h-2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V5ZM7 9.75a2.266 2.266 0 1 0 0-4.531A2.266 2.266 0 0 0 7 9.75Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 1 0 1.06-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"camera,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.063 6.047C1.063 2.72 3.712.004 7 .004c3.288 0 5.938 2.715 5.938 6.043 0 1.988-.986 3.7-2.094 5.004-1.112 1.307-2.39 2.252-3.077 2.714a1.368 1.368 0 0 1-1.534 0c-.686-.462-1.965-1.407-3.077-2.714-1.108-1.303-2.094-3.016-2.094-5.004ZM9 5.502a2 2 0 0 1-2 2l-2-2a2 2 0 1 1 4 0Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.22.22a.75.75 0 0 1 1.06 0l12.5 12.5a.75.75 0 1 1-1.06 1.06L.22 1.28a.75.75 0 0 1 0-1.06Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"location,pin,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"airplane-disabled--server-plane-airplane-disabled-off-wireless-mode-internet-network\"><path id=\"Vector 1959\" fill=\"#37d7ff\" d=\"m4.886 4.83-.204-1.393a3.185 3.185 0 0 1 .651-2.435 2.123 2.123 0 0 1 3.334 0c.542.687.778 1.568.651 2.435L9.114 4.83l4.117 2.088a1.062 1.062 0 0 1-.714 1.982l-3.906-.88-.235 2.18 2.04 1.729a1.064 1.064 0 0 1-1.111 1.788l-2.305-1-2.305 1a1.064 1.064 0 0 1-1.111-1.788l2.04-1.729-.234-2.18-3.906.882A1.062 1.062 0 0 1 .77 6.92l4.116-2.09Z\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 0 0 1.061-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"airplane,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.75 6.75 10.5 4 6.5.5v5.937\"></path><path id=\"Vector 2439\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3 9.5 1.875-1.375\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.77 11.514 6.5 13.5V9.31\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"wifi-disabled--wireless-wifi-internet-server-network-disabled-off-offline-connection\"><path id=\"Vector 2432\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.25a1.31 1.31 0 1 0 0-2.62 1.31 1.31 0 0 0 0 2.62Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.53 9a3.49 3.49 0 0 1 1.143-.78\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.36 7.31c.609-.612 1.257-.986 1.257-.986\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.55 5.543s.592-.165 1.455-.165A6.55 6.55 0 0 1 11.65 7.31\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.482 3.457A9.19 9.19 0 0 1 13.5 5.45\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 5.45c.36-.36.732-.657 1.176-.99\"></path></g></svg>",
+		"wifi,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.5 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h8.219\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.679 5.679a2.25 2.25 0 0 1 3.143 3.143\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.714 3.714 5 2h4l1.5 2h2a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H12\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.778 7.145a2.25 2.25 0 0 0 2.577 2.577\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 13.5.5.5\"></path></g></svg>",
+		"camera,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.503.502 12.995 12.996\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7.45 7.45a2 2 0 1 0-2.4-2.4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.678 2.678A5.394 5.394 0 0 1 7 .5c3.003 0 5.438 2.482 5.438 5.543 0 1.752-.838 3.302-1.857 4.538\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1.776 4.5a5.646 5.646 0 0 0-.214 1.543c0 3.64 3.615 6.405 4.95 7.303.298.2.678.2.976 0a15.889 15.889 0 0 0 1.758-1.376\"></path></g></svg>",
+		"location,pin,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"airplane-disabled--server-plane-airplane-disabled-off-wireless-mode-internet-network\"><path id=\"Vector 1960\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.146 13.274 7 12.345l-2.146.93a.99.99 0 0 1-1.035-1.664L5.72 10 5.5 7.97l-3.637.821a.989.989 0 0 1-.665-1.846l1.916-.972\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 13.5.5.5\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m5.031 5-.19-1.298a2.966 2.966 0 0 1 .607-2.268 1.977 1.977 0 0 1 3.104 0c.505.64.725 1.46.607 2.268L8.969 5l3.833 1.944a.989.989 0 0 1-.665 1.846L8.5 7.969l-.052.48\"></path></g></svg>",
+		"airplane,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06l.178.179c.018.014.035.03.051.046l12.328 12.328a.75.75 0 0 0 1.005-1.112L11.05 9.99a.752.752 0 0 0-.292-.754l-1.731-1.27L7.91 6.851l2.847-2.088a.75.75 0 0 0 .05-1.17L7.02.28a.75.75 0 0 0-1.244.564v3.873L1.28.219a.75.75 0 0 0-1.061 0Zm8.869 11.692-1.063-1.063-.749.655v-1.404l-1.5-1.5v4.557a.75.75 0 0 0 1.244.564l2.068-1.81ZM5.67 8.494 4.597 7.42l-1.83 1.341a.75.75 0 1 0 .888 1.21L5.67 8.494Zm1.605-3.038v-2.96l1.84 1.61-1.84 1.35Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"wifi-disabled--wireless-wifi-internet-server-network-disabled-off-offline-connection\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06l.178.179c.018.014.035.03.051.046l12.328 12.328a.75.75 0 0 0 1.005-1.112L7.289 6.228a5.422 5.422 0 0 1 3.56 1.592.75.75 0 0 0 1.065-1.057 6.922 6.922 0 0 0-6.02-1.955l-.021.004-.819-.818a7.91 7.91 0 0 1 7.54 2.075.75.75 0 0 0 1.061-1.06 9.41 9.41 0 0 0-9.802-2.217L1.28.22a.75.75 0 0 0-1.061 0Zm4.695 7.518 1.11 1.11a2.539 2.539 0 0 0-.814.56.75.75 0 1 1-1.075-1.046c.234-.24.496-.45.78-.624Zm-1.81-1.81 1.084 1.084v.001h-.002l-.014.01a5.352 5.352 0 0 0-.302.2 5.624 5.624 0 0 0-.71.598.75.75 0 0 1-1.064-1.057 7.122 7.122 0 0 1 1.008-.836Zm-1.77-1.77 1.07 1.07a9.022 9.022 0 0 0-.999.842.75.75 0 1 1-1.06-1.06c.317-.319.64-.585.989-.852Zm6.976 7.782a1.31 1.31 0 1 1-2.62 0 1.31 1.31 0 0 1 2.62 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"wifi,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"camera-disabled--photos-picture-camera-photography-photo-pictures-disabled-off\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06l.178.179c.018.014.035.03.051.046l12.328 12.328a.75.75 0 0 0 1.005-1.112l-.83-.829A.997.997 0 0 0 13.5 11V5a1 1 0 0 0-1-1h-2L9 2H5l-.832 1.109L1.28.219a.75.75 0 0 0-1.061 0Zm8.957 11.78L1.217 4.04A1 1 0 0 0 .5 5v6a1 1 0 0 0 1 1h7.676Zm.09-4.515c0 .219-.032.431-.09.632L6.368 5.307a2.267 2.267 0 0 1 2.898 2.177Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"camera,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"location-pin-disabled--navigation-map-maps-pin-gps-location-disabled-off\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.28.22A.75.75 0 1 0 .22 1.28l12.5 12.5a.75.75 0 1 0 1.06-1.06l-2.378-2.379c.86-1.192 1.535-2.649 1.535-4.294C12.937 2.72 10.288.004 7 .004c-1.634 0-3.11.67-4.182 1.753L1.28.22Zm4.104 4.103L8.18 7.118a2 2 0 1 0-2.795-2.795ZM1.062 6.047c0-.653.102-1.282.291-1.872l8.198 8.198a16.37 16.37 0 0 1-1.784 1.392 1.368 1.368 0 0 1-1.534 0c-.686-.462-1.965-1.407-3.077-2.714-1.108-1.303-2.094-3.016-2.094-5.004Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"location,pin,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"airplane-disabled--server-plane-airplane-disabled-off-wireless-mode-internet-network\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219 1.28A.75.75 0 0 1 1.279.219l3.43 3.43-.028-.193a3.185 3.185 0 0 1 .652-2.435 2.123 2.123 0 0 1 3.333 0c.543.688.779 1.568.652 2.435L9.114 4.85l4.117 2.088a1.062 1.062 0 0 1-.714 1.982L9.24 8.18l4.54 4.54a.75.75 0 0 1-1.06 1.061L.218 1.28Zm5.19 6.953 5.169 5.168c-.282.37-.796.542-1.273.335l-2.305-1-2.305 1a1.064 1.064 0 0 1-1.111-1.788l2.04-1.729-.214-1.986ZM2.99 5.812 5.247 8.07l-3.764.85a1.062 1.062 0 0 1-.714-1.982l2.22-1.126Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"airplane,disabled",
+		"Streamline Core"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"volume_disabled\" focusable=\"false\"><path d=\"M1472 896q119 0 224 45t183 124 123 183 46 224q0 119-45 224t-124 183-183 123-224 46q-119 0-224-45t-183-124-123-183-46-224q0-119 45-224t124-183 183-123 224-46zm0 1024q93 0 174-35t142-96 96-142 36-175q0-93-35-174t-96-142-142-96-175-36q-93 0-174 35t-142 96-96 142-36 175q0 93 35 174t96 142 142 96 175 36zM640 768v512h122q-8 32-14 64t-9 64H512V640h293l384-384h91v506q-67 18-128 48V475L858 768H640zm1069 557l-147 147 147 147-90 90-147-146-147 146-90-90 146-147-146-147 90-90 147 147 147-147 90 90z\"></path></svg>",

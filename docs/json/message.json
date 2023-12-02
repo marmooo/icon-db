@@ -1005,7 +1005,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-chatbot\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 21v-13a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v6a3 3 0 0 1 -3 3h-9l-4 4\"></path><path d=\"M9.5 9h.01\"></path><path d=\"M14.5 9h.01\"></path><path d=\"M9.5 13a3.5 3.5 0 0 0 5 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-chatbot\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12z\"></path><path d=\"M9.5 9h.01\"></path><path d=\"M14.5 9h.01\"></path><path d=\"M9.5 13a3.5 3.5 0 0 0 5 0\"></path></svg>",
 		"message,chatbot",
 		"Tabler Icons"
 	],
@@ -1160,7 +1160,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-forward\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 21v-13a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v6a3 3 0 0 1 -3 3h-9l-4 4\"></path><path d=\"M13 9l2 2l-2 2\"></path><path d=\"M15 11h-6\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-forward\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12z\"></path><path d=\"M13 8l3 3l-3 3\"></path><path d=\"M16 11h-8\"></path></svg>",
 		"message,forward",
 		"Tabler Icons"
 	],
@@ -1205,7 +1205,12 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-report\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 21v-13a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v6a3 3 0 0 1 -3 3h-9l-4 4\"></path><path d=\"M12 8l0 3\"></path><path d=\"M12 14l0 .01\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-reply\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12z\"></path><path d=\"M11 8l-3 3l3 3\"></path><path d=\"M16 11h-8\"></path></svg>",
+		"message,reply",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-message-report\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18 4a3 3 0 0 1 3 3v8a3 3 0 0 1 -3 3h-5l-5 3v-3h-2a3 3 0 0 1 -3 -3v-8a3 3 0 0 1 3 -3h12z\"></path><path d=\"M12 8v3\"></path><path d=\"M12 14v.01\"></path></svg>",
 		"message,report",
 		"Tabler Icons"
 	],
@@ -2300,12 +2305,12 @@
 		"System UIcons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M288 384h448v64H288v-64zm96-128h256v64H384v-64zM131.456 512H384v128h256V512h252.544L721.856 192H302.144L131.456 512zM896 576H704v128H320V576H128v256h768V576zM275.776 128h472.448a32 32 0 0 1 28.608 17.664l179.84 359.552A32 32 0 0 1 960 519.552V864a32 32 0 0 1-32 32H96a32 32 0 0 1-32-32V519.552a32 32 0 0 1 3.392-14.336l179.776-359.552A32 32 0 0 1 275.776 128z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M288 384h448v64H288zm96-128h256v64H384zM131.456 512H384v128h256V512h252.544L721.856 192H302.144zM896 576H704v128H320V576H128v256h768zM275.776 128h472.448a32 32 0 0 1 28.608 17.664l179.84 359.552A32 32 0 0 1 960 519.552V864a32 32 0 0 1-32 32H96a32 32 0 0 1-32-32V519.552a32 32 0 0 1 3.392-14.336l179.776-359.552A32 32 0 0 1 275.776 128z\"></path></svg>",
 		"message,box",
 		"Element Plus Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M128 224v512a64 64 0 0 0 64 64h640a64 64 0 0 0 64-64V224H128zm0-64h768a64 64 0 0 1 64 64v512a128 128 0 0 1-128 128H192A128 128 0 0 1 64 736V224a64 64 0 0 1 64-64z\"></path><path fill=\"currentColor\" d=\"M904 224 656.512 506.88a192 192 0 0 1-289.024 0L120 224h784zm-698.944 0 210.56 240.704a128 128 0 0 0 192.704 0L818.944 224H205.056z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M128 224v512a64 64 0 0 0 64 64h640a64 64 0 0 0 64-64V224zm0-64h768a64 64 0 0 1 64 64v512a128 128 0 0 1-128 128H192A128 128 0 0 1 64 736V224a64 64 0 0 1 64-64\"></path><path fill=\"currentColor\" d=\"M904 224 656.512 506.88a192 192 0 0 1-289.024 0L120 224zm-698.944 0 210.56 240.704a128 128 0 0 0 192.704 0L818.944 224H205.056\"></path></svg>",
 		"message",
 		"Element Plus Icons"
 	],
@@ -2445,7 +2450,7 @@
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8 8.75A.75.75 0 018.75 8h7a.75.75 0 010 1.5h-7A.75.75 0 018 8.75zM8 11.75a.75.75 0 01.75-.75h3a.75.75 0 010 1.5h-3a.75.75 0 01-.75-.75zM8 14.75a.75.75 0 01.75-.75h5a.75.75 0 010 1.5h-5a.75.75 0 01-.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M7.546 20.304c-.332.064-.757.185-1.228.342-1.113.37-2.194.825-3.27 1.292a.75.75 0 01-.98-.998c.086-.192.17-.384.253-.577.273-.635.704-1.675 1.024-2.628.16-.48.286-.915.352-1.255a2.32 2.32 0 00.048-.42 9.62 9.62 0 01-1.06-4.403C2.685 6.324 7.01 2 12.343 2 17.676 2 22 6.324 22 11.657c0 5.334-4.324 9.658-9.657 9.658a9.619 9.619 0 01-4.4-1.058 2.159 2.159 0 00-.397.047zM20.5 11.657a8.157 8.157 0 10-15.396 3.765c.128.246.144.513.141.7a3.764 3.764 0 01-.075.643 11.85 11.85 0 01-.403 1.447c-.185.55-.402 1.12-.606 1.631a32 32 0 011.684-.62c.495-.165.991-.31 1.417-.392.212-.041.427-.07.627-.074.18-.003.445.012.69.14A8.157 8.157 0 0020.5 11.657z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M8 8.75A.75.75 0 018.75 8h7a.75.75 0 110 1.5h-7A.75.75 0 018 8.75zM8 11.75a.75.75 0 01.75-.75h3a.75.75 0 110 1.5h-3a.75.75 0 01-.75-.75zM8 14.75a.75.75 0 01.75-.75h5a.75.75 0 110 1.5h-5a.75.75 0 01-.75-.75z\"></path><path fill-rule=\"evenodd\" d=\"M7.545 20.304c-.331.064-.756.185-1.227.342-1.113.37-2.194.825-3.27 1.292a.75.75 0 01-.98-.998c.086-.192.17-.384.253-.577.273-.635.704-1.675 1.024-2.628.16-.48.286-.915.352-1.255a2.32 2.32 0 00.048-.42 9.657 9.657 0 114.199 4.197 2.159 2.159 0 00-.399.047zM20.5 11.657a8.157 8.157 0 10-15.396 3.765c.128.246.144.513.141.7a3.764 3.764 0 01-.075.643c-.085.436-.234.943-.403 1.447-.185.55-.402 1.12-.606 1.631a32 32 0 011.684-.62c.495-.165.991-.31 1.417-.392.211-.041.427-.07.627-.074.18-.003.445.012.689.14A8.157 8.157 0 0020.5 11.657z\" clip-rule=\"evenodd\"></path></g></svg>",
 		"message,circle,filled",
 		"flight-icons"
 	],
@@ -2525,74 +2530,44 @@
 		"Memory Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M12.5.5H1.5a1,1,0,0,0-1,1V10a1,1,0,0,0,1,1h2v2.5L6.62,11H12.5a1,1,0,0,0,1-1V1.5A1,1,0,0,0,12.5.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M5.5,4.5A1.5,1.5,0,1,1,7,6v.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M7,8a.75.75,0,1,0,.75.75A.76.76,0,0,0,7,8Z\" style=\"fill: #000001\"></path></g></svg>",
-		"interface,help,question,message,bubble,mark,query,speech",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-send-email-message--send-email-paper-airplane-deliver\"><path id=\"Vector 2313\" fill=\"#37d7ff\" d=\"M6 8 .5 5.5l13-5-5 13L6 8Z\"></path><path id=\"Vector 2311\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6 8 .5 5.5l13-5-5 13L6 8Z\"></path><path id=\"Vector 2312\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m6 8 3-3\"></path></g></svg>",
+		"mail,send,email,message",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M4.5,12.5l-4,1,1-3v-9a1,1,0,0,1,1-1h10a1,1,0,0,1,1,1v10a1,1,0,0,1-1,1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"mail,chat,bubble,square,messages,message",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text\"><path id=\"Vector\" fill=\"#ffffff\" d=\"M9.5.5a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58L5 8l2.14-.27A4 4 0 1 0 9.5.5Z\"></path><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M1.5.5h7c.116 0 .228.02.331.056A4 4 0 0 0 5.5 4.5a4.17 4.17 0 0 0 .32 1.58L5 8l2.14-.27a4 4 0 0 0 2.36.77v4a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1Z\" clip-rule=\"evenodd\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 2.5V4\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 6.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 6.25a.25.25 0 0 0 0-.5\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5.5a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58L5 8l2.14-.27A4 4 0 1 0 9.5.5v0Z\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-2\"></path><path id=\"Vector_7\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 11h1\"></path></g></svg>",
+		"notification,message,alert",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M4.5,12.5l-4,1,1-3v-9a1,1,0,0,1,1-1h10a1,1,0,0,1,1,1v10a1,1,0,0,1-1,1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"7.5\" y1=\"3\" x2=\"7.5\" y2=\"6\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><circle cx=\"7.5\" cy=\"9\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle></g></svg>",
-		"mail,chat,bubble,square,warning,messages,notification,message,alert",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-send-email-message--send-email-paper-airplane-deliver\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M13.967.68a.5.5 0 0 0-.647-.647l-13 5a.5.5 0 0 0-.027.922l5.33 2.423 2.422 5.329a.5.5 0 0 0 .922-.027l5-13Z\" clip-rule=\"evenodd\"></path><path id=\"Intersect\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M5.954 9.107 9.03 6.03a.75.75 0 0 0-1.06-1.06L4.893 8.046l.73.332.33.729Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"mail,send,email,message",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"3.5\" cy=\"7\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"6.75\" cy=\"7\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"10\" cy=\"7\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M7,.5A6.5,6.5,0,0,0,1.59,10.6L.5,13.5l3.65-.66A6.5,6.5,0,1,0,7,.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"mail,chat,bubble,typing,oval,messages,message",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M6.6 0a5.252 5.252 0 0 0-1.85 4v.007c.003.52.08 1.034.23 1.53l-.492 1.151a1.45 1.45 0 0 0 1.515 2.009l1.34-.17A5.25 5.25 0 0 0 10 9.25v3A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1-.602-.15c-.17-.08-.342-.19-.498-.322-.289-.246-.65-.686-.65-1.278V1.75C0 .784.784 0 1.75 0H6.6Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M3.75 10.5a.75.75 0 0 1 .75-.75h1a.75.75 0 0 1 0 1.5h-1a.75.75 0 0 1-.75-.75Z\" clip-rule=\"evenodd\"></path><g id=\"Vector\"><path fill=\"#3e3e3e\" d=\"M10 0a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58l-.683 1.6a.2.2 0 0 0 .21.276L7.64 7.23A4 4 0 1 0 10 0Z\"></path></g><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M10.5 2a.5.5 0 1 0-1 0v1.5a.5.5 0 1 0 1 0V2Zm.25 3.5a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"notification,message,alert",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><circle cx=\"4.25\" cy=\"6.5\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"7.5\" cy=\"6.5\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><circle cx=\"10.75\" cy=\"6.5\" r=\"0.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></circle><path d=\"M4.5,12.5l-4,1,1-3v-9a1,1,0,0,1,1-1h10a1,1,0,0,1,1,1v10a1,1,0,0,1-1,1Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"mail,chat,bubble,typing,square,messages,message",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-send-email-message--send-email-paper-airplane-deliver\"><path id=\"Vector 2311\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6 8 .5 5.5l13-5-5 13L6 8Z\"></path><path id=\"Vector 2312\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m6 8 3-3\"></path></g></svg>",
+		"mail,send,email,message",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5C10.5899 13.5 13.5 10.5899 13.5 7C13.5 3.41015 10.5899 0.5 7 0.5C3.41015 0.5 0.5 3.41015 0.5 7C0.5 10.5899 3.41015 13.5 7 13.5Z\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.7 8C4.2 9.8 6.2 10.9 8 10.4C9.1 10 10 9.1 10.3 8\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.8 5.45C4.66193 5.45 4.55 5.33807 4.55 5.2C4.55 5.06193 4.66193 4.95 4.8 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.8 5.45C4.93807 5.45 5.05 5.33807 5.05 5.2C5.05 5.06193 4.93807 4.95 4.8 4.95\"></path><g><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.2 5.45C9.06193 5.45 8.95 5.33807 8.95 5.2C8.95 5.06193 9.06193 4.95 9.2 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.2 5.45C9.33807 5.45 9.45 5.33807 9.45 5.2C9.45 5.06193 9.33807 4.95 9.2 4.95\"></path></g></svg>",
-		"mail,smiley,happy,face,chat,message,smile,emoji,satisfied",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 2.5V4\"></path><g id=\"Group 623\"><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 6.25a.25.25 0 0 1 0-.5\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 6.25a.25.25 0 0 0 0-.5\"></path></g><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5.5a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58L5 8l2.14-.27A4 4 0 1 0 9.5.5v0Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-2\"></path><path id=\"Vector_6\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 11h1\"></path></g></svg>",
+		"notification,message,alert",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M4,8s.5,1.5,3,1.5S10,8,10,8\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M13.5,7A6.5,6.5,0,0,1,.5,7V.5h13Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M5,5A1,1,0,0,0,3,5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M11,5A1,1,0,0,0,9,5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"mail,smiley,happy,mask,chat,message,smile,emoji",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"mail-send-email-message--send-email-paper-airplane-deliver\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M13.854.146a.5.5 0 0 1 .113.534l-5 13a.5.5 0 0 1-.922.027l-2.091-4.6L9.03 6.03a.75.75 0 0 0-1.06-1.06L4.893 8.046l-4.6-2.09a.5.5 0 0 1 .028-.923l13-5a.5.5 0 0 1 .533.113Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"mail,send,email,message",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5C10.5899 13.5 13.5 10.5899 13.5 7C13.5 3.41015 10.5899 0.5 7 0.5C3.41015 0.5 0.5 3.41015 0.5 7C0.5 10.5899 3.41015 13.5 7 13.5Z\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.7 10.5C4.2 8.7 6.1 7.6 8 8.1C9.1 8.4 10 9.3 10.4 10.5\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.85 5.45C4.71193 5.45 4.6 5.33807 4.6 5.2C4.6 5.06193 4.71193 4.95 4.85 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.85 5.45C4.98807 5.45 5.1 5.33807 5.1 5.2C5.1 5.06193 4.98807 4.95 4.85 4.95\"></path><g><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.24999 5.45C9.11192 5.45 8.99999 5.33807 8.99999 5.2C8.99999 5.06193 9.11192 4.95 9.24999 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.24999 5.45C9.38806 5.45 9.49999 5.33807 9.49999 5.2C9.49999 5.06193 9.38806 4.95 9.24999 4.95\"></path></g></svg>",
-		"mail,smiley,sad,face,chat,message,emoji,unsatisfied",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M13.5,7A6.5,6.5,0,0,1,.5,7V.5h13Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M4,9.5S4.5,8,7,8s3,1.5,3,1.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M5,4.5a1,1,0,0,1-2,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><path d=\"M11,4.5a1,1,0,0,1-2,0\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"mail,smiley,sad,mask,chat,message,emoji,cry",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M3.5 9.5H10.5\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5C10.5899 13.5 13.5 10.5899 13.5 7C13.5 3.41015 10.5899 0.5 7 0.5C3.41015 0.5 0.5 3.41015 0.5 7C0.5 10.5899 3.41015 13.5 7 13.5Z\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.8 5.45C4.66193 5.45 4.55 5.33807 4.55 5.2C4.55 5.06193 4.66193 4.95 4.8 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.8 5.45C4.93807 5.45 5.05 5.33807 5.05 5.2C5.05 5.06193 4.93807 4.95 4.8 4.95\"></path><g><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.2 5.45C9.06193 5.45 8.95 5.33807 8.95 5.2C8.95 5.06193 9.06193 4.95 9.2 4.95\"></path><path stroke=\"#000001\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.2 5.45C9.33807 5.45 9.45 5.33807 9.45 5.2C9.45 5.06193 9.33807 4.95 9.2 4.95\"></path></g></svg>",
-		"mail,smiley,straight,face,chat,message,indifferent,emoji,poker",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"1.75\" width=\"13\" height=\"10.5\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><path d=\"M.5,3,6.36,8A1,1,0,0,0,7.64,8L13.5,3\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"mail,send,envelope,email,message,unopened,sealed,close",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M.5,12.5C3.42,10,4.14,9,7,9H8.5v3l5-5.5-5-5v3h-1C2.5,4.5,1.5,9.5.5,12.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"mail,send,forward,email,message,envelope,actions,action,arrow",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><path d=\"M13.5,12.5C10.58,10,9.86,9,7,9H5.5v3L.5,6.5l5-5v3h1C11.5,4.5,12.5,9.5,13.5,12.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></svg>",
-		"mail,send,reply,email,message,actions,action,arrow",
-		"Streamline UI Icons Line"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><polyline points=\"7.5 2.5 4.5 5.5 7.5 8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline><path d=\"M13.5,11.5v-2a4,4,0,0,0-4-4h-5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><polyline points=\"3.5 2.5 0.5 5.5 3.5 8.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></g></svg>",
-		"mail,send,reply,all,email,message,actions,action,arrow",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"notification-message-alert--android-phone-mobile-device-smartphone-iphone-alert-message-text\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.75 1.5a.25.25 0 0 0-.25.25v10.489a.53.53 0 0 0 .123.148.753.753 0 0 0 .179.113H8.25a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 8.25 14h-6.5a1.44 1.44 0 0 1-.602-.15c-.17-.08-.342-.19-.498-.322-.289-.246-.65-.686-.65-1.278V1.75C0 .784.784 0 1.75 0H5a.75.75 0 0 1 0 1.5H1.75ZM10 0a4 4 0 0 0-4 4 4.17 4.17 0 0 0 .32 1.58l-.683 1.6a.2.2 0 0 0 .21.276L7.64 7.23A4 4 0 1 0 10 0Zm0 1.5a.5.5 0 0 1 .5.5v1.5a.5.5 0 1 1-1 0V2a.5.5 0 0 1 .5-.5Zm.75 4a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0ZM4.5 9.75a.75.75 0 0 0 0 1.5h1a.75.75 0 0 0 0-1.5h-1Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"notification,message,alert",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.75 13.9H16.9038C16.7057 13.9 16.5121 13.9588 16.3476 14.069L14.09 15.58C13.73 15.82 13.31 15.93 12.9 15.93C12.55 15.93 12.2 15.85 11.88 15.67C11.3982 15.4153 11.0443 14.9475 10.8705 14.423C10.7313 14.0029 10.4537 13.6136 10.0537 13.4244C9.59444 13.2073 9.18043 12.9204 8.83 12.57C7.97 11.71 7.5 10.5 7.5 9.15V5.25V5C7.5 4.44772 7.05228 4 6.5 4C3.8 4 2 5.35 2 8.5V13.9C2 17.05 3.8 18.4 6.5 18.4H10.25V21.25H7.4C6.99 21.25 6.65 21.59 6.65 22C6.65 22.41 6.99 22.75 7.4 22.75H14.6C15.01 22.75 15.35 22.41 15.35 22C15.35 21.59 15.01 21.25 14.6 21.25H11.75V18.4H15.5C17.8954 18.4 19.5824 17.3374 19.9326 14.898C20.011 14.3513 19.5523 13.9 19 13.9H18.75Z\" fill=\"#292D32\"></path><path d=\"M18.75 2H12.25C10.76 2 9.64 2.76 9.2 4C9.07 4.38 9 4.8 9 5.25V9.15C9 10.12 9.32 10.94 9.89 11.51C10.46 12.08 11.28 12.4 12.25 12.4V13.79C12.25 14.3 12.83 14.61 13.26 14.33L16.15 12.4H18.75C19.2 12.4 19.62 12.33 20 12.2C21.24 11.76 22 10.64 22 9.15V5.25C22 3.3 20.7 2 18.75 2ZM12.62 8C12.2 8 11.87 7.66 11.87 7.25C11.87 6.84 12.2 6.5 12.62 6.5C13.04 6.5 13.37 6.84 13.37 7.25C13.37 7.66 13.04 8 12.62 8ZM15.44 8C15.02 8 14.69 7.66 14.69 7.25C14.69 6.84 15.03 6.5 15.44 6.5C15.85 6.5 16.19 6.84 16.19 7.25C16.19 7.66 15.85 8 15.44 8ZM18.25 8C17.83 8 17.5 7.66 17.5 7.25C17.5 6.84 17.84 6.5 18.25 6.5C18.66 6.5 19 6.84 19 7.25C19 7.66 18.66 8 18.25 8Z\" fill=\"#292D32\"></path><path d=\"M22 5.25V9.15C22 10.64 21.24 11.76 20 12.2C19.62 12.33 19.2 12.4 18.75 12.4H16.15L13.26 14.33C12.83 14.61 12.25 14.3 12.25 13.79V12.4C11.28 12.4 10.46 12.08 9.89 11.51C9.32 10.94 9 10.12 9 9.15V5.25C9 4.8 9.07 4.38 9.2 4C9.64 2.76 10.76 2 12.25 2H18.75C20.7 2 22 3.3 22 5.25Z\" fill=\"#292D32\"></path></svg>",

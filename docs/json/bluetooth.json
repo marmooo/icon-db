@@ -45,6 +45,11 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M42 106a6 6 0 0 1 6-6h96a6 6 0 0 1 6 6v58a6 6 0 0 1-6 6H48a6 6 0 0 1-6-6v-58Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M124 150H68m73.255-110.255a63.998 63.998 0 0 0-90.51 0m67.882 14.628a31.996 31.996 0 0 0-34.873-6.937 31.999 31.999 0 0 0-10.381 6.937m25.689 15.236c.97.402 1.852.991 2.595 1.734l-5.657 4-5.657-4a8 8 0 0 1 8.719-1.734Z\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"bluetooth,keyboard,mouse",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"12\" d=\"m26 59 74 74-37 37V22l37 37-74 74\"></path><path stroke-width=\"8\" d=\"M112 99a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm28 0a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm28 0a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z\"></path></svg>",
 		"generic,bluetooth",
 		"Lawnicons"
@@ -145,7 +150,7 @@
 		"WebHostingHub Glyphs"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-bluetooth\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" d=\"m8.543 3.948 1.316 1.316L8.543 6.58V3.948Zm0 8.104 1.316-1.316L8.543 9.42v2.632Zm-1.41-4.043L4.275 5.133l.827-.827L7.377 6.58V1.128l4.137 4.136L8.787 8.01l2.745 2.745-4.136 4.137V9.42l-2.294 2.274-.827-.827L7.133 8.01ZM7.903 16c3.498 0 5.904-1.655 5.904-8.01 0-6.335-2.406-7.99-5.903-7.99C4.407 0 2 1.655 2 8.01 2 14.344 4.407 16 7.904 16Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-bluetooth\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" d=\"m8.543 3.948 1.316 1.316L8.543 6.58zm0 8.104 1.316-1.316L8.543 9.42zm-1.41-4.043L4.275 5.133l.827-.827L7.377 6.58V1.128l4.137 4.136L8.787 8.01l2.745 2.745-4.136 4.137V9.42l-2.294 2.274-.827-.827L7.133 8.01ZM7.903 16c3.498 0 5.904-1.655 5.904-8.01 0-6.335-2.406-7.99-5.903-7.99C4.407 0 2 1.655 2 8.01 2 14.344 4.407 16 7.904 16Z\"></path></svg>",
 		"bluetooth",
 		"Bootstrap Icons"
 	],
@@ -1435,14 +1440,64 @@
 		"Circum Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><rect x=\"0.5\" y=\"3\" width=\"13\" height=\"8\" rx=\"1\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></rect><line x1=\"3.5\" y1=\"8.25\" x2=\"10.5\" y2=\"8.25\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><line x1=\"3.5\" y1=\"5.75\" x2=\"10.5\" y2=\"5.75\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line></g></svg>",
-		"computer,keyboard,wireless,remote,device,electronics,qwerty,bluetooth",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.75 6.75 10.5 4 6.5.5v5.937\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.77 11.514 6.5 13.5V9.31\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3 9.5 1.875-1.375\"></path><path id=\"Vector 2439\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><polyline points=\"3.25 9.5 10.75 4 6.75 0.5 6.75 13.5 10.75 10 3.25 4.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></polyline></svg>",
-		"computer,connection,bluetooth,internet,server,network,wireless",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m1.052 9.48 7.437-5.455L4.523.554v12.892l3.966-3.47L1.052 4.52\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M11.993 3.529a4.848 4.848 0 0 1 0 6.843\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.473 5.32c.852.85.852 2.31 0 3.162\"></path></g></svg>",
+		"bluetooth,searching",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth--bluetooth-internet-server-network-wireless-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3.25 9.5 7.5-5.5-4-3.5v13l4-3.5-7.5-5.5\"></path></g></svg>",
+		"bluetooth",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector (Stroke)\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M6.216.16a.75.75 0 0 1 .804.12l3.789 3.315a.75.75 0 0 1-.05 1.169L7.709 7l3.05 2.237a.75.75 0 0 1 .05 1.17L7.02 13.72a.75.75 0 0 1-1.244-.564v-4.74L3.655 9.972a.75.75 0 1 1-.887-1.21L5.172 7 2.768 5.236a.75.75 0 0 1 .887-1.21l2.121 1.556V.843a.75.75 0 0 1 .44-.683Zm1.06 8.383 1.84 1.35-1.84 1.61v-2.96Zm0-3.087v-2.96l1.84 1.61-1.84 1.35Z\" clip-rule=\"evenodd\"></path><path id=\"Vector (Stroke)_2\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06L12.72 13.782a.75.75 0 0 0 1.061-1.06L1.28.218a.75.75 0 0 0-1.061 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection\"><path id=\"Vector (Stroke)\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M4 .132a.75.75 0 0 1 .803.118L8.61 3.58a.75.75 0 0 1-.05 1.17L5.49 7l3.07 2.25a.75.75 0 0 1 .05 1.17l-3.806 3.33a.75.75 0 0 1-1.243-.565V8.417L1.422 9.984a.75.75 0 1 1-.887-1.21L2.955 7 .535 5.226a.75.75 0 1 1 .887-1.21L3.56 5.583V.815A.75.75 0 0 1 4 .132Zm1.06 8.412 1.858 1.362-1.858 1.627v-2.99Zm0-3.087v-2.99l1.858 1.627L5.06 5.457Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M11.135 4.2a3.902 3.902 0 0 1 0 5.505.75.75 0 0 0 1.06 1.06 5.402 5.402 0 0 0 0-7.626.75.75 0 1 0-1.06 1.06ZM9.489 5.918c.524.524.524 1.45 0 1.974a.75.75 0 1 0 1.06 1.06c1.11-1.11 1.11-2.985 0-4.095a.75.75 0 1 0-1.06 1.06Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,searching",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth--bluetooth-internet-server-network-wireless-connection\"><path id=\"Vector (Stroke)\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M6.272.142a1 1 0 0 1 1.042.083l4.404 3.213A1 1 0 0 1 11.65 5.1L8.542 7l3.108 1.9a1 1 0 0 1 .068 1.662l-4.404 3.213a1 1 0 0 1-1.59-.808V8.722l-2.33 1.426A1 1 0 0 1 2.35 8.442L4.708 7 2.35 5.558a1 1 0 1 1 1.043-1.706l2.332 1.426V1.033a1 1 0 0 1 .547-.891Zm1.453 8.703 1.606.982L7.725 11V8.845Zm0-3.69V3.001L9.33 4.173l-1.606.982Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M6.75 6.75 10.5 4 6.5.5v5.937\"></path><path id=\"Vector 2439\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m.5.5 13 13\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3 9.5 1.875-1.375\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8.77 11.514 6.5 13.5V9.31\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1 9.5 8.5 4 4.5.5v13l4-3.5L1 4.5\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.033 3.5c1.9 1.9 1.9 5 0 6.9\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.5 5.305c.859.859.859 2.33 0 3.19\"></path></g></svg>",
+		"bluetooth,searching",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth--bluetooth-internet-server-network-wireless-connection\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m3.25 9.5 7.5-5.5-4-3.5v13l4-3.5-7.5-5.5\"></path></g></svg>",
+		"bluetooth",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-disabled--bluetooth-internet-server-network-wireless-disabled-off-connection\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.219.219a.75.75 0 0 0 0 1.06l.178.179c.018.014.035.03.051.046l12.328 12.328a.75.75 0 0 0 1.005-1.112L11.05 9.99a.752.752 0 0 0-.292-.754l-1.731-1.27L7.91 6.851l2.847-2.088a.75.75 0 0 0 .05-1.17L7.02.28a.75.75 0 0 0-1.244.564v3.873L1.28.219a.75.75 0 0 0-1.061 0Zm8.869 11.692-1.063-1.063-.749.655v-1.404l-1.5-1.5v4.557a.75.75 0 0 0 1.244.564l2.068-1.81ZM5.67 8.494 4.597 7.42l-1.83 1.341a.75.75 0 1 0 .888 1.21L5.67 8.494Zm1.605-3.038v-2.96l1.84 1.61-1.84 1.35Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,disabled",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth-searching--bluetooth-internet-server-network-wireless-searching-connecting-connection\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M4 .132a.75.75 0 0 1 .803.118L8.61 3.58a.75.75 0 0 1-.05 1.17L5.49 7l3.07 2.25a.75.75 0 0 1 .05 1.17l-3.806 3.33a.75.75 0 0 1-1.244-.565V8.417L1.422 9.984a.75.75 0 1 1-.887-1.21L2.955 7 .535 5.226a.75.75 0 0 1 .887-1.21L3.56 5.583V.815A.75.75 0 0 1 4 .132Zm1.06 8.412 1.858 1.362-1.859 1.627v-2.99Zm0-3.087v-2.99l1.858 1.627-1.859 1.363Zm6.075 4.248a3.902 3.902 0 0 0 0-5.505.75.75 0 0 1 1.06-1.06 5.401 5.401 0 0 1 0 7.626.75.75 0 1 1-1.06-1.06ZM9.489 5.918c.524.524.524 1.45 0 1.974a.75.75 0 1 0 1.06 1.06c1.11-1.11 1.11-2.985 0-4.095a.75.75 0 0 0-1.06 1.06Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth,searching",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"bluetooth--bluetooth-internet-server-network-wireless-connection\"><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.272.142a1 1 0 0 1 1.042.083l4.404 3.213A1 1 0 0 1 11.65 5.1L8.542 7l3.108 1.9a1 1 0 0 1 .068 1.662l-4.404 3.213a1 1 0 0 1-1.59-.808V8.722l-2.33 1.426A1 1 0 0 1 2.35 8.442L4.708 7 2.35 5.558a1 1 0 1 1 1.043-1.706l2.332 1.426V1.033a1 1 0 0 1 .547-.891Zm1.453 8.703 1.606.982L7.725 11V8.845Zm0-3.69V3.001L9.33 4.173l-1.606.982Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"bluetooth",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z\" fill=\"black\"></path><path d=\"M11.4142 17.2561C11.4113 17.2571 11.41 17.2574 11.41 17.2574L11.4142 17.2561Z\" fill=\"black\"></path><path d=\"M11.7969 17.4467C11.798 17.4493 11.7984 17.4509 11.7984 17.4509L11.7969 17.4467Z\" fill=\"black\"></path><path d=\"M11.7969 6.55283C11.798 6.55016 11.7984 6.54859 11.7984 6.54859L11.7978 6.55024L11.7969 6.55283Z\" fill=\"black\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.2099 5.46374C12.487 5.61477 12.8101 5.85791 13.155 6.1174L14.6854 7.26864C14.9218 7.44634 15.1601 7.62552 15.3326 7.79951C15.5269 7.99546 15.75 8.29403 15.75 8.71733C15.75 9.14063 15.5269 9.43921 15.3326 9.63516C15.1601 9.80914 14.9218 9.98833 14.6854 10.166L12.2477 11.9997L14.6854 13.8335C14.9218 14.0112 15.1601 14.1904 15.3326 14.3643C15.5269 14.5603 15.75 14.8589 15.75 15.2822C15.75 15.7055 15.5269 16.004 15.3326 16.2C15.1601 16.374 14.9218 16.5532 14.6854 16.7309L13.155 17.8821C12.8101 18.1416 12.487 18.3847 12.2099 18.5357C11.9267 18.6901 11.4599 18.8782 10.9653 18.6302C10.4717 18.3826 10.3423 17.8969 10.2956 17.578C10.2499 17.2654 10.2499 16.8605 10.25 16.4279L10.25 13.601L8.48016 15.0759C8.16195 15.3411 7.68903 15.2981 7.42385 14.9799C7.15868 14.6617 7.20167 14.1888 7.51988 13.9236L9.82848 11.9997L7.51988 10.0759C7.20167 9.81074 7.15868 9.33782 7.42385 9.01961C7.68903 8.7014 8.16195 8.65841 8.48016 8.92358L10.25 10.3985L10.25 7.57157C10.2499 7.13896 10.2499 6.73413 10.2956 6.42154C10.3423 6.10257 10.4717 5.61686 10.9653 5.36932C11.4599 5.1213 11.9267 5.30939 12.2099 5.46374ZM11.75 16.3763V13.5024L13.7492 15.0062C13.8849 15.1083 13.9928 15.1895 14.0833 15.2615L14.1091 15.2822L14.0833 15.3028C13.9928 15.3748 13.8849 15.456 13.7492 15.5581L12.2946 16.6522C12.0676 16.823 11.8944 16.9525 11.7563 17.0494C11.7507 16.8799 11.75 16.6623 11.75 16.3763ZM11.4142 17.2561C11.4113 17.2571 11.41 17.2574 11.41 17.2574L11.4142 17.2561ZM11.7969 17.4467C11.798 17.4493 11.7984 17.4509 11.7984 17.4509L11.7969 17.4467ZM11.75 7.62319V10.4971L13.7492 8.99328C13.8849 8.89119 13.9928 8.80997 14.0833 8.738L14.1091 8.71733L14.0833 8.69667C13.9928 8.6247 13.8849 8.54348 13.7492 8.44138L12.2946 7.34725C12.0676 7.17651 11.8944 7.04698 11.7563 6.9501C11.7507 7.1196 11.75 7.3372 11.75 7.62319ZM11.7969 6.55283C11.798 6.55016 11.7984 6.54859 11.7984 6.54859L11.7978 6.55024L11.7969 6.55283Z\" fill=\"black\"></path></svg>",

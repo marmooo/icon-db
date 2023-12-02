@@ -5,7 +5,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 22c-35.27 0-64.269 15.796-67.667 36.017C27.967 60.196 29.79 62 32 62h128c2.209 0 4.033-1.804 3.667-3.983C160.269 37.796 131.27 22 96 22zm0 148c46.946 0 64.55-8.151 67.528-20.037.537-2.143-1.319-3.963-3.528-3.963H32c-2.21 0-4.065 1.82-3.528 3.963C31.45 161.849 49.054 170 96 170z\"></path><path stroke-linecap=\"round\" d=\"M106 82v28m0 16v-16m0 0 14-7.538M158 82l-38 20.462m0 0L158 126\"></path><path stroke-linejoin=\"round\" d=\"M34 104h41c6.075 0 11 4.925 11 11s-4.925 11-11 11H34v-22zm0-22h35c6.075 0 11 4.925 11 11s-4.925 11-11 11H34V82z\"></path></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M160 62c0 18-24 39-24 39s24 7 24 41m-56-80v13m0 54v13M76 62v13m0 54v13M32 62v80m72-67a14 14 0 0 1-28 0m0 54a14.001 14.001 0 0 1 19.358-12.934 13.976 13.976 0 0 1 4.541 3.035A13.984 13.984 0 0 1 104 129m-44 41h72M32 142h128M32 62h128M72 22h48M32 142a27.998 27.998 0 0 0 28 28m72 0a28.001 28.001 0 0 0 28-28M72 22a40 40 0 0 0-40 40m128 0a40.003 40.003 0 0 0-40-40\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"burger,king",
 		"Lawnicons"
 	],
@@ -40,7 +40,7 @@
 		"Majesticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M160 512a32 32 0 0 0-32 32v64a32 32 0 0 0 30.08 32H864a32 32 0 0 0 32-32v-64a32 32 0 0 0-32-32H160zm736-58.56A96 96 0 0 1 960 544v64a96 96 0 0 1-51.968 85.312L855.36 833.6a96 96 0 0 1-89.856 62.272H258.496A96 96 0 0 1 168.64 833.6l-52.608-140.224A96 96 0 0 1 64 608v-64a96 96 0 0 1 64-90.56V448a384 384 0 1 1 768 5.44zM832 448a320 320 0 0 0-640 0h640zM512 704H188.352l40.192 107.136a32 32 0 0 0 29.952 20.736h507.008a32 32 0 0 0 29.952-20.736L835.648 704H512z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M160 512a32 32 0 0 0-32 32v64a32 32 0 0 0 30.08 32H864a32 32 0 0 0 32-32v-64a32 32 0 0 0-32-32zm736-58.56A96 96 0 0 1 960 544v64a96 96 0 0 1-51.968 85.312L855.36 833.6a96 96 0 0 1-89.856 62.272H258.496A96 96 0 0 1 168.64 833.6l-52.608-140.224A96 96 0 0 1 64 608v-64a96 96 0 0 1 64-90.56V448a384 384 0 1 1 768 5.44M832 448a320 320 0 0 0-640 0zM512 704H188.352l40.192 107.136a32 32 0 0 0 29.952 20.736h507.008a32 32 0 0 0 29.952-20.736L835.648 704z\"></path></svg>",
 		"burger",
 		"Element Plus Icons"
 	],
@@ -75,9 +75,24 @@
 		"Circum Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 14 14\"><g><path d=\"M4,.5h6A3.5,3.5,0,0,1,13.5,4V4a1,1,0,0,1-1,1H1.5a1,1,0,0,1-1-1V4A3.5,3.5,0,0,1,4,.5Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path><line x1=\"0.5\" y1=\"7.5\" x2=\"13.5\" y2=\"7.5\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></line><path d=\"M13,10H7L5.5,11.5,2.5,10H1a.5.5,0,0,0-.5.5h0a3,3,0,0,0,3,3h7a3,3,0,0,0,3-3h0A.5.5,0,0,0,13,10Z\" style=\"fill: none;stroke: #000001;stroke-linecap: round;stroke-linejoin: round\"></path></g></svg>",
-		"food,burger,drink,fast,cook,cooking,nutrition",
-		"Streamline UI Icons Line"
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"burger--burger-fast-cook-cooking-nutrition-food\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M4 .5h6A3.5 3.5 0 0 1 13.5 4a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1A3.5 3.5 0 0 1 4 .5Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 7.5h13\"></path><path id=\"Vector_3\" fill=\"#37d7ff\" d=\"M13 10H7l-1.5 1.5-3-1.5H1a.5.5 0 0 0-.5.5 3 3 0 0 0 3 3h7a3 3 0 0 0 3-3 .5.5 0 0 0-.5-.5Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5h6A3.5 3.5 0 0 1 13.5 4a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1A3.5 3.5 0 0 1 4 .5v0Z\"></path><path id=\"Vector_5\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 10H7l-1.5 1.5-3-1.5H1a.5.5 0 0 0-.5.5v0a3 3 0 0 0 3 3h7a3 3 0 0 0 3-3 .5.5 0 0 0-.5-.5Z\"></path></g></svg>",
+		"burger",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"burger--burger-fast-cook-cooking-nutrition-food\"><path id=\"Vector (Stroke)\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.02 7.5a.75.75 0 0 1 .75-.75h12.46a.75.75 0 0 1 0 1.5H.77a.75.75 0 0 1-.75-.75Z\" clip-rule=\"evenodd\"></path><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M4 0C2.95 0 1.936.39 1.184 1.094A3.67 3.67 0 0 0 0 3.774c0 .391.167.76.451 1.026a1.54 1.54 0 0 0 1.049.409h11a1.54 1.54 0 0 0 1.049-.409c.284-.266.451-.635.451-1.027a3.67 3.67 0 0 0-1.184-2.68A4.126 4.126 0 0 0 10 0H4ZM.306 10.017c.19-.176.44-.27.694-.27h1.5a.5.5 0 0 1 .21.047l2.696 1.252L6.66 9.881A.5.5 0 0 1 7 9.748h6c.254 0 .504.093.694.27a.949.949 0 0 1 .306.694 3.19 3.19 0 0 1-1.038 2.338A3.62 3.62 0 0 1 10.5 14h-7a3.62 3.62 0 0 1-2.462-.95A3.191 3.191 0 0 1 0 10.712a.95.95 0 0 1 .306-.695Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"burger",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"burger--burger-fast-cook-cooking-nutrition-food\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.5 7.5h13\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5h6A3.5 3.5 0 0 1 13.5 4a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1A3.5 3.5 0 0 1 4 .5v0Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13 10H7l-1.5 1.5-3-1.5H1a.5.5 0 0 0-.5.5v0a3 3 0 0 0 3 3h7a3 3 0 0 0 3-3 .5.5 0 0 0-.5-.5Z\"></path></g></svg>",
+		"burger",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"burger--burger-fast-cook-cooking-nutrition-food\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.184 1.094A4.127 4.127 0 0 1 4 0h6c1.05 0 2.064.39 2.816 1.094A3.67 3.67 0 0 1 14 3.774c0 .391-.167.76-.451 1.026a1.536 1.536 0 0 1-1.049.409h-11A1.54 1.54 0 0 1 .451 4.8 1.406 1.406 0 0 1 0 3.773a3.67 3.67 0 0 1 1.184-2.68ZM.77 6.75a.75.75 0 0 0 0 1.5h12.46a.75.75 0 0 0 0-1.5H.77Zm-.464 3.267c.19-.176.44-.27.694-.27h1.5a.5.5 0 0 1 .21.047l2.696 1.252L6.66 9.881A.5.5 0 0 1 7 9.748h6c.254 0 .504.093.694.27a.949.949 0 0 1 .306.694 3.19 3.19 0 0 1-1.038 2.338A3.62 3.62 0 0 1 10.5 14h-7a3.62 3.62 0 0 1-2.462-.95A3.191 3.191 0 0 1 0 10.712a.95.95 0 0 1 .306-.695Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"burger",
+		"Streamline Core"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0)\"><path d=\"M3 6.00092H21M3 12.0009H21M3 18.0009H21\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g><defs><clipPath id=\"clip0\"><rect width=\"24\" height=\"24\" fill=\"white\" transform=\"translate(0 0.000915527)\"></rect></clipPath></defs></svg>",
