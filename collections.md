@@ -367,3 +367,5 @@
   [MIT](https://github.com/basmilius/weather-icons/blob/dev/LICENSE)
 - [MynaUI Icons](https://github.com/praveenjuge/mynaui-icons) licensed under the
   [MIT](https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE)
+- [Gravity UI icons](https://github.com/gravity-ui/icons) licensed under the
+  [MIT](https://github.com/gravity-ui/icons/blob/main/LICENSE)
