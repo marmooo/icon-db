@@ -146,32 +146,37 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 36 36\"><path fill=\"#3B88C3\" d=\"M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z\"></path><circle fill=\"#FFF\" cx=\"18\" cy=\"18\" r=\"11\"></circle></svg>",
-		"record,button",
+		"record,button,color",
 		"Twemoji"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"><title>record button</title><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#4fd1d9\"></circle><circle cx=\"32\" cy=\"32\" r=\"15\" fill=\"#fff\"></circle></svg>",
-		"record,button",
+		"record,button,color",
 		"Emoji Two"
 	],
 	[
 		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"20\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><circle cx=\"36\" cy=\"36\" r=\"7\"></circle></g></svg>",
-		"record,button,twotone",
+		"record,button",
 		"OpenMoji"
 	],
 	[
 		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><circle cx=\"36\" cy=\"36\" r=\"19.0492\" fill=\"#fff\"></circle></g><g id=\"line\"><circle cx=\"36\" cy=\"36\" r=\"20\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><circle cx=\"36\" cy=\"36\" r=\"7\"></circle></g><g id=\"color-foreground\"><circle cx=\"36\" cy=\"36\" r=\"7\" fill=\"#d22f27\"></circle></g></svg>",
-		"record,button,twotone,color",
+		"record,button,color",
 		"OpenMoji"
 	],
 	[
-		"<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><g><path style=\"fill:#F77E00;\" d=\"M116.46,3.96h-104c-4.42,0-8,3.58-8,8v104c0,4.42,3.58,8,8,8h104c4.42,0,8-3.58,8-8v-104 C124.46,7.54,120.88,3.96,116.46,3.96z\"></path><path style=\"fill:#FF9800;\" d=\"M110.16,3.96h-98.2c-4.13,0.03-7.47,3.37-7.5,7.5v97.9c-0.01,4.14,3.34,7.49,7.48,7.5 c0.01,0,0.01,0,0.02,0h98.1c4.14,0.01,7.49-3.34,7.5-7.48c0-0.01,0-0.01,0-0.02v-97.9c0.09-4.05-3.13-7.41-7.18-7.5 C110.31,3.96,110.23,3.96,110.16,3.96z\"></path><path style=\"opacity:0.75;fill:#FFBD52;enable-background:new ;\" d=\"M40.16,12.86c0-2.3-1.6-3-10.8-2.7 c-7.7,0.3-11.5,1.2-13.8,4s-2.9,8.5-3,15.3c0,4.8,0,9.3,2.5,9.3c3.4,0,3.4-7.9,6.2-12.3C26.66,17.76,40.16,15.86,40.16,12.86z\"></path><circle style=\"fill:#FAFAFA;\" cx=\"64.46\" cy=\"63.96\" r=\"28\"></circle></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2400\"><path d=\"M2175 2240L426 2240Q358 2240 309 2191.5 260 2143 260 2076L260 2076 260 325Q260 257 309 208.5 358 160 425 160L425 160 2174 160Q2242 160 2291 208 2340 256 2340 324L2340 324 2340 2075Q2340 2142 2291.5 2191 2243 2240 2175 2240L2175 2240ZM1299 1692L1299 1692Q1436 1692 1547.5 1625.5 1659 1559 1725.5 1447.5 1792 1336 1792 1200L1792 1200Q1792 1064 1725.5 952.5 1659 841 1548 774.5 1437 708 1301 708L1301 708Q1165 708 1053 774.5 941 841 874.5 952.5 808 1064 808 1200L808 1200Q808 1335 874.5 1447 941 1559 1052.5 1625.5 1164 1692 1299 1692Z\"></path></svg>",
 		"record,button",
+		"Noto Emoji Twotone"
+	],
+	[
+		"<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><g><path style=\"fill:#F77E00;\" d=\"M116.46,3.96h-104c-4.42,0-8,3.58-8,8v104c0,4.42,3.58,8,8,8h104c4.42,0,8-3.58,8-8v-104 C124.46,7.54,120.88,3.96,116.46,3.96z\"></path><path style=\"fill:#FF9800;\" d=\"M110.16,3.96h-98.2c-4.13,0.03-7.47,3.37-7.5,7.5v97.9c-0.01,4.14,3.34,7.49,7.48,7.5 c0.01,0,0.01,0,0.02,0h98.1c4.14,0.01,7.49-3.34,7.5-7.48c0-0.01,0-0.01,0-0.02v-97.9c0.09-4.05-3.13-7.41-7.18-7.5 C110.31,3.96,110.23,3.96,110.16,3.96z\"></path><path style=\"opacity:0.75;fill:#FFBD52;enable-background:new ;\" d=\"M40.16,12.86c0-2.3-1.6-3-10.8-2.7 c-7.7,0.3-11.5,1.2-13.8,4s-2.9,8.5-3,15.3c0,4.8,0,9.3,2.5,9.3c3.4,0,3.4-7.9,6.2-12.3C26.66,17.76,40.16,15.86,40.16,12.86z\"></path><circle style=\"fill:#FAFAFA;\" cx=\"64.46\" cy=\"63.96\" r=\"28\"></circle></g></svg>",
+		"record,button,color",
 		"Noto Color Emoji"
 	],
 	[
 		"<svg width=\"128\" height=\"128\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 128\"><path d=\"M128 128H0V0h128v128z\" fill=\"none\"></path><circle cx=\"64\" cy=\"64\" r=\"32\" fill=\"#40c0e7\"></circle></svg>",
-		"record,button",
+		"record,button,color",
 		"Blobmoji"
 	],
 	[
