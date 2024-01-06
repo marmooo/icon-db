@@ -345,12 +345,22 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M106.176 119.319a20.002 20.002 0 0 0 10.691-31.494 19.999 19.999 0 0 0-10.691-7.144m-16.352 0a20 20 0 0 0 0 38.638M75 76.68l14.82 4m16.36 38.64 14.82 4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M50 143h96m-96 0a27.995 27.995 0 0 1-22.214-10.955 27.998 27.998 0 0 1 11.499-42.914 27.999 27.999 0 0 1 11.091-2.129A48 48 0 0 1 145.958 95a23.997 23.997 0 0 1 23.224 17.788A24 24 0 0 1 146 143\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 22 33 50v30c0 39.5 29 90 63 90s63-50 63-90V50z\"></path><path d=\"M102 62 78 94h36l-24 32\"></path></svg>",
+		"samsung,battery,guardian",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"28\" stroke-width=\"10\"></circle><circle cx=\"96\" cy=\"96\" r=\"4\" stroke-width=\"8\"></circle><path stroke-width=\"12\" d=\"M22 96s22-50 74-50 74 50 74 50M22 96s22 50 74 50 74-50 74-50\"></path></svg>",
+		"samsung,bixby,vision",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"8\" d=\"M106.176 119.319a19.999 19.999 0 0 0 0-38.638m-16.352 0a20 20 0 0 0 0 38.638M75 76.68l14.82 4m16.36 38.64 14.82 4\"></path><path stroke-width=\"12\" d=\"M50 143h96m-96 0a27.998 27.998 0 0 1-10.715-53.869 28 28 0 0 1 11.091-2.129A48 48 0 0 1 145.958 95a24 24 0 0 1 .042 48\"></path></svg>",
 		"samsung,cloud",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"96\" cy=\"48\" r=\"26\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M96 102c-25.713 0-47.71 17.214-56.685 41.571C52.889 159.73 73.245 170 96 170c22.755 0 43.111-10.27 56.685-26.429C143.711 119.214 121.713 102 96 102Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"48\" r=\"26\"></circle><path d=\"M96 102c-25.713 0-47.71 17.214-56.685 41.571C52.889 159.73 73.245 170 96 170s43.111-10.27 56.685-26.429C143.711 119.214 121.713 102 96 102\"></path></svg>",
 		"samsung,contacts",
 		"Lawnicons"
 	],
@@ -360,17 +370,17 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"22\" y=\"44\" width=\"148\" height=\"104\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"m117 117 30 30\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"96\" cy=\"96\" r=\"28\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><rect width=\"148\" height=\"104\" x=\"22\" y=\"44\" rx=\"6\"></rect><path d=\"m117 117 30 30\"></path><circle cx=\"96\" cy=\"96\" r=\"28\"></circle></svg>",
 		"samsung,finder",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M86 68v70\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"152\" cy=\"40\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"152\" cy=\"106\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M54 106h80m-20-66h20m-80 66a32.001 32.001 0 0 0-22.627 54.627 31.997 31.997 0 0 0 49.234-4.849A31.998 31.998 0 0 0 86 138m28-98a27.998 27.998 0 0 0-28 28\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M86 68v70m-32-32h80m-20-66h20m-80 66a32.001 32.001 0 0 0-22.627 54.627A31.998 31.998 0 0 0 86 138m28-98a28 28 0 0 0-28 28\"></path><circle cx=\"152\" cy=\"40\" r=\"18\"></circle><circle cx=\"152\" cy=\"106\" r=\"18\"></circle></svg>",
 		"samsung,flow",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M134 78V64a6 6 0 0 0-6-6H36a6 6 0 0 0-6 6v100a6 6 0 0 0 6 6h92a6 6 0 0 0 6-6v-14\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"82\" cy=\"40\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"48\" cy=\"114\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M134 78h10s0 16 16 12l10 14c-7 3-7 10-7 10m-29 36h10s0-16 16-12l10-14c-7-3-7-10-7-10m-29-36h-10s0 16-16 12l-10 14c7 3 7 10 7 10m29 36h-10s0-16-16-12l-10-14c7-3 7-10 7-10\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"134\" cy=\"114\" r=\"5\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M134 78V64a6 6 0 0 0-6-6H36a6 6 0 0 0-6 6v100a6 6 0 0 0 6 6h92a6 6 0 0 0 6-6v-14\"></path><path d=\"M134 78h10s0 16 16 12l10 14c-7 3-7 10-7 10m-29 36h10s0-16 16-12l10-14c-7-3-7-10-7-10m-29-36h-10s0 16-16 12l-10 14c7 3 7 10 7 10m29 36h-10s0-16-16-12l-10-14c7-3 7-10 7-10\"></path><circle cx=\"82\" cy=\"40\" r=\"18\"></circle><circle cx=\"48\" cy=\"114\" r=\"18\"></circle><circle cx=\"134\" cy=\"114\" r=\"5\" stroke-width=\"10\"></circle></svg>",
 		"samsung,game,plugins",
 		"Lawnicons"
 	],
@@ -380,7 +390,12 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\"><g fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\"><path stroke-width=\"2.117\" d=\"m19.994 40.75-5.93-4.89z\"></path><path d=\"M10.118 33.482c-.936 1.06-1.967 1.746-1.851 2.719.116.972 1.379 2.231 2.843 3.327 1.464 1.097 3.225 2.404 4.788 3.348 1.562.943 2.928 1.523 4.293 2.103M10.118 33.482l4.661-4.966 4.485-4.778c.435-.433.87-.866 1.546-1.079.676-.213 1.594-.207 2.51-.201m8.84 22.522c.016-4.721 1.172-12.283.688-15.202-.483-2.919-2.22-4.342-3.203-5.46m.57-5.243c.809-.086 2.318-.434 2.86-1.135.542-.701.732-3.436.678-4.22-.054-.784-.68-1.068-.862-1.875-.182-.808.03-2.112-.36-3.205-.391-1.092-1.658-1.795-2.81-2.269-2.635-.891-5.265-.85-7.069 1.277-.617.74-.984 1.661-1.23 2.38m.277 3.947c-1.53.557-3.062 1.115-4 1.765-.94.65-1.288 1.393-1.649 2.1-.36.709-.893 1-1.337 1.335-.444.334-1.856 1.112-2.37 1.106\"></path><path stroke-width=\"2.117\" d=\"m19.994 40.75-1.888-8.365\"></path><path d=\"m32.16 44.98 9.675-8.46m0 0c.834-.756 1.668-1.513 1.981-2.58.314-1.067.107-2.446-.278-3.19-.385-.744-.947-.853-1.51-.963\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" viewBox=\"0 0 192 192\"><path d=\"M111 96a44.006 44.006 0 0 1-87.155 8.584A44 44 0 0 1 67 52\"></path><path d=\"M81 96a44 44 0 1 1 44 44\"></path></svg>",
+		"samsung,good,guardians",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\"><g fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\"><path stroke-width=\"2.117\" d=\"m19.994 40.75-5.93-4.89z\"></path><path d=\"M10.118 33.482c-.936 1.06-1.967 1.746-1.851 2.719s1.379 2.231 2.843 3.327 3.225 2.404 4.788 3.348c1.562.943 2.928 1.523 4.293 2.103M10.118 33.482l4.661-4.966 4.485-4.778c.435-.433.87-.866 1.546-1.079s1.594-.207 2.51-.201m8.84 22.522c.016-4.721 1.172-12.283.688-15.202-.483-2.919-2.22-4.342-3.203-5.46m.57-5.243c.809-.086 2.318-.434 2.86-1.135s.732-3.436.678-4.22-.68-1.068-.862-1.875c-.182-.808.03-2.112-.36-3.205-.391-1.092-1.658-1.795-2.81-2.269-2.635-.891-5.265-.85-7.069 1.277-.617.74-.984 1.661-1.23 2.38m.277 3.947c-1.53.557-3.062 1.115-4 1.765-.94.65-1.288 1.393-1.649 2.1-.36.709-.893 1-1.337 1.335s-1.856 1.112-2.37 1.106\"></path><path stroke-width=\"2.117\" d=\"m19.994 40.75-1.888-8.365\"></path><path d=\"m32.16 44.98 9.675-8.46m0 0c.834-.756 1.668-1.513 1.981-2.58s.107-2.446-.278-3.19-.947-.853-1.51-.963\"></path></g></svg>",
 		"samsung,health",
 		"Lawnicons"
 	],
@@ -390,58 +405,88 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"64\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\"></circle><path d=\"M62.603 43.811c-21.721-4.938-38.745-2.857-44.542 7.184-9.941 17.218 16.896 51.324 59.942 76.177 43.046 24.853 86.001 31.041 95.942 13.823 5.716-9.9-.726-25.382-15.417-41.479l-4.298 13.441.184.233c4.866 6.184 7.7 11.492 8.913 15.561 1.202 4.035.53 5.718.226 6.244-.304.526-1.424 1.95-5.521 2.926-4.13.984-10.143 1.184-17.932.062-15.507-2.234-35.558-9.345-56.097-21.203-20.54-11.859-36.722-25.668-46.411-37.98-4.867-6.185-7.7-11.492-8.913-15.561-1.203-4.036-.53-5.718-.226-6.244.304-.526 1.424-1.95 5.52-2.926 3.937-.938 9.586-1.164 16.852-.21L62.603 43.81z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"m96 22 59.013 34.266A6 6 0 0 1 158 61.454V96M66 42 36.82 60.237A6 6 0 0 0 34 65.326V136m29 17 30.045 16.279a6 6 0 0 0 5.864-.082L158 135\"></path><path stroke-miterlimit=\"2\" d=\"M83.132 74C75.972 74 69 77.75 69 88.138 69 103.143 96 122 96 122s27-18.857 27-33.862C123 77.75 116.034 74 108.882 74c-5.585 0-9.845 3.888-12.882 8.571C92.949 77.866 88.703 74 83.132 74\"></path></svg>",
+		"samsung,health,platform",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 142v28\"></path><path stroke-width=\"8\" d=\"M84 60h8v8h-8z\"></path><path d=\"M64 50.856a6 6 0 0 1 2.216-4.657L96 22l29.784 24.2A6 6 0 0 1 128 50.855V82a6 6 0 0 1-6 6H70a6 6 0 0 1-6-6zM116 170v-21.717a20 20 0 0 0 22.846 3.654 20.001 20.001 0 0 0-4.944-37.553 20 20 0 0 0-18.314 5.749 24 24 0 0 0-39.176 0 20 20 0 1 0-.412 28.15V170\"></path></svg>",
+		"samsung,home,up",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"64\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\"></circle><path d=\"M62.603 43.811c-21.721-4.938-38.745-2.857-44.542 7.184-9.941 17.218 16.896 51.324 59.942 76.177s86.001 31.041 95.942 13.823c5.716-9.9-.726-25.382-15.417-41.479l-4.298 13.441.184.233c4.866 6.184 7.7 11.492 8.913 15.561 1.202 4.035.53 5.718.226 6.244s-1.424 1.95-5.521 2.926c-4.13.984-10.143 1.184-17.932.062-15.507-2.234-35.558-9.345-56.097-21.203-20.54-11.859-36.722-25.668-46.411-37.98-4.867-6.185-7.7-11.492-8.913-15.561-1.203-4.036-.53-5.718-.226-6.244s1.424-1.95 5.52-2.926c3.937-.938 9.586-1.164 16.852-.21z\"></path></svg>",
 		"samsung,internet,browser",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill-rule=\"evenodd\" d=\"M125 45.77C97.26 29.755 61.787 39.26 45.77 67a58.052 58.052 0 0 0-5.95 14.523c9.85 11.598 25.145 24.265 44.183 35.256A214.107 214.107 0 0 0 92 121.174v13.437a224.074 224.074 0 0 1-13.997-7.439c-15.885-9.171-29.563-19.603-40-29.98.422 19.603 10.776 38.517 28.997 49.037 8.276 4.779 17.227 7.282 26.143 7.714a27.992 27.992 0 0 0 7.272 12.068h-4.41c-11.903.011-23.97-3.018-35.005-9.389-25.96-14.988-38.688-44.094-34.085-72.02-9.918-13.168-13.63-25.336-8.854-33.607 4.776-8.273 17.172-11.142 33.537-9.135C73.481 23.92 105.045 20.393 131 35.378c18.517 10.691 30.296 28.563 33.863 48.054A27.966 27.966 0 0 0 156 82h-3.714c-3.67-14.75-13.094-28.036-27.286-36.23zM35.378 61a70.655 70.655 0 0 0-4.106 8.327c-1.204-2.25-2.057-4.29-2.593-6.088-1.202-4.036-.53-5.718-.226-6.244.304-.526 1.424-1.95 5.52-2.926 1.826-.435 4.02-.717 6.572-.799A70.652 70.652 0 0 0 35.378 61zM118 90a18 18 0 0 0-18 18v40a18 18 0 0 0 18 18h40a18 18 0 0 0 18-18v-40a18 18 0 0 0-18-18h-40zm-6 18a6 6 0 0 1 6-6h40a6 6 0 0 1 6 6v40a6 6 0 0 1-6 6h-40a6 6 0 0 1-6-6v-40zm29 16h-8v-6h8a3 3 0 1 1 0 6zm11-3a10.95 10.95 0 0 1-1.657 5.809A11 11 0 0 1 143 146h-14a4 4 0 0 1-4-4v-28a4 4 0 0 1 4-4h12a11 11 0 0 1 11 11zm-19 11h10a3 3 0 1 1 0 6h-10v-6z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill-rule=\"evenodd\" d=\"M125 45.77C97.26 29.755 61.787 39.26 45.77 67a58 58 0 0 0-5.95 14.523c9.85 11.598 25.145 24.265 44.183 35.256A214 214 0 0 0 92 121.174v13.437a224 224 0 0 1-13.997-7.439c-15.885-9.171-29.563-19.603-40-29.98.422 19.603 10.776 38.517 28.997 49.037 8.276 4.779 17.227 7.282 26.143 7.714a28 28 0 0 0 7.272 12.068h-4.41c-11.903.011-23.97-3.018-35.005-9.389-25.96-14.988-38.688-44.094-34.085-72.02-9.918-13.168-13.63-25.336-8.854-33.607 4.776-8.273 17.172-11.142 33.537-9.135C73.481 23.92 105.045 20.393 131 35.378c18.517 10.691 30.296 28.563 33.863 48.054A28 28 0 0 0 156 82h-3.714c-3.67-14.75-13.094-28.036-27.286-36.23M35.378 61a71 71 0 0 0-4.106 8.327c-1.204-2.25-2.057-4.29-2.593-6.088-1.202-4.036-.53-5.718-.226-6.244s1.424-1.95 5.52-2.926c1.826-.435 4.02-.717 6.572-.799A71 71 0 0 0 35.378 61M118 90a18 18 0 0 0-18 18v40a18 18 0 0 0 18 18h40a18 18 0 0 0 18-18v-40a18 18 0 0 0-18-18zm-6 18a6 6 0 0 1 6-6h40a6 6 0 0 1 6 6v40a6 6 0 0 1-6 6h-40a6 6 0 0 1-6-6zm29 16h-8v-6h8a3 3 0 1 1 0 6m11-3a10.95 10.95 0 0 1-1.657 5.809A11 11 0 0 1 143 146h-14a4 4 0 0 1-4-4v-28a4 4 0 0 1 4-4h12a11 11 0 0 1 11 11m-19 11h10a3 3 0 1 1 0 6h-10z\"></path></svg>",
 		"samsung,internet,browser,beta",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" stroke-width=\"6\" d=\"M118.249 69.174a8 8 0 0 1-7.295 6.454m16.514-1.419a12.499 12.499 0 0 1-11.398 10.084m20.618-5.049a17 17 0 0 1-15.502 13.715\"></path><path stroke-width=\"12\" d=\"m23.753 105.757 82.004-82.004a6 6 0 0 1 8.486 0l53.995 54.004a6 6 0 0 1 0 8.485l-81.996 81.996a6 6 0 0 1-8.485 0l-54.004-53.995a6 6 0 0 1 0-8.486z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" stroke-width=\"6\" d=\"M118.249 69.174a8 8 0 0 1-7.295 6.454m16.514-1.419a12.5 12.5 0 0 1-11.398 10.084m20.618-5.049a17 17 0 0 1-15.502 13.715\"></path><path stroke-width=\"12\" d=\"m23.753 105.757 82.004-82.004a6 6 0 0 1 8.486 0l53.995 54.004a6 6 0 0 1 0 8.485l-81.996 81.996a6 6 0 0 1-8.485 0l-54.004-53.995a6 6 0 0 1 0-8.486z\"></path></svg>",
 		"samsung,itau",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M66 104s14 14 30 14 30-14 30-14M22 52a22 22 0 0 1 37.556-15.556L91.81 67.912a6 6 0 0 0 8.38 0l32.254-31.468a21.994 21.994 0 0 1 23.975-4.77A21.997 21.997 0 0 1 170 52M22 140a22 22 0 1 0 44 0M37.556 74.444A22 22 0 0 0 22 68m15.556 6.444C50 87 50 88 66 104m60 36a21.992 21.992 0 0 0 6.444 15.556A21.99 21.99 0 0 0 148 162a21.992 21.992 0 0 0 15.556-6.444A21.99 21.99 0 0 0 170 140\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M126 68a21.992 21.992 0 0 0-6.444-15.556M22 52v88m148-88v88M66 104v36m60-72v72\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M37 138h118M37 170h118M37 138a16 16 0 0 0 0 32m118 0c4.243 0 8.313-1.686 11.314-4.686A16 16 0 0 0 155 138\"></path><path stroke-miterlimit=\"2\" stroke-width=\"10\" d=\"M142 21c-4.039 0-9 3-9 10 0 8 11.624 16.923 19 24 7.38-7.077 19-16.003 19-24 0-6.997-4.967-10-9-10-4.93 0-7.863 3.797-10 7-2.147-3.218-5.08-7-10-7\"></path><circle cx=\"38\" cy=\"38\" r=\"16\"></circle><circle cx=\"38\" cy=\"96\" r=\"16\"></circle><circle cx=\"96\" cy=\"38\" r=\"16\"></circle><circle cx=\"96\" cy=\"96\" r=\"16\"></circle><circle cx=\"154\" cy=\"96\" r=\"16\"></circle></svg>",
+		"samsung,keys,cafe",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m37 121 14-93h37l28 132H79m37-89h35l20 89h-35M21 99l8 61h35M51 28l28 132m37-89 20 89M21 99l43 61m52-89-12 27m25 31-13 31m-46-42-6 42\"></path></svg>",
+		"samsung,max,vpn",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M66 104s14 14 30 14 30-14 30-14M22 52a22 22 0 0 1 37.556-15.556L91.81 67.912a6 6 0 0 0 8.38 0l32.254-31.468A21.997 21.997 0 0 1 170 52M22 140a22 22 0 1 0 44 0M37.556 74.444A22 22 0 0 0 22 68m15.556 6.444C50 87 50 88 66 104m60 36a21.99 21.99 0 0 0 44 0\"></path><path d=\"M126 68a22 22 0 0 0-6.444-15.556M22 52v88m148-88v88M66 104v36m60-72v72\"></path></svg>",
 		"samsung,members",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M102.082 130.466V22C141.534 22 170 52.18 170 89.411v6.082m-67.918 34.466A40.04 40.041 0 0 1 62.042 170C39.926 170 22 152.073 22 129.959c0-22.114 17.927-40.041 40.041-40.041 22.114 0 40.041 17.927 40.041 40.041z\"></path><circle cx=\"62.613\" cy=\"129.387\" r=\"20.02\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M102.082 130.466V22C141.534 22 170 52.18 170 89.411v6.082m-67.918 34.466A40.04 40.04 0 0 1 62.042 170C39.926 170 22 152.073 22 129.959s17.927-40.041 40.041-40.041 40.041 17.927 40.041 40.041\"></path><circle cx=\"62.613\" cy=\"129.387\" r=\"20.02\"></circle></svg>",
 		"samsung,music",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><g fill=\"none\" stroke=\"#000\" stroke-width=\"12\"><path d=\"M48 30h96a18 18 45 0 1 18 18v60a14.49 14.49 112.5 0 1-4.243 10.24l-39.51 39.51a14.49 14.49 157.5 0 1-10.24 4.243h-60a18 18 45 0 1-18-18v-96a18 18 135 0 1 18-18z\"></path><path d=\"M110 162v-34a18 18 135 0 1 18-18h34\"></path><path stroke-linecap=\"round\" d=\"M32 130h16M32 62h16M32 96h16\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><g fill=\"none\" stroke=\"#000\" stroke-width=\"12\"><path d=\"M48 30h96a18 18 45 0 1 18 18v60a14.5 14.5 112.5 0 1-4.243 10.24l-39.51 39.51a14.5 14.5 157.5 0 1-10.24 4.243h-60a18 18 45 0 1-18-18v-96a18 18 135 0 1 18-18z\"></path><path d=\"M110 162v-34a18 18 135 0 1 18-18h34\"></path><path stroke-linecap=\"round\" d=\"M32 130h16M32 62h16M32 96h16\"></path></g></svg>",
 		"samsung,notes",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M93 84v32\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"77\" cy=\"100\" r=\"16\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M160 99c-14 0-15-15 0-16 7 0 11 5 11 5m-49.122 11c-14 0-15-15 0-16 7 0 11 5 11 5m27.244 11c14 0 15 16 0 17-7 0-11-5-11-5M122 99c14 0 15 16 0 17-7 0-11-5-11-5M21 98h13m0 0a14 14 0 0 0 0-28m0 0h-7a6 6 0 0 0-6 6v40\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><path d=\"M93 84v32m67-17c-14 0-15-15 0-16 7 0 11 5 11 5m-49.122 11c-14 0-15-15 0-16 7 0 11 5 11 5m27.244 11c14 0 15 16 0 17-7 0-11-5-11-5M122 99c14 0 15 16 0 17-7 0-11-5-11-5M21 98h13m0 0a14 14 0 0 0 0-28m0 0h-7a6 6 0 0 0-6 6v40\"></path><circle cx=\"77\" cy=\"100\" r=\"16\"></circle></svg>",
 		"samsung,pass",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"92\" cy=\"99\" r=\"21\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M36 100a18 18 0 1 0 0-36m-14 36h14m0-36h-8a6 6 0 0 0-6 6v50m91-42v42m57-42-26 64m-12-64 19 47\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"92\" cy=\"99\" r=\"21\"></circle><path d=\"M36 100a18 18 0 1 0 0-36m-14 36h14m0-36h-8a6 6 0 0 0-6 6v50m91-42v42m57-42-26 64m-12-64 19 47\"></path></svg>",
 		"samsung,pay",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path stroke-width=\"10\" d=\"M113.141 161.949v-25.085m0-13.378v13.378m27.593 25.085v-25.085c0-15.887-27.593-12.542-27.593 0m-87.796-15.887v14.215m0 25.921v-25.921m25.92 25.921v-25.921c0-13.378-27.593-12.542-25.92 0m25.92 0c0-13.378 26.758-13.378 25.921 0v25.921m19.232-37.627v37.627m61.04-35.955v37.627\"></path><path stroke-linejoin=\"round\" d=\"M170 43.215 151.605 87.81m-9.198 22.297 9.198-22.297m0 0-20.904-44.595M22 94.22V66.627m0 0V30a1 1 0 0 1 1-1h18.44a19.023 19.023 0 0 1 19.023 19.023v0c0 10.667-8.77 19.25-19.436 19.018zm91.141-23.412v50.17\"></path><circle cx=\"96\" cy=\"110\" r=\"3.5\" stroke-width=\"5\"></circle><circle cx=\"157\" cy=\"111\" r=\"3.5\" stroke-width=\"5\"></circle><ellipse cx=\"90.565\" cy=\"67.463\" rx=\"20.904\" ry=\"21.74\"></ellipse></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M33 158v-44l20 24 20-24v44m20-30v30m65-30v30m-45-30v30m25-18v18m0-18c0-16-25-16-25 0M38 66a18 18 0 1 0 0-36M22 86V36a6 6 0 0 1 6-6h10m75 14v42m57-42-24 56m-14-56 18 42M22 66h16\"></path><circle cx=\"92\" cy=\"65\" r=\"20\"></circle></svg>",
 		"samsung,pay,mini",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"164\" r=\"6\"></circle><circle cx=\"96\" cy=\"26\" r=\"5\" stroke-width=\"10\"></circle><path d=\"M142 83a46 46 0 0 0-92 0m0 0v26.167a27.977 27.977 0 0 0-19.359 20.879C29.935 133.284 32.685 136 36 136h120c3.314 0 6.064-2.716 5.36-5.954A28.074 28.074 0 0 0 142 109.167V83\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"m68 95 48-29M68 95l48 28M96 22S74 41 35 41v67c0 39.5 61 62 61 62s61-22 61-62V41c-39 0-61-19-61-19\"></path><circle cx=\"68\" cy=\"95\" r=\"6\"></circle><circle cx=\"116\" cy=\"123\" r=\"6\"></circle><circle cx=\"116\" cy=\"66\" r=\"6\"></circle></svg>",
+		"samsung,private,share",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"164\" r=\"6\"></circle><circle cx=\"96\" cy=\"26\" r=\"5\" stroke-width=\"10\"></circle><path d=\"M142 83a46 46 0 0 0-92 0m0 0v26.167a27.98 27.98 0 0 0-19.359 20.879C29.935 133.284 32.685 136 36 136h120c3.314 0 6.064-2.716 5.36-5.954A28.07 28.07 0 0 0 142 109.167V83\"></path></svg>",
 		"samsung,reminder",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m64 86 32 32 58-60\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M170 96a74 74 0 1 1-54.847-71.478m-.003-.002L96 44\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"m64 86 32 32 58-60\"></path><path d=\"M170 96a74 74 0 1 1-54.847-71.478m-.003-.002L96 44\"></path></svg>",
 		"samsung,routines",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M133 31.914a74 74 0 1 0-17.847 135.565M148 114v44m-22-22h44\"></path><path d=\"m64 93 28 24 56-55\"></path></svg>",
+		"samsung,routines,plus",
 		"Lawnicons"
 	],
 	[
@@ -450,22 +495,22 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" d=\"M42 73s-4-4-10-4-11 3-11 10 11 9 11 9m-11 15s4 4 10 4 11-3 11-10-11-9-11-9m110 37V77m-84 30V69m25 38V91m0-1.5c0-1.51-.323-3.006-.951-4.4a11.486 11.486 0 0 0-2.71-3.732 12.622 12.622 0 0 0-4.055-2.493 13.45 13.45 0 0 0-9.568 0 12.622 12.622 0 0 0-4.055 2.493 11.486 11.486 0 0 0-2.71 3.731A10.707 10.707 0 0 0 57 89.5\"></path><circle cx=\"156\" cy=\"92\" r=\"15\"></circle><circle cx=\"112\" cy=\"92\" r=\"15\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"10\" viewBox=\"0 0 192 192\"><path stroke-linecap=\"round\" d=\"M42 73s-4-4-10-4-11 3-11 10 11 9 11 9m-11 15s4 4 10 4 11-3 11-10-11-9-11-9m110 37V77m-84 30V69m25 38V91m0-1.5c0-1.51-.323-3.006-.951-4.4a11.5 11.5 0 0 0-2.71-3.732 12.6 12.6 0 0 0-4.055-2.493 13.45 13.45 0 0 0-9.568 0 12.6 12.6 0 0 0-4.055 2.493 11.5 11.5 0 0 0-2.71 3.731A10.7 10.7 0 0 0 57 89.5\"></path><circle cx=\"156\" cy=\"92\" r=\"15\"></circle><circle cx=\"112\" cy=\"92\" r=\"15\"></circle></svg>",
 		"samsung,shop",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"80\" cy=\"40\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"96\" cy=\"152\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"130\" cy=\"96\" r=\"18\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M150 96h14M28 96h82m6 56h48m-136 0h48m24-112h64M28 40h32\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"80\" cy=\"40\" r=\"18\"></circle><circle cx=\"96\" cy=\"152\" r=\"18\"></circle><circle cx=\"130\" cy=\"96\" r=\"18\"></circle><path d=\"M150 96h14M28 96h82m6 56h48m-136 0h48m24-112h64M28 40h32\"></path></svg>",
 		"samsung,sound,assistant",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96 23v35\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M128 141.426A64.002 64.002 0 0 0 96 22a64 64 0 0 0-32 119.426\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m96 98 48 72H48l48-72Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M124 86h34M34 86h34m42 24.249a28.002 28.002 0 0 0 3.045-46.463 27.998 27.998 0 0 0-44.09 14.967A28 28 0 0 0 82 110.25\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path stroke-width=\"10\" d=\"M96 23v35\"></path><path d=\"M128 141.426A64.002 64.002 0 0 0 96 22a64 64 0 0 0-32 119.426\"></path><path d=\"m96 98 48 72H48z\"></path><path stroke-width=\"10\" d=\"M124 86h34M34 86h34m42 24.249a28.002 28.002 0 0 0 3.045-46.463 27.998 27.998 0 0 0-44.09 14.967A28 28 0 0 0 82 110.25\"></path></svg>",
 		"samsung,theme,park",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M46 67a6 6 0 0 1 6-6h88a6 6 0 0 1 6 6v42a6 6 0 0 1-6 6h-18v10a6 6 0 0 1-6 6H76a6 6 0 0 1-6-6v-10H52a6 6 0 0 1-6-6V67Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M170 61v88a6 6 0 0 1-6 6H46M146 37H28a6 6 0 0 0-6 6v72\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M46 67a6 6 0 0 1 6-6h88a6 6 0 0 1 6 6v42a6 6 0 0 1-6 6h-18v10a6 6 0 0 1-6 6H76a6 6 0 0 1-6-6v-10H52a6 6 0 0 1-6-6z\"></path><path d=\"M170 61v88a6 6 0 0 1-6 6H46M146 37H28a6 6 0 0 0-6 6v72\"></path></svg>",
 		"samsung,tv,plus",
 		"Lawnicons"
 	],
@@ -475,7 +520,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M22 141.731A20.205 20.269 0 0 0 42.205 162H149.29c11.159 0 20.205-9.075 20.205-20.269 0-10.042-6.098-18.379-18.883-19.988-2.725-.343-5.094-2.164-6.054-4.737-6.097-16.341-21.806-27.973-40.224-27.973-18.417 0-34.126 11.632-40.223 27.973-.96 2.573-3.315 4.457-6.06 4.457H42.204a20.205 20.268 0 0 0-20.205 20.268z\"></path><path stroke-linecap=\"round\" d=\"M49.328 119.942a49.293 49.293 0 0 1-2.072-14.188c0-27.145 21.936-49.151 48.997-49.151 27.06 0 48.996 22.006 48.996 49.151 0 2.585-.199 5.124-.582 7.601M22 104.234h9.25m129.5 0H170m-17.925-32.477 8.011-4.64m-31.711-19.135L133 39.946m-37-.667V30M63.625 47.982 59 39.946m-19.075 31.81-8.01-4.639\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M22 141.731A20.205 20.269 0 0 0 42.205 162H149.29c11.159 0 20.205-9.075 20.205-20.269 0-10.042-6.098-18.379-18.883-19.988-2.725-.343-5.094-2.164-6.054-4.737-6.097-16.341-21.806-27.973-40.224-27.973s-34.126 11.632-40.223 27.973c-.96 2.573-3.315 4.457-6.06 4.457H42.204a20.205 20.268 0 0 0-20.205 20.268z\"></path><path stroke-linecap=\"round\" d=\"M49.328 119.942a49.3 49.3 0 0 1-2.072-14.188c0-27.145 21.936-49.151 48.997-49.151 27.06 0 48.996 22.006 48.996 49.151 0 2.585-.199 5.124-.582 7.601M22 104.234h9.25m129.5 0H170m-17.925-32.477 8.011-4.64m-31.711-19.135L133 39.946m-37-.667V30M63.625 47.982 59 39.946m-19.075 31.81-8.01-4.639\"></path></svg>",
 		"samsung,weather",
 		"Lawnicons"
 	],

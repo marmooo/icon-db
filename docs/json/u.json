@@ -25,7 +25,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"8\" d=\"M84 144s5 9 17 9 15-12 15-12M62 38l20-3m46 6 16-2m-15 20 16-2m-76 9 19-2\"></path><path stroke-width=\"12\" d=\"M51 111c-4 49 22 59 46 59 40 0 50-19 50-65h-30s-4 19-17 20-19-17-19-17zm-4-24.597-3-61C52.876 23.083 64 22 64 22c30 0 15 25 15 25 25 7 11.333 30.5 0 37-26.154 15-32 2.403-32 2.403zM109 25l36-3 2 63-35 1z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"8\" d=\"M84 144s5 9 17 9 15-12 15-12M62 38l20-3m46 6 16-2m-15 20 16-2m-76 9 19-2\"></path><path stroke-width=\"12\" d=\"M51 111c-4 49 22 59 46 59 40 0 50-19 50-65h-30s-4 19-17 20-19-17-19-17zm-4-24.597-3-61C52.876 23.083 64 22 64 22c30 0 15 25 15 25 25 7 11.333 30.5 0 37-26.154 15-32 2.403-32 2.403M109 25l36-3 2 63-35 1z\"></path></svg>",
 		"be,u",
 		"Lawnicons"
 	],
@@ -35,7 +35,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"14\" viewBox=\"0 0 192 192\"><path d=\"M23 96V23\"></path><path fill=\"#000\" stroke=\"none\" d=\"M176 23a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z\"></path><path d=\"M169 96V63m0 33a73 73 0 1 1-146 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"14\" viewBox=\"0 0 192 192\"><path d=\"M23 96V23\"></path><path fill=\"#000\" stroke=\"none\" d=\"M176 23a7 7 0 1 1-14 0 7 7 0 0 1 14 0\"></path><path d=\"M169 96V63m0 33a73 73 0 1 1-146 0\"></path></svg>",
 		"u,jing",
 		"Lawnicons"
 	],
@@ -390,12 +390,12 @@
 		"IconPark Icons"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 12H20C20.5523 12 21 12.4477 21 13V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V13C3 12.4477 3.44772 12 4 12ZM5 2H19V10H5V2ZM9 5V7H11V5H9ZM13 5V7H15V5H13Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 12H20C20.5523 12 21 12.4477 21 13V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V13C3 12.4477 3.44772 12 4 12ZM5 2H19V10H5V2ZM9 5V7H11V5H9ZM13 5V7H15V5H13Z\"></path></svg>",
 		"device,u,disk,filled",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 12H5V20H19V12ZM5 10V2H19V10H20C20.5523 10 21 10.4477 21 11V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V11C3 10.4477 3.44772 10 4 10H5ZM7 10H17V4H7V10ZM9 6H11V8H9V6ZM13 6H15V8H13V6Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 12H5V20H19V12ZM5 10V2H19V10H20C20.5523 10 21 10.4477 21 11V21C21 21.5523 20.5523 22 20 22H4C3.44772 22 3 21.5523 3 21V11C3 10.4477 3.44772 10 4 10H5ZM7 10H17V4H7V10ZM9 6H11V8H9V6ZM13 6H15V8H13V6Z\"></path></svg>",
 		"device,u,disk,line",
 		"Remix Icon"
 	],
@@ -418,6 +418,16 @@
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7 3.5C7 3.22386 6.77614 3 6.5 3C6.22386 3 6 3.22386 6 3.5V10C6 12.2091 7.79086 14 10 14C12.2091 14 14 12.2091 14 10V3.5C14 3.22386 13.7761 3 13.5 3C13.2239 3 13 3.22386 13 3.5V10C13 11.6569 11.6569 13 10 13C8.34315 13 7 11.6569 7 10V3.5ZM5.5 16C5.22386 16 5 16.2239 5 16.5C5 16.7761 5.22386 17 5.5 17H14.5C14.7761 17 15 16.7761 15 16.5C15 16.2239 14.7761 16 14.5 16H5.5Z\" fill=\"#212121\"></path></svg>",
 		"text,underline,character,u,text,underline,character,u,regular",
 		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 14V8.00005C8 5.23862 10.2386 3 13 3C15.7614 3 18 5.23862 18 8.00005V21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 11C10.4379 12.5621 9.5621 13.4379 8 15C6.4379 13.4379 5.5621 12.5621 4 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,u,turn,arrow,left",
+		"Iconoir"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 14V8.00005C16 5.23862 13.7614 3 11 3C8.23858 3 6 5.23862 6 8.00005V21\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 11C13.5621 12.5621 14.4379 13.4379 16 15C17.5621 13.4379 18.4379 12.5621 20 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"regular,u,turn,arrow,right",
+		"Iconoir"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M236,112a68.07,68.07,0,0,1-68,68H61l27.52,27.51a12,12,0,0,1-17,17l-48-48a12,12,0,0,1,0-17l48-48a12,12,0,1,1,17,17L61,156H168a44,44,0,0,0,0-88H80a12,12,0,0,1,0-24h88A68.07,68.07,0,0,1,236,112Z\"></path></svg>",
@@ -685,17 +695,17 @@
 		"OOUI"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 10C17.1046 10 18 10.8954 18 12V28C18 31.3137 20.6863 34 24 34C27.3137 34 30 31.3137 30 28V12C30 10.8954 30.8954 10 32 10C33.1046 10 34 10.8954 34 12V28C34 33.5228 29.5228 38 24 38C18.4772 38 14 33.5228 14 28V12C14 10.8954 14.8954 10 16 10Z\" fill=\"currentColor\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 10C17.1046 10 18 10.8954 18 12V28C18 31.3137 20.6863 34 24 34C27.3137 34 30 31.3137 30 28V12C30 10.8954 30.8954 10 32 10C33.1046 10 34 10.8954 34 12V28C34 33.5228 29.5228 38 24 38C18.4772 38 14 33.5228 14 28V12C14 10.8954 14.8954 10 16 10Z\" fill=\"black\"></path></svg>",
 		"filled,typography,u",
 		"Health Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_2161_774)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48 0H0V48H48V0ZM18 12C18 10.8954 17.1046 10 16 10C14.8954 10 14 10.8954 14 12V28C14 33.5229 18.4772 38 24 38C29.5228 38 34 33.5229 34 28V12C34 10.8954 33.1046 10 32 10C30.8954 10 30 10.8954 30 12V28C30 31.3137 27.3137 34 24 34C20.6863 34 18 31.3137 18 28V12Z\" fill=\"currentColor\"></path></g><defs><clipPath id=\"clip0_2161_774\"><rect width=\"48\" height=\"48\" fill=\"none\"></rect></clipPath></defs></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_2161_774)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48 0H0V48H48V0ZM18 12C18 10.8954 17.1046 10 16 10C14.8954 10 14 10.8954 14 12V28C14 33.5229 18.4772 38 24 38C29.5228 38 34 33.5229 34 28V12C34 10.8954 33.1046 10 32 10C30.8954 10 30 10.8954 30 12V28C30 31.3137 27.3137 34 24 34C20.6863 34 18 31.3137 18 28V12Z\" fill=\"black\"></path></g><defs><clipPath id=\"clip0_2161_774\"><rect width=\"48\" height=\"48\" fill=\"white\"></rect></clipPath></defs></svg>",
 		"negative,typography,u",
 		"Health Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 12C13 10.3431 14.3431 9 16 9C17.6569 9 19 10.3431 19 12V28C19 30.7614 21.2386 33 24 33C26.7614 33 29 30.7614 29 28V12C29 10.3431 30.3431 9 32 9C33.6569 9 35 10.3431 35 12V28C35 34.0751 30.0751 39 24 39C17.9249 39 13 34.0751 13 28V12ZM16 11C15.4477 11 15 11.4477 15 12V28C15 32.9706 19.0294 37 24 37C28.9706 37 33 32.9706 33 28V12C33 11.4477 32.5523 11 32 11C31.4477 11 31 11.4477 31 12V28C31 31.866 27.866 35 24 35C20.134 35 17 31.866 17 28V12C17 11.4477 16.5523 11 16 11Z\" fill=\"currentColor\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 12C13 10.3431 14.3431 9 16 9C17.6569 9 19 10.3431 19 12V28C19 30.7614 21.2386 33 24 33C26.7614 33 29 30.7614 29 28V12C29 10.3431 30.3431 9 32 9C33.6569 9 35 10.3431 35 12V28C35 34.0751 30.0751 39 24 39C17.9249 39 13 34.0751 13 28V12ZM16 11C15.4477 11 15 11.4477 15 12V28C15 32.9706 19.0294 37 24 37C28.9706 37 33 32.9706 33 28V12C33 11.4477 32.5523 11 32 11C31.4477 11 31 11.4477 31 12V28C31 31.866 27.866 35 24 35C20.134 35 17 31.866 17 28V12C17 11.4477 16.5523 11 16 11Z\" fill=\"black\"></path></svg>",
 		"outline,typography,u",
 		"Health Icons"
 	],
@@ -733,5 +743,40 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> arrow-right-u-turn-small</title><path d=\"M6.5,24 L6.5,6.5 C6.5,3.7 8.7,1.5 11.5,1.5 C14.3,1.5 16.5,3.7 16.5,6.5 L16.5,12.5 M21,8 L16.5,12.5 L12,8\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
 		"arrow,right,u,turn",
 		"Audi Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path></svg>",
+		"letter,u,circle",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"letter,u,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M20.5 15.8V8.2a1.91 1.91 0 0 0-.944-1.645l-6.612-3.8a1.88 1.88 0 0 0-1.888 0l-6.612 3.8A1.895 1.895 0 0 0 3.5 8.2v7.602a1.91 1.91 0 0 0 .944 1.644l6.612 3.8a1.88 1.88 0 0 0 1.888 0l6.612-3.8A1.895 1.895 0 0 0 20.5 15.8\"></path></svg>",
+		"letter,u,hexagon",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M7.805 3.469C8.16 3.115 8.451 3 8.937 3h6.126c.486 0 .778.115 1.132.469l4.336 4.336c.354.354.469.646.469 1.132v6.126c0 .5-.125.788-.469 1.132l-4.336 4.336c-.354.354-.646.469-1.132.469H8.937c-.5 0-.788-.125-1.132-.469L3.47 16.195c-.355-.355-.47-.646-.47-1.132V8.937c0-.5.125-.788.469-1.132z\"></path></svg>",
+		"letter,u,octagon",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M3 12c0-4.243 0-6.364 1.318-7.682C5.636 3 7.758 3 12 3c4.243 0 6.364 0 7.682 1.318C21 5.636 21 7.758 21 12c0 4.243 0 6.364-1.318 7.682C18.364 21 16.242 21 12 21c-4.243 0-6.364 0-7.682-1.318C3 18.364 3 16.242 3 12\"></path></svg>",
+		"letter,u,square",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M9.713 3.64c.581-.495.872-.743 1.176-.888a2.577 2.577 0 0 1 2.222 0c.304.145.595.393 1.176.888.599.51 1.207.768 2.007.831.761.061 1.142.092 1.46.204.734.26 1.312.837 1.571 1.572.112.317.143.698.204 1.46.063.8.32 1.407.83 2.006.496.581.744.872.889 1.176.336.703.336 1.52 0 2.222-.145.304-.393.595-.888 1.176a3.306 3.306 0 0 0-.831 2.007c-.061.761-.092 1.142-.204 1.46a2.577 2.577 0 0 1-1.572 1.571c-.317.112-.698.143-1.46.204-.8.063-1.407.32-2.006.83-.581.496-.872.744-1.176.889a2.577 2.577 0 0 1-2.222 0c-.304-.145-.595-.393-1.176-.888a3.306 3.306 0 0 0-2.007-.831c-.761-.061-1.142-.092-1.46-.204a2.577 2.577 0 0 1-1.571-1.572c-.112-.317-.143-.698-.204-1.46a3.305 3.305 0 0 0-.83-2.006c-.496-.581-.744-.872-.89-1.176a2.577 2.577 0 0 1 .001-2.222c.145-.304.393-.595.888-1.176.52-.611.769-1.223.831-2.007.061-.761.092-1.142.204-1.46a2.577 2.577 0 0 1 1.572-1.571c.317-.112.698-.143 1.46-.204a3.305 3.305 0 0 0 2.006-.83\"></path></svg>",
+		"letter,u,waves",
+		"MynaUI Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M8 7v7.5a2.5 2.5 0 0 0 2.5 2.5H13a2.5 2.5 0 0 0 2.5-2.5V7\"></path></svg>",
+		"letter,u",
+		"MynaUI Icons"
 	]
 ]

@@ -25,7 +25,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path d=\"M105 25c0 5.34-5.24 11.264-7.723 13.771a1.78 1.78 0 0 1-2.554 0C92.239 36.264 87 30.341 87 25a9 9 0 1 1 18 0zM87 167c0-5.341 5.24-11.264 7.723-13.771a1.779 1.779 0 0 1 2.554 0C99.761 155.736 105 161.659 105 167a9 9 0 0 1-18 0zm80-62c-5.341 0-11.264-5.24-13.771-7.723a1.779 1.779 0 0 1 0-2.554C155.736 92.239 161.659 87 167 87a9 9 0 0 1 0 18zM25 87c5.34 0 11.264 5.24 13.771 7.723a1.78 1.78 0 0 1 0 2.554C36.264 99.761 30.341 105 25 105a9 9 0 1 1 0-18zm127.569-34.84c-3.777 3.776-11.67 4.26-15.199 4.277a1.78 1.78 0 0 1-1.806-1.807c.017-3.53.5-11.422 4.277-15.199a9 9 0 1 1 12.728 12.728zM39.431 139.841c3.777-3.777 11.67-4.26 15.2-4.277a1.78 1.78 0 0 1 1.805 1.806c-.017 3.529-.5 11.422-4.277 15.199a9 9 0 1 1-12.728-12.728zm100.41 12.728c-3.777-3.777-4.26-11.67-4.277-15.199a1.78 1.78 0 0 1 1.806-1.806c3.529.017 11.422.5 15.199 4.277a9.001 9.001 0 0 1 0 12.728 9.001 9.001 0 0 1-12.728 0zM52.16 39.431c3.776 3.777 4.26 11.67 4.277 15.2a1.78 1.78 0 0 1-1.807 1.805c-3.53-.017-11.422-.5-15.199-4.277a9 9 0 0 1 12.728-12.727z\"></path><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m80 96 16 16 32-32\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><path d=\"M105 25c0 5.34-5.24 11.264-7.723 13.771a1.78 1.78 0 0 1-2.554 0C92.239 36.264 87 30.341 87 25a9 9 0 1 1 18 0M87 167c0-5.341 5.24-11.264 7.723-13.771a1.78 1.78 0 0 1 2.554 0C99.761 155.736 105 161.659 105 167a9 9 0 0 1-18 0m80-62c-5.341 0-11.264-5.24-13.771-7.723a1.78 1.78 0 0 1 0-2.554C155.736 92.239 161.659 87 167 87a9 9 0 0 1 0 18M25 87c5.34 0 11.264 5.24 13.771 7.723a1.78 1.78 0 0 1 0 2.554C36.264 99.761 30.341 105 25 105a9 9 0 1 1 0-18m127.569-34.84c-3.777 3.776-11.67 4.26-15.199 4.277a1.78 1.78 0 0 1-1.806-1.807c.017-3.53.5-11.422 4.277-15.199a9 9 0 1 1 12.728 12.728zM39.431 139.841c3.777-3.777 11.67-4.26 15.2-4.277a1.78 1.78 0 0 1 1.805 1.806c-.017 3.529-.5 11.422-4.277 15.199a9 9 0 1 1-12.728-12.728m100.41 12.728c-3.777-3.777-4.26-11.67-4.277-15.199a1.78 1.78 0 0 1 1.806-1.806c3.529.017 11.422.5 15.199 4.277a9 9 0 0 1-12.728 12.728M52.16 39.431c3.776 3.777 4.26 11.67 4.277 15.2a1.78 1.78 0 0 1-1.807 1.805c-3.53-.017-11.422-.5-15.199-4.277a9 9 0 0 1 12.728-12.727z\"></path><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m80 96 16 16 32-32\"></path></svg>",
 		"focus,todo",
 		"Lawnicons"
 	],
@@ -350,34 +350,379 @@
 		"IconPark Icons"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2ZM12 20C16.4267 20 20 16.4267 20 12C20 7.57333 16.4267 4 12 4C7.57333 4 4 7.57333 4 12C4 16.4267 7.57333 20 12 20ZM12 18C8.68 18 6 15.32 6 12C6 8.68 8.68 6 12 6C15.32 6 18 8.68 18 12C18 15.32 15.32 18 12 18ZM12 10C10.9 10 10 10.9 10 12C10 13.1 10.9 14 12 14C13.1 14 14 13.1 14 12C14 10.9 13.1 10 12 10Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2ZM12 20C16.4267 20 20 16.4267 20 12C20 7.57333 16.4267 4 12 4C7.57333 4 4 7.57333 4 12C4 16.4267 7.57333 20 12 20ZM12 18C8.68 18 6 15.32 6 12C6 8.68 8.68 6 12 6C15.32 6 18 8.68 18 12C18 15.32 15.32 18 12 18ZM12 10C10.9 10 10 10.9 10 12C10 13.1 10.9 14 12 14C13.1 14 14 13.1 14 12C14 10.9 13.1 10 12 10Z\"></path></svg>",
 		"design,focus,2,filled",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16ZM12 18C8.68629 18 6 15.3137 6 12C6 8.68629 8.68629 6 12 6C15.3137 6 18 8.68629 18 12C18 15.3137 15.3137 18 12 18ZM12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16ZM12 18C8.68629 18 6 15.3137 6 12C6 8.68629 8.68629 6 12 6C15.3137 6 18 8.68629 18 12C18 15.3137 15.3137 18 12 18ZM12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14Z\"></path></svg>",
 		"design,focus,2,line",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 1L13.001 4.06201C16.6192 4.51365 19.4869 7.38163 19.9381 11L23 11V13L19.938 13.001C19.4864 16.6189 16.6189 19.4864 13.001 19.938L13 23H11L11 19.9381C7.38163 19.4869 4.51365 16.6192 4.06201 13.001L1 13V11L4.06189 11C4.51312 7.38129 7.38129 4.51312 11 4.06189L11 1H13ZM12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 1L13.001 4.06201C16.6192 4.51365 19.4869 7.38163 19.9381 11L23 11V13L19.938 13.001C19.4864 16.6189 16.6189 19.4864 13.001 19.938L13 23H11L11 19.9381C7.38163 19.4869 4.51365 16.6192 4.06201 13.001L1 13V11L4.06189 11C4.51312 7.38129 7.38129 4.51312 11 4.06189L11 1H13ZM12 10C10.8954 10 10 10.8954 10 12C10 13.1046 10.8954 14 12 14C13.1046 14 14 13.1046 14 12C14 10.8954 13.1046 10 12 10Z\"></path></svg>",
 		"design,focus,3,filled",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 1L13.001 4.06201C16.6192 4.51365 19.4869 7.38163 19.9381 11L23 11V13L19.938 13.001C19.4864 16.6189 16.6189 19.4864 13.001 19.938L13 23H11L11 19.9381C7.38163 19.4869 4.51365 16.6192 4.06201 13.001L1 13V11L4.06189 11C4.51312 7.38129 7.38129 4.51312 11 4.06189L11 1H13ZM12 6C8.68629 6 6 8.68629 6 12C6 15.3137 8.68629 18 12 18C15.3137 18 18 15.3137 18 12C18 8.68629 15.3137 6 12 6ZM12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13 1L13.001 4.06201C16.6192 4.51365 19.4869 7.38163 19.9381 11L23 11V13L19.938 13.001C19.4864 16.6189 16.6189 19.4864 13.001 19.938L13 23H11L11 19.9381C7.38163 19.4869 4.51365 16.6192 4.06201 13.001L1 13V11L4.06189 11C4.51312 7.38129 7.38129 4.51312 11 4.06189L11 1H13ZM12 6C8.68629 6 6 8.68629 6 12C6 15.3137 8.68629 18 12 18C15.3137 18 18 15.3137 18 12C18 8.68629 15.3137 6 12 6ZM12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10Z\"></path></svg>",
 		"design,focus,3,line",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2ZM12 10C10.9 10 10 10.9 10 12C10 13.1 10.9 14 12 14C13.1 14 14 13.1 14 12C14 10.9 13.1 10 12 10Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2C17.52 2 22 6.48 22 12C22 17.52 17.52 22 12 22C6.48 22 2 17.52 2 12C2 6.48 6.48 2 12 2ZM12 10C10.9 10 10 10.9 10 12C10 13.1 10.9 14 12 14C13.1 14 14 13.1 14 12C14 10.9 13.1 10 12 10Z\"></path></svg>",
 		"design,focus,filled",
 		"Remix Icon"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14Z\"></path></svg>",
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 14C10.8954 14 10 13.1046 10 12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12C14 13.1046 13.1046 14 12 14Z\"></path></svg>",
 		"design,focus,line",
 		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 3C3.44772 3 3 3.44772 3 4V8H5V5H8V3H4ZM20 3H16V5H19V8H21V4C21 3.44772 20.5523 3 20 3ZM5 16V19H8V21H4C3.44772 21 3 20.5523 3 20V16H5ZM19 16V19H16V21H20C20.5523 21 21 20.5523 21 20V16H19ZM10 9C9.44772 9 9 9.44772 9 10V14C9 14.5523 9.44772 15 10 15H14C14.5523 15 15 14.5523 15 14V10C15 9.44772 14.5523 9 14 9H10Z\"></path></svg>",
+		"editor,focus,mode",
+		"Remix Icon"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,bottom,left,layout,cell,four,focus,bottom,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,bottom,left,layout,cell,four,focus,bottom,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,bottom,right,layout,cell,four,focus,bottom,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,bottom,right,layout,cell,four,focus,bottom,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,top,left,layout,cell,four,focus,top,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16ZM10.5 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,top,left,layout,cell,four,focus,top,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,top,right,layout,cell,four,focus,top,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H9.5V9.5H4V6ZM4 10.5H9.5V16H6C4.89543 16 4 15.1046 4 14V10.5ZM16 10.5V14C16 15.1046 15.1046 16 14 16H10.5V10.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,cell,four,focus,top,right,layout,cell,four,focus,top,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H7V4H6ZM10 4V16H12.5V4H10ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,center,left,layout,column,four,focus,center,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H7V4H6ZM10 4V16H12.5V4H10ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,center,left,layout,column,four,focus,center,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H6.5V4H6ZM10 16V4H7.5V16H10ZM13 16H14C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,center,right,layout,column,four,focus,center,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H6.5V4H6ZM10 16V4H7.5V16H10ZM13 16H14C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,center,right,layout,column,four,focus,center,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 3C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14ZM16 6C16 4.89543 15.1046 4 14 4H13.5V16H14C15.1046 16 16 15.1046 16 14V6ZM12.5 16V4H10V16H12.5ZM6.5 16H9V4H6.5V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,left,layout,column,four,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 3C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14ZM16 6C16 4.89543 15.1046 4 14 4H13.5V16H14C15.1046 16 16 15.1046 16 14V6ZM12.5 16V4H10V16H12.5ZM6.5 16H9V4H6.5V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,left,layout,column,four,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H6.5V16H6C4.89543 16 4 15.1046 4 14V6ZM7.5 16V4H10V16H7.5ZM13.5 16H11V4H13.5V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,right,layout,column,four,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H6.5V16H6C4.89543 16 4 15.1046 4 14V6ZM7.5 16V4H10V16H7.5ZM13.5 16H11V4H13.5V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,four,focus,right,layout,column,four,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H8V16H6C4.89543 16 4 15.1046 4 14V6ZM12 16V4H14C15.1046 4 16 4.89543 16 6V14C16 15.1046 15.1046 16 14 16H12Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,center,layout,column,three,focus,center,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H8V16H6C4.89543 16 4 15.1046 4 14V6ZM12 16V4H14C15.1046 4 16 4.89543 16 6V14C16 15.1046 15.1046 16 14 16H12Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,center,layout,column,three,focus,center,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM12 16V4H8V16H12ZM13 16H14C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,left,layout,column,three,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM12 16V4H8V16H12ZM13 16H14C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H13V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,left,layout,column,three,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6ZM8 16V4H12V16H8ZM7 16H6C4.89543 16 4 15.1046 4 14V6C4 4.89543 4.89543 4 6 4H7V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,right,layout,column,three,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6ZM8 16V4H12V16H8ZM7 16H6C4.89543 16 4 15.1046 4 14V6C4 4.89543 4.89543 4 6 4H7V16Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,three,focus,right,layout,column,three,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM10 16V4H14C15.1046 4 16 4.89543 16 6V14C16 15.1046 15.1046 16 14 16H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,focus,left,layout,column,two,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM10 16V4H14C15.1046 4 16 4.89543 16 6V14C16 15.1046 15.1046 16 14 16H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,focus,left,layout,column,two,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H10V16H6C4.89543 16 4 15.1046 4 14V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,focus,right,layout,column,two,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H10V16H6C4.89543 16 4 15.1046 4 14V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,focus,right,layout,column,two,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V10H9.5V4H6ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,bottom,layout,column,two,split,left,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V10H9.5V4H6ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,bottom,layout,column,two,split,left,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V9.5H10V4H6ZM10 16V10.5H4V14C4 15.1046 4.89543 16 6 16H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,right,layout,column,two,split,left,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V9.5H10V4H6ZM10 16V10.5H4V14C4 15.1046 4.89543 16 6 16H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,right,layout,column,two,split,left,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM9.5 10H4V14C4 15.1046 4.89543 16 6 16H9.5V10ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,top,layout,column,two,split,left,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM9.5 10H4V14C4 15.1046 4.89543 16 6 16H9.5V10ZM14 16C15.1046 16 16 15.1046 16 14V6C16 4.89543 15.1046 4 14 4H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,left,focus,top,layout,column,two,split,left,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H9.5V4H6ZM10.5 10H16V6C16 4.89543 15.1046 4 14 4H10.5V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,bottom,layout,column,two,split,right,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H9.5V4H6ZM10.5 10H16V6C16 4.89543 15.1046 4 14 4H10.5V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,bottom,layout,column,two,split,right,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM10 4V9.5H16V6C16 4.89543 15.1046 4 14 4H10ZM10 10.5V16H14C15.1046 16 16 15.1046 16 14V10.5H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,left,layout,column,two,split,right,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM10 4V9.5H16V6C16 4.89543 15.1046 4 14 4H10ZM10 10.5V16H14C15.1046 16 16 15.1046 16 14V10.5H10Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,left,layout,column,two,split,right,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H9.5V4H6ZM14 16C15.1046 16 16 15.1046 16 14V10H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,top,layout,column,two,split,right,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V14C4 15.1046 4.89543 16 6 16H9.5V4H6ZM14 16C15.1046 16 16 15.1046 16 14V10H10.5V16H14Z\" fill=\"#212121\"></path></svg>",
+		"layout,column,two,split,right,focus,top,layout,column,two,split,right,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V6.5H16V6C16 4.89543 15.1046 4 14 4H6ZM16 7.5H4V10H16V7.5ZM16 13.5V11H4V13.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,bottom,layout,row,four,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V6.5H16V6C16 4.89543 15.1046 4 14 4H6ZM16 7.5H4V10H16V7.5ZM16 13.5V11H4V13.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,bottom,layout,row,four,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 17C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14ZM16 14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V13H16V14ZM16 10H4V7.5H16V10ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V6.5H4V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,center,bottom,layout,row,four,focus,center,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 17C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14ZM16 14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V13H16V14ZM16 10H4V7.5H16V10ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V6.5H4V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,center,bottom,layout,row,four,focus,center,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 3C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14ZM16 6C16 4.89543 15.1046 4 14 4H6C4.89543 4 4 4.89543 4 6V7H16V6ZM16 10H4V12.5H16V10ZM4 14C4 15.1046 4.89543 16 6 16H14C15.1046 16 16 15.1046 16 14V13.5H4V14Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,center,top,layout,row,four,focus,center,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 3C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14ZM16 6C16 4.89543 15.1046 4 14 4H6C4.89543 4 4 4.89543 4 6V7H16V6ZM16 10H4V12.5H16V10ZM4 14C4 15.1046 4.89543 16 6 16H14C15.1046 16 16 15.1046 16 14V13.5H4V14Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,center,top,layout,row,four,focus,center,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14ZM6 16C4.89543 16 4 15.1046 4 14V13.5H16V14C16 15.1046 15.1046 16 14 16H6ZM16 12.5H4V10H16V12.5ZM16 6.5V9H4V6.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,top,layout,row,four,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14ZM6 16C4.89543 16 4 15.1046 4 14V13.5H16V14C16 15.1046 15.1046 16 14 16H6ZM16 12.5H4V10H16V12.5ZM16 6.5V9H4V6.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,four,focus,top,layout,row,four,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 17C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6ZM16 8H4V12H16V8ZM16 7V6C16 4.89543 15.1046 4 14 4H6C4.89543 4 4 4.89543 4 6V7H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,bottom,layout,row,three,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 17C4.34315 17 3 15.6569 3 14V6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6ZM16 8H4V12H16V8ZM16 7V6C16 4.89543 15.1046 4 14 4H6C4.89543 4 4 4.89543 4 6V7H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,bottom,layout,row,three,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14ZM6 16C4.89543 16 4 15.1046 4 14V12H16V14C16 15.1046 15.1046 16 14 16H6ZM16 8H4V6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V8Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,center,layout,row,three,focus,center,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6C4.34315 3 3 4.34315 3 6V14ZM6 16C4.89543 16 4 15.1046 4 14V12H16V14C16 15.1046 15.1046 16 14 16H6ZM16 8H4V6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V8Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,center,layout,row,three,focus,center,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM16 12H4V8H16V12ZM16 13V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V13H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,top,layout,row,three,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM16 12H4V8H16V12ZM16 13V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V13H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,three,focus,top,layout,row,three,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V10H4V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,focus,bottom,layout,row,two,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V10H4V6Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,focus,bottom,layout,row,two,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 10H16V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,focus,top,layout,row,two,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 10H16V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,focus,top,layout,row,two,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V9.5H4V6ZM10 10.5H16V14C16 15.1046 15.1046 16 14 16H10V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,left,layout,row,two,split,bottom,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V9.5H4V6ZM10 10.5H16V14C16 15.1046 15.1046 16 14 16H10V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,left,layout,row,two,split,bottom,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V9.5H4V6ZM4 10.5H10V16H6C4.89543 16 4 15.1046 4 14V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,right,layout,row,two,split,bottom,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H14C15.1046 4 16 4.89543 16 6V9.5H4V6ZM4 10.5H10V16H6C4.89543 16 4 15.1046 4 14V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,right,layout,row,two,split,bottom,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM16 10H10.5V16H14C15.1046 16 16 15.1046 16 14V10ZM9.5 10H4V14C4 15.1046 4.89543 16 6 16H9.5V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,top,layout,row,two,split,bottom,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM16 10H10.5V16H14C15.1046 16 16 15.1046 16 14V10ZM9.5 10H4V14C4 15.1046 4.89543 16 6 16H9.5V10Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,bottom,focus,top,layout,row,two,split,bottom,focus,top,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V10H9.5V4H6ZM10.5 4V10H16V6C16 4.89543 15.1046 4 14 4H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,bottom,layout,row,two,split,top,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6C3 4.34315 4.34315 3 6 3H14C15.6569 3 17 4.34315 17 6V14C17 15.6569 15.6569 17 14 17H6C4.34315 17 3 15.6569 3 14V6ZM6 4C4.89543 4 4 4.89543 4 6V10H9.5V4H6ZM10.5 4V10H16V6C16 4.89543 15.1046 4 14 4H10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,bottom,layout,row,two,split,top,focus,bottom,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM10 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10ZM16 10.5V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,left,layout,row,two,split,top,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM10 9.5V4H14C15.1046 4 16 4.89543 16 6V9.5H10ZM16 10.5V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10.5H16Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,left,layout,row,two,split,top,focus,left,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H10V9.5H4V6ZM4 10.5H16V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,right,layout,row,two,split,top,focus,right,filled",
+		"Fluent UI System Icons"
+	],
+	[
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 3C4.34315 3 3 4.34315 3 6V14C3 15.6569 4.34315 17 6 17H14C15.6569 17 17 15.6569 17 14V6C17 4.34315 15.6569 3 14 3H6ZM4 6C4 4.89543 4.89543 4 6 4H10V9.5H4V6ZM4 10.5H16V14C16 15.1046 15.1046 16 14 16H6C4.89543 16 4 15.1046 4 14V10.5Z\" fill=\"#212121\"></path></svg>",
+		"layout,row,two,split,top,focus,right,layout,row,two,split,top,focus,right,filled",
+		"Fluent UI System Icons"
 	],
 	[
 		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 16C17.1046 16 18 15.1046 18 14V6C18 4.89543 17.1046 4 16 4L4 4C2.89543 4 2 4.89543 2 6L2 14C2 15.1046 2.89543 16 4 16L16 16ZM7 5L7 15L4 15C3.44772 15 3 14.5523 3 14L3 6C3 5.44771 3.44772 5 4 5L7 5Z\" fill=\"#212121\"></path></svg>",
@@ -583,5 +928,10 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"focus_view\" focusable=\"false\"><path d=\"M640 640V256h128v512H256V640h384zm-384 768v-128h512v512H640v-384H256zm1024 384v-512h512v128h-384v384h-128zm128-1152h384v128h-512V256h128v384z\"></path></svg>",
 		"focus,view",
 		"Fluent UI MDL2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M7.5 20.886c-1.463-.144-2.447-.47-3.182-1.204-.735-.735-1.06-1.72-1.204-3.182M7.5 3.114c-1.463.144-2.447.47-3.182 1.204-.735.735-1.06 1.72-1.204 3.182M16.5 3.114c1.463.144 2.447.47 3.182 1.204.735.735 1.06 1.72 1.204 3.182M16.5 20.886c1.463-.144 2.447-.47 3.182-1.204.735-.735 1.06-1.72 1.204-3.182\"></path><path stroke-miterlimit=\"1\" d=\"M15 12a3 3 0 1 0-6 0 3 3 0 0 0 6 0\"></path></svg>",
+		"center,focus",
+		"MynaUI Icons"
 	]
 ]
