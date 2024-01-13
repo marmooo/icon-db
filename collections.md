@@ -369,3 +369,6 @@
   [MIT](https://github.com/praveenjuge/mynaui-icons/blob/main/LICENSE)
 - [Gravity UI icons](https://github.com/gravity-ui/icons) licensed under the
   [MIT](https://github.com/gravity-ui/icons/blob/main/LICENSE)
+- [Framework7 Icons](https://github.com/framework7io/framework7-icons) licensed
+  under the
+  [MIT](https://github.com/framework7io/framework7-icons/blob/master/LICENSE)
