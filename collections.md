@@ -372,3 +372,5 @@
 - [Framework7 Icons](https://github.com/framework7io/framework7-icons) licensed
   under the
   [MIT](https://github.com/framework7io/framework7-icons/blob/master/LICENSE)
+- [Scarlab Icons](https://github.com/la-moore/scarlab-icons) licensed under the
+  [MIT](https://github.com/la-moore/scarlab-icons/blob/master/LICENSE)
