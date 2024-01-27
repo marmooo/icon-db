@@ -374,3 +374,5 @@
   [MIT](https://github.com/framework7io/framework7-icons/blob/master/LICENSE)
 - [Scarlab Icons](https://github.com/la-moore/scarlab-icons) licensed under the
   [MIT](https://github.com/la-moore/scarlab-icons/blob/master/LICENSE)
+- [Huge Icons](https://github.com/zerolimitir/huge-icons) licensed under the
+  [MIT](https://github.com/zerolimitir/huge-icons/blob/main/LICENSE)
