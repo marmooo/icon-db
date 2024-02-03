@@ -376,3 +376,5 @@
   [MIT](https://github.com/la-moore/scarlab-icons/blob/master/LICENSE)
 - [Huge Icons](https://github.com/zerolimitir/huge-icons) licensed under the
   [MIT](https://github.com/zerolimitir/huge-icons/blob/main/LICENSE)
+- [JTB-Icons](https://github.com/JTBLabs/JTB-Icons) licensed under the
+  [MIT](https://github.com/JTBLabs/JTB-Icons/blob/main/LICENSE)
