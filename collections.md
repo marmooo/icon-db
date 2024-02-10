@@ -378,3 +378,6 @@
   [MIT](https://github.com/zerolimitir/huge-icons/blob/main/LICENSE)
 - [JTB-Icons](https://github.com/JTBLabs/JTB-Icons) licensed under the
   [MIT](https://github.com/JTBLabs/JTB-Icons/blob/main/LICENSE)
+- [Spectrum-CSS Workflow Icons](https://github.com/adobe/spectrum-css-workflow-icons)
+  licensed under the
+  [Apache-2.0](https://github.com/adobe/spectrum-css-workflow-icons/blob/main/LICENSE)
