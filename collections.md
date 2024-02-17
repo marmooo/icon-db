@@ -381,3 +381,6 @@
 - [Spectrum-CSS Workflow Icons](https://github.com/adobe/spectrum-css-workflow-icons)
   licensed under the
   [Apache-2.0](https://github.com/adobe/spectrum-css-workflow-icons/blob/main/LICENSE)
+- [Denali Icons](https://github.com/denali-design/denali-icons) licensed under
+  the
+  [MIT](https://github.com/denali-design/denali-icons/blob/master/LICENSE.md)
