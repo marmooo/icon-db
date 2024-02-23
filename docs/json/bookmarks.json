@@ -25,6 +25,46 @@
 		"Metro UI CSS"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"translate(-265.0004,211.00336)\" style=\"display:inline\"><path d=\"m 273 -210.61 -2.119 5.494 -5.881 0.316 4.572 3.715 -1.516 5.691 1.633 -1.059 3.311 -2.143 4.943 3.201 -1.516 -5.691 4.572 -3.715 -5.881 -0.316 z\" style=\"visibility:visible;fill:#bebebe;opacity:1;fill-opacity:1;stroke:none;color:#000\"></path></g></svg>",
+		"@numix-icon-theme,places,user,bookmarks,symbolic",
+		"Numix icon theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 16.933 16.933\"><rect width=\"12.171\" height=\"14.287\" x=\"2.381\" y=\"1.323\" fill=\"#c83737\" fill-rule=\"evenodd\" rx=\".794\" ry=\".794\" style=\"paint-order:fill markers stroke\"></rect><path fill=\"#fff\" d=\"M4.498 1.323v6.349l1.059-1.059 1.057 1.058V1.32z\"></path><path fill-rule=\"evenodd\" d=\"M3.175 1.323a.792.792 0 0 0-.794.794v12.7c0 .44.354.793.794.793h.794V1.323z\" opacity=\".2\" style=\"paint-order:fill markers stroke\"></path></svg>",
+		"@tela-icon-theme,apps,bookmarks,organize",
+		"Tela Icon Theme"
+	],
+	[
+		"<svg version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path class=\"ColorScheme-Text\" d=\"m4 2v12l4-1.594 4 1.594v-12h-7z\" fill=\"currentColor\"></path></svg>",
+		"@breeze-icons,actions,bookmarks,bookmarked",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m4 2v12l4-1.594 4 1.594v-12h-7zm1 1h6v9.594l-3-1.188-3 1.188v-2.594z\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,bookmarks",
+		"Breeze Icons"
+	],
+	[
+		"<svg version=\"1.1\" viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path class=\"ColorScheme-Text\" d=\"m6 3v16l5-2 5 2v-16h-10\" fill=\"currentColor\"></path></svg>",
+		"@breeze-icons,actions,bookmarks,bookmarked",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m6 3v1 14 1l5-2 5 2v-1-14-1h-10m1 1h8v13.599609l-4-1.599609-4 1.599609v-13.599609\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,bookmarks",
+		"Breeze Icons"
+	],
+	[
+		"<svg version=\"1.1\" viewBox=\"0 0 32 32\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path class=\"ColorScheme-Text\" d=\"m8 4v24l8-4 8 4v-24z\" fill=\"currentColor\"></path></svg>",
+		"@breeze-icons,actions,bookmarks,bookmarked",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m8 4v24l8-4 8 4v-24zm1 1h14v21.557l-7-3.557-7 3.557z\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,bookmarks",
+		"Breeze Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-bookmarks-fill\" viewBox=\"0 0 16 16\"><path d=\"M2 4a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v11.5a.5.5 0 0 1-.777.416L7 13.101l-4.223 2.815A.5.5 0 0 1 2 15.5z\"></path><path d=\"M4.268 1A2 2 0 0 1 6 0h6a2 2 0 0 1 2 2v11.5a.5.5 0 0 1-.777.416L13 13.768V2a1 1 0 0 0-1-1z\"></path></svg>",
 		"@bootstrap-icons,bookmarks,filled",
 		"Bootstrap Icons"
@@ -188,16 +228,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M192,28H96A12,12,0,0,0,84,40V60H64A12,12,0,0,0,52,72V224a4,4,0,0,0,6.33,3.25L112,188.92l53.69,38.33A3.94,3.94,0,0,0,168,228a4.08,4.08,0,0,0,1.83-.44A4,4,0,0,0,172,224V176.92l25.68,18.33A3.94,3.94,0,0,0,200,196a4.08,4.08,0,0,0,1.83-.44A4,4,0,0,0,204,192V40A12,12,0,0,0,192,28ZM164,216.23l-49.68-35.48a4,4,0,0,0-4.65,0L60,216.23V72a4,4,0,0,1,4-4h96a4,4,0,0,1,4,4Zm32-32-24-17.14V72a12,12,0,0,0-12-12H92V40a4,4,0,0,1,4-4h96a4,4,0,0,1,4,4Z\"></path></svg>",
 		"@phosphor-icons,thin,bookmarks",
 		"Phosphor Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 16.933 16.933\"><rect width=\"12.171\" height=\"14.287\" x=\"2.381\" y=\"1.323\" fill=\"#c83737\" fill-rule=\"evenodd\" rx=\".794\" ry=\".794\" style=\"paint-order:fill markers stroke\"></rect><path fill=\"#fff\" d=\"M4.498 1.323v6.349l1.059-1.059 1.057 1.058V1.32z\"></path><path fill-rule=\"evenodd\" d=\"M3.175 1.323a.792.792 0 0 0-.794.794v12.7c0 .44.354.793.794.793h.794V1.323z\" opacity=\".2\" style=\"paint-order:fill markers stroke\"></path></svg>",
-		"@tela-icon-theme,apps,bookmarks,organize",
-		"Tela Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"translate(-265.0004,211.00336)\" style=\"display:inline\"><path d=\"m 273 -210.61 -2.119 5.494 -5.881 0.316 4.572 3.715 -1.516 5.691 1.633 -1.059 3.311 -2.143 4.943 3.201 -1.516 -5.691 4.572 -3.715 -5.881 -0.316 z\" style=\"visibility:visible;fill:#bebebe;opacity:1;fill-opacity:1;stroke:none;color:#000\"></path></g></svg>",
-		"@numix-icon-theme,places,user,bookmarks,symbolic",
-		"Numix icon theme"
 	],
 	[
 		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Folder Bookmarks Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Folder Bookmarks Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"M 15.15625 24.1875 C 11.06279 24.1875 7.75 27.50028 7.75 31.59375 L 7.75 44.71875 L 7.75 55.9375 L 7.75 96.4375 C 7.75 100.53096 11.06279 103.8125 15.15625 103.8125 L 112.84375 103.8125 C 116.93721 103.8125 120.25 100.53096 120.25 96.4375 L 120.25 44.71875 C 120.25 40.62528 116.93713 37.368899 112.84375 37.34375 L 53.40625 37.34375 L 53.40625 31.59375 C 53.40625 27.50028 50.124709 24.1875 46.03125 24.1875 L 15.15625 24.1875 z M 64.15625 46.375 L 73.28125 60.84375 L 89.8125 65.3125 L 78.875 78.46875 L 79.6875 95.5625 L 63.8125 89.25 L 47.8125 95.3125 L 48.90625 78.25 L 38.1875 64.90625 L 54.78125 60.6875 L 64.15625 46.375 z\" style=\"fill:#aaaaaa\"></path></svg>",

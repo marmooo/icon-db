@@ -384,3 +384,5 @@
 - [Denali Icons](https://github.com/denali-design/denali-icons) licensed under
   the
   [MIT](https://github.com/denali-design/denali-icons/blob/master/LICENSE.md)
+- [Breeze Icons](https://github.com/KDE/breeze-icons) licensed under the
+  [LGPL-3.0](https://github.com/KDE/breeze-icons/blob/master/COPYING-ICONS)

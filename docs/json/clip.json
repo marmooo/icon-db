@@ -130,6 +130,26 @@
 		"JTB-Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect width=\"56\" height=\"48\" x=\"4\" y=\"8\" fill=\"#9960d2\" rx=\"7\" ry=\"7\" style=\"paint-order:stroke fill markers\"></rect><circle cx=\"31.999\" cy=\"29.968\" r=\"14.001\" fill=\"#fff\" opacity=\".3\"></circle><circle cx=\"31.999\" cy=\"30.001\" r=\"11.001\" fill=\"#6746c3\"></circle><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M28.967 24.947c-.554.01-.999.457-.999 1.01v8.085c0 .807.9 1.288 1.571.84l7.076-4.042c.6-.4.6-1.281 0-1.681l-7.076-4.042a1.01 1.01 0 0 0-.572-.17z\" color=\"#000\" style=\"isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal\"></path><rect width=\"28\" height=\"3\" x=\"26\" y=\"48\" fill=\"#fff\" opacity=\".25\" rx=\"1.5\" ry=\"1.5\"></rect><rect width=\"19\" height=\"3\" x=\"10\" y=\"48\" fill=\"#6746c3\" rx=\"1.5\" ry=\"1.5\"></rect></svg>",
+		"@tela-icon-theme,apps,clip",
+		"Tela Icon Theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 3 3 L 3 4 L 3 5 L 3 18 L 3 19 L 18 19 L 19 19 L 19 5 L 19 4 L 19 3 L 3 3 z M 6 5 L 16 5 L 16 17 L 6 17 L 6 5 z M 4 6 L 5 6 L 5 7 L 4 7 L 4 6 z M 17 6 L 18 6 L 18 7 L 17 7 L 17 6 z M 4 8 L 5 8 L 5 9 L 4 9 L 4 8 z M 9 8 L 9 14 L 13 11 L 9 8 z M 17 8 L 18 8 L 18 9 L 17 9 L 17 8 z M 4 10 L 5 10 L 5 11 L 4 11 L 4 10 z M 17 10 L 18 10 L 18 11 L 17 11 L 17 10 z M 4 12 L 5 12 L 5 13 L 4 13 L 4 12 z M 17 12 L 18 12 L 18 13 L 17 13 L 17 12 z M 4 14 L 5 14 L 5 15 L 4 15 L 4 14 z M 17 14 L 18 14 L 18 15 L 17 15 L 17 14 z M 4 16 L 5 16 L 5 17 L 4 17 L 4 16 z M 17 16 L 18 16 L 18 17 L 17 17 L 17 16 z\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,kdenlive,add,clip",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 3 3 L 3 17 L 3 18 L 3 19 L 19 19 L 19 18 L 19 17 L 19 3 L 3 3 z M 15.59375 8 C 16.0802 9.7025 17.28759 11.17195 17.8125 12.34375 C 17.99621 12.69215 18.09375 13.0773 18.09375 13.5 C 18.09375 14.885 16.97875 16 15.59375 16 C 14.20875 16 13.09375 14.885 13.09375 13.5 C 13.09375 13.0773 13.22255 12.69215 13.40625 12.34375 C 13.93118 11.17195 15.10729 9.7025 15.59375 8 z\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,kdenlive,add,color,clip",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 3 4 L 3 18 L 19 18 L 19 4 L 3 4 z M 10.941406 5.078125 A 6 6 0 0 1 17 11 L 17 11.078125 A 6 6 0 0 1 11.019531 17.078125 A 6 6 0 0 1 5 11.117188 A 6 6 0 0 1 10.941406 5.078125 z\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,path,clip,edit",
+		"Breeze Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M160-160v-640h60v640h-60Zm580 0v-290H320v-60h420v-290h60v640h-60Z\"></path></svg>",
 		"@material-symbols,outline,format,text,clip,filled",
 		"Material Symbols"
@@ -278,11 +298,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path d=\"M172.72 1007.632c-43.408 0-85.085-17.965-118.301-51.213-73.648-73.888-73.648-194.063-.017-267.903L628.674 78.692c89.6-89.744 226.848-81.68 327.008 18.608 44.88 44.96 70.064 109.776 69.12 177.904-.945 67.409-27.28 131.92-72.289 177.008L518.497 914.26c-12.08 12.945-32.336 13.536-45.231 1.393-12.864-12.16-13.488-32.448-1.36-45.345l434.672-462.752c34-34.064 53.504-82.385 54.223-133.249.72-50.895-17.664-98.88-50.368-131.664-61.44-61.568-161.473-93.808-235.841-19.264L100.336 733.203c-49.376 49.503-49.36 129.008-.64 177.855 22.847 22.864 49.967 34 78.847 32.255 28.576-1.744 57.952-16.4 82.72-41.232L718.19 415.745c16.56-16.592 49.84-57.264 15.968-91.216-19.184-19.216-32.656-18.032-37.087-17.664-12.656 1.12-27.44 9.872-42.784 25.264l-343.92 365.776c-12.144 12.912-32.416 13.536-45.233 1.36-12.88-12.128-13.472-32.448-1.36-45.312L608.32 287.489c27.088-27.216 54.784-41.968 82.976-44.496 22-1.953 54.72 2.736 88.096 36.208 49.536 49.631 43.376 122.432-15.28 181.216L307.184 946.72c-36.48 36.608-80.529 57.872-124.721 60.591-3.248.224-6.496.32-9.744.32z\"></path></svg>",
 		"@simple-line-icons,paper,clip",
 		"Simple Line Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect width=\"56\" height=\"48\" x=\"4\" y=\"8\" fill=\"#9960d2\" rx=\"7\" ry=\"7\" style=\"paint-order:stroke fill markers\"></rect><circle cx=\"31.999\" cy=\"29.968\" r=\"14.001\" fill=\"#fff\" opacity=\".3\"></circle><circle cx=\"31.999\" cy=\"30.001\" r=\"11.001\" fill=\"#6746c3\"></circle><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M28.967 24.947c-.554.01-.999.457-.999 1.01v8.085c0 .807.9 1.288 1.571.84l7.076-4.042c.6-.4.6-1.281 0-1.681l-7.076-4.042a1.01 1.01 0 0 0-.572-.17z\" color=\"#000\" style=\"isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal\"></path><rect width=\"28\" height=\"3\" x=\"26\" y=\"48\" fill=\"#fff\" opacity=\".25\" rx=\"1.5\" ry=\"1.5\"></rect><rect width=\"19\" height=\"3\" x=\"10\" y=\"48\" fill=\"#6746c3\" rx=\"1.5\" ry=\"1.5\"></rect></svg>",
-		"@tela-icon-theme,apps,clip",
-		"Tela Icon Theme"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M359.486 53.883c-18.533.924-36.916 8.152-52.168 23.404L50.463 334.143c-15.528 15.527-21.196 34.746-19.207 52.65 1.99 17.904 11.053 34.485 23.793 47.225 12.738 12.74 29.32 21.803 47.223 23.793 17.905 1.99 37.123-3.68 52.65-19.206l220.163-220.16c20.998-21 19.447-48.32 4.586-63.182-14.86-14.86-42.183-16.413-63.182 4.586L169.717 306.62l12.728 12.73L329.22 172.576c15.694-15.695 29.653-12.66 37.725-4.588 8.073 8.073 11.108 22.032-4.588 37.727l-220.16 220.16c-11.992 11.992-24.88 15.498-37.935 14.047-13.056-1.45-26.29-8.44-36.485-18.633-10.194-10.195-17.182-23.43-18.632-36.485-1.45-13.056 2.054-25.944 14.046-37.936L320.046 90.015c16.358-16.358 35.173-20.603 54.918-17.27 19.745 3.334 40.126 14.96 56.195 31.03 16.07 16.068 27.696 36.45 31.03 56.195 3.333 19.746-.912 38.56-17.27 54.92l-220.16 220.16 12.726 12.727 220.162-220.162c20.336-20.335 26.41-46.24 22.29-70.642-4.118-24.402-17.718-47.595-36.05-65.926-18.33-18.332-41.523-31.93-65.925-36.05-6.1-1.03-12.296-1.422-18.474-1.114z\"></path></svg>",

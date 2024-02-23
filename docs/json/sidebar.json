@@ -5,11 +5,6 @@
 		"Paper Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g color=\"#bebebe\" fill=\"#4c5263\"><path d=\"m 635.00016,50 -4,3 4,3 v -2 h 4 v -2 h -4 z\" style=\"marker:none\" overflow=\"visible\" transform=\"translate(-625 -44.997)\"></path><path d=\"m 628.00016,59.99969 10,-0.004 V 57.9996 h -8 v -10 0 l 8,-0.002 v -2.002 l -10,0.004 z\" style=\"marker:none\" overflow=\"visible\" transform=\"translate(-625 -44.997)\"></path></g></svg>",
-		"@paper-icons,actions,sidebar,show,symbolic",
-		"Paper Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" width=\"76\" height=\"76\" viewBox=\"0 0 76.00 76.00\" enable-background=\"new 0 0 76.00 76.00\" xml:space=\"preserve\"><path fill=\"#000000\" fill-opacity=\"1\" stroke-width=\"0.2\" stroke-linejoin=\"round\" d=\"M 22,19L 54,19L 54,57L 22,57L 22,19 Z M 25,22L 25,54L 51,54L 51,22L 25,22 Z M 27,24L 49,24L 49,31L 27,31L 27,24 Z M 27,33L 41,33L 41,52L 27,52L 27,33 Z M 43,52L 43,33L 49,33L 49,52L 43,52 Z M 44,34L 44,51L 48,51L 48,34L 44,34 Z\"></path></svg>",
 		"@windows-icons,appbar,layout,sidebar",
 		"Windows Icons"
@@ -48,6 +43,51 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M896 1024h-768q-53 0-90.5-37.5t-37.5-90.5v-768q0-53 37.5-90.5t90.5-37.5h768q53 0 90.5 37.5t37.5 90.5v768q0 53-37.5 90.5t-90.5 37.5zM128 864q0 13 9.5 22.5t22.5 9.5h352v-448h-384v416zM512 128h-352q-13 0-22.5 9.5t-9.5 22.5v160h384v-192zM896 160q0-13-9.5-22.5t-22.5-9.5h-224v768h224q13 0 22.5-9.5t9.5-22.5v-704z\"></path></svg>",
 		"@webhostinghub-glyphs,sidebar",
 		"WebHostingHub Glyphs"
+	],
+	[
+		"<svg version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m2 2v12h12v-12zm4 2h6v8h-6z\" style=\"color:#bebebe;fill:#bebebe\"></path></svg>",
+		"@numix-icon-theme,actions,view,sidebar,symbolic",
+		"Numix icon theme"
+	],
+	[
+		"<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\" transform=\"matrix(-1 0 0 1 16 0)\"><path d=\"m14 2v12h-12v-12zm-4 1h-7v10h7z\"></path><path d=\"m5.353484 4.6464844 3.353516 3.3535156-3.353516 3.353516-.707031-.707032 2.6464846-2.646484-2.6464846-2.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,collapse,left",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m14 2v12h-12v-12zm-4 1h-7v10h7z\"></path><path d=\"m5.353484 4.6464844 3.353516 3.3535156-3.353516 3.353516-.707031-.707032 2.6464846-2.646484-2.6464846-2.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,collapse,right",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m2 2v12h12v-12zm4 1h7v10h-7z\"></path><path d=\"m8.3530312 4.6464844-.7070312.7070312 2.646484 2.6464844-2.646484 2.646484.7070312.707032 3.3535158-3.353516z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,expand,left",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m14 2v12h-12v-12zm-4 1h-7v10h7z\"></path><path d=\"m7.6469688 4.6464844.7070312.7070312-2.646484 2.6464844 2.646484 2.646484-.7070312.707032-3.3535158-3.353516z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,expand,right",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m3 3v16h16v-16zm5 1h10v14h-10z\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path><path d=\"m14.646484 6.6464844-4.353515 4.3535156 4.353515 4.353516.707032-.707032-3.646485-3.646484 3.646485-3.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,collapse,left",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m19 3v16h-16v-16zm-5 1h-10v14h10z\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path><path d=\"m7.353516 6.6464844 4.353515 4.3535156-4.353515 4.353516-.707032-.707032 3.646485-3.646484-3.646485-3.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,collapse,right",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m3 3v16h16v-16zm5 1h10v14h-10z\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path><path d=\"m11.353516 6.6464844 4.353515 4.3535156-4.353515 4.353516-.707032-.707032 3.646485-3.646484-3.646485-3.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,expand,left",
+		"Breeze Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style><g class=\"ColorScheme-Text\" fill=\"currentColor\"><path d=\"m19 3v16h-16v-16zm-5 1h-10v14h10z\" stroke-linecap=\"square\" stroke-linejoin=\"round\"></path><path d=\"m10.646484 6.6464844-4.3535152 4.3535156 4.3535152 4.353516.707032-.707032-3.6464848-3.646484 3.6464848-3.6464844z\"></path></g></svg>",
+		"@breeze-icons,actions,sidebar,expand,right",
+		"Breeze Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-layout-sidebar-inset-reverse\" viewBox=\"0 0 16 16\"><path d=\"M2 2a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1zm12-1a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2z\"></path><path d=\"M13 4a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1z\"></path></svg>",
@@ -423,11 +463,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M216,44H40A12,12,0,0,0,28,56V200a12,12,0,0,0,12,12H216a12,12,0,0,0,12-12V56A12,12,0,0,0,216,44ZM36,200V148H56a4,4,0,0,0,0-8H36V116H56a4,4,0,0,0,0-8H36V84H56a4,4,0,0,0,0-8H36V56a4,4,0,0,1,4-4H84V204H40A4,4,0,0,1,36,200Zm184,0a4,4,0,0,1-4,4H92V52H216a4,4,0,0,1,4,4Z\"></path></svg>",
 		"@phosphor-icons,thin,sidebar",
 		"Phosphor Icons"
-	],
-	[
-		"<svg version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m2 2v12h12v-12zm4 2h6v8h-6z\" style=\"color:#bebebe;fill:#bebebe\"></path></svg>",
-		"@numix-icon-theme,actions,view,sidebar,symbolic",
-		"Numix icon theme"
 	],
 	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M2 1.00073L1 2.00073V14.0007L2 15.0007H14L15 14.0007V2.00073L14 1.00073H2ZM2 14.0007V2.00073H6V14.0007H2ZM7 14.0007V2.00073H14V14.0007H7Z\"></path></svg>",

@@ -60,6 +60,16 @@
 		"Elementor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m2 2v2c5.523 0 10 4.477 10 10h2c0-6.627-5.373-12-12-12m0 4v2c3.314 0 6 2.686 6 6h2c0-4.418-3.582-8-8-8m1.5 5c-.828 0-1.5.672-1.5 1.5 0 .828.672 1.5 1.5 1.5.828 0 1.5-.672 1.5-1.5 0-.828-.672-1.5-1.5-1.5\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,feed,subscribe",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m3 3v2a13.999998 13.999998 0 0 1 14 14h2a15.999998 15.999998 0 0 0 -16 -16m0 4v2a10 10 0 0 1 10 10h2a12 12 0 0 0 -12 -12m0 4v2a6 5.999987 0 0 1 6 6h2a8 7.999983 0 0 0 -8 -8m1.5 5a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5 -1.5 1.5 1.5 0 0 0 -1.5 -1.5\" class=\"ColorScheme-Text\"></path></svg>",
+		"@breeze-icons,actions,feed,subscribe",
+		"Breeze Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M140-120q-24 0-42-18t-18-42v-371h60v371h452v60H140Zm121-120q-24 0-42.5-18T200-300v-371h60v371h453v60H261Zm119-120q-24 0-42-18t-18-42v-360q0-24 18-42t42-18h440q24 0 42 18t18 42v360q0 24-18 42t-42 18H380Zm0-60h440v-298H380v298Z\"></path></svg>",
 		"@material-symbols,outline,dynamic,feed,filled",
 		"Material Symbols"
@@ -393,21 +403,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" viewBox=\"-10 0 1034 1024\"><path fill=\"currentColor\"\nd=\"M258 175q-50 0 -92 24.5t-66.5 66.5t-24.5 92v484q0 50 24.5 92t66.5 66.5t92 24.5h484q50 0 92 -24.5t66.5 -66.5t24.5 -92v-484q0 -50 -24.5 -92t-66.5 -66.5t-92 -24.5h-484zM221 301q116 0 222.5 44.5t188.5 126t126 188.5t44 222h-116q0 -92 -35.5 -177.5t-101 -151\nt-150.5 -101t-178 -35.5v-116zM221 497q77 0 147.5 29.5t125 83.5t83.5 125t29 147h-113q0 -53 -21 -103.5t-58.5 -88.5t-88 -59t-104.5 -21v-113zM299 723h1h1q33 0 56 23.5t23 56.5t-23 56t-56 23t-56.5 -23t-23.5 -56t22.5 -56t55.5 -24z\"></path></svg>",
 		"@openweb-icons,feed",
 		"OpenWeb Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><g transform=\"matrix(.04444 0 0 .04398 -2.54322 -2.38038)\" style=\"fill:#bebebe\"><path d=\"m 383.43 172.5 c -25.336 -58.24 -81.998 -95.65 -145.86 -95.65 c -65.31 0 -125 40.928 -148.51 101.83 l 49.5 19.12 c 15.672 -40.617 55.47 -67.894 99.01 -67.894 42.02 0 79.2 24.386 96.41 62.33 l -36.12 14.428 92.35 53.28 27.01 -100.93 -33.792 13.492 z\"></path><path d=\"m 237.57 342.1 c -41.639 0 -79.61 -25.12 -96.59 -62.819 l 35.604 -13.763 -91.39 -52.12 -27.975 98.25 34.08 -13.172 c 24.852 58.02 82.86 96.67 146.27 96.67 65.55 0 123.6 -39.34 147.87 -100.2 l -49.27 -19.652 c -16.195 40.577 -54.888 66.801 -98.6 66.801 z\"></path></g></svg>",
-		"@numix-icon-theme,actions,feed,refresh,symbolic",
-		"Numix icon theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"translate(-265.0004,211.00336)\" style=\"display:inline\"><path d=\"m 273 -210.61 -2.119 5.494 -5.881 0.316 4.572 3.715 -1.516 5.691 1.633 -1.059 3.311 -2.143 4.943 3.201 -1.516 -5.691 4.572 -3.715 -5.881 -0.316 z\" style=\"visibility:visible;fill:#bebebe;opacity:1;fill-opacity:1;stroke:none;color:#000\"></path></g></svg>",
-		"@numix-icon-theme,status,feed,marked,symbolic",
-		"Numix icon theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"translate(-265.0004,211.00336)\" style=\"display:inline\"><path d=\"m 273 -210.61 -2.119 5.494 -5.881 0.316 4.572 3.715 -1.516 5.691 1.633 -1.059 3.311 -2.143 4.943 3.201 -1.516 -5.691 4.572 -3.715 -5.881 -0.316 z\" style=\"visibility:visible;fill:#bebebe;opacity:0.4;fill-opacity:1;stroke:none;color:#000\"></path></g></svg>",
-		"@numix-icon-theme,status,feed,unmarked,symbolic",
-		"Numix icon theme"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.5\" d=\"M4.17157 3.17157C3 4.34315 3 6.22876 3 10V14C3 17.7712 3 19.6569 4.17157 20.8284C5.34315 22 7.22876 22 11 22H13C16.7712 22 18.6569 22 19.8284 20.8284C21 19.6569 21 17.7712 21 14V10C21 6.22876 21 4.34315 19.8284 3.17157C18.6569 2 16.7712 2 13 2H11C7.22876 2 5.34315 2 4.17157 3.17157Z\" fill=\"black\"></path><path d=\"M6 12C6 10.5858 6 9.87868 6.43934 9.43934C6.87868 9 7.58579 9 9 9H15C16.4142 9 17.1213 9 17.5607 9.43934C18 9.87868 18 10.5858 18 12V16C18 17.4142 18 18.1213 17.5607 18.5607C17.1213 19 16.4142 19 15 19H9C7.58579 19 6.87868 19 6.43934 18.5607C6 18.1213 6 17.4142 6 16V12Z\" fill=\"black\"></path><path d=\"M7 5.25C6.58579 5.25 6.25 5.58579 6.25 6C6.25 6.41421 6.58579 6.75 7 6.75H12C12.4142 6.75 12.75 6.41421 12.75 6C12.75 5.58579 12.4142 5.25 12 5.25H7Z\" fill=\"black\"></path></svg>",

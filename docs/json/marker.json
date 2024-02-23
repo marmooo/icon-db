@@ -5,11 +5,6 @@
 		"Open Iconic"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"m 427.0002,-55 v 7 9 h 2 v -9 h 3 l 1,2 h 6 v -7 h -4 l -1,-2 h -5 z\" fill=\"#4c5263\" transform=\"translate(-425 55)\"></path></svg>",
-		"@paper-icons,actions,marker,symbolic",
-		"Paper Icons"
-	],
-	[
 		"<svg version=\"1.1\" id=\"svg2\" inkscape:version=\"0.48.4 r9939\" sodipodi:docname=\"map-marker-alt.svg\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"1200px\" height=\"1200px\" viewBox=\"0 0 1200 1200\" enable-background=\"new 0 0 1200 1200\" xml:space=\"preserve\"><path id=\"path14219\" inkscape:connector-curvature=\"0\" d=\"M600,0C268.629,0,0,268.629,0,600s268.629,600,600,600 s600-268.629,600-600S931.371,0,600,0z M600,203.247c165.185,0,299.121,133.937,299.121,299.121 c0,50.037-13.711,116.091-41.895,153.442L600,996.753L342.773,655.811c-31.029-41.123-41.895-98.2-41.895-153.442 C300.879,337.184,434.815,203.247,600,203.247z M600,376.538c-69.503,0-125.83,56.327-125.83,125.83s56.327,125.83,125.83,125.83 s125.83-56.327,125.83-125.83S669.503,376.538,600,376.538z\"></path></svg>",
 		"@elusive-iconfont,map,marker",
 		"Elusive Iconfont"
@@ -88,6 +83,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M1023 1024h-145l-39-39 83-82 94 93q11 11 7 28zM545 896l288-288 68 220-136 136zM32 416q-32-33-32-80.5t33-80.5l159-159q33-32 80.5-32.5t79.5 32.5l449 448-320 320zM558 621.5q18-18.5 18-44t-18-43.5l-261-261q-18-18-43.5-18t-43.5 18-18 43.5 18 43.5l261 262q18 18 43.5 18t43.5-18.5z\"></path></svg>",
 		"@webhostinghub-glyphs,marker",
 		"WebHostingHub Glyphs"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><defs><linearGradient id=\"a\" x1=\"399.57\" x2=\"399.57\" y1=\"545.8\" y2=\"517.8\" gradientTransform=\"translate(-826.36 -1107.5) scale(2.1429)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#3889e9\"></stop><stop offset=\"1\" stop-color=\"#5ea5fb\"></stop></linearGradient></defs><rect width=\"52\" height=\"52\" x=\"6\" y=\"6\" fill=\"#e6e6e6\" rx=\"6\" ry=\"6\"></rect><circle cx=\"32.02\" cy=\"32.044\" r=\"30.001\" fill=\"none\" stroke-width=\"1.571\" transform=\"translate(3.183 3.161) scale(.89997)\"></circle><path fill=\"#3e3e3e\" d=\"M28.087 23c-.723 0-1.304.582-1.304 1.304 0 0 0 9.13-2.609 9.13-.723 0-1.304.582-1.304 1.305v2.609h18.26v-2.609c0-.723-.581-1.304-1.304-1.304-2.608 0-2.608-9.13-2.608-9.13 0-.723-.582-1.305-1.305-1.305z\" style=\"paint-order:stroke fill markers\"></path><path fill=\"#2dc58d\" d=\"m28 13.739 8 3.969V23h-8zM22.375 37h19.25c.762 0 1.375.613 1.375 1.375V48H21v-9.625c0-.762.613-1.375 1.375-1.375z\" style=\"paint-order:stroke fill markers\"></path></svg>",
+		"@tela-icon-theme,apps,marker",
+		"Tela Icon Theme"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-marker-tip\" viewBox=\"0 0 16 16\"><path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-4.5 6.064-1.281-4.696A.5.5 0 0 0 9.736 9H6.264a.5.5 0 0 0-.483.368l-1.28 4.696A6.97 6.97 0 0 0 8 15c1.275 0 2.47-.34 3.5-.936m.873-.598a7 7 0 1 0-8.746 0l1.19-4.36a1.5 1.5 0 0 1 1.31-1.1l1.155-3.851c.213-.713 1.223-.713 1.436 0l1.156 3.851a1.5 1.5 0 0 1 1.31 1.1z\"></path></svg>",
@@ -618,16 +618,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M 23.625 3.0625 L 22.90625 3.6875 L 7.5625 17 L 7.0625 17.46875 L 7.3125 18.125 C 7.3125 18.125 8.4375 21.125 6.28125 23.28125 L 6.28125 23.3125 L 6.25 23.34375 L 6.09375 23.53125 L 5.96875 23.65625 L 2 27.53125 L 7.375 29 L 9.4375 26.9375 L 9.65625 26.75 L 9.6875 26.71875 L 9.71875 26.71875 C 11.875 24.5625 14.875 25.6875 14.875 25.6875 L 15.53125 25.9375 L 16 25.4375 L 29.3125 10.09375 L 29.9375 9.375 Z M 23.5 5.8125 L 27.1875 9.5 L 18.4375 19.5625 L 13.4375 14.5625 Z M 11.9375 15.875 L 17.125 21.0625 L 15.1875 23.3125 L 9.6875 17.8125 Z M 9.5625 20.5 L 12.5 23.4375 C 11.257813 23.484375 9.753906 23.875 8.34375 25.25 C 8.324219 25.269531 8.300781 25.261719 8.28125 25.28125 L 8.03125 25.5 L 7.5 24.96875 L 7.71875 24.71875 L 7.75 24.65625 C 9.125 23.246094 9.515625 21.742188 9.5625 20.5 Z\"></path></svg>",
 		"@icons8-line-awesome,marker,solid",
 		"Icons8 Line Awesome"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><defs><linearGradient id=\"a\" x1=\"399.57\" x2=\"399.57\" y1=\"545.8\" y2=\"517.8\" gradientTransform=\"translate(-826.36 -1107.5) scale(2.1429)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#3889e9\"></stop><stop offset=\"1\" stop-color=\"#5ea5fb\"></stop></linearGradient></defs><rect width=\"52\" height=\"52\" x=\"6\" y=\"6\" fill=\"#e6e6e6\" rx=\"6\" ry=\"6\"></rect><circle cx=\"32.02\" cy=\"32.044\" r=\"30.001\" fill=\"none\" stroke-width=\"1.571\" transform=\"translate(3.183 3.161) scale(.89997)\"></circle><path fill=\"#3e3e3e\" d=\"M28.087 23c-.723 0-1.304.582-1.304 1.304 0 0 0 9.13-2.609 9.13-.723 0-1.304.582-1.304 1.305v2.609h18.26v-2.609c0-.723-.581-1.304-1.304-1.304-2.608 0-2.608-9.13-2.608-9.13 0-.723-.582-1.305-1.305-1.305z\" style=\"paint-order:stroke fill markers\"></path><path fill=\"#2dc58d\" d=\"m28 13.739 8 3.969V23h-8zM22.375 37h19.25c.762 0 1.375.613 1.375 1.375V48H21v-9.625c0-.762.613-1.375 1.375-1.375z\" style=\"paint-order:stroke fill markers\"></path></svg>",
-		"@tela-icon-theme,apps,marker",
-		"Tela Icon Theme"
-	],
-	[
-		"<svg style=\"enable-background:new\" version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m2.332 1c-0.18448 0-0.33203 0.14755-0.33203 0.33203v13.336c0 0.18448 0.14755 0.33203 0.33203 0.33203h0.33594c0.18448 0 0.33203-0.14755 0.33203-0.33203v-5.668h5v1h6.5l-3-3.5 3-3.5h-6.5v-1h-5v-0.66797c0-0.18448-0.14755-0.33203-0.33203-0.33203z\" style=\"fill:#bebebe\"></path></svg>",
-		"@numix-icon-theme,actions,marker,symbolic",
-		"Numix icon theme"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M256 17.108c-75.73 0-137.122 61.392-137.122 137.122.055 23.25 6.022 46.107 11.58 56.262L256 494.892l119.982-274.244h-.063c11.27-20.324 17.188-43.18 17.202-66.418C393.122 78.5 331.73 17.108 256 17.108zm0 68.56a68.56 68.56 0 0 1 68.56 68.562A68.56 68.56 0 0 1 256 222.79a68.56 68.56 0 0 1-68.56-68.56A68.56 68.56 0 0 1 256 85.67z\"></path></svg>",
