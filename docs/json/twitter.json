@@ -50,8 +50,13 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84 98H60m72 0h-24m0 0V64a6 6 0 0 0-6-6H90a6 6 0 0 0-6 6v34m-24 0 36 36m36-36-36 36\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"@lawnicons,download,twitter,videos",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M126 38a26 26 0 0 0-26 26 25.9 25.9 0 0 0 2.929 12C72 76 56 70 30 46c0 39.5 10 66 34 81-8 11.2-29.333 14.333-42 14.5 0 0 14 13.5 46 13.5 56 0 84-46.783 84-91l18-20h-27.386A25.9 25.9 0 0 0 126 38z\"></path></svg>",
-		"@lawnicons,twitter",
+		"@lawnicons,twitter,lite",
 		"Lawnicons"
 	],
 	[
@@ -295,7 +300,7 @@
 		"IconPark Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 128\"><path d=\"M40.254 127.637c48.305 0 74.719-48.957 74.719-91.403 0-1.39 0-2.777-.075-4.156 5.141-4.547 9.579-10.18 13.102-16.633-4.79 2.602-9.871 4.305-15.078 5.063 5.48-4.02 9.582-10.336 11.539-17.774-5.156 3.743-10.797 6.38-16.68 7.801-8.136-10.586-21.07-13.18-31.547-6.32-10.472 6.86-15.882 21.46-13.199 35.617C41.922 38.539 22.246 26.336 8.915 6.27 1.933 20.94 5.487 39.723 17.022 49.16c-4.148-.172-8.207-1.555-11.832-4.031v.41c0 15.273 8.786 28.438 21.02 31.492a21.596 21.596 0 01-11.863.543c3.437 13.094 13.297 22.07 24.535 22.328-9.305 8.918-20.793 13.75-32.617 13.72-2.094 0-4.188-.15-6.266-.446 12.008 9.433 25.98 14.441 40.254 14.422\" fill=\"#1da1f2\"></path></svg>",
+		"<svg viewBox=\"0 0 128 128\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M75.916 54.2 122.542 0h-11.05L71.008 47.06 38.672 0H1.376l48.898 71.164L1.376 128h11.05L55.18 78.303 89.328 128h37.296L75.913 54.2ZM60.782 71.79l-4.955-7.086-39.42-56.386h16.972L65.19 53.824l4.954 7.086 41.353 59.15h-16.97L60.782 71.793Z\" fill=\"#000\" style=\"stroke-width:.104373\"></path></svg>",
 		"@devicon,twitter,original",
 		"@devicon"
 	],
@@ -485,22 +490,22 @@
 		"akar-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M19.8906 7.34375C19.7969 7.67188 19.4001 8.50548 18.7219 9.29669C18.2698 17.9717 9.84907 20.7974 4.08456 17.8869C3.29335 16.8414 6.93856 17.2653 8.26666 15.259C3.23684 12.6876 3.63244 5.82103 4.64971 6.1036C7.02333 9.29669 10.8381 9.57926 11.4597 9.29669C11.4597 8.562 11.1489 6.97958 12.8726 5.65148C13.8616 4.94505 15.9297 4.3125 17.8047 6.34375C18.125 6.55469 18.5859 6.64844 19.2734 6.49219C19.6797 6.28125 20.2262 6.427 19.9453 7.15625\" fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"62\" stroke-dashoffset=\"62\"><animate attributeName=\"stroke-dashoffset\" values=\"62;0\" dur=\"0.6s\" fill=\"freeze\"></animate><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"0.6s\" dur=\"0.15s\" fill=\"freeze\"></animate></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19.8906 7.34375C19.7969 7.67188 19.4001 8.50548 18.7219 9.29669C18.2698 17.9717 9.84907 20.7974 4.08456 17.8869C3.29335 16.8414 6.93856 17.2653 8.26666 15.259C3.23684 12.6876 3.63244 5.82103 4.64971 6.1036C7.02333 9.29669 10.8381 9.57926 11.4597 9.29669C11.4597 8.562 11.1489 6.97958 12.8726 5.65148C13.8616 4.94505 15.9297 4.3125 17.8047 6.34375C18.125 6.55469 18.5859 6.64844 19.2734 6.49219C19.6797 6.28125 20.2262 6.427 19.9453 7.15625\" fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"62\" stroke-dashoffset=\"62\"><animate attributeName=\"stroke-dashoffset\" values=\"62;0\" dur=\"0.6s\" fill=\"freeze\"></animate><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"0.6s\" dur=\"0.15s\" fill=\"freeze\"></animate></path></svg>",
 		"@material-line-icons,twitter,twotone",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M8.5 2h2.5L11 2h-2.5zM13 2h2.5L15.5 2h-2.5zM10.5 2h5v0h-5zM8.5 2h5v0h-5zM10 2h3.5L13.5 2h-3.5z\"><animate attributeName=\"d\" values=\"M8.5 2h2.5L11 2h-2.5zM13 2h2.5L15.5 2h-2.5zM10.5 2h5v0h-5zM8.5 2h5v0h-5zM10 2h3.5L13.5 2h-3.5z;M8.5 2h2.5L11 22h-2.5zM13 2h2.5L15.5 22h-2.5zM10.5 2h5v2h-5zM8.5 20h5v2h-5zM10 2h3.5L13.5 22h-3.5z;M8.5 2h2.5L11 22h-2.5zM13 2h2.5L15.5 22h-2.5zM10.5 2h5v2h-5zM8.5 20h5v2h-5zM10 2h3.5L13.5 22h-3.5z;M1 2h2.5L18.5 22h-2.5zM5.5 2h2.5L23 22h-2.5zM3 2h5v2h-5zM16 20h5v2h-5zM18.5 2h3.5L5 22h-3.5z\" keyTimes=\"0;0.3;0.5;1\" dur=\"0.8s\" fill=\"freeze\"></animate></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M8.5 2h2.5L11 2h-2.5zM13 2h2.5L15.5 2h-2.5zM10.5 2h5v0h-5zM8.5 2h5v0h-5zM10 2h3.5L13.5 2h-3.5z\"><animate attributeName=\"d\" values=\"M8.5 2h2.5L11 2h-2.5zM13 2h2.5L15.5 2h-2.5zM10.5 2h5v0h-5zM8.5 2h5v0h-5zM10 2h3.5L13.5 2h-3.5z;M8.5 2h2.5L11 22h-2.5zM13 2h2.5L15.5 22h-2.5zM10.5 2h5v2h-5zM8.5 20h5v2h-5zM10 2h3.5L13.5 22h-3.5z;M8.5 2h2.5L11 22h-2.5zM13 2h2.5L15.5 22h-2.5zM10.5 2h5v2h-5zM8.5 20h5v2h-5zM10 2h3.5L13.5 22h-3.5z;M1 2h2.5L18.5 22h-2.5zM5.5 2h2.5L23 22h-2.5zM3 2h5v2h-5zM16 20h5v2h-5zM18.5 2h3.5L5 22h-3.5z\" keyTimes=\"0;0.3;0.5;1\" dur=\"0.8s\" fill=\"freeze\"></animate></path></svg>",
 		"@material-line-icons,twitter,x",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M1 2h2.5L3.5 2h-2.5z\"><animate attributeName=\"d\" values=\"M1 2h2.5L3.5 2h-2.5z;M1 2h2.5L18.5 22h-2.5z\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M5.5 2h2.5L7.2 2h-2.5z\"><animate attributeName=\"d\" values=\"M5.5 2h2.5L7.2 2h-2.5z;M5.5 2h2.5L23 22h-2.5z\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M3 2h5v0h-5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.4s\"></set><animate attributeName=\"d\" values=\"M3 2h5v0h-5z;M3 2h5v2h-5z\" begin=\"0.4s\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M16 22h5v0h-5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.4s\"></set><animate attributeName=\"d\" values=\"M16 22h5v0h-5z;M16 22h5v-2h-5z\" begin=\"0.4s\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M18.5 2h3.5L22 2h-3.5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.5s\"></set><animate attributeName=\"d\" values=\"M18.5 2h3.5L22 2h-3.5z;M18.5 2h3.5L5 22h-3.5z\" begin=\"0.5s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><path d=\"M1 2h2.5L3.5 2h-2.5z\"><animate attributeName=\"d\" values=\"M1 2h2.5L3.5 2h-2.5z;M1 2h2.5L18.5 22h-2.5z\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M5.5 2h2.5L7.2 2h-2.5z\"><animate attributeName=\"d\" values=\"M5.5 2h2.5L7.2 2h-2.5z;M5.5 2h2.5L23 22h-2.5z\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M3 2h5v0h-5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.4s\"></set><animate attributeName=\"d\" values=\"M3 2h5v0h-5z;M3 2h5v2h-5z\" begin=\"0.4s\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M16 22h5v0h-5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.4s\"></set><animate attributeName=\"d\" values=\"M16 22h5v0h-5z;M16 22h5v-2h-5z\" begin=\"0.4s\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M18.5 2h3.5L22 2h-3.5z\" opacity=\"0\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.5s\"></set><animate attributeName=\"d\" values=\"M18.5 2h3.5L22 2h-3.5z;M18.5 2h3.5L5 22h-3.5z\" begin=\"0.5s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,twitter,x",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"24\" height=\"24\" preserveAspectRatio=\"xMidYMid meet\" viewBox=\"0 0 24 24\"><path d=\"M19.8906 7.34375C19.7969 7.67188 19.4001 8.50548 18.7219 9.29669C18.2698 17.9717 9.84907 20.7974 4.08456 17.8869C3.29335 16.8414 6.93856 17.2653 8.26666 15.259C3.23684 12.6876 3.63244 5.82103 4.64971 6.1036C7.02333 9.29669 10.8381 9.57926 11.4597 9.29669C11.4597 8.562 11.1489 6.97958 12.8726 5.65148C13.8616 4.94505 15.9297 4.3125 17.8047 6.34375C18.125 6.55469 18.5859 6.64844 19.2734 6.49219C19.6797 6.28125 20.2262 6.427 19.9453 7.15625\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"62\" stroke-dashoffset=\"62\"><animate attributeName=\"stroke-dashoffset\" values=\"62;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19.8906 7.34375C19.7969 7.67188 19.4001 8.50548 18.7219 9.29669C18.2698 17.9717 9.84907 20.7974 4.08456 17.8869C3.29335 16.8414 6.93856 17.2653 8.26666 15.259C3.23684 12.6876 3.63244 5.82103 4.64971 6.1036C7.02333 9.29669 10.8381 9.57926 11.4597 9.29669C11.4597 8.562 11.1489 6.97958 12.8726 5.65148C13.8616 4.94505 15.9297 4.3125 17.8047 6.34375C18.125 6.55469 18.5859 6.64844 19.2734 6.49219C19.6797 6.28125 20.2262 6.427 19.9453 7.15625\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"62\" stroke-dashoffset=\"62\"><animate attributeName=\"stroke-dashoffset\" values=\"62;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path></svg>",
 		"@material-line-icons,twitter",
 		"Material Line Icons"
 	],
@@ -718,26 +723,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"twitter_logo\" focusable=\"false\"><path d=\"M2048 389q-42 63-95 117t-115 100q1 14 1 27t1 28q0 126-27 249t-78 238q-74 167-185 298t-251 223-307 139-348 48q-172 0-335-47T0 1667q49 6 100 6 143 0 276-46t246-134q-67-1-129-22t-113-60-90-92-60-117q20 3 39 5t40 2q56 0 110-15-74-15-135-53t-107-92-70-123-25-144v-5q88 50 191 53-44-30-78-68t-59-84-37-95-13-103q0-56 14-109t43-102q80 99 178 177t208 135 232 88 248 39q-6-23-8-47t-3-49q0-87 33-163t90-134 133-90 164-33q88 0 167 34t140 99q71-14 137-39t129-63q-23 73-70 133t-114 99q126-15 241-66z\"></path></svg>",
 		"@fluent-ui-mdl2,twitter,logo",
 		"Fluent UI MDL2"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> system-twitter-large</title><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M34.1,16.9 C34.1,16.9 37.3,17.3 38.2,16.7 C36.7,17.5 35.2,18.5 34,19.7 C34,19.7 35.2,33 21.3,36.2 C21.3,36.2 14.1,36.8 9,32.9 C9,32.9 14.5,34.4 17.5,31 C17.5,31 12.4,31.5 11.1,27.5 C12.3,27.5 13.5,27.3 14.7,27 C14.7,27 9.9,26.1 10,21.3 C10.8,21.8 11.7,22 12.7,22 C12.7,22 8.7,18.4 11.2,14.2 C11.2,14.2 16.5,20.7 23.1,20.3 C22.3,17.3 24.1,14.2 27.2,13.4 C29.2,12.9 31.2,13.5 32.6,14.9 C34,14.6 35.3,14 36.5,13 C36.4,13.2 36.5,15 34.1,16.9 Z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path><circle stroke=\"currentColor\" cx=\"23.5\" cy=\"23.5\" r=\"22\"></circle></g></svg>",
-		"@audi-icons,system,twitter",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> system-twitter-small</title><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M16.8,8.2 C17.4,8.3 18,8.3 18.6,8.1 C17.9,8.5 17.3,8.9 16.7,9.5 C17,13.1 14.5,16.3 11,16.9 C9,17 7.1,16.5 5.5,15.4 C5.5,15.4 8,16.1 9.3,14.6 C9.3,14.6 7,14.8 6.4,13 C7,13 7.5,12.9 8,12.8 C6.8,12.6 5.9,11.5 5.9,10.2 C6.3,10.4 6.7,10.5 7.1,10.5 C7.1,10.5 5.3,8.9 6.4,7 C6.4,7 8.8,9.9 11.8,9.8 C11.4,8.4 12.3,7 13.6,6.7 C14.5,6.5 15.4,6.7 16.1,7.4 C16.7,7.3 17.3,7 17.8,6.6 C17.7,7.2 17.4,7.8 16.8,8.2 L16.8,8.2 Z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path><circle stroke=\"currentColor\" cx=\"11.5\" cy=\"11.5\" r=\"11\"></circle></g></svg>",
-		"@audi-icons,system,twitter",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> twitter-large</title><path d=\"M34.5,16.2 C34.5,16.2 37.7,16.6 38.6,16 C37.1,16.8 35.6,17.8 34.4,19 C34.4,19 35.6,32.3 21.7,35.5 C21.7,35.5 14.5,36.1 9.4,32.2 C9.4,32.2 14.9,33.7 17.9,30.3 C17.9,30.3 12.8,30.8 11.5,26.8 C12.7,26.8 13.9,26.6 15.1,26.3 C15.1,26.3 10.3,25.4 10.4,20.6 C11.2,21.1 12.1,21.3 13.1,21.3 C13.1,21.3 9.1,17.7 11.6,13.5 C11.6,13.5 16.9,20 23.5,19.6 C22.7,16.6 24.5,13.5 27.6,12.7 C29.6,12.2 31.6,12.8 33,14.2 C34.4,13.9 35.7,13.3 36.9,12.3 C36.8,12.5 36.9,14.3 34.5,16.2 Z\" fill=\"currentColor\" fill-rule=\"nonzero\" stroke=\"none\" stroke-width=\"1\"></path></svg>",
-		"@audi-icons,twitter",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> twitter-small</title><path d=\"M17,8.2 C17.7,8.3 18.3,8.3 19,8.1 C18.3,8.5 17.6,9 17,9.6 C17.3,13.4 14.7,16.8 10.9,17.5 C8.8,17.6 6.7,17.1 5,15.9 C5,15.9 7.6,16.6 9.1,15 C9.1,15 6.6,15.2 6,13.3 C6.6,13.3 7.2,13.2 7.7,13.1 C6.4,12.8 5.4,11.7 5.4,10.4 C5.8,10.6 6.2,10.7 6.7,10.7 C6.7,10.7 4.8,9 6,7 C6,7 8.6,10.1 11.7,9.9 C11.3,8.4 12.2,7 13.7,6.6 C14.6,6.4 15.6,6.6 16.3,7.3 C17,7.2 17.6,6.9 18.1,6.4 C18.1,7.2 17.7,7.9 17,8.2 Z\" fill=\"currentColor\" fill-rule=\"nonzero\" stroke=\"none\" stroke-width=\"1\"></path></svg>",
-		"@audi-icons,twitter",
-		"Audi Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M21 4.85c-.9.443-1.782.623-2.7.896-1.009-1.145-2.505-1.208-3.942-.667C12.427 5.806 12 7.529 12 9.364c-2.92.075-5.521-1.262-7.2-3.618 0 0-3.764 6.723 3.6 9.95-1.685 1.127-3.365 1.888-5.4 1.808 2.977 1.631 6.222 2.192 9.03 1.372 4.63-1.351 7.36-5.722 7.334-10.397 0-.225 1.359-2.506 1.636-3.629\"></path></svg>",

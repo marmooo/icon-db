@@ -55,7 +55,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path stroke-width=\"6\" d=\"M56 126h20m40 6h20m-20-12h20m-70-4v20m7-80v38m40-38v13M49 94V56h12v38m70 0V66l6-8 6 8v28m-36 0V69h12v25m-35 0 6-38 6 38\"></path><path d=\"M96 96v66m66-66H30\"></path><rect width=\"132\" height=\"132\" x=\"30\" y=\"30\" ry=\"6\"></rect></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M49 130h26m44-8h22m-22 17h22m-79-22v26\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M72 56v38m42-38v13M47 94V62a6 6 0 0 1 6-6v0a6 6 0 0 1 6 6v32m74 0V66l6-8 6 8v28m-37 0V75a6 6 0 0 1 6-6v0a6 6 0 0 1 6 6v19m-36 0 6-38 6 38\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M96 96v66m66-66H30\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"32\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
 		"@lawnicons,all,in,one,calculator",
 		"Lawnicons"
 	],
@@ -75,7 +75,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 192 192\"><g fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"6.391\"><path d=\"M105.52 96.115h18.58m-9.175-10.896v20.645M135.226 96h18.58m-9.176-10.896v20.645m-34.66 25.325a46.5 46.5 0 0 1-64.124-67.329 46.5 46.5 0 0 1 65.066-.462\" transform=\"matrix(1.24937 0 0 1.25404 -20.154 -25.515)\"></path><path d=\"M98.293 119.899a29.718 30.269 0 0 1-40.981-43.828 29.718 30.269 0 0 1 41.583-.301m11.213-11.54-11.24 11.469m.229 43.355 10.322 11.47\" transform=\"matrix(1.24937 0 0 1.25404 -20.154 -25.515)\"></path></g></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M109.77 59.23 73 96l36.77 36.77\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M109.77 59.23A52.004 52.004 0 0 0 53.1 47.958a51.999 51.999 0 0 0 30.045 99.043 52.01 52.01 0 0 0 26.625-14.231\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M89.678 78.322a25 25 0 1 0 0 35.356M159 84v24m-42-24v24m30-12h24m-66 0h24\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,calculator,plusplus",
 		"Lawnicons"
 	],
@@ -90,8 +90,18 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"M64 75h64m-64 42h64\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,miui,calculator",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M23 169 169 23m-9.78 109.5A73 73 0 0 0 59.5 32.78M32.78 59.5a73 73 0 0 0 99.72 99.72\"></path></svg>",
 		"@lawnicons,notan,grade,calculator",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M42 116c0-43 54-94 54-94s54 51 54 94\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M79.6 83c-4.593 10.262-7.6 20.854-7.6 31m78 2a54 54 0 1 1-108 0\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"76\" cy=\"134\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"@lawnicons,two,stroke,calculator",
 		"Lawnicons"
 	],
 	[
@@ -948,16 +958,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"calculator_subtract\" focusable=\"false\"><path d=\"M0 896h1920v128H0V896z\"></path></svg>",
 		"@fluent-ui-mdl2,calculator,subtract",
 		"Fluent UI MDL2"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> calculator-large</title><path d=\"M13.5,2.5 L34.5,2.5 C36.1568542,2.5 37.5,3.84314575 37.5,5.5 L37.5,42.5 C37.5,44.1568542 36.1568542,45.5 34.5,45.5 L13.5,45.5 C11.8431458,45.5 10.5,44.1568542 10.5,42.5 L10.5,5.5 C10.5,3.84314575 11.8431458,2.5 13.5,2.5 Z M26,26.5 L33,26.5 M26,37.5 L33,37.5 M26,34.5 L33,34.5 M18.5,30 L18.5,23 M15,26.5 L22,26.5 M21.5,40 L21.5,39 M15.5,34 L15.5,33 M15.5,39.5 L21.5,33.5 M12.5,9.5 L35.5,9.5 L35.5,17.5 L12.5,17.5 L12.5,9.5 Z\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,calculator",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> calculator-small</title><path d=\"M6.5,1.5 L17.5,1.5 C18.6045695,1.5 19.5,2.3954305 19.5,3.5 L19.5,20.5 C19.5,21.6045695 18.6045695,22.5 17.5,22.5 L6.5,22.5 C5.3954305,22.5 4.5,21.6045695 4.5,20.5 L4.5,3.5 C4.5,2.3954305 5.3954305,1.5 6.5,1.5 Z M4.5,9.5 L19.5,9.5 M13,17.5 L18,17.5 M13,15.5 L18,15.5 M10.5,19 L10.5,18 M6.5,18.5 L10.5,14.5 M6.5,15 L6.5,14\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,calculator",
-		"Audi Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 3H19V19C19 20.1046 18.1046 21 17 21H7C5.89543 21 5 20.1046 5 19V3Z\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linejoin=\"round\"></path><path d=\"M5 9H19\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path><path d=\"M9 13H10\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path><path d=\"M14 13H15\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path><path d=\"M9 17H10\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path><path d=\"M14 17H15\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\"></path></svg>",

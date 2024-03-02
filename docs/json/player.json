@@ -35,6 +35,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.g{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path id=\"b\" class=\"g\" d=\"m10.7166,39.2011c-8.1119-5.067-8.1119-15.201-1.0111-19.7567\"></path><path id=\"c\" class=\"g\" d=\"m38.5968,19.3746c7.7865,5.7178,5.5667,15.7705-1.5341,19.8264\"></path><path id=\"d\" class=\"g\" d=\"m25.9176,26.0222h5.067\"></path><path id=\"e\" class=\"g\" d=\"m23.3841,33.123c-5.067-.5114-7.6005-4.0559-7.0892-7.6005\"></path><path id=\"f\" class=\"g\" d=\"m21.8617,8.7989c0,9.123,9.123,8.1119,13.6902,13.6786,4.5557,5.5784.4997,15.7124-11.6565,15.201-19.257-.4997-15.201-16.7235-4.0559-18.7456\"></path></svg>",
+		"@arcticons,garlic,player",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"a\" x=\"3.5\" y=\"20.4847\" width=\"5.0441\" height=\"13.1016\" rx=\"2.1589\"></rect><circle class=\"a\" cx=\"14.8493\" cy=\"28.3621\" r=\"1.8547\"></circle><rect class=\"a\" x=\"39.4559\" y=\"20.4847\" width=\"5.0441\" height=\"13.1016\" rx=\"2.1589\" transform=\"translate(83.9559 54.0711) rotate(-180)\"></rect><path class=\"a\" d=\"M24.9324,6.6916a18.3815,18.3815,0,0,1,16.86,13.7566\"></path><path class=\"a\" d=\"M24,37.0337c2.5179,0,4.213-3.4473,4.213-3.4473S26.1065,30.45,24,30.45s-4.213,3.1363-4.213,3.1363S21.4821,37.0337,24,37.0337Z\"></path><path class=\"a\" d=\"M28.213,33.5864A7.6822,7.6822,0,0,1,24,35.24a7.6822,7.6822,0,0,1-4.213-1.654\"></path><circle class=\"a\" cx=\"33.1507\" cy=\"28.3621\" r=\"1.8547\"></circle><path class=\"a\" d=\"M40.234,20.988c-2.2878-6.5143-8.3419-10.441-12.7064-11.9742l.0051-.0009A13.8421,13.8421,0,0,0,13.85,4.73s5.0771.655,7.6317,3.2754A12.0378,12.0378,0,0,0,10.5094,9.0129s4.7613-1.5239,8.6051.5347C14.9322,11.3611,9.8251,15.1269,7.7663,20.987\"></path><path class=\"a\" d=\"M8.0629,32.7783C11.3288,40.5444,20.264,43.6418,24,43.6418s12.67-3.0971,15.9364-10.8625\"></path><path class=\"a\" d=\"M15.8746,8.5585a18.4116,18.4116,0,0,0-9.6672,11.89\"></path></svg>",
 		"@arcticons,lark,player",
 		"Arcticons"
@@ -95,7 +100,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"32\"></circle><circle cx=\"56\" cy=\"136\" r=\"4\" stroke-width=\"8\"></circle><path d=\"m107 68-6 12\"></path><rect width=\"132\" height=\"132\" x=\"30\" y=\"30\" rx=\"6\"></rect></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"96\" cy=\"96\" r=\"35\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m109 65-6 12\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"53\" cy=\"139\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
 		"@lawnicons,avee,player",
 		"Lawnicons"
 	],
@@ -140,8 +145,18 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m71 66 60 30-60 30V66Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"22\" y=\"30\" width=\"148\" height=\"132\" rx=\"32\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
+		"@lawnicons,neutron,music,player",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M167.116 90.87 55.082 22.89c-3.998-2.427-9.112.452-9.112 5.129v135.962c0 4.677 5.114 7.556 9.113 5.13l112.033-67.981c3.85-2.337 3.85-7.923 0-10.26z\"></path><path stroke-linecap=\"round\" d=\"M46 31.923 31.113 22.89C27.114 20.463 22 23.342 22 28.019v135.962c0 4.677 5.114 7.556 9.113 5.13L46 160.077\"></path></svg>",
 		"@lawnicons,next,player",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m47 128 42-54 11 39 23-42\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M47 28.067c0-4.933 5.545-7.797 9.526-4.92l93.967 67.934c3.343 2.416 3.343 7.422 0 9.838l-93.967 67.933c-3.98 2.878-9.526.014-9.526-4.919V28.067Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,nova,video,player",
 		"Lawnicons"
 	],
 	[
@@ -150,8 +165,28 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M38 170V22l124 74-85.25 50.875\"></path></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m44 54 68.59 32.58c4.568 2.17 4.568 8.67 0 10.84L44 130\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m44 22 100.6 48.365a6 6 0 0 1 3.4 5.408V164a6 6 0 0 1-6 6H50a6 6 0 0 1-6-6V22Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,smart,audiobook,player",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M39 169V23l122 73-82 49\" stroke=\"#000\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,stealth,player",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M54 112h8v8h-8z\"></path><circle cx=\"26\" cy=\"96\" r=\"5\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"58\" cy=\"76\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m58 166.78 100-50M58 25.22l100 50M22 46v14\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M92 96H26m66 0L80 84m-22-8H40L26 96m32 20H40L26 96m66 0-12 12\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M22 132v14m136-70.785a24.004 24.004 0 0 1 0 41.57M22 46a24 24 0 0 1 36-20.785m0 141.57A24.004 24.004 0 0 1 25.215 158 23.998 23.998 0 0 1 22 146\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,usb,audio,player",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M78 70 31.369 38.358c-3.984-2.704-9.369.15-9.369 4.964v91.383c0 4.809 5.374 7.664 9.36 4.971L96 96m18 26 46.631 31.642c3.984 2.704 9.369-.15 9.369-4.964V57.295c0-4.809-5.374-7.664-9.359-4.971L96 96\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,video,player,kmp",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m76 64 54 32-54 32V64Zm94 32v68a6 6 0 0 1-6 6H96\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M170 96a74.002 74.002 0 0 0-88.437-72.578A74 74 0 0 0 96 170\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,visha,video,player",
 		"Lawnicons"
 	],
 	[

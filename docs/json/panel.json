@@ -5,6 +5,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"c\" x=\"4.5\" y=\"13.5736\" width=\"12.0785\" height=\"20.8527\" rx=\"1.3441\" ry=\"1.3441\"></rect><rect class=\"c\" x=\"26.3499\" y=\"19.5524\" width=\"17.1501\" height=\"6.6867\" rx=\"1\" ry=\"1\"></rect><path class=\"c\" d=\"m29.685,26.2391h10.48v6.0673c0,.5519-.4481,1-1,1h-8.48c-.5519,0-1-.4481-1-1v-6.0673h0Z\"></path><path class=\"c\" d=\"m30.685,15.5674h8.48c.5519,0,1,.4481,1,1v2.985h-10.48v-2.985c0-.5519.4481-1,1-1Z\"></path><line class=\"c\" x1=\"32.0929\" y1=\"28.748\" x2=\"37.757\" y2=\"28.748\"></line><line class=\"c\" x1=\"32.0929\" y1=\"31.2687\" x2=\"37.757\" y2=\"31.2687\"></line><circle class=\"c\" cx=\"21.6514\" cy=\"22.8958\" r=\"1.5\"></circle><line class=\"c\" x1=\"9.3869\" y1=\"32.4393\" x2=\"11.6916\" y2=\"32.4393\"></line></svg>",
+		"@arcticons,epson,smart,panel",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdil-alarm-panel\" viewBox=\"0 0 24 24\"><path d=\"M8 11V13H5V11H8M13 11H10V13H13V11M18 11H15V13H18V11M17 7H6V9H17V7M18 6V10H5V6H18M19 5H4C3.45 5 3 5.45 3 6V19C3 19.55 3.45 20 4 20H19C19.55 20 20 19.55 20 19V6C20 5.45 19.55 5 19 5M19 4C20.1 4 21 4.9 21 6V19C21 20.1 20.1 21 19 21H4C2.9 21 2 20.1 2 19V6C2 4.9 2.9 4 4 4H19M8 14H5V16H8V14M13 14H10V16H13V14M18 14H15V16H18V14M8 17H5V19H8V17M13 17H10V19H13V17M18 17H15V19H18V17Z\"></path></svg>",
 		"@material-design-icons-light,alarm,panel",
 		"Material Design Icons Light"
@@ -1137,6 +1142,26 @@
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>panel-expansion</title><path d=\"M12,6H6A2,2,0,0,0,4,8v6a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V8A2,2,0,0,0,12,6ZM6,14V8h6v6Z\" transform=\"translate(0)\"></path><path d=\"M26,6H20a2,2,0,0,0-2,2V24a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V8A2,2,0,0,0,26,6ZM20,24V8h6V24Z\" transform=\"translate(0)\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,panel,expansion",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m2,6v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2H4c-1.1045,0-2,.8955-2,2Zm2,0h16v20H4v-9h10.1699s-3.5801,3.5898-3.5801,3.5898l1.4102,1.4102,6-6-6-6-1.4102,1.4102,3.5801,3.5898H4V6Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,right,panel,close,filled",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m2,6v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2H4c-1.1045,0-2,.8955-2,2Zm20,0h6v20h-6V6Zm-18,0h16v20H4v-9h10.1699s-3.5801,3.5898-3.5801,3.5898l1.4102,1.4102,6-6-6-6-1.4102,1.4102,3.5801,3.5898H4V6Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,right,panel,close",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m2,6v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2H4c-1.1045,0-2,.8955-2,2Zm2,0h16v9h-10.1699s3.5798-3.5898,3.5798-3.5898l-1.4099-1.4102-6,6,6,6,1.4099-1.4102-3.5798-3.5898h10.1699v9H4V6Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,right,panel,open,filled",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m2,6v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2H4c-1.1045,0-2,.8955-2,2Zm20,0h6v20h-6V6Zm-18,0h16v9h-10.1699s3.5798-3.5898,3.5798-3.5898l-1.4099-1.4102-6,6,6,6,1.4099-1.4102-3.5798-3.5898h10.1699v9H4V6Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,right,panel,open",
 		"Carbon"
 	],
 	[

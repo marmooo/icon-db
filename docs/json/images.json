@@ -155,6 +155,11 @@
 		"Icons8 Line Awesome"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 22H4a2 2 0 0 1-2-2V6\"></path><path d=\"m22 13-1.296-1.296a2.41 2.41 0 0 0-3.408 0L11 18\"></path><circle cx=\"12\" cy=\"8\" r=\"2\"></circle><rect width=\"16\" height=\"16\" x=\"6\" y=\"2\" rx=\"2\"></rect></svg>",
+		"@lucide,images",
+		"Lucide"
+	],
+	[
 		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Clarity Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Clarity Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"M 15.15625 24.1875 C 11.06279 24.1875 7.75 27.50028 7.75 31.59375 L 7.75 44.71875 L 7.75 55.9375 L 7.75 96.4375 C 7.75 100.53096 11.06279 103.8125 15.15625 103.8125 L 112.84375 103.8125 C 116.93721 103.8125 120.25 100.53096 120.25 96.4375 L 120.25 44.71875 C 120.25 40.62528 116.93713 37.3689 112.84375 37.34375 L 53.40625 37.34375 L 53.40625 31.59375 C 53.40625 27.50028 50.12471 24.1875 46.03125 24.1875 L 15.15625 24.1875 z M 38.375 51.40625 L 89.625 51.40625 L 89.625 89.53125 L 38.375 89.53125 L 38.375 51.40625 z M 41.875 55.75 L 41.875 82.5625 C 42.72007 81.27712 44.13489 79.67582 46.5625 78.5 C 59.89109 72.04426 66.735751 79.90443 75.28125 81.40625 C 79.64206 82.17264 83.85239 78.94762 86.15625 76.78125 L 86.15625 55.75 L 41.875 55.75 z M 73.9375 60.8125 C 76.39569 60.8125 78.40625 62.823059 78.40625 65.28125 C 78.40625 67.73944 76.39569 69.71875 73.9375 69.71875 C 71.47931 69.71875 69.5 67.73944 69.5 65.28125 C 69.5 62.823059 71.47931 60.8125 73.9375 60.8125 z\" style=\"fill:#aaaaaa\"></path></svg>",
 		"@clarity,places,folder,images",
 		"Clarity"
@@ -180,12 +185,12 @@
 		"Humbleicons"
 	],
 	[
-		"<svg clip-rule=\"evenodd\" fill-rule=\"evenodd\" stroke-linejoin=\"round\" stroke-miterlimit=\"1.414\" viewBox=\"0 0 24 24\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 20H4a2 2 0 0 1-2-2V6c0-1.11.89-2 2-2h6l2 2h7c1.097 0 2 .903 2 2H4v10l2.14-8h17.07l-2.28 8.5c-.23.87-1.01 1.5-1.93 1.5z\" fill=\"#009688\" fill-rule=\"nonzero\"></path><path d=\"M18.575 12.859h3.713l-3.713-3.713v3.713M13.85 8.134h5.4l4.05 4.05v8.1c0 .74-.61 1.35-1.35 1.35h-8.1a1.35 1.35 0 0 1-1.35-1.35v-10.8c0-.75.6-1.35 1.35-1.35m0 12.15h8.1v-5.4l-2.7 2.7-1.35-1.35-4.05 4.05m1.35-7.425c-.74 0-1.35.61-1.35 1.35s.61 1.35 1.35 1.35 1.35-.61 1.35-1.35-.61-1.35-1.35-1.35z\" fill-rule=\"nonzero\" fill=\"#b2dfdb\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M28.96692,12H9.44152a2,2,0,0,0-1.89737,1.36754L4,24V10H28a2,2,0,0,0-2-2H15.1241a2,2,0,0,1-1.28038-.46357L12.5563,6.46357A2,2,0,0,0,11.27592,6H4A2,2,0,0,0,2,8V24a2,2,0,0,0,2,2H26l4.80523-11.21213A2,2,0,0,0,28.96692,12Z\" style=\"fill: #009688\"></path><path d=\"M24,10H17a1,1,0,0,0-1,1V27a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V16Zm-4,6a2,2,0,1,1-2,2A2.01067,2.01067,0,0,1,20,16Zm8,10H18l4-4,2,2,4-4Zm-4.82843-9.17157V12L28,16.82843Z\" style=\"fill: #b2dfdb\"></path></svg>",
 		"@material-icon-theme,folder,images,open",
 		"Material Icon Theme"
 	],
 	[
-		"<svg clip-rule=\"evenodd\" fill-rule=\"evenodd\" stroke-linejoin=\"round\" stroke-miterlimit=\"1.414\" viewBox=\"0 0 24 24\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 4H4c-1.11 0-2 .89-2 2v12c0 1.097.903 2 2 2h16c1.097 0 2-.903 2-2V8a2 2 0 0 0-2-2h-8l-2-2z\" fill=\"#009688\" fill-rule=\"nonzero\"></path><path d=\"M18.575 12.859h3.713l-3.713-3.713v3.713M13.85 8.134h5.4l4.05 4.05v8.1c0 .74-.61 1.35-1.35 1.35h-8.1a1.35 1.35 0 0 1-1.35-1.35v-10.8c0-.75.6-1.35 1.35-1.35m0 12.15h8.1v-5.4l-2.7 2.7-1.35-1.35-4.05 4.05m1.35-7.425c-.74 0-1.35.61-1.35 1.35s.61 1.35 1.35 1.35 1.35-.61 1.35-1.35-.61-1.35-1.35-1.35z\" fill-rule=\"nonzero\" fill=\"#b2dfdb\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M13.84376,7.53645l-1.28749-1.0729A2,2,0,0,0,11.27591,6H4A2,2,0,0,0,2,8V24a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H15.12412A2,2,0,0,1,13.84376,7.53645Z\" style=\"fill: #009688\"></path><path d=\"M24,10H17a1,1,0,0,0-1,1V27a1,1,0,0,0,1,1H29a1,1,0,0,0,1-1V16Zm-4,6a2,2,0,1,1-2,2A2.01067,2.01067,0,0,1,20,16Zm8,10H18l4-4,2,2,4-4Zm-4.82843-9.17157V12L28,16.82843Z\" style=\"fill: #b2dfdb\"></path></svg>",
 		"@material-icon-theme,folder,images",
 		"Material Icon Theme"
 	],

@@ -1,5 +1,10 @@
 [
 	[
+		"<svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.d{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path id=\"b\" class=\"d\" d=\"M24,2.5c11.8787,0,21.5,9.6212,21.5,21.5s-9.6213,21.5-21.5,21.5S2.5,35.8787,2.5,24,12.1212,2.5,24,2.5Z\"></path><path id=\"c\" class=\"d\" d=\"M4.0372,16.0343c-2.3367,5.4579.1935,11.7766,5.6514,14.1134,5.4579,2.3367,11.7766-.1935,14.1134-5.6514.0701-.1637.1361-.3292.198-.4962,2.1997-5.5155,8.4541-8.2036,13.9696-6.0039,5.5155,2.1997,8.2036,8.4541,6.0039,13.9696\"></path></svg>",
+		"@arcticons,k,l,d",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"a\" d=\"M3.79,12.72,25.03,41.78,42.79,28.79l-4.87-6.66-11.1,8.12L10.45,7.85Z\"></path></svg>",
 		"@arcticons,l,speed",
 		"Arcticons"
@@ -310,32 +315,32 @@
 		"coolicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> bold</title><path d=\"M5 19V1h4v15h7v3H5Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> bold</title><path d=\"M5 19V1h4v15h7v3z\"></path></svg>",
 		"@ooui,bold,l",
 		"OOUI"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> text direction left-to-right</title><path d=\"m19 10-6-5v4H6v2h7v4zM6 2V1H4.5a1.49 1.49 0 0 0-1 .39 1.49 1.49 0 0 0-1-.39H1v1h1.5a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5H1v1h1.5a1.49 1.49 0 0 0 1-.39 1.49 1.49 0 0 0 1 .39H6v-1H4.5a.5.5 0 0 1-.5-.5v-15a.5.5 0 0 1 .5-.5z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> text direction left-to-right</title><path d=\"m19 10-6-5v4H6v2h7v4zM6 2V1H4.5a1.5 1.5 0 0 0-1 .39 1.5 1.5 0 0 0-1-.39H1v1h1.5a.5.5 0 0 1 .5.5v15a.5.5 0 0 1-.5.5H1v1h1.5a1.5 1.5 0 0 0 1-.39 1.5 1.5 0 0 0 1 .39H6v-1H4.5a.5.5 0 0 1-.5-.5v-15a.5.5 0 0 1 .5-.5z\"></path></svg>",
 		"@ooui,text,dir,l,t,r",
 		"OOUI"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> text direction right-to-left</title><path d=\"m1 10 6-5v4h7v2H7v4zm13-8V1h1.5a1.49 1.49 0 0 1 1 .39 1.49 1.49 0 0 1 1-.39H19v1h-1.5a.5.5 0 0 0-.5.5v15a.5.5 0 0 0 .5.5H19v1h-1.5a1.49 1.49 0 0 1-1-.39 1.49 1.49 0 0 1-1 .39H14v-1h1.5a.5.5 0 0 0 .5-.5v-15a.5.5 0 0 0-.5-.5z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> text direction right-to-left</title><path d=\"m1 10 6-5v4h7v2H7v4zm13-8V1h1.5a1.5 1.5 0 0 1 1 .39 1.5 1.5 0 0 1 1-.39H19v1h-1.5a.5.5 0 0 0-.5.5v15a.5.5 0 0 0 .5.5H19v1h-1.5a1.5 1.5 0 0 1-1-.39 1.5 1.5 0 0 1-1 .39H14v-1h1.5a.5.5 0 0 0 .5-.5v-15a.5.5 0 0 0-.5-.5z\"></path></svg>",
 		"@ooui,text,dir,r,t,l",
 		"OOUI"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18 10C19.1046 10 20 10.8954 20 12L20 34H30C31.1046 34 32 34.8954 32 36C32 37.1046 31.1046 38 30 38H18C16.8954 38 16 37.1046 16 36L16 12C16 10.8954 16.8954 10 18 10Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18 10C19.1046 10 20 10.8954 20 12L20 34H30C31.1046 34 32 34.8954 32 36C32 37.1046 31.1046 38 30 38H18C16.8954 38 16 37.1046 16 36L16 12C16 10.8954 16.8954 10 18 10Z\" fill=\"currentColor\"></path></svg>",
 		"@health-icons,filled,typography,l",
 		"Health Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_2161_795)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48 0H0V48H48V0ZM20 12C20 10.8954 19.1046 10 18 10C16.8954 10 16 10.8954 16 12V36C16 37.1046 16.8954 38 18 38H30C31.1046 38 32 37.1046 32 36C32 34.8954 31.1046 34 30 34H20V12Z\" fill=\"black\"></path></g><defs><clipPath id=\"clip0_2161_795\"><rect width=\"48\" height=\"48\" fill=\"white\"></rect></clipPath></defs></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_2161_795)\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48 0H0V48H48V0ZM20 12C20 10.8954 19.1046 10 18 10C16.8954 10 16 10.8954 16 12V36C16 37.1046 16.8954 38 18 38H30C31.1046 38 32 37.1046 32 36C32 34.8954 31.1046 34 30 34H20V12Z\" fill=\"currentColor\"></path></g><defs><clipPath id=\"clip0_2161_795\"><rect width=\"48\" height=\"48\" fill=\"none\"></rect></clipPath></defs></svg>",
 		"@health-icons,negative,typography,l",
 		"Health Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 12C15 10.3431 16.3431 9 18 9C19.6569 9 21 10.3431 21 12L21 33H30C31.6569 33 33 34.3431 33 36C33 37.6569 31.6569 39 30 39H18C16.3431 39 15 37.6569 15 36L15 12ZM18 11C17.4477 11 17 11.4477 17 12L17 36C17 36.5523 17.4477 37 18 37H30C30.5523 37 31 36.5523 31 36C31 35.4477 30.5523 35 30 35H20C19.4477 35 19 34.5523 19 34L19 12C19 11.4477 18.5523 11 18 11Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 12C15 10.3431 16.3431 9 18 9C19.6569 9 21 10.3431 21 12L21 33H30C31.6569 33 33 34.3431 33 36C33 37.6569 31.6569 39 30 39H18C16.3431 39 15 37.6569 15 36L15 12ZM18 11C17.4477 11 17 11.4477 17 12L17 36C17 36.5523 17.4477 37 18 37H30C30.5523 37 31 36.5523 31 36C31 35.4477 30.5523 35 30 35H20C19.4477 35 19 34.5523 19 34L19 12C19 11.4477 18.5523 11 18 11Z\" fill=\"currentColor\"></path></svg>",
 		"@health-icons,outline,typography,l",
 		"Health Icons"
 	],

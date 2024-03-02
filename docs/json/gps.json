@@ -15,6 +15,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 48 48\"><path d=\"M35.19 23.08l6.46-6.46-2.59-2.6 2.58-2.57-5.07-5.06-2.49 2.49-2.55-2.46L6.36 31.6l10.16 10.16 8.82-8.82m-2.58-17.75L12.2 4.6m.63 20.28L9.6 21.65V4.6h2.57m13.36 28.6l10.58 10.57m-.65-20.27l3.24 3.24v17.04h-2.57M27.8 23.43l10.87 10.22M18.91 19.1L9.68 9.69m5.54 13.07L9.6 17.2m18.17 13.26L38.5 41.2\"></path><path d=\"M27.77 35.4V17.7h1.93l5.92 5.98\"></path></svg>",
+		"@arcticons,gps,locker",
+		"Arcticons"
+	],
+	[
 		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"m24,4.5c-8.1849,0-14.82,6.6351-14.82,14.82h0v1.08c.6,8.12,7.34,14.65,14.82,23.1,7.81-8.82,14.82-15.5,14.82-24.18h0c0-8.1849-6.6351-14.82-14.82-14.82h0Zm10,14.83c0,5.5228-4.4772,10-10,10s-10-4.4772-10-10,4.4772-10,10-10,10,4.4772,10,10Zm-4.0496-3.9058c0,1.1292-.9154,2.0445-2.0445,2.0445s-2.0445-.9154-2.0445-2.0445.9154-2.0445,2.0445-2.0445,2.0445.9154,2.0445,2.0445Z\"></path></svg>",
 		"@arcticons,gps,map,camera",
 		"Arcticons"
@@ -40,8 +45,13 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\"><g fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.042\"><path stroke-width=\"1.588\" d=\"m34.491 13.972-1.415 1.415-1.23-1.23-2.532 2.532-.936-.935-6.669 6.67.55.55-2.385 2.385 1.5 1.5-1.657 1.658 2.569 2.568 1.657-1.657 1.5 1.5 2.386-2.385.55.55 6.67-6.669-.936-.936 2.532-2.532-1.23-1.23 1.415-1.416zm-3.536 2.29 3.63 3.631m-7.104-2.398 5.956 5.956m-11.584.107 5.386 5.387\"></path><path stroke-width=\"1.587\" d=\"m27.664 20.757-2.704 2.704m5.099-.31-2.704 2.704\"></path><path stroke-width=\"1.588\" d=\"m15.39 35.44-3.686 3.628\"></path><path stroke-width=\"2.117\" d=\"m9.739 38.547 2.515 2.515\"></path><path d=\"M31.34 15.15h17.798M31.34 17.995h17.798M31.34 20.84h17.798\" transform=\"matrix(.67322 .67322 -.79832 .79832 24.515 -4.216)\"></path><path d=\"M31.34 15.15h17.798M31.34 17.995h17.798M31.34 20.84h17.798\" transform=\"matrix(.67322 .67322 -.79832 .79832 .837 -27.894)\"></path><path stroke-width=\"2.117\" d=\"M10.904 30.523a6.63 6.63 0 0 1 9.374 9.374z\"></path></g></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"96\" cy=\"96\" r=\"62\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m76 22 3 12m34 124 3 12m-94-54 12-3m124-34 12-3\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,gps,logger",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#gps_status_and_toolbox__a)\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"83\" cy=\"109\" r=\"4\" stroke-width=\"8\"></circle><path d=\"M36 104.5V31a6 6 0 0 1 6-6h119a6 6 0 0 1 6 6v119a6 6 0 0 1-6 6H87.5\" stroke-width=\"12\"></path><path d=\"M89.87 155.87a38.002 38.002 0 0 1-53.74 0 38 38 0 0 1 0-53.74L63 129l26.87 26.87ZM36 59a97 97 0 0 1 97 97M57 25a109.999 109.999 0 0 1 110 110\" stroke-width=\"12\"></path></g><defs><clipPath id=\"gps_status_and_toolbox__a\"><path fill=\"#fff\" d=\"M0 0h192v192H0z\"></path></clipPath></defs></svg>",
+		"@lawnicons,gps,status,and,toolbox",
 		"Lawnicons"
 	],
 	[
@@ -318,16 +328,6 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C7.85786 4.5 4.5 7.85786 4.5 12C4.5 16.1421 7.85786 19.5 12 19.5Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M12 15C13.6569 15 15 13.6569 15 12C15 10.3431 13.6569 9 12 9C10.3431 9 9 10.3431 9 12C9 13.6569 10.3431 15 12 15Z\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M12 4V2\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M4 12H2\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M12 20V22\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path opacity=\"0.4\" d=\"M20 12H22\" stroke=\"#292D32\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@iconsax,location,twotone,gps",
 		"Iconsax"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> gps-large</title><path d=\"M23.5,35 L23.5,45 M23.5,2 L23.5,12 M45,23.5 L35,23.5 M12,23.5 L2,23.5 M23.5,40.5 C32.8888407,40.5 40.5,32.8888407 40.5,23.5 C40.5,14.1111593 32.8888407,6.5 23.5,6.5 C14.1111593,6.5 6.5,14.1111593 6.5,23.5 C6.5,32.8888407 14.1111593,40.5 23.5,40.5 Z\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,gps",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> gps-small</title><path d=\"M11.5,17 L11.5,23 L11.5,17 Z M11.5,0 L11.5,6 L11.5,0 Z M23,11.5 L17,11.5 L23,11.5 Z M6,11.5 L0,11.5 L6,11.5 Z M20.5,11.5 C20.5,16.5 16.5,20.5 11.5,20.5 C6.5,20.5 2.5,16.5 2.5,11.5 C2.5,6.5 6.5,2.5 11.5,2.5 C16.5,2.5 20.5,6.5 20.5,11.5 C20.5,11.5 20.5,11.5 20.5,11.5 Z\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,gps",
-		"Audi Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.1\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21ZM14.149 15.1848C13.4576 17.1053 10.6665 16.8584 10.323 14.8464C10.2169 14.2248 9.72996 13.7379 9.10837 13.6318C7.09631 13.2882 6.84941 10.4971 8.76993 9.80572L12.6761 8.39948C14.4674 7.75462 16.2001 9.48732 15.5553 11.2786L14.149 15.1848Z\" fill=\"#323232\"></path><path d=\"M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M13.9139 15.1002L15.3202 11.194C15.8934 9.60173 14.3532 8.06156 12.7609 8.63476L8.85473 10.041C7.17598 10.6454 7.3918 13.0851 9.15057 13.3854C9.87673 13.5094 10.4456 14.0782 10.5695 14.8044C10.8698 16.5631 13.3096 16.7789 13.9139 15.1002Z\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",

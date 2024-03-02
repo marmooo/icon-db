@@ -60,12 +60,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m734-164-42-42 73-74H584v-60h181l-73-74 42-42 146 146-146 146ZM416-532l284-179v-69L416-606 140-780v74l276 174ZM140-280q-24.8 0-42.4-17.6Q80-315.2 80-340v-440q0-24.8 17.6-42.4Q115.2-840 140-840h560q24.8 0 42.4 17.6Q760-804.8 760-780v232q-7.5-1-15-1.5t-15-.5q-103 0-171.5 67T490-313q0 8.333.5 16.667Q491-288 493-280H140Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M765-280H614q-13 0-21.5-8.5T584-310q0-13 8.5-21.5T614-340h151l-52-53q-8-9-8.5-21t8.5-21q9-9 21-9t21 9l104 104q5 5 7 10t2 11q0 6-2 11t-7 10L755-185q-9 9-21 9t-21-9q-9-9-8.5-21t8.5-21l52-53ZM416-532l284-179v-69L416-606 140-780v74l276 174ZM140-280q-25 0-42.5-17.5T80-340v-440q0-25 17.5-42.5T140-840h560q25 0 42.5 17.5T760-780v206q0 11-8 17.5t-19 6.5q-49-1-94 15.5T559-483q-35 35-53 81t-16 95q1 11-6 19t-18 8H140Z\"></path></svg>",
 		"@material-symbols,rounded,outgoing,mail,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m734-164-42-42 73-74H584v-60h181l-73-74 42-42 146 146-146 146ZM140-280q-24.75 0-42.375-17.625T80-340v-440q0-24.75 17.625-42.375T140-840h560q24.75 0 42.375 17.625T760-780v232q-7.5-1-15-1.5t-15-.5q-8 0-15 .5t-15 1.5v-185L416-532 140-732v392h351q-1 8-1 13.5v13.75q0 8.25.5 16.5T493-280H140Zm36-500 240 174 246-174H176Zm-36 440v-440 440Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M765-280H614q-12.75 0-21.375-8.675-8.625-8.676-8.625-21.5 0-12.825 8.625-21.325T614-340h151l-52-53q-8-9-8.5-21t8.5-21q9-9 21-9t21 9l104 104q5 5 7 10.217 2 5.218 2 10.783 0 5.565-2 10.783Q864-294 859-289L755-185q-9 9-21 9t-21-9q-9-9-8.5-21t8.5-21l52-53Zm-625 0q-24.75 0-42.375-17.625T80-340v-440q0-24.75 17.625-42.375T140-840h560q24.75 0 42.375 17.625T760-780v202q0 12-9.053 21-9.052 9-21.122 9-12.825 0-21.325-8.625T700-578v-155L416-532 140-732v392h321q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T461-280H140Zm36-500 240 174 246-174H176Zm-36 440v-440 440Z\"></path></svg>",
 		"@material-symbols,rounded,outgoing,mail",
 		"Material Symbols"
 	],
@@ -243,6 +243,16 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\"><path fill=\"currentColor\" d=\"M19 17v4c-2.758 0-5.07-.495-7-1.325-3.841-1.652-6.176-4.63-7.5-7.675C3.4 9.472 3 6.898 3 5h4l1 4-3.5 3c1.324 3.045 3.659 6.023 7.5 7.675L15 16l4 1z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M12 19.675c1.93.83 4.242 1.325 7 1.325v-4l-4-1-3 3.675zm0 0C8.159 18.023 5.824 15.045 4.5 12m0 0C3.4 9.472 3 6.898 3 5h4l1 4-3.5 3zm9.5-2 6-6m0 0v4m0-4h-4\"></path></svg>",
 		"@majesticons,solid,phone,outgoing",
 		"Majesticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\" fill-opacity=\"0\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><path d=\"M8 3C8.5 3 10.5 7.5 10.5 8C10.5 9 9 10 8.5 11C8 12 9 13 10 14C10.3943 14.3943 12 16 13 15.5C14 15 15 13.5 16 13.5C16.5 13.5 21 15.5 21 16C21 18 19.5 19.5 18 20C16.5 20.5 15.5 20.5 13.5 20C11.5 19.5 10 19 7.5 16.5C5 14 4.5 12.5 4 10.5C3.5 8.5 3.5 7.5 4 6C4.5 4.5 6 3 8 3Z\" stroke-dasharray=\"64\" stroke-dashoffset=\"64\"><animate attributeName=\"stroke-dashoffset\" values=\"64;0\" dur=\"0.6s\" fill=\"freeze\"></animate><animate attributeName=\"fill-opacity\" values=\"0;0.3\" begin=\"0.6s\" dur=\"0.15s\" fill=\"freeze\"></animate></path><path d=\"M16 8l4 -4\" opacity=\"0\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.8s\"></set><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.8s\" dur=\"0.2s\" fill=\"freeze\"></animate></path><path d=\"M20 4h-4M20 4v4\" opacity=\"0\" stroke-dasharray=\"6\" stroke-dashoffset=\"6\"><set attributeName=\"opacity\" to=\"1\" begin=\"1s\"></set><animate attributeName=\"stroke-dashoffset\" values=\"6;0\" begin=\"1s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"@material-line-icons,phone,outgoing,twotone",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><path d=\"M8 3C8.5 3 10.5 7.5 10.5 8C10.5 9 9 10 8.5 11C8 12 9 13 10 14C10.3943 14.3943 12 16 13 15.5C14 15 15 13.5 16 13.5C16.5 13.5 21 15.5 21 16C21 18 19.5 19.5 18 20C16.5 20.5 15.5 20.5 13.5 20C11.5 19.5 10 19 7.5 16.5C5 14 4.5 12.5 4 10.5C3.5 8.5 3.5 7.5 4 6C4.5 4.5 6 3 8 3Z\" stroke-dasharray=\"64\" stroke-dashoffset=\"64\"><animate attributeName=\"stroke-dashoffset\" values=\"64;0\" dur=\"0.6s\" fill=\"freeze\"></animate></path><path d=\"M16 8l4 -4\" opacity=\"0\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.7s\"></set><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.7s\" dur=\"0.2s\" fill=\"freeze\"></animate></path><path d=\"M20 4h-4M20 4v4\" opacity=\"0\" stroke-dasharray=\"6\" stroke-dashoffset=\"6\"><set attributeName=\"opacity\" to=\"1\" begin=\"0.9s\"></set><animate attributeName=\"stroke-dashoffset\" values=\"6;0\" begin=\"0.9s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"@material-line-icons,phone,outgoing",
+		"Material Line Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"m1.75 1.75c0 8.5 4 12.5 12.5 12.5v-4l-3.5-1-1 1.5c-2 0-4.5-2.5-4.5-4.5l1.5-1-1-3.5z\"></path><path d=\"m9.75 6.25 3.5-3.5m0 3v-3h-3\"></path></svg>",

@@ -5,6 +5,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><polyline class=\"c\" points=\"32.5302 27.9428 34.7296 27.9428 34.4923 25.622 33.4109 24.356 25.3797 23.5912 21.7366 18.0001 13.5746 18.0001 8.5373 23.3275 4.1066 24.4352 3.5 27.3362 4.133 27.9428 7.667 27.9428\"></polyline><line class=\"c\" x1=\"12.9944\" y1=\"27.9428\" x2=\"27.2555\" y2=\"27.9428\"></line><line class=\"c\" x1=\"25.3797\" y1=\"23.5912\" x2=\"8.5373\" y2=\"23.3275\"></line><line class=\"c\" x1=\"20.1048\" y1=\"18.0001\" x2=\"19.3223\" y2=\"23.4795\"></line><line class=\"c\" x1=\"13.5746\" y1=\"18.0001\" x2=\"12.7954\" y2=\"23.3766\"></line><polyline class=\"c\" points=\"20.6622 18.0001 27.6775 18.0001 35.1995 23.5912 43.2307 24.356 44.3121 25.622 44.5 27.9428 34.7296 27.9428\"></polyline><line class=\"c\" x1=\"25.3797\" y1=\"23.5912\" x2=\"35.1995\" y2=\"23.5912\"></line><line class=\"c\" x1=\"34.4923\" y1=\"25.622\" x2=\"44.3121\" y2=\"25.622\"></line><circle class=\"c\" cx=\"29.8665\" cy=\"27.4417\" r=\"2.5582\"></circle><circle class=\"c\" cx=\"10.2252\" cy=\"27.4417\" r=\"2.5582\"></circle><path class=\"c\" d=\"m15.4229,27.9424c.2305,1.1711,1.2652,2.0553,2.5068,2.0553s2.2764-.8842,2.5068-2.0553\"></path><path class=\"c\" d=\"m34.8361,27.9424c.2305,1.1711,1.2652,2.0553,2.5068,2.0553s2.2764-.8842,2.5068-2.0553\"></path></svg>",
+		"@arcticons,car,parking",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" viewBox=\"0 0 192 192\"><path d=\"M97 113a45 45 0 1 0-45-45m0 101V70\"></path><path d=\"m97 99-14 14 14 14z\"></path></svg>",
 		"@lawnicons,passport,parking,canada",
 		"Lawnicons"
@@ -338,136 +343,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"parking_solid\" focusable=\"false\"><path d=\"M2019 1075q29 64 29 133v72q0 38-10 73t-30 65-48 54-62 40q-15 35-39 63t-55 47-66 31-74 11q-69 0-128-34t-94-94H734q-35 60-94 94t-128 34q-69 0-128-34t-94-94H128q-27 0-50-10t-40-27-28-41-10-50v-256q0-79 30-149t82-122 122-83 150-30h37l328-328q27-27 62-41t74-15h907v128h-29l256 563zM512 1536q27 0 50-10t40-27 28-41 10-50q0-27-10-50t-27-40-41-28-50-10q-27 0-50 10t-40 27-28 41-10 50q0 27 10 50t27 40 41 28 50 10zm640-1024H885q-26 0-45 19L603 768h549V512zm128 256h459l-99-219q-8-17-24-27t-35-10h-301v256zm384 768q27 0 50-10t40-27 28-41 10-50q0-27-10-50t-27-40-41-28-50-10q-27 0-50 10t-40 27-28 41-10 50q0 27 10 50t27 40 41 28 50 10z\"></path></svg>",
 		"@fluent-ui-mdl2,parking,solid",
 		"Fluent UI MDL2"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-left-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M16.5,1.5 C16.5,1.5 24.5,7.4 24.5,15.5 L24.5,37.5 M30,32 L24.5,37.5 L19,32\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,left",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-left-long-large</title><path d=\"M24.5,2 L24.5,6.5 L40,6.5 C42.2,6.5 43.5,7.8 43.5,10 L43.5,37 C43.5,39.2 42.2,41.5 40,41.5 L24.5,41.5 L24.5,46 M33.5,36.5 L33.5,27.5 C33.5,22.5 29.5,18.5 24.5,18.5 L23.5,18.5 C18.5,18.5 14.5,14.5 14.5,9.5 L14.5,2 M39,31 L33.5,36.5 L28,31\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,left,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-left-long-small</title><path d=\"M11.5,0 L11.5,2.5 L19.5,2.5 C20.6,2.5 21.5,3.4 21.5,4.5 L21.5,19.5 C21.5,20.6 20.6,21.5 19.5,21.5 L11.5,21.5 L11.5,24 M14.5,17.5 L14.5,12.5 C14.5,9.7 12.3,7.5 9.5,7.5 L8.5,7.5 C5.7,7.5 3.5,5.3 3.5,2.5 L3.5,0 M18,14 L14.5,17.5 L11,14\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,left,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-left-small</title><path d=\"M23,6.5 L18.5,6.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,6.5 L0,6.5 M15,15 L11.5,18.5 L8,15 M7.2,0.9 C7.2,0.9 11.5,4 11.5,8.4 L11.5,18.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,left",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-right-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M24.5,37.5 L24.5,15.5 C24.5,7.4 32.5,1.5 32.5,1.5 M30,32 L24.5,37.5 L19,32\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,right",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-right-long-large</title><path d=\"M27.5,46 L27.5,41.5 L12.5,41.5 C10.3,41.5 8.5,39.2 8.5,37 L8.5,10 C8.5,7.8 10.3,6.5 12.5,6.5 L27.5,6.5 L27.5,2 M37.5,2 L37.5,9.5 C37.5,14.5 34,18.5 29,18.5 L28,18.5 C23,18.5 18.5,22.5 18.5,27.5 L18.5,36.5 M24,31 L18.5,36.5 L13,31\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,right,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-right-long-small</title><path d=\"M12.5,24 L12.5,21.5 L4.5,21.5 C3.4,21.5 2.5,20.6 2.5,19.5 L2.5,4.5 C2.5,3.4 3.4,2.5 4.5,2.5 L12.5,2.5 L12.5,0 M20.5,0 L20.5,2.5 C20.5,5.3 18.3,7.5 15.5,7.5 L14.5,7.5 C11.7,7.5 9.5,9.7 9.5,12.5 L9.5,17.5 M13,14 L9.5,17.5 L6,14\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,right,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-right-small</title><path d=\"M23,4.5 L18.5,4.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,4.5 L0,4.5 M15,15 L11.5,18.5 L8,15 M11.5,18.5 L11.5,8.4 C11.5,4 15.8,0.9 15.8,0.9\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,right",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-straight-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M24.5,37.5 L24.5,2 M30,32 L24.5,37.5 L19,32\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,straight",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-in-straight-small</title><path d=\"M15,15 L11.5,18.5 L8,15 M11.5,0 L11.5,18.5 M23,4.5 L18.5,4.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,4.5 L0,4.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,in,straight",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-large</title><path d=\"M17.5,33 L17.5,15.5 L27,15.5 C30,15.5 32.5,16 32.5,21 C32.5,26 30,26.5 27,26.5 L17.5,26.5 M45.5,2.5 L6.40909,2.5 C4.25016,2.5 2.5,4.25016 2.5,6.40909 L2.5,45.5 L41.5909,45.5 C43.7498,45.5 45.5,43.7498 45.5,41.5909 L45.5,2.5 Z\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-left-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M16.5,1.5 C16.5,1.5 24.5,7.4 24.5,15.5 L24.5,37 M16.5,9 L16.5,1.5 L25,1.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,left",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-left-long-large</title><path d=\"M24.5,2 L24.5,6.5 L40,6.5 C42.2,6.5 43.5,7.8 43.5,10 L43.5,37 C43.5,39.2 42.2,41.5 40,41.5 L24.5,41.5 L24.5,46 M9,7 L14.5,1.5 L20,7 M33.5,36 L33.5,27.5 C33.5,22.5 29.5,18.5 24.5,18.5 L23.5,18.5 C18.5,18.5 14.5,14.5 14.5,9.5 L14.5,1.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,left,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-left-long-small</title><path d=\"M11.5,0 L11.5,2.5 L19.5,2.5 C20.6,2.5 21.5,3.4 21.5,4.5 L21.5,19.5 C21.5,20.6 20.6,21.5 19.5,21.5 L11.5,21.5 L11.5,24 M15.5,18 L15.5,14.5 C15.5,11.7 13.3,9.5 10.5,9.5 L9.5,9.5 C6.7,9.5 4.5,7.3 4.5,4.5 L4.5,1.5 M1,5 L4.5,1.5 L8,5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,left,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-left-small</title><path d=\"M23,6.5 L18.5,6.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,6.5 L0,6.5 M7.5,5 L7.5,0.5 L12,0.5 M7.5,0.5 C8.7,1.5 11.5,4 11.5,7.4 L11.5,17\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,left",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-right-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M25,1.5 L32.5,1.5 L32.5,9 M24.5,37 L24.5,15.5 C24.5,7.4 32.5,1.5 32.5,1.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,right",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-right-long-large</title><path d=\"M27.5,46 L27.5,41.5 L12.5,41.5 C10.3,41.5 8.5,39.2 8.5,37 L8.5,10 C8.5,7.8 10.3,6.5 12.5,6.5 L27.5,6.5 L27.5,2 M32,7 L37.5,1.5 L43,7 M37.5,1.5 L37.5,9.5 C37.5,14.5 34,18.5 29,18.5 L28,18.5 C23,18.5 18.5,22.5 18.5,27.5 L18.5,36\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,right,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-right-long-small</title><path d=\"M12.5,24 L12.5,21.5 L4.5,21.5 C3.4,21.5 2.5,20.6 2.5,19.5 L2.5,4.5 C2.5,3.4 3.4,2.5 4.5,2.5 L12.5,2.5 L12.5,0 M19.5,1.5 L19.5,4.5 C19.5,7.3 17.3,9.5 14.5,9.5 L13.5,9.5 C10.7,9.5 8.5,11.7 8.5,14.5 L8.5,18 M16,5 L19.5,1.5 L23,5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,right,long",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-right-small</title><path d=\"M23,6.5 L18.5,6.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,6.5 L0,6.5 M11.5,17 L11.5,7.4 C11.5,3.9 14.4,1.5 15.5,0.5 M11,0.5 L15.5,0.5 L15.5,5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,right",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-straight-large</title><path d=\"M45,10.5 L36.5,10.5 L36.5,41.5 C36.5,43.7 34.7,45.5 32.5,45.5 L16.5,45.5 C14.3,45.5 12.5,43.7 12.5,41.5 L12.5,10.5 L4,10.5 M19,7 L24.5,1.5 L30,7 M24.5,37 L24.5,1.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,straight",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-out-straight-small</title><path d=\"M23,6.5 L18.5,6.5 L18.5,21.4 C18.5,22.6 17.5,23.5 16.3,23.5 L6.7,23.5 C5.5,23.5 4.5,22.5 4.5,21.4 L4.5,6.5 L0,6.5 M8,4 L11.5,0.7 L15,4 M11.5,0.7 L11.5,18\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking,out,straight",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> parking-small</title><path d=\"M7.5,17 L7.5,6.5 L12.5,6.5 C13.5,6.5 15.5,6.5 15.5,10 C15.5,13.5 13.5,13.5 12.5,13.5 L7.5,13.5 M22.5,0.5 L2.5,0.5 C1.39543,0.5 0.5,1.39543 0.5,2.5 L0.5,22.5 L20.5,22.5 C21.6046,22.5 22.5,21.6046 22.5,20.5 L22.5,0.5 Z\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,parking",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> piloted-parking-large</title><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M30,42.5 C36.9035594,42.5 42.5,36.9035594 42.5,30 C42.5,23.0964406 36.9035594,17.5 30,17.5 C23.0964406,17.5 17.5,23.0964406 17.5,30 C17.5,36.9035594 23.0964406,42.5 30,42.5 Z M21.6662732,39.3337268 L26.3311551,34.6688449 M38.3430219,39.3430219 L33.6814063,34.6814063 L38.3430219,39.3430219 Z M42.4420928,28.5 L34.2999992,28.5 M25.7000008,28.5 L17.5657501,28.5 M30,36.3742304 C32.8833567,36.3742304 34.5681818,34.4164382 34.5681818,31.4797499 C34.5681818,29.8482564 34.5681818,27.8904642 33.262987,27.042088 C32.2171649,26.3623041 27.7803389,26.3639266 26.737013,27.042088 C25.4318182,27.8904642 25.4318182,29.8482564 25.4318182,31.4797499 C25.4318182,34.4164382 27.1166433,36.3742304 30,36.3742304 Z\" stroke=\"currentColor\"></path><path d=\"M6,23.0938543 L6,5 L13.1475723,5 C18.7206793,5 20.7200003,7.32421057 20.7200003,10.6230901 C20.7200003,13.9219696 18.5957218,16.3461462 13.0226147,16.3461462 L8.57412568,16.3461462 L8.57412568,23.0938543 L6,23.0938543 Z M12.597759,7.09928697 L8.57412568,7.09928697 L8.57412568,14.2468593 L12.597759,14.2468593 C16.7713415,14.2468593 18.0958916,12.9473007 18.0958916,10.6230901 C18.0958916,8.29887952 16.7713415,7.09928697 12.597759,7.09928697 Z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path></g></svg>",
-		"@audi-icons,piloted,parking",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> piloted-parking-small</title><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M10.8692474,20.7659912 L13.5595398,18.0778961 M20.136772,20.7708047 L17.4355343,18.071898 L20.136772,20.7708047 Z M15.5,22.5 C19.3659932,22.5 22.5,19.3659932 22.5,15.5 C22.5,11.6340068 19.3659932,8.5 15.5,8.5 C11.6340068,8.5 8.5,11.6340068 8.5,15.5 C8.5,19.3659932 11.6340068,22.5 15.5,22.5 Z M15.5,18.8858255 C17.0779564,18.8858255 18,17.8143969 18,16.2072541 C18,15.3143969 18,14.2429684 17.2857143,13.7786829 C16.7133738,13.4066619 14.2852601,13.4075498 13.7142857,13.7786829 C13,14.2429684 13,15.3143969 13,16.2072541 C13,17.8143969 13.9220436,18.8858255 15.5,18.8858255 Z M13.1874237,14.5454545 L8.53442383,14.5454545 M22.4516754,14.5454545 L17.8398743,14.5454545\" stroke=\"currentColor\"></path><path d=\"M2,12.86 L2,2 L6.29,2 C9.635,2 10.835,3.395 10.835,5.375 C10.835,7.355 9.56,8.81 6.215,8.81 L3.545,8.81 L3.545,12.86 L2,12.86 Z M5.96,3.26 L3.545,3.26 L3.545,7.55 L5.96,7.55 C8.465,7.55 9.26,6.77 9.26,5.375 C9.26,3.98 8.465,3.26 5.96,3.26 Z\" fill=\"currentColor\" fill-rule=\"nonzero\"></path></g></svg>",
-		"@audi-icons,piloted,parking",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> valet-parking-large</title><path d=\"M27,21.5 C26.2380198,21.4987267 25.6798345,21.4989676 25.3254438,21.5007226 C22.7154225,21.5136482 20.1973242,21.6897465 18.9979074,22.2037822 C17.9618686,22.6477988 15.9698664,24.2882713 13.0219007,27.1251995 C9.5066027,27.5939059 7.04589408,28.0626123 5.63977487,28.5313187 C3.53059606,29.2343783 2.12447684,30.6404975 1.77294704,31.6950869 C1.53859384,32.3981465 1.5,32.984702 1.5,34.3908212 L1.5,34.742351 C1.5,35.7130737 2.28692627,36.5 3.25764901,36.5 L6.5,36.5 C6.5,38.709139 8.290861,40.5 10.5,40.5 L11,40.5 C13.209139,40.5 15,38.709139 15,36.5 L33,36.5 C33,38.709139 34.790861,40.5 37,40.5 L37.5,40.5 C39.709139,40.5 41.5,38.709139 41.5,36.5 L44.328805,36.3004166 C45.4880123,36.2164208 46.4214172,35.1594688 46.4958148,34 C46.5702123,32.8405312 46.1714172,30.5 45.8491818,29.4260198 C45.5269464,28.3520395 44.914832,27.1956173 43.7393462,26.8954969 C42.9915024,26.7045662 42.2436586,26.6246406 41.4958148,26.5 M45.5,23.5 L45.5,13.5 L29.5,13.5 L29.5,23.5 L45.5,23.5 Z M37.5,16 L37.5,20 L37.5,16 Z M31.5,13.5 L31.5,10.5 C31.5,7.73857625 33.4187796,5.5 35.7857143,5.5 L39.2142857,5.5 C41.5812204,5.5 43.5,7.73857625 43.5,10.5 L43.5,13.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,valet,parking",
-		"Audi Icons"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><title> valet-parking-small</title><path d=\"M11.972733,11.3773382 C10.9093992,11.4111361 9.95607412,11.5117779 9.45238076,11.7276465 C8.91652098,11.9573007 7.88621795,12.8057855 6.36147167,14.273101 C4.54328985,14.5155253 3.37727282,14.7579495 2.6500001,15.0003738 C1.559091,15.3640101 0.781818206,16.0912828 0.600000024,16.6367374 C0.478787903,17.0003738 0.5,17.5458283 0.5,18.273101 L0.5,18.4549192 C0.5,18.9569963 0.997922955,19.5 1.5,19.5 L3,19.5206227 C3,20.7518738 3.99812622,21.75 5.22937732,21.75 L5.25,21.75 C6.49257884,21.75 7.49988801,20.7426908 7.49988801,19.500112 C7.49988801,19.5000747 7.49988801,19.5000373 7.49988801,19.5 L7.49988801,19.5 L7.49988801,19.5 L16.5,19.5206227 C16.5,20.7518738 17.4981262,21.75 18.7293773,21.75 L18.7705177,21.75 C20.0017688,21.75 20.999895,20.7518738 20.999895,19.5206227 L20.999895,19.5206227 L20.999895,19.5206227 L22.5133785,19.2607816 C23.1129435,19.2173373 23.5415357,18.6970487 23.5,18.0973485 L23.25,15.1499996 M23.5,13.5 L23.5,7.5 L13.5,7.5 L13.5,13.5 L23.5,13.5 Z M18.5,9 L18.5,11.5 L18.5,9 Z M14.5,7.5 L14.5,5.5 C14.5,3.84314575 15.8431458,2.5 17.5,2.5 L19.5,2.5 C21.1568542,2.5 22.5,3.84314575 22.5,5.5 L22.5,7.5 L22.5,7.5\" stroke=\"currentColor\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"></path></svg>",
-		"@audi-icons,valet,parking",
-		"Audi Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M10.5 15v-2.4m0 0h2.276c2.299 0 2.299-3.6 0-3.6H10.5z\"></path><circle cx=\"12\" cy=\"12\" r=\"9\"></circle></svg>",
