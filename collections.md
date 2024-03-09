@@ -386,3 +386,5 @@
   [MIT](https://github.com/denali-design/denali-icons/blob/master/LICENSE.md)
 - [Breeze Icons](https://github.com/KDE/breeze-icons) licensed under the
   [LGPL-3.0](https://github.com/KDE/breeze-icons/blob/master/COPYING-ICONS)
+- [MageIcons](https://github.com/Mage-Icons/mage-icons) licensed under the
+  [Apache-2.0](https://github.com/Mage-Icons/mage-icons/blob/main/License.txt)
