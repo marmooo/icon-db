@@ -1,6 +1,6 @@
 [
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Ethereum\" role=\"img\" viewBox=\"0 0 512 512\"><rect width=\"512\" height=\"512\"\nfill=\"#fff\"></rect><path fill=\"#3C3C3B\" d=\"m256 362v107l131-185z\"></path><path fill=\"#343434\" d=\"m256 41l131 218-131 78-132-78\"></path><path fill=\"#8C8C8C\" d=\"m256 41v158l-132 60m0 25l132 78v107\"></path><path fill=\"#141414\" d=\"m256 199v138l131-78\"></path><path fill=\"#393939\" d=\"m124 259l132-60v138\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Ethereum\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\"\nfill=\"#fff\"></path><path fill=\"#3C3C3B\" d=\"m256 362v107l131-185\"></path><path fill=\"#343434\" d=\"m256 41v296l131-78\"></path><path fill=\"#8C8C8C\" d=\"m256 41v218h-132m0 25 132 78v107\"></path><path fill=\"#141414\" d=\"m256 199v138l131-78\"></path><path fill=\"#393939\" d=\"m124 259l132-60v138\"></path></svg>",
 		"@super-tiny-icons,ethereum",
 		"Super Tiny Icons"
 	],
@@ -28,11 +28,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 512\"><path d=\"M311.9 260.8L160 353.6 8 260.8 160 0l151.9 260.8zM160 383.4L8 290.6 160 512l152-221.4-152 92.8z\"></path></svg>",
 		"@font-awesome,brands,ethereum",
 		"Font Awesome"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-currency-ethereum\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 12l6 -9l6 9l-6 9z\"></path><path d=\"M6 12l6 -3l6 3l-6 2z\"></path></svg>",
-		"@tabler-icons,currency,ethereum",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-ethereum\" viewBox=\"0 0 24 24\"><path d=\"M12,1.75L5.75,12.25L12,16L18.25,12.25L12,1.75M5.75,13.5L12,22.25L18.25,13.5L12,17.25L5.75,13.5Z\"></path></svg>",
@@ -68,6 +63,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M 14.953125 3 L 6.9296875 15.552734 L 16.003906 20.013672 L 24.933594 15.548828 L 17.052734 3 L 16.5 3 L 14.953125 3 z M 15 6.6367188 L 15 10.988281 L 11.085938 12.763672 L 15 6.6367188 z M 17 6.6777344 L 20.818359 12.757812 L 17 11.003906 L 17 6.6777344 z M 15 13.183594 L 15 17.291016 L 10.65625 15.154297 L 15 13.183594 z M 17 13.207031 L 21.246094 15.15625 L 17 17.279297 L 17 13.207031 z M 7 17.511719 L 7 20.03125 L 14.927734 28.875 L 16 28.875 L 17.072266 28.875 L 25 20.03125 L 25 17.511719 L 16 22.125 L 7 17.511719 z M 11.521484 22.078125 L 15 23.861328 L 15 25.957031 L 11.521484 22.078125 z M 20.478516 22.078125 L 17 25.957031 L 17 23.861328 L 20.478516 22.078125 z\"></path></svg>",
 		"@icons8-line-awesome,ethereum",
 		"Icons8 Line Awesome"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16.7469 12.1594L12 15.2406L7.25 12.1594L12 3.5L16.7469 12.1594ZM12 16.2301L7.25 13.1488L12 20.5L16.75 13.1488L12 16.2301Z\" fill=\"black\"></path></svg>",
+		"@prime-icons,ethereum",
+		"Prime Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"nonzero\"><path d=\"M24 0v24H0V0h24ZM12.593 23.258l-.011.002-.071.035-.02.004-.014-.004-.071-.035c-.01-.004-.019-.001-.024.005l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.017-.018Zm.265-.113-.013.002-.185.093-.01.01-.003.011.018.43.005.012.008.007.201.093c.012.004.023 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a.023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.002.201-.093.01-.008.004-.011.017-.43-.003-.012-.01-.01-.184-.092Z\"></path><path fill=\"#09244B\" d=\"M12 2a1 1 0 0 1 .832.445l5.804 8.707-5.227 2.178-1.21-8.877c-.032-.23-.366-.23-.397 0l-1.21 8.877-5.228-2.178 5.804-8.707A1 1 0 0 1 12 2Zm.385 13.923 5.818-2.424-5.37 8.056a1 1 0 0 1-1.665 0l-5.37-8.056 5.817 2.424a1 1 0 0 0 .77 0Z\"></path></g></svg>",

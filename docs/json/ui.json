@@ -40,7 +40,7 @@
 		"Devicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M158.816 118.577a63 63 0 0 1-117.584.123m.355-46.3A63 63 0 0 1 100.44 33M23 96h146\" stroke=\"#000\" stroke-width=\"14\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M158.816 118.577a63 63 0 0 1-117.584.123m.355-46.3A63 63 0 0 1 100.44 33M23 96h146\"></path></svg>",
 		"@lawnicons,graby,spin,ui,icon,pack",
 		"Lawnicons"
 	],
@@ -57,6 +57,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m47 48 35-26 66 42M47 48v122l40-18V74M47 48l65 39m36-23v61l-36 16V87m36-23-36 23\"></path></svg>",
 		"@lawnicons,revo,shine,ui",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M23.495 52.933c-3.858 14.102-.248 29.82 10.83 40.897 11.665 11.667 28.478 15.05 43.13 10.151l64.282 64.258a6 6 0 0 0 8.485-.001l18.016-18.016a6 6 0 0 0 .001-8.485l-64.258-64.283c4.899-14.651 1.516-31.464-10.15-43.13-11.078-11.077-26.796-14.687-40.898-10.829-2.083.57-2.63 3.15-1.102 4.677l19.833 19.833a6 6 0 0 1 0 8.485L56.49 71.664a6 6 0 0 1-8.485 0L28.172 51.831c-1.527-1.527-4.107-.98-4.677 1.102Z\"></path></svg>",
+		"@lawnicons,system,ui,tuner",
 		"Lawnicons"
 	],
 	[
@@ -553,11 +558,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-ui-radios\" viewBox=\"0 0 16 16\"><path d=\"M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5zM0 12a3 3 0 1 1 6 0 3 3 0 0 1-6 0m7-1.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5m0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5M3 1a3 3 0 1 0 0 6 3 3 0 0 0 0-6m0 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3\"></path></svg>",
 		"@bootstrap-icons,ui,radios",
 		"Bootstrap Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-radix-ui\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M16.5 5.5m-2.5 0a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0 -5 0\"></path><path d=\"M6 3h5v5h-5z\"></path><path d=\"M11 11v10a5 5 0 0 1 -.217 -9.995l.217 -.005z\"></path></svg>",
-		"@tabler-icons,brand,radix,ui",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-material-ui\" viewBox=\"0 0 24 24\"><path d=\"M8,16.61V15.37L14,11.91V7.23L9,10.12L4,7.23V13L3,13.58L2,13V5L3.07,4.38L9,7.81L12.93,5.54L14.93,4.38L16,5V13.06L10.92,16L14.97,18.33L20,15.43V11L21,10.42L22,11V16.58L14.97,20.64L8,16.61M22,9.75L21,10.33L20,9.75V8.58L21,8L22,8.58V9.75Z\"></path></svg>",

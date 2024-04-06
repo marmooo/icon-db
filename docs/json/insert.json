@@ -325,11 +325,6 @@
 		"Breeze Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 3 11 L 3 15 L 7 15 L 7 11 L 3 11 z M 15 11 L 15 15 L 19 15 L 19 11 L 15 11 z\" class=\"ColorScheme-Text\"></path><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 8 9 L 8 14 L 14 14 L 14 9 L 8 9 z\" class=\"ColorScheme-Highlight\"></path></svg>",
-		"@breeze-icons,actions,kdenlive,insert,edit",
-		"Breeze Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 5 4 C 3.892 4 3 4.892 3 6 L 3 14 C 3 15.108 3.892 16 5 16 L 13 16 L 13 14 L 13 13 L 19 13 L 19 6 C 19 4.892 18.108 4 17 4 L 5 4 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z\" class=\"ColorScheme-Text\"></path></svg>",
 		"@breeze-icons,actions,kdenlive,insert,rect",
 		"Breeze Icons"
@@ -352,6 +347,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M2 11H6V15H2z\" class=\"ColorScheme-Text\"></path><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 7,5 10,8 13,5 7,5 Z\" class=\"ColorScheme-Highlight\"></path><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m 16,11 0,-2 4,4 -4,4 0,-2 -2,0 0,-4 z\" class=\"ColorScheme-Text\"></path><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m 7,9 6,0 0,5 -6,0 z\" class=\"ColorScheme-Highlight\"></path></svg>",
 		"@breeze-icons,actions,timeline,insert",
+		"Breeze Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 22 22\"><defs id=\"defs3051\"><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 3 11 L 3 15 L 7 15 L 7 11 L 3 11 z M 15 11 L 15 15 L 19 15 L 19 11 L 15 11 z\" class=\"ColorScheme-Text\"></path><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"M 8 9 L 8 14 L 14 14 L 14 9 L 8 9 z\" class=\"ColorScheme-Highlight\"></path></svg>",
+		"@breeze-icons,actions,timeline,mode,insert",
 		"Breeze Icons"
 	],
 	[
@@ -743,26 +743,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M5 19h14V5H5v14zm4-5.86 2.14 2.58 3-3.87L18 17H6l3-3.86z\" opacity=\".3\"></path><path d=\"M3 5v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2zm16 14H5V5h14v14zm-4.86-7.14-3 3.86L9 13.14 6 17h12z\"></path></svg>",
 		"@material-design-icons,twotone,insert,photo",
 		"Material Design Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-column-insert-left\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 4h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-14a1 1 0 0 1 1 -1z\"></path><path d=\"M5 12l4 0\"></path><path d=\"M7 10l0 4\"></path></svg>",
-		"@tabler-icons,column,insert,left",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-column-insert-right\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 4h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-14a1 1 0 0 1 1 -1z\"></path><path d=\"M15 12l4 0\"></path><path d=\"M17 10l0 4\"></path></svg>",
-		"@tabler-icons,column,insert,right",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-row-insert-bottom\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M20 6v4a1 1 0 0 1 -1 1h-14a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h14a1 1 0 0 1 1 1z\"></path><path d=\"M12 15l0 4\"></path><path d=\"M14 17l-4 0\"></path></svg>",
-		"@tabler-icons,row,insert,bottom",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-row-insert-top\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 18v-4a1 1 0 0 1 1 -1h14a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-14a1 1 0 0 1 -1 -1z\"></path><path d=\"M12 9v-4\"></path><path d=\"M10 7l4 0\"></path></svg>",
-		"@tabler-icons,row,insert,top",
-		"Tabler Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 8C8.44772 8 8 8.44772 8 9C8 9.55229 8.44772 10 9 10H11V12C11 12.5523 11.4477 13 12 13C12.5523 13 13 12.5523 13 12V10H15C15.5523 10 16 9.55229 16 9C16 8.44772 15.5523 8 15 8H13V6C13 5.44772 12.5523 5 12 5C11.4477 5 11 5.44772 11 6V8H9Z\" fill=\"currentColor\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 9C4 4.58172 7.58172 1 12 1C16.4183 1 20 4.58172 20 9C20 13.4183 16.4183 17 12 17C7.58172 17 4 13.4183 4 9ZM12 15C8.68629 15 6 12.3137 6 9C6 5.68629 8.68629 3 12 3C15.3137 3 18 5.68629 18 9C18 12.3137 15.3137 15 12 15Z\" fill=\"currentColor\"></path><path d=\"M5 20C4.44772 20 4 20.4477 4 21C4 21.5523 4.44772 22 5 22H19C19.5523 22 20 21.5523 20 21C20 20.4477 19.5523 20 19 20H5Z\" fill=\"currentColor\"></path></svg>",

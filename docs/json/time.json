@@ -45,7 +45,12 @@
 		"Arcticons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><rect x=\"72\" y=\"55\" width=\"48\" height=\"82\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"m29 29 64.551 64.551a6 6 0 0 0 5.794 1.554L167 77\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M22 74v38a6 6 0 0 0 6 6h69\"></path><circle cx=\"94\" cy=\"77\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"130\" cy=\"77\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"130\" cy=\"115\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"166\" cy=\"77\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle></svg>",
+		"@lawnicons,life,time",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect><rect width=\"48\" height=\"82\" x=\"72\" y=\"55\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m29 29 64.551 64.551a6 6 0 0 0 5.794 1.554L167 77\"></path></svg>",
 		"@lawnicons,screen,time",
 		"Lawnicons"
 	],
@@ -55,12 +60,12 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M52 96c0 24.301 19.7 44 44 44 12.762 0 24.255-5.433 32.292-14.113a48.003 48.003 0 0 1-51.19-51.026 47.999 47.999 0 0 1 6.454-21.077C65.316 59.153 52 76.021 52 96Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M52 96c0 24.301 19.7 44 44 44 12.762 0 24.255-5.433 32.292-14.113a48 48 0 0 1-44.736-72.103C65.316 59.153 52 76.021 52 96\"></path></svg>",
 		"@lawnicons,sleep,time",
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M61 66h70m-70 60h70m-12-20h12M83 94l12 12 18-20m-52 20h9m59-20h2m-70 0h8\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M61 66h70m-70 60h70m-12-20h12M83 94l12 12 18-20m-52 20h9m59-20h2m-70 0h8\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle></svg>",
 		"@lawnicons,time,table",
 		"Lawnicons"
 	],
@@ -713,61 +718,6 @@
 		"<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 30 30\" style=\"enable-background:new 0 0 30 30;\" xml:space=\"preserve\"><path d=\"M3.74,14.47c0-2.04,0.51-3.93,1.52-5.66s2.38-3.1,4.11-4.11s3.61-1.51,5.64-1.51c1.52,0,2.98,0.3,4.37,0.89 s2.58,1.4,3.59,2.4s1.81,2.2,2.4,3.6s0.89,2.85,0.89,4.39c0,1.52-0.3,2.98-0.89,4.37s-1.4,2.59-2.4,3.59s-2.2,1.8-3.59,2.39 s-2.84,0.89-4.37,0.89c-1.53,0-3-0.3-4.39-0.89s-2.59-1.4-3.6-2.4s-1.8-2.2-2.4-3.58S3.74,16,3.74,14.47z M6.22,14.47 c0,2.37,0.86,4.43,2.59,6.18c1.73,1.73,3.79,2.59,6.2,2.59c1.58,0,3.05-0.39,4.39-1.18s2.42-1.85,3.21-3.2s1.19-2.81,1.19-4.39 s-0.4-3.05-1.19-4.4s-1.86-2.42-3.21-3.21s-2.81-1.18-4.39-1.18s-3.05,0.39-4.39,1.18S8.2,8.72,7.4,10.07S6.22,12.89,6.22,14.47z M9.51,14.46c0-0.23,0.08-0.43,0.24-0.59s0.36-0.24,0.59-0.24h3.79V7.81c0-0.23,0.08-0.43,0.24-0.59s0.36-0.24,0.59-0.24 s0.43,0.08,0.59,0.24s0.24,0.36,0.24,0.59v6.67c0,0.23-0.08,0.43-0.24,0.59s-0.36,0.24-0.59,0.24c-0.1,0-0.16,0-0.19-0.01h-4.44 c-0.23,0-0.43-0.08-0.59-0.25C9.59,14.88,9.51,14.68,9.51,14.46z\"></path></svg>",
 		"@weather-icons,time,9",
 		"Weather Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-calendar-time\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4\"></path><path d=\"M18 18m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0\"></path><path d=\"M15 3v4\"></path><path d=\"M7 3v4\"></path><path d=\"M3 11h16\"></path><path d=\"M18 16.496v1.504l1 1\"></path></svg>",
-		"@tabler-icons,calendar,time",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-file-time\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 3v4a1 1 0 0 0 1 1h4\"></path><path d=\"M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z\"></path><path d=\"M12 14m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0\"></path><path d=\"M12 12.496v1.504l1 1\"></path></svg>",
-		"@tabler-icons,file,time",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-0\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 12v.01\"></path><path d=\"M21 12v.01\"></path><path d=\"M12 21v.01\"></path><path d=\"M12 3v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M16.5 4.2v.01\"></path><path d=\"M16.5 19.8v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M19.8 16.5v.01\"></path><path d=\"M19.8 7.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M10 11v2a2 2 0 1 0 4 0v-2a2 2 0 1 0 -4 0z\"></path></svg>",
-		"@tabler-icons,time,duration,0",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-10\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 9v6\"></path><path d=\"M12 11v2a2 2 0 1 0 4 0v-2a2 2 0 1 0 -4 0z\"></path><path d=\"M3 12v.01\"></path><path d=\"M21 12v.01\"></path><path d=\"M12 21v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M16.5 19.8v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M19.8 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M19.81 7.527a8.994 8.994 0 0 0 -7.81 -4.527\"></path></svg>",
-		"@tabler-icons,time,duration,10",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-15\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 15h2a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-2v-3h3\"></path><path d=\"M9 9v6\"></path><path d=\"M3 12v.01\"></path><path d=\"M12 21v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M16.5 19.8v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M19.8 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M21 12a9 9 0 0 0 -9 -9\"></path></svg>",
-		"@tabler-icons,time,duration,15",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-30\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 10.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M8 9h1.5a1.5 1.5 0 0 1 0 3h-.5h.5a1.5 1.5 0 0 1 0 3h-1.5\"></path><path d=\"M3 12v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M12 21a9 9 0 0 0 0 -18\"></path></svg>",
-		"@tabler-icons,time,duration,30",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-45\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M13 15h2a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-2v-3h3\"></path><path d=\"M7 9v2a1 1 0 0 0 1 1h1\"></path><path d=\"M10 9v6\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M3 12a9 9 0 1 0 9 -9\"></path></svg>",
-		"@tabler-icons,time,duration,45",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-5\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10 15h2a1.5 1.5 0 0 0 0 -3h-2v-3h3.5\"></path><path d=\"M3 12v.01\"></path><path d=\"M21 12v.01\"></path><path d=\"M12 21v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M16.5 19.8v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M19.8 16.5v.01\"></path><path d=\"M19.8 7.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M16.5 4.206a9.042 9.042 0 0 0 -4.5 -1.206\"></path></svg>",
-		"@tabler-icons,time,duration,5",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-60\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 10.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M11 9h-2a1 1 0 0 0 -1 1v4a1 1 0 0 0 1 1h1a1 1 0 0 0 1 -1v-1a1 1 0 0 0 -1 -1h-2\"></path><path d=\"M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0\"></path></svg>",
-		"@tabler-icons,time,duration,60",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-90\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M8 14.25c0 .414 .336 .75 .75 .75h1.5a.75 .75 0 0 0 .75 -.75v-4.5a.75 .75 0 0 0 -.75 -.75h-1.5a.75 .75 0 0 0 -.75 .75v1.5c0 .414 .336 .75 .75 .75h2.25\"></path><path d=\"M14 10.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0\"></path></svg>",
-		"@tabler-icons,time,duration,90",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 12v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M12 21a8.994 8.994 0 0 0 6.362 -2.634m1.685 -2.336a9 9 0 0 0 -8.047 -13.03\"></path><path d=\"M3 3l18 18\"></path></svg>",
-		"@tabler-icons,time,duration,off",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-clock-time-eight-outline\" viewBox=\"0 0 24 24\"><path d=\"M12 20C16.4 20 20 16.4 20 12S16.4 4 12 4 4 7.6 4 12 7.6 20 12 20M12 2C17.5 2 22 6.5 22 12S17.5 22 12 22C6.5 22 2 17.5 2 12C2 6.5 6.5 2 12 2M12.5 12.8L7.7 15.6L7 14.2L11 11.9V7H12.5V12.8Z\"></path></svg>",

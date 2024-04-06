@@ -5,7 +5,7 @@
 		"Zocial CSS Social Buttons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Yahoo!\" role=\"img\" viewBox=\"0 0 512 512\" fill=\"#fff\"><rect width=\"512\" height=\"512\"\nfill=\"#5f01d1\"></rect><g fill=\"#fff\"><path d=\"M203 404h-62l25-59-69-165h63l37 95 37-95h62m58 76h-69l62-148h69\"></path><circle cx=\"303\" cy=\"308\" r=\"38\"></circle></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Yahoo!\" role=\"img\" viewBox=\"0 0 512 512\" fill=\"#fff\"><path d=\"m0 0H512V512H0\"\nfill=\"#5f01d1\"></path><g fill=\"#fff\"><path d=\"M203 404h-62l25-59-69-165h63l37 95 37-95h62m58 76h-69l62-148h69\"></path><circle cx=\"303\" cy=\"308\" r=\"38\"></circle></g></svg>",
 		"@super-tiny-icons,yahoo",
 		"Super Tiny Icons"
 	],
@@ -45,7 +45,7 @@
 		"Devicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M84 91.0411V57C84 53.6863 86.6863 51 90 51H164C167.314 51 170 53.6863 170 57V156C170 159.314 167.314 162 164 162H90C86.6863 162 84 159.314 84 156V133.616\" stroke=\"black\" stroke-width=\"12\" stroke-linecap=\"round\"></path><path d=\"M30 50.0625H69.5M49.5 30V96\" stroke=\"black\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M50 145V162\" stroke=\"black\" stroke-width=\"12\" stroke-linecap=\"round\"></path><circle cx=\"124\" cy=\"102\" r=\"24\" stroke=\"black\" stroke-width=\"12\"></circle><path d=\"M100 110L23 130\" stroke=\"black\" stroke-width=\"14\" stroke-linecap=\"round\"></path><path d=\"M127 50L127 31\" stroke=\"black\" stroke-width=\"14\" stroke-linecap=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M84 91.041V57a6 6 0 0 1 6-6h74a6 6 0 0 1 6 6v99a6 6 0 0 1-6 6H90a6 6 0 0 1-6-6v-22.384\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M30 50.063h39.5M49.5 30v66\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M50 145v17\"></path><circle cx=\"124\" cy=\"102\" r=\"24\" stroke=\"#000\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"14\" d=\"m100 110-77 20m104-80V31\"></path></svg>",
 		"@lawnicons,yahoo,auctions",
 		"Lawnicons"
 	],
@@ -145,14 +145,9 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><path d=\"M410.32,37.13c-13.56,0-27-.93-39.12-5.13L256,218.67,140.8,32c-12.12,4.2-24.84,5.13-38.4,5.13C89.08,37.13,75.88,36.08,64,32L217.6,280.15V480c12-4.08,25-5.13,38.4-5.13s26.4,1.05,38.4,5.13V280.5L448,32C436.12,36,423.64,37.13,410.32,37.13Z\"></path></svg>",
+		"<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M0 139.009H97.6482L154.508 284.738L212.108 139.009H307.174L164.022 484H68.3374L107.526 392.583L0.00302391 139.009H0ZM417.5 256H311L405.907 28L512 28.0045L417.5 256ZM339.292 277.221C371.964 277.221 398.448 303.754 398.448 336.479C398.448 369.206 371.964 395.739 339.292 395.739C306.625 395.739 280.146 369.206 280.146 336.479C280.146 303.754 306.629 277.221 339.292 277.221Z\"></path></svg>",
 		"@ionicons,logo,yahoo",
 		"Ionicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-yahoo\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 6l5 0\"></path><path d=\"M7 18l7 0\"></path><path d=\"M4.5 6l5.5 7v5\"></path><path d=\"M10 13l6 -5\"></path><path d=\"M12.5 8l5 0\"></path><path d=\"M20 11l0 4\"></path><path d=\"M20 18l0 .01\"></path></svg>",
-		"@tabler-icons,brand,yahoo",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-yahoo\" viewBox=\"0 0 24 24\"><path d=\"M10.5 7.59L8.16 13.2L5.85 7.59H2L6.29 17.23L4.75 20.7H8.5L14.24 7.59H10.5M15 12.73C13.63 12.73 12.59 13.77 12.59 15C12.59 16.17 13.59 17.16 14.93 17.16C16.32 17.16 17.36 16.13 17.36 14.9C17.36 13.69 16.36 12.73 15 12.73M17.72 3.3L13.89 11.89H18.17L22 3.3H17.72Z\"></path></svg>",

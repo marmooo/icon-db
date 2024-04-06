@@ -75,36 +75,6 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-equal-double\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 10h7\"></path><path d=\"M3 14h7\"></path><path d=\"M14 10h7\"></path><path d=\"M14 14h7\"></path></svg>",
-		"@tabler-icons,equal,double",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-equal-not\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 10h14\"></path><path d=\"M5 14h14\"></path><path d=\"M5 19l14 -14\"></path></svg>",
-		"@tabler-icons,equal,not",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-equal\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 10h14\"></path><path d=\"M5 14h14\"></path></svg>",
-		"@tabler-icons,equal",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-math-equal-greater\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 18l14 -4\"></path><path d=\"M5 14l14 -4l-14 -4\"></path></svg>",
-		"@tabler-icons,math,equal,greater",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-math-equal-lower\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 18l-14 -4\"></path><path d=\"M19 14l-14 -4l14 -4\"></path></svg>",
-		"@tabler-icons,math,equal,lower",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-plus-equal\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 7h6\"></path><path d=\"M7 4v6\"></path><path d=\"M20 16h-6\"></path><path d=\"M20 19h-6\"></path><path d=\"M5 19l14 -14\"></path></svg>",
-		"@tabler-icons,plus,equal",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-approximately-equal-box\" viewBox=\"0 0 24 24\"><path d=\"M19 3H5C3.9 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V5C21 3.9 20.1 3 19 3M9.3 8.2C10.6 8.2 11.4 8.7 12.1 9C12.7 9.3 13.4 9.7 14.5 9.7C15.5 9.7 16.5 9 17 8.5L17.8 9.8C17.1 10.6 15.8 11.4 14.4 11.4C13.1 11.4 12.3 10.9 11.7 10.6C11.1 10.3 10.3 9.9 9.2 9.9C8.2 9.9 7.2 10.6 6.7 11.1L6 9.8C6.7 9 8 8.2 9.3 8.2M14.6 15.8C13.3 15.8 12.5 15.3 11.8 15C11.2 14.7 10.4 14.3 9.3 14.3C8.3 14.3 7.3 15 6.8 15.5L6 14.1C6.7 13.3 8 12.5 9.3 12.5C10.6 12.5 11.4 13 12.1 13.3C12.7 13.6 13.4 14 14.6 14C15.6 14 16.6 13.3 17.1 12.8L17.9 14.1C17.3 15 16 15.8 14.6 15.8Z\"></path></svg>",
 		"@material-design,approximately,equal,box",
 		"Material Design"
@@ -270,6 +240,66 @@
 		"Subway Icon Set"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M51.85,148.74,173.29,104,51.85,59.26a12,12,0,0,1,8.3-22.52l152,56a12,12,0,0,1,0,22.52l-152,56a12,12,0,1,1-8.3-22.52ZM208,188H56a12,12,0,0,0,0,24H208a12,12,0,0,0,0-24Z\"></path></svg>",
+		"@phosphor-icons,bold,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M36,104a12,12,0,0,1,7.85-11.26l152-56a12,12,0,1,1,8.3,22.52L82.71,104l121.44,44.74A12,12,0,0,1,200,172a11.85,11.85,0,0,1-4.15-.74l-152-56A12,12,0,0,1,36,104Zm164,84H48a12,12,0,0,0,0,24H200a12,12,0,0,0,0-24Z\"></path></svg>",
+		"@phosphor-icons,bold,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,104,56,160V48Z\" opacity=\"0.2\"></path><path d=\"M53.24,152.49,184.86,104,53.24,55.51a8,8,0,1,1,5.53-15l152,56a8,8,0,0,1,0,15l-152,56A8.13,8.13,0,0,1,56,168a8,8,0,0,1-2.76-15.51ZM208,192H56a8,8,0,0,0,0,16H208a8,8,0,0,0,0-16Z\"></path></svg>",
+		"@phosphor-icons,twotone,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M200,48V160L48,104Z\" opacity=\"0.2\"></path><path d=\"M40,104a8,8,0,0,1,5.23-7.5l152-56a8,8,0,0,1,5.53,15L71.14,104l131.62,48.49A8,8,0,0,1,200,168a8.13,8.13,0,0,1-2.77-.49l-152-56A8,8,0,0,1,40,104Zm160,88H48a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16Z\"></path></svg>",
+		"@phosphor-icons,twotone,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM184,184H80a8,8,0,0,1,0-16H184a8,8,0,0,1,0,16Zm2.35-64.35-104,32a8,8,0,1,1-4.7-15.3L156.8,112,77.65,87.65a8,8,0,0,1,4.7-15.3l104,32a8,8,0,0,1,0,15.3Z\"></path></svg>",
+		"@phosphor-icons,filled,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM176,184H72a8,8,0,0,1,0-16H176a8,8,0,0,1,0,16Zm2.35-55.65a8,8,0,0,1-4.7,15.3l-104-32a8,8,0,0,1,0-15.3l104-32a8,8,0,0,1,4.7,15.3L99.2,104Z\"></path></svg>",
+		"@phosphor-icons,filled,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M53.93,154.37,190.64,104,53.93,53.63a6,6,0,1,1,4.15-11.26l152,56a6,6,0,0,1,0,11.26l-152,56A6.09,6.09,0,0,1,56,166a6,6,0,0,1-2.07-11.63ZM208,194H56a6,6,0,0,0,0,12H208a6,6,0,0,0,0-12Z\"></path></svg>",
+		"@phosphor-icons,light,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M42,104a6,6,0,0,1,3.93-5.63l152-56a6,6,0,1,1,4.15,11.26L65.36,104l136.71,50.37A6,6,0,0,1,200,166a6.09,6.09,0,0,1-2.08-.37l-152-56A6,6,0,0,1,42,104Zm158,90H48a6,6,0,0,0,0,12H200a6,6,0,0,0,0-12Z\"></path></svg>",
+		"@phosphor-icons,light,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M53.24,152.49,184.86,104,53.24,55.51a8,8,0,1,1,5.53-15l152,56a8,8,0,0,1,0,15l-152,56A8.13,8.13,0,0,1,56,168a8,8,0,0,1-2.76-15.51ZM208,192H56a8,8,0,0,0,0,16H208a8,8,0,0,0,0-16Z\"></path></svg>",
+		"@phosphor-icons,regular,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M40,104a8,8,0,0,1,5.23-7.5l152-56a8,8,0,0,1,5.53,15L71.14,104l131.62,48.49A8,8,0,0,1,200,168a8.13,8.13,0,0,1-2.77-.49l-152-56A8,8,0,0,1,40,104Zm160,88H48a8,8,0,0,0,0,16H200a8,8,0,0,0,0-16Z\"></path></svg>",
+		"@phosphor-icons,regular,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M54.62,156.25,196.43,104,54.62,51.75a4,4,0,0,1,2.76-7.5l152,56a4,4,0,0,1,0,7.5l-152,56A3.91,3.91,0,0,1,56,164a4,4,0,0,1-1.38-7.75ZM208,196H56a4,4,0,0,0,0,8H208a4,4,0,0,0,0-8Z\"></path></svg>",
+		"@phosphor-icons,thin,greater,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M44,104a4,4,0,0,1,2.62-3.75l152-56a4,4,0,1,1,2.76,7.5L59.57,104l141.81,52.25A4,4,0,0,1,200,164a3.91,3.91,0,0,1-1.38-.25l-152-56A4,4,0,0,1,44,104Zm156,92H48a4,4,0,0,0,0,8H200a4,4,0,0,0,0-8Z\"></path></svg>",
+		"@phosphor-icons,thin,less,than,or,equal",
+		"Phosphor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" data-name=\"Layer 1\" viewBox=\"0 0 24 24\"><path d=\"M15,13H9a1,1,0,0,0,0,2h6a1,1,0,0,0,0-2Zm0-4H9a1,1,0,0,0,0,2h6a1,1,0,0,0,0-2ZM12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z\"></path></svg>",
 		"@unicons,line,equal,circle",
 		"Unicons"
@@ -300,13 +330,13 @@
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"></rect><path d=\"M7 10h10\"></path><path d=\"M7 14h10\"></path></svg>",
-		"@lucide,equal,square",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"5\" x2=\"19\" y1=\"9\" y2=\"9\"></line><line x1=\"5\" x2=\"19\" y1=\"15\" y2=\"15\"></line></svg>",
+		"@lucide,equal",
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><line x1=\"5\" x2=\"19\" y1=\"9\" y2=\"9\"></line><line x1=\"5\" x2=\"19\" y1=\"15\" y2=\"15\"></line></svg>",
-		"@lucide,equal",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"></rect><path d=\"M7 10h10\"></path><path d=\"M7 14h10\"></path></svg>",
+		"@lucide,square,equal",
 		"Lucide"
 	],
 	[

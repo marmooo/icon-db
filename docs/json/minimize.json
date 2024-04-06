@@ -135,31 +135,6 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrows-diagonal-minimize-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18 10h-4v-4\"></path><path d=\"M20 4l-6 6\"></path><path d=\"M6 14h4v4\"></path><path d=\"M10 14l-6 6\"></path></svg>",
-		"@tabler-icons,arrows,diagonal,minimize,2",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrows-diagonal-minimize\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 10h4v-4\"></path><path d=\"M4 4l6 6\"></path><path d=\"M18 14h-4v4\"></path><path d=\"M14 14l6 6\"></path></svg>",
-		"@tabler-icons,arrows,diagonal,minimize",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrows-minimize\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 9l4 0l0 -4\"></path><path d=\"M3 3l6 6\"></path><path d=\"M5 15l4 0l0 4\"></path><path d=\"M3 21l6 -6\"></path><path d=\"M19 9l-4 0l0 -4\"></path><path d=\"M15 9l6 -6\"></path><path d=\"M19 15l-4 0l0 4\"></path><path d=\"M15 15l6 6\"></path></svg>",
-		"@tabler-icons,arrows,minimize",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-minimize\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M15 19v-2a2 2 0 0 1 2 -2h2\"></path><path d=\"M15 5v2a2 2 0 0 0 2 2h2\"></path><path d=\"M5 15h2a2 2 0 0 1 2 2v2\"></path><path d=\"M5 9h2a2 2 0 0 0 2 -2v-2\"></path></svg>",
-		"@tabler-icons,minimize",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-window-minimize\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3 16m0 1a1 1 0 0 1 1 -1h3a1 1 0 0 1 1 1v3a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1z\"></path><path d=\"M4 12v-6a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-6\"></path><path d=\"M15 13h-4v-4\"></path><path d=\"M11 13l5 -5\"></path></svg>",
-		"@tabler-icons,window,minimize",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-window-minimize\" viewBox=\"0 0 24 24\"><path d=\"M20,14H4V10H20\"></path></svg>",
 		"@material-design,window,minimize",
 		"Material Design"
@@ -330,7 +305,7 @@
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.25.953a.75.75 0 01.75.75V3.75A2.25 2.25 0 013.75 6H1.703a.75.75 0 110-1.5H3.75a.75.75 0 00.75-.75V1.703a.75.75 0 01.75-.75zm5.5 0a.75.75 0 01.75.75V3.75c0 .414.336.75.75.75h2.047a.75.75 0 010 1.5H12.25A2.25 2.25 0 0110 3.75V1.703a.75.75 0 01.75-.75zM.953 10.75a.75.75 0 01.75-.75H3.75A2.25 2.25 0 016 12.25v2.047a.75.75 0 01-1.5 0V12.25a.75.75 0 00-.75-.75H1.703a.75.75 0 01-.75-.75zM10 12.25A2.25 2.25 0 0112.25 10h2.047a.75.75 0 110 1.5H12.25a.75.75 0 00-.75.75v2.047a.75.75 0 01-1.5 0V12.25z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.25.953a.75.75 0 01.75.75V3.75A2.25 2.25 0 013.75 6H1.703a.75.75 0 010-1.5H3.75a.75.75 0 00.75-.75V1.703a.75.75 0 01.75-.75zm5.5 0a.75.75 0 01.75.75V3.75c0 .414.336.75.75.75h2.048a.75.75 0 010 1.5H12.25A2.25 2.25 0 0110 3.75V1.703a.75.75 0 01.75-.75zM.953 10.75a.75.75 0 01.75-.75H3.75A2.25 2.25 0 016 12.25v2.047a.75.75 0 01-1.5 0V12.25a.75.75 0 00-.75-.75H1.703a.75.75 0 01-.75-.75zM10 12.25A2.25 2.25 0 0112.25 10h2.048a.75.75 0 010 1.5H12.25a.75.75 0 00-.75.75v2.047a.75.75 0 01-1.5 0V12.25z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,minimize",
 		"flight-icons"
 	],

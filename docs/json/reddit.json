@@ -5,7 +5,7 @@
 		"Zocial CSS Social Buttons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Reddit\" role=\"img\" viewBox=\"0 0 512 512\"><rect width=\"512\" height=\"512\"\nfill=\"#f40\"></rect><g fill=\"#fff\"><ellipse cx=\"256\" cy=\"307\" rx=\"166\" ry=\"117\"></ellipse><circle cx=\"106\" cy=\"256\" r=\"42\"></circle><circle cx=\"407\" cy=\"256\" r=\"42\"></circle><circle cx=\"375\" cy=\"114\" r=\"32\"></circle></g><g stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"><path d=\"m256 196 23-101 73 15\" stroke=\"#fff\" stroke-width=\"16\"></path><path d=\"m191 359c33 25 97 26 130 0\" stroke=\"#f40\" stroke-width=\"13\"></path></g><g fill=\"#f40\"><circle cx=\"191\" cy=\"287\" r=\"31\"></circle><circle cx=\"321\" cy=\"287\" r=\"31\"></circle></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Reddit\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\"\nfill=\"#f40\"></path><g fill=\"#fff\"><ellipse cx=\"256\" cy=\"307\" rx=\"166\" ry=\"117\"></ellipse><circle cx=\"106\" cy=\"256\" r=\"42\"></circle><circle cx=\"407\" cy=\"256\" r=\"42\"></circle><circle cx=\"375\" cy=\"114\" r=\"32\"></circle></g><g stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"><path d=\"m256 196 23-101 73 15\" stroke=\"#fff\" stroke-width=\"16\"></path><path d=\"m191 359c33 25 97 26 130 0\" stroke=\"#f40\" stroke-width=\"13\"></path></g><g fill=\"#f40\"><circle cx=\"191\" cy=\"287\" r=\"31\"></circle><circle cx=\"321\" cy=\"287\" r=\"31\"></circle></g></svg>",
 		"@super-tiny-icons,reddit",
 		"Super Tiny Icons"
 	],
@@ -65,7 +65,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"98\" cy=\"94\" r=\"16\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m55 113 3.814-17.546a6 6 0 0 1 6.712-4.665L81 93m15 76a17.998 17.998 0 0 0 15.588-9A17.997 17.997 0 0 0 105 135.412a17.998 17.998 0 0 0-15.645-1.14C84.139 129.083 66.84 114 42 114H24\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><circle cx=\"98\" cy=\"94\" r=\"16\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m55 113 3.814-17.546a6 6 0 0 1 6.712-4.665L81 93m15 76a17.997 17.997 0 0 0 9-33.588 18 18 0 0 0-15.645-1.14C84.139 129.083 66.84 114 42 114H24\"></path></svg>",
 		"@lawnicons,ready,for,reddit",
 		"Lawnicons"
 	],
@@ -80,7 +80,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M109 119c16.016 0 29-12.984 29-29s-12.984-29-29-29-29 12.984-29 29 12.984 29 29 29Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\"></path><path d=\"M92 115s-16 17-16 52\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M25 78c34-11 63-9 63-9m-64 52.959C54 105 89 109 89 109\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M109 119c16.016 0 29-12.984 29-29s-12.984-29-29-29-29 12.984-29 29 12.984 29 29 29Z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M92 115s-16 17-16 52\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" d=\"M25 78c34-11 63-9 63-9m-64 52.959C54 105 89 109 89 109\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
 		"@lawnicons,slide,reddit",
 		"Lawnicons"
 	],
@@ -190,11 +190,6 @@
 		"Ionicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-reddit\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 8c2.648 0 5.028 .826 6.675 2.14a2.5 2.5 0 0 1 2.326 4.36c0 3.59 -4.03 6.5 -9 6.5c-4.875 0 -8.845 -2.8 -9 -6.294l-1 -.206a2.5 2.5 0 0 1 2.326 -4.36c1.646 -1.313 4.026 -2.14 6.674 -2.14z\"></path><path d=\"M12 8l1 -5l6 1\"></path><path d=\"M19 4m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0\"></path><circle cx=\"9\" cy=\"13\" r=\".5\" fill=\"currentColor\"></circle><circle cx=\"15\" cy=\"13\" r=\".5\" fill=\"currentColor\"></circle><path d=\"M10 17c.667 .333 1.333 .5 2 .5s1.333 -.167 2 -.5\"></path></svg>",
-		"@tabler-icons,brand,reddit",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-reddit\" viewBox=\"0 0 24 24\"><path d=\"M14.5 15.41C14.58 15.5 14.58 15.69 14.5 15.8C13.77 16.5 12.41 16.56 12 16.56C11.61 16.56 10.25 16.5 9.54 15.8C9.44 15.69 9.44 15.5 9.54 15.41C9.65 15.31 9.82 15.31 9.92 15.41C10.38 15.87 11.33 16 12 16C12.69 16 13.66 15.87 14.1 15.41C14.21 15.31 14.38 15.31 14.5 15.41M10.75 13.04C10.75 12.47 10.28 12 9.71 12C9.14 12 8.67 12.47 8.67 13.04C8.67 13.61 9.14 14.09 9.71 14.08C10.28 14.08 10.75 13.61 10.75 13.04M14.29 12C13.72 12 13.25 12.5 13.25 13.05S13.72 14.09 14.29 14.09C14.86 14.09 15.33 13.61 15.33 13.05C15.33 12.5 14.86 12 14.29 12M22 12C22 17.5 17.5 22 12 22S2 17.5 2 12C2 6.5 6.5 2 12 2S22 6.5 22 12M18.67 12C18.67 11.19 18 10.54 17.22 10.54C16.82 10.54 16.46 10.7 16.2 10.95C15.2 10.23 13.83 9.77 12.3 9.71L12.97 6.58L15.14 7.05C15.16 7.6 15.62 8.04 16.18 8.04C16.75 8.04 17.22 7.57 17.22 7C17.22 6.43 16.75 5.96 16.18 5.96C15.77 5.96 15.41 6.2 15.25 6.55L12.82 6.03C12.75 6 12.68 6.03 12.63 6.07C12.57 6.11 12.54 6.17 12.53 6.24L11.79 9.72C10.24 9.77 8.84 10.23 7.82 10.96C7.56 10.71 7.2 10.56 6.81 10.56C6 10.56 5.35 11.21 5.35 12C5.35 12.61 5.71 13.11 6.21 13.34C6.19 13.5 6.18 13.62 6.18 13.78C6.18 16 8.79 17.85 12 17.85C15.23 17.85 17.85 16.03 17.85 13.78C17.85 13.64 17.84 13.5 17.81 13.34C18.31 13.11 18.67 12.6 18.67 12Z\"></path></svg>",
 		"@material-design,reddit",
 		"Material Design"
@@ -240,7 +235,7 @@
 		"Phosphor Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M248,104a32,32,0,0,0-52.94-24.19c-16.75-8.9-36.76-14.28-57.66-15.53l5.19-31.17,17.72,2.72a24,24,0,1,0,2.87-15.74l-26-4a8,8,0,0,0-9.11,6.59L121.2,64.16c-21.84.94-42.82,6.38-60.26,15.65a32,32,0,0,0-42.59,47.74A59,59,0,0,0,16,144c0,21.93,12,42.35,33.91,57.49C70.88,216,98.61,224,128,224s57.12-8,78.09-22.51C228,186.35,240,165.93,240,144a59,59,0,0,0-2.35-16.45A32.16,32.16,0,0,0,248,104ZM184,24a8,8,0,1,1-8,8A8,8,0,0,1,184,24ZM72,128a16,16,0,1,1,16,16A16,16,0,0,1,72,128Zm91.75,55.07a76.18,76.18,0,0,1-71.5,0,8,8,0,1,1,7.5-14.14,60.18,60.18,0,0,0,56.5,0,8,8,0,1,1,7.5,14.14ZM168,144a16,16,0,1,1,16-16A16,16,0,0,1,168,144Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M248,104a32,32,0,0,0-52.94-24.19c-16.75-8.9-36.76-14.28-57.66-15.53l5.19-31.17,17.72,2.72a24,24,0,1,0,2.87-15.74l-26-4a8,8,0,0,0-9.11,6.59L121.2,64.16c-21.84.94-42.82,6.38-60.26,15.65a32,32,0,0,0-42.59,47.74A59,59,0,0,0,16,144c0,21.93,12,42.35,33.91,57.49C70.88,216,98.61,224,128,224s57.12-8,78.09-22.51C228,186.35,240,165.93,240,144a59,59,0,0,0-2.35-16.45A32.16,32.16,0,0,0,248,104ZM72,128a16,16,0,1,1,16,16A16,16,0,0,1,72,128Zm91.75,55.07a76.18,76.18,0,0,1-71.5,0,8,8,0,1,1,7.5-14.14,60.18,60.18,0,0,0,56.5,0,8,8,0,1,1,7.5,14.14ZM168,144a16,16,0,1,1,16-16A16,16,0,0,1,168,144Z\"></path></svg>",
 		"@phosphor-icons,filled,reddit,logo",
 		"Phosphor Icons"
 	],

@@ -10,7 +10,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"121\" cy=\"67\" r=\"16\" stroke=\"#000\" stroke-width=\"10\" stroke-linejoin=\"round\"></circle><circle cx=\"121\" cy=\"99\" r=\"16\" stroke=\"#000\" stroke-width=\"10\" stroke-linejoin=\"round\"></circle><circle cx=\"121\" cy=\"131\" r=\"16\" stroke=\"#000\" stroke-width=\"10\" stroke-linejoin=\"round\"></circle><path d=\"M137 163a16.002 16.002 0 0 0-27.314-11.314A16.016 16.016 0 0 0 105 163\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M76 30v65c0 12.15-9.85 22-22 22H30\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"121\" cy=\"67\" r=\"16\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"121\" cy=\"99\" r=\"16\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"121\" cy=\"131\" r=\"16\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M137 163a16.002 16.002 0 0 0-27.314-11.314A16.02 16.02 0 0 0 105 163\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M76 30v65c0 12.15-9.85 22-22 22H30\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
 		"@lawnicons,snake,vs,block",
 		"Lawnicons"
 	],
@@ -330,16 +330,6 @@
 		"Material Design Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-barrier-block-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M11 7h8a1 1 0 0 1 1 1v7c0 .27 -.107 .516 -.282 .696\"></path><path d=\"M16 16h-11a1 1 0 0 1 -1 -1v-7a1 1 0 0 1 1 -1h2\"></path><path d=\"M7 16v4\"></path><path d=\"M7.5 16l4.244 -4.244\"></path><path d=\"M13.745 9.755l2.755 -2.755\"></path><path d=\"M13.5 16l1.249 -1.249\"></path><path d=\"M16.741 12.759l3.259 -3.259\"></path><path d=\"M4 13.5l4.752 -4.752\"></path><path d=\"M17 17v3\"></path><path d=\"M5 20h4\"></path><path d=\"M15 20h4\"></path><path d=\"M17 7v-2\"></path><path d=\"M3 3l18 18\"></path></svg>",
-		"@tabler-icons,barrier,block,off",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-barrier-block\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M4 7m0 1a1 1 0 0 1 1 -1h14a1 1 0 0 1 1 1v7a1 1 0 0 1 -1 1h-14a1 1 0 0 1 -1 -1z\"></path><path d=\"M7 16v4\"></path><path d=\"M7.5 16l9 -9\"></path><path d=\"M13.5 16l6.5 -6.5\"></path><path d=\"M4 13.5l6.5 -6.5\"></path><path d=\"M17 16v4\"></path><path d=\"M5 20h4\"></path><path d=\"M15 20h4\"></path><path d=\"M17 7v-2\"></path><path d=\"M7 7v-2\"></path></svg>",
-		"@tabler-icons,barrier,block",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-block-helper\" viewBox=\"0 0 24 24\"><path d=\"M12,0A12,12 0 0,1 24,12A12,12 0 0,1 12,24A12,12 0 0,1 0,12A12,12 0 0,1 12,0M12,2A10,10 0 0,0 2,12C2,14.4 2.85,16.6 4.26,18.33L18.33,4.26C16.6,2.85 14.4,2 12,2M12,22A10,10 0 0,0 22,12C22,9.6 21.15,7.4 19.74,5.67L5.67,19.74C7.4,21.15 9.6,22 12,22Z\"></path></svg>",
 		"@material-design,block,helper",
 		"Material Design"
@@ -510,7 +500,7 @@
 		"Phosphor Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,56V200a8,8,0,0,1-8,8H56a8,8,0,0,1-8-8V56a8,8,0,0,1,8-8H200A8,8,0,0,1,208,56Z\" opacity=\"0.2\"></path><path d=\"M58.34,101.66l-32-32a8,8,0,0,1,0-11.32l32-32A8,8,0,0,1,69.66,37.66L43.31,64,69.66,90.34a8,8,0,0,1-11.32,11.32Zm40,0a8,8,0,0,0,11.32,0l32-32a8,8,0,0,0,0-11.32l-32-32A8,8,0,0,0,98.34,37.66L124.69,64,98.34,90.34A8,8,0,0,0,98.34,101.66ZM200,40H176a8,8,0,0,0,0,16h24V200H56V136a8,8,0,0,0-16,0v64a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M152,32V96a16,16,0,0,1-16,16H32A16,16,0,0,1,16,96V32A16,16,0,0,1,32,16H136A16,16,0,0,1,152,32Z\" opacity=\"0.2\"></path><path d=\"M58.34,101.66l-32-32a8,8,0,0,1,0-11.32l32-32A8,8,0,0,1,69.66,37.66L43.31,64,69.66,90.34a8,8,0,0,1-11.32,11.32Zm40,0a8,8,0,0,0,11.32,0l32-32a8,8,0,0,0,0-11.32l-32-32A8,8,0,0,0,98.34,37.66L124.69,64,98.34,90.34A8,8,0,0,0,98.34,101.66ZM200,40H176a8,8,0,0,0,0,16h24V200H56V136a8,8,0,0,0-16,0v64a16,16,0,0,0,16,16H200a16,16,0,0,0,16-16V56A16,16,0,0,0,200,40Z\"></path></svg>",
 		"@phosphor-icons,twotone,code,block",
 		"Phosphor Icons"
 	],

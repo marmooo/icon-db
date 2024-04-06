@@ -1,6 +1,6 @@
 [
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Vue\" role=\"img\" viewBox=\"0 0 512 512\"><rect width=\"512\" height=\"512\"\nfill=\"#fff\"></rect><path fill=\"#42b883\" d=\"m64 100h148l44 77 44-77h148L256 433\"></path><path fill=\"#35495e\" d=\"m141 100h71l44 77 44-77h71L256 300\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Vue\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\"\nfill=\"#fff\"></path><path fill=\"#42b883\" d=\"m64 100h148l44 77 44-77h148L256 433\"></path><path fill=\"#35495e\" d=\"m141 100h71l44 77 44-77h71L256 300\"></path></svg>",
 		"@super-tiny-icons,vue",
 		"Super Tiny Icons"
 	],
@@ -23,16 +23,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><polygon points=\"256 144.03 200.51 47.92 121.08 47.92 256 281.61 390.92 47.92 311.49 47.92 256 144.03\"></polygon><polygon points=\"409.4 47.92 256 313.61 102.6 47.92 15.74 47.92 256 464.08 496.26 47.92 409.4 47.92\"></polygon></svg>",
 		"@ionicons,logo,vue",
 		"Ionicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-vue\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M16.5 4l-4.5 8l-4.5 -8\"></path><path d=\"M3 4l9 16l9 -16\"></path></svg>",
-		"@tabler-icons,brand,vue",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-file-type-vue\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 3v4a1 1 0 0 0 1 1h4\"></path><path d=\"M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4\"></path><path d=\"M4 15l2 6l2 -6\"></path><path d=\"M11 15v4.5a1.5 1.5 0 0 0 3 0v-4.5\"></path><path d=\"M20 15h-3v6h3\"></path><path d=\"M17 18h2\"></path></svg>",
-		"@tabler-icons,file,type,vue",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><title>file_type_vue</title><path d=\"M24.4,3.925H30L16,28.075,2,3.925H12.71L16,9.525l3.22-5.6Z\" style=\"fill:#41b883\"></path><path d=\"M2,3.925l14,24.15L30,3.925H24.4L16,18.415,7.53,3.925Z\" style=\"fill:#41b883\"></path><path d=\"M7.53,3.925,16,18.485l8.4-14.56H19.22L16,9.525l-3.29-5.6Z\" style=\"fill:#35495e\"></path></svg>",
@@ -65,7 +55,7 @@
 		"Phosphor Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M213.66,82.34l-56-56A8,8,0,0,0,152,24H56A16,16,0,0,0,40,40v72a8,8,0,0,0,8,8H208a8,8,0,0,0,8-8V88A8,8,0,0,0,213.66,82.34ZM152,88V44l44,44ZM87.54,154.69l-20,56a8,8,0,0,1-15.07,0l-20-56a8,8,0,0,1,15.07-5.38L60,184.21l12.47-34.9a8,8,0,0,1,15.07,5.38ZM184,160v12h16a8,8,0,0,1,0,16H184v12h24a8,8,0,0,1,0,16H176a8,8,0,0,1-8-8V152a8,8,0,0,1,8-8h32a8,8,0,0,1,0,16Zm-32-8v38a26,26,0,0,1-52,0V152a8,8,0,0,1,16,0v38a10,10,0,0,0,20,0V152a8,8,0,0,1,16,0Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M213.66,82.34l-56-56A8,8,0,0,0,152,24h-96a16,16,0,0,0-16,16v76a4,4,0,0,0,4,4H212a4,4,0,0,0,4-4V88A8,8,0,0,0,213.66,82.34ZM152,88V44l44,44ZM87.36,155,67.47,210.69a8,8,0,0,1-15.08,0L32.5,155A8.21,8.21,0,0,1,37,144.55a8,8,0,0,1,10.46,4.76l12.47,34.9,12.47-34.9a8,8,0,0,1,10.46-4.76A8.22,8.22,0,0,1,87.36,155ZM184,160v12h15.73a8.19,8.19,0,0,1,8.26,7.47,8,8,0,0,1-8,8.53H184v12h23.73a8.18,8.18,0,0,1,8.26,7.47,8,8,0,0,1-8,8.53H176a8,8,0,0,1-8-8V152a8,8,0,0,1,8-8h31.74a8.18,8.18,0,0,1,8.26,7.47,8,8,0,0,1-8,8.53Zm-32-8v37.45c0,14.14-11.07,26.12-25.22,26.54A26,26,0,0,1,100,190V152.27a8.18,8.18,0,0,1,7.47-8.25,8,8,0,0,1,8.54,8v37.65A10.23,10.23,0,0,0,125.27,200,10,10,0,0,0,136,190V152.27a8.18,8.18,0,0,1,7.47-8.25A8,8,0,0,1,152,152Z\"></path></svg>",
 		"@phosphor-icons,filled,file,vue",
 		"Phosphor Icons"
 	],

@@ -5,6 +5,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96 116 72 86.516S80.432 78 96 78s24 8.516 24 8.516L96 116Z\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"50\" y=\"50\" width=\"92\" height=\"92\" rx=\"10\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"M107 21v10m64 76h-10m-54 54v10m-76-64H21m108-86v10m42 98h-10m-32 32v10m-98-42H21M85 21v10m86 54h-10m-76 76v10M31 85H21m42-64v10m108 32h-10m-98 98v10M31 63H21\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,change,my,mac",
+		"Lawnicons"
+	],
+	[
 		"<svg viewBox=\"0 0 17 16\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" class=\"si-glyph si-glyph-arrow-change\"><title>950</title><defs></defs><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(1.000000, 0.000000)\" fill=\"#434343\"><path d=\"M1.539,8.001 C2.367,8.001 2.918,7.45 2.918,6.622 L2.914,6.187 C2.914,6.187 2.709,4.954 4.354,4.954 L11.015,5 L11.015,6.759 C11.338,7.081 11.862,7.081 12.185,6.759 L14.758,4.187 C15.08,3.863 15.08,3.339 14.758,3.017 L12.185,0.292 C11.862,-0.03 11.338,-0.03 11.015,0.292 L11.015,2.137 C10.854,2.09 4.562,2.063 4.562,2.063 C0.851,2.063 0.039,4.492 0.039,5.47 L0.039,6.501 C0.039,7.329 0.711,8.001 1.539,8.001 L1.539,8.001 Z\" class=\"si-glyph-fill\"></path><path d=\"M13.5,8.042 C12.672,8.042 12,8.626 12,9.454 L12.002,10.411 C11.957,10.768 11.357,11.001 10.477,11.001 L3.938,11.001 L3.936,9.442 C3.614,9.12 3.09,9.12 2.766,9.442 L0.194,12.014 C-0.128,12.338 -0.128,12.862 0.194,13.184 L2.766,15.756 C3.09,16.08 3.614,16.08 3.936,15.756 L3.938,13.905 L10.477,13.905 C14.188,13.905 15,11.463 15,10.484 L15,9.453 C15,8.626 14.328,8.042 13.5,8.042 L13.5,8.042 Z\" class=\"si-glyph-fill\"></path></g></g></svg>",
 		"@glyph,arrow,change",
 		"Glyph"
@@ -220,11 +225,6 @@
 		"Material Design Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-status-change\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M6 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"></path><path d=\"M18 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"></path><path d=\"M6 12v-2a6 6 0 1 1 12 0v2\"></path><path d=\"M15 9l3 3l3 -3\"></path></svg>",
-		"@tabler-icons,status,change",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-key-change\" viewBox=\"0 0 24 24\"><path d=\"M7.5 2C9.5 2 11.1 3.2 11.7 5H21V8H18V11H15V8H11.7C11.1 9.8 9.4 11 7.5 11C5 11 3 9 3 6.5S5 2 7.5 2M7.5 5C6.7 5 6 5.7 6 6.5S6.7 8 7.5 8 9 7.3 9 6.5 8.3 5 7.5 5M7.5 13C9.5 13 11.1 14.2 11.7 16H21V19H20V22H18V19H16V22H13V19H11.7C11.1 20.8 9.4 22 7.5 22C5 22 3 20 3 17.5S5 13 7.5 13M7.5 16C6.7 16 6 16.7 6 17.5S6.7 19 7.5 19 9 18.3 9 17.5 8.3 16 7.5 16Z\"></path></svg>",
 		"@material-design,key,change",
 		"Material Design"
@@ -285,7 +285,7 @@
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.534 12.224a7.725 7.725 0 01-.219.269.75.75 0 11-1.13-.986 3.1 3.1 0 00.097-.123c.308-.404 1.183-1.548 2.442-2.08a3.783 3.783 0 012.699-.106c1.003.324 2.05 1.056 3.142 2.31.98 1.122 1.81 1.652 2.473 1.866a2.284 2.284 0 001.654-.06c.837-.354 1.402-1.068 1.774-1.538.082-.104.155-.195.219-.269a.75.75 0 011.13.986c-.02.023-.053.066-.097.123-.308.404-1.183 1.548-2.442 2.08a3.783 3.783 0 01-2.699.106c-1.003-.324-2.05-1.056-3.142-2.31-.98-1.122-1.81-1.652-2.473-1.866a2.284 2.284 0 00-1.654.06c-.837.354-1.402 1.068-1.774 1.538z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M5.534 12.224c-.082.104-.155.195-.219.269a.75.75 0 11-1.13-.986c.02-.023.053-.066.097-.123.308-.404 1.183-1.548 2.442-2.08a3.783 3.783 0 012.699-.106c1.003.324 2.05 1.056 3.142 2.31.98 1.122 1.81 1.652 2.473 1.866a2.284 2.284 0 001.654-.06c.837-.354 1.402-1.068 1.774-1.538.082-.104.155-.195.219-.269a.75.75 0 011.13.986c-.02.023-.053.066-.097.123-.308.404-1.183 1.548-2.442 2.08a3.783 3.783 0 01-2.699.106c-1.003-.324-2.05-1.056-3.142-2.31-.98-1.122-1.81-1.652-2.473-1.866a2.284 2.284 0 00-1.654.06c-.837.354-1.402 1.068-1.774 1.538z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,change",
 		"flight-icons"
 	],

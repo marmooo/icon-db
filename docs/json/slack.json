@@ -5,7 +5,7 @@
 		"Zocial CSS Social Buttons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-label=\"Slack\" role=\"img\" viewBox=\"0 0 512 512\"><rect width=\"512\" height=\"512\"\nfill=\"#fff\"></rect><g fill=\"#e01e5a\"><path id=\"a\" d=\"M149 305a39 39 0 01-78 0c0-22 17 -39 39 -39h39zM168 305a39 39 0 0178 0v97a39 39 0 01-78 0z\"></path></g><use xlink:href=\"#a\" fill=\"#36c5f0\" transform=\"rotate(90,256,256)\"></use><use xlink:href=\"#a\" fill=\"#2eb67d\" transform=\"rotate(180,256,256)\"></use><use xlink:href=\"#a\" fill=\"#ecb22e\" transform=\"rotate(270,256,256)\"></use></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Slack\" role=\"img\" viewBox=\"0 0 512 512\" stroke-width=\"78\" stroke-linecap=\"round\"><path d=\"m0 0H512V512H0\"\nfill=\"#fff\"></path><path stroke=\"#36c5f0\" d=\"m110 207h97m0-97h.1v-.1\"></path><path stroke=\"#2eb67d\" d=\"m305 110v97m97 0v.1h.1\"></path><path stroke=\"#ecb22e\" d=\"m402 305h-97m0 97h-.1v.1\"></path><path stroke=\"#e01e5a\" d=\"M110 305h.1v.1m97 0v97\"></path></svg>",
 		"@super-tiny-icons,slack",
 		"Super Tiny Icons"
 	],
@@ -83,11 +83,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><path d=\"M126.12,315.1A47.06,47.06,0,1,1,79.06,268h47.06Z\"></path><path d=\"M149.84,315.1a47.06,47.06,0,0,1,94.12,0V432.94a47.06,47.06,0,1,1-94.12,0Z\"></path><path d=\"M196.9,126.12A47.06,47.06,0,1,1,244,79.06v47.06Z\"></path><path d=\"M196.9,149.84a47.06,47.06,0,0,1,0,94.12H79.06a47.06,47.06,0,0,1,0-94.12Z\"></path><path d=\"M385.88,196.9A47.06,47.06,0,1,1,432.94,244H385.88Z\"></path><path d=\"M362.16,196.9a47.06,47.06,0,0,1-94.12,0V79.06a47.06,47.06,0,1,1,94.12,0Z\"></path><path d=\"M315.1,385.88A47.06,47.06,0,1,1,268,432.94V385.88Z\"></path><path d=\"M315.1,362.16a47.06,47.06,0,0,1,0-94.12H432.94a47.06,47.06,0,1,1,0,94.12Z\"></path></svg>",
 		"@ionicons,logo,slack",
 		"Ionicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-brand-slack\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 12v-6a2 2 0 0 1 4 0v6m0 -2a2 2 0 1 1 2 2h-6\"></path><path d=\"M12 12h6a2 2 0 0 1 0 4h-6m2 0a2 2 0 1 1 -2 2v-6\"></path><path d=\"M12 12v6a2 2 0 0 1 -4 0v-6m0 2a2 2 0 1 1 -2 -2h6\"></path><path d=\"M12 12h-6a2 2 0 0 1 0 -4h6m-2 0a2 2 0 1 1 2 -2v6\"></path></svg>",
-		"@tabler-icons,brand,slack",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-slack\" viewBox=\"0 0 24 24\"><path d=\"M6,15A2,2 0 0,1 4,17A2,2 0 0,1 2,15A2,2 0 0,1 4,13H6V15M7,15A2,2 0 0,1 9,13A2,2 0 0,1 11,15V20A2,2 0 0,1 9,22A2,2 0 0,1 7,20V15M9,7A2,2 0 0,1 7,5A2,2 0 0,1 9,3A2,2 0 0,1 11,5V7H9M9,8A2,2 0 0,1 11,10A2,2 0 0,1 9,12H4A2,2 0 0,1 2,10A2,2 0 0,1 4,8H9M17,10A2,2 0 0,1 19,8A2,2 0 0,1 21,10A2,2 0 0,1 19,12H17V10M16,10A2,2 0 0,1 14,12A2,2 0 0,1 12,10V5A2,2 0 0,1 14,3A2,2 0 0,1 16,5V10M14,18A2,2 0 0,1 16,20A2,2 0 0,1 14,22A2,2 0 0,1 12,20V18H14M14,17A2,2 0 0,1 12,15A2,2 0 0,1 14,13H19A2,2 0 0,1 21,15A2,2 0 0,1 19,17H14Z\"></path></svg>",

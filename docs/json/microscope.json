@@ -150,16 +150,6 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-microscope-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 21h14\"></path><path d=\"M6 18h2\"></path><path d=\"M7 18v3\"></path><path d=\"M10 10l-1 1l3 3l1 -1m2 -2l3 -3l-3 -3l-3 3\"></path><path d=\"M10.5 12.5l-1.5 1.5\"></path><path d=\"M17 3l3 3\"></path><path d=\"M12 21a6 6 0 0 0 5.457 -3.505m.441 -3.599a6 6 0 0 0 -2.183 -3.608\"></path><path d=\"M3 3l18 18\"></path></svg>",
-		"@tabler-icons,microscope,off",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-microscope\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 21h14\"></path><path d=\"M6 18h2\"></path><path d=\"M7 18v3\"></path><path d=\"M9 11l3 3l6 -6l-3 -3z\"></path><path d=\"M10.5 12.5l-1.5 1.5\"></path><path d=\"M17 3l3 3\"></path><path d=\"M12 21a6 6 0 0 0 3.715 -10.712\"></path></svg>",
-		"@tabler-icons,microscope",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-microscope\" viewBox=\"0 0 24 24\"><path d=\"M9.46,6.28L11.05,9C8.47,9.26 6.5,11.41 6.5,14A5,5 0 0,0 11.5,19C13.55,19 15.31,17.77 16.08,16H13.5V14H21.5V16H19.25C18.84,17.57 17.97,18.96 16.79,20H19.5V22H3.5V20H6.21C4.55,18.53 3.5,16.39 3.5,14C3.5,10.37 5.96,7.2 9.46,6.28M12.74,2.07L13.5,3.37L14.36,2.87L17.86,8.93L14.39,10.93L10.89,4.87L11.76,4.37L11,3.07L12.74,2.07Z\"></path></svg>",
 		"@material-design,microscope",
 		"Material Design"
@@ -208,6 +198,36 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 22H7M5 22H7M7 22V19\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M19 16H10\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 2L12 2\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 7C9 7 7 8 7 11V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M16 4.6V11.4C16 11.7314 15.7314 12 15.4 12H12.6C12.2686 12 12 11.7314 12 11.4V4.6C12 4.26863 12.2686 4 12.6 4H15.4C15.7314 4 16 4.26863 16 4.6Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M7 19C5.34315 19 4 17.6569 4 16C4 14.3431 5.34315 13 7 13C8.65685 13 10 14.3431 10 16C10 17.6569 8.65685 19 7 19Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@iconoir,regular,microscope",
 		"Iconoir"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M224,204H212A92.1,92.1,0,0,0,148,60.78V32a20,20,0,0,0-20-20H80A20,20,0,0,0,60,32v96a20,20,0,0,0,20,20h48a20,20,0,0,0,20-20V85.08A68.1,68.1,0,0,1,204,152a67.39,67.39,0,0,1-24.18,52H32a12,12,0,0,0,0,24H224a12,12,0,0,0,0-24ZM124,124H84V36h40ZM72,188a12,12,0,0,1,0-24h64a12,12,0,0,1,0,24Z\"></path></svg>",
+		"@phosphor-icons,bold,microscope",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M136,32V136a8,8,0,0,1-8,8H80a8,8,0,0,1-8-8V32a8,8,0,0,1,8-8h48A8,8,0,0,1,136,32Z\" opacity=\"0.2\"></path><path d=\"M224,208H203.94A88.05,88.05,0,0,0,144,64.37V32a16,16,0,0,0-16-16H80A16,16,0,0,0,64,32V136a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V80.46A72,72,0,0,1,181.25,208H32a8,8,0,0,0,0,16H224a8,8,0,0,0,0-16Zm-96-72H80V32h48V136ZM72,184a8,8,0,0,1,0-16h64a8,8,0,0,1,0,16Z\"></path></svg>",
+		"@phosphor-icons,twotone,microscope",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M232,216a8,8,0,0,1-8,8H32a8,8,0,0,1,0-16H181.25A72,72,0,0,0,144,80.46V136a16,16,0,0,1-16,16H80a16,16,0,0,1-16-16V32A16,16,0,0,1,80,16h48a16,16,0,0,1,16,16V64.37A88.05,88.05,0,0,1,203.94,208H224A8,8,0,0,1,232,216Zm-96-32a8,8,0,0,0,0-16H72a8,8,0,0,0,0,16Z\"></path></svg>",
+		"@phosphor-icons,filled,microscope",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M224,210H199.53A85.2,85.2,0,0,0,222,152a86.1,86.1,0,0,0-80-85.77V32a14,14,0,0,0-14-14H80A14,14,0,0,0,66,32V136a14,14,0,0,0,14,14h48a14,14,0,0,0,14-14V78.26A74,74,0,0,1,182,210H32a6,6,0,0,0,0,12H224a6,6,0,0,0,0-12Zm-94-74a2,2,0,0,1-2,2H80a2,2,0,0,1-2-2V32a2,2,0,0,1,2-2h48a2,2,0,0,1,2,2ZM72,182a6,6,0,0,1,0-12h64a6,6,0,0,1,0,12Z\"></path></svg>",
+		"@phosphor-icons,light,microscope",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M224,208H203.94A88.05,88.05,0,0,0,144,64.37V32a16,16,0,0,0-16-16H80A16,16,0,0,0,64,32V136a16,16,0,0,0,16,16h48a16,16,0,0,0,16-16V80.46A72,72,0,0,1,181.25,208H32a8,8,0,0,0,0,16H224a8,8,0,0,0,0-16Zm-96-72H80V32h48V136ZM72,184a8,8,0,0,1,0-16h64a8,8,0,0,1,0,16Z\"></path></svg>",
+		"@phosphor-icons,regular,microscope",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M224,212H194.8A83.2,83.2,0,0,0,220,152a84.1,84.1,0,0,0-80-83.9V32a12,12,0,0,0-12-12H80A12,12,0,0,0,68,32V136a12,12,0,0,0,12,12h48a12,12,0,0,0,12-12V76.11A76,76,0,0,1,182.64,212H32a4,4,0,0,0,0,8H224a4,4,0,0,0,0-8Zm-92-76a4,4,0,0,1-4,4H80a4,4,0,0,1-4-4V32a4,4,0,0,1,4-4h48a4,4,0,0,1,4,4ZM72,180a4,4,0,0,1,0-8h64a4,4,0,0,1,0,8Z\"></path></svg>",
+		"@phosphor-icons,thin,microscope",
+		"Phosphor Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" data-name=\"Layer 1\" viewBox=\"0 0 24 24\"><path d=\"M20 21.005h-5.184a2.964 2.964 0 0 0 .143-.591A8.044 8.044 0 0 0 20 13.005a7.945 7.945 0 0 0-2.127-5.422l.637-.638a.991.991 0 0 0 .241-.39l.708-2.122a1 1 0 0 0-.241-1.024l-2.122-2.121a.999.999 0 0 0-1.024-.242l-2.12.707a.997.997 0 0 0-.391.242L7.198 8.358a1 1 0 0 0 0 1.414l-1.416 1.415a1 1 0 0 0 0 1.415l2.122 2.12a1 1 0 0 0 1.414 0l1.414-1.413.002.002a1 1 0 0 0 1.414 0l4.31-4.312A5.955 5.955 0 0 1 18 13.005a6.048 6.048 0 0 1-3.455 5.431 2.976 2.976 0 0 0-5.124.063 6.822 6.822 0 0 1-1.12-.554.989.989 0 0 0 .699-.94 1 1 0 0 0-1-1H4a1 1 0 0 0 0 2h1.331a8.814 8.814 0 0 0 3.717 2.473 2.955 2.955 0 0 0 .136.527H4a1 1 0 0 0 0 2h16a1 1 0 0 0 0-2ZM8.611 12.602l-.708-.707.708-.708.707.708Zm8.318-6.904L11.44 11.19 9.32 9.065l5.489-5.489 1.311-.437 1.247 1.247ZM12 21.005a1 1 0 1 1 1-1 1.001 1.001 0 0 1-1 1Z\"></path></svg>",

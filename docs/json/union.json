@@ -35,11 +35,6 @@
 		"Bootstrap Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-layers-union\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M16 16v2a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2h2v-2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-2\"></path></svg>",
-		"@tabler-icons,layers,union",
-		"Tabler Icons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-vector-union\" viewBox=\"0 0 24 24\"><path d=\"M3,1C1.89,1 1,1.89 1,3V14C1,15.11 1.89,16 3,16H7V20C7,21.11 7.89,22 9,22H20C21.11,22 22,21.11 22,20V9C22,7.89 21.11,7 20,7H16V3C16,1.89 15.11,1 14,1H3M3,3H14V9H20V20H9V14H3V3Z\"></path></svg>",
 		"@material-design,vector,union",
 		"Material Design"
@@ -103,6 +98,36 @@
 		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5.5 0C4.67157 0 4 0.671573 4 1.5V4H1.5C0.671573 4 0 4.67157 0 5.5V13.5C0 14.3284 0.671573 15 1.5 15H9.5C10.3284 15 11 14.3284 11 13.5V11H13.5C14.3284 11 15 10.3284 15 9.5V1.5C15 0.671573 14.3284 0 13.5 0H5.5Z\" fill=\"black\"></path></svg>",
 		"@teenyicons,solid,layers,union",
 		"Teenyicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M212,64v80a84,84,0,0,1-168,0V64a12,12,0,0,1,24,0v80a60,60,0,0,0,120,0V64a12,12,0,0,1,24,0Z\"></path></svg>",
+		"@phosphor-icons,bold,union",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M200,64v80a72,72,0,0,1-144,0V64Z\" opacity=\"0.2\"></path><path d=\"M208,64v80a80,80,0,0,1-160,0V64a8,8,0,0,1,16,0v80a64,64,0,0,0,128,0V64a8,8,0,0,1,16,0Z\"></path></svg>",
+		"@phosphor-icons,twotone,union",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,32H48A16,16,0,0,0,32,48V208a16,16,0,0,0,16,16H208a16,16,0,0,0,16-16V48A16,16,0,0,0,208,32ZM184,136a56,56,0,0,1-112,0V80a8,8,0,0,1,16,0v56a40,40,0,0,0,80,0V80a8,8,0,0,1,16,0Z\"></path></svg>",
+		"@phosphor-icons,filled,union",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M206,64v80a78,78,0,0,1-156,0V64a6,6,0,0,1,12,0v80a66,66,0,0,0,132,0V64a6,6,0,0,1,12,0Z\"></path></svg>",
+		"@phosphor-icons,light,union",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M208,64v80a80,80,0,0,1-160,0V64a8,8,0,0,1,16,0v80a64,64,0,0,0,128,0V64a8,8,0,0,1,16,0Z\"></path></svg>",
+		"@phosphor-icons,regular,union",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M204,64v80a76,76,0,0,1-152,0V64a4,4,0,0,1,8,0v80a68,68,0,0,0,136,0V64a4,4,0,0,1,8,0Z\"></path></svg>",
+		"@phosphor-icons,thin,union",
+		"Phosphor Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0z\"></path><path fill=\"#fff\" d=\"M21.584 18L171.02 167.436v3.584h-44.69L18 61.836v25.557l82.975 83.627H18v32h185.02V18h-32v85.436L85.584 18zm286.057 0v185.02H494v-32h-86.775L494 84.244v-64L343.225 171.02h-3.584v-44.69L448.825 18h-25.556l-83.627 82.975V18zM18 309.293v32h85.436L18 426.73v64l149.436-149.437h3.584v44.69L62.152 494h25.555l83.313-82.662V494h32V309.293zm289.64 0V494h32v-85.123L424.765 494h64L339.64 344.877v-3.584h44.69L494 451.826V426.27l-84.314-84.977H494v-32z\"></path></svg>",

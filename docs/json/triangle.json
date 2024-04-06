@@ -350,12 +350,12 @@
 		"Blobmoji"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2850\"><path d=\"M2181 2198L2132 2122 2132 2198 2181 2198ZM1943 2198L2055 2198 2055 2002 1943 1828 1943 2198ZM1754 2198L1866 2198 1866 1708 1754 1534 1754 2198ZM1565 2198L1676 2198 1676 1414 1565 1240 1565 2198ZM1375 2198L1487 2198 1487 1120 1375 946 1375 2198ZM1188 2198L1299 2198 1299 826 1249 749 1188 847 1188 2198ZM998 2198L1110 2198 1110 968 998 1142 998 2198ZM809 2198L920 2198 920 1262 809 1436 809 2198ZM619 2198L731 2198 731 1556 619 1730 619 2198ZM431 2198L542 2198 542 1850 431 2024 431 2198ZM319 2198L353 2198 353 2144 319 2198ZM175 2277L1249 604 2325 2277 175 2277Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2600\"><path d=\"M2181 1998L2132 1922 2132 1998 2181 1998ZM1943 1998L2055 1998 2055 1802 1943 1628 1943 1998ZM1754 1998L1866 1998 1866 1508 1754 1334 1754 1998ZM1565 1998L1676 1998 1676 1214 1565 1040 1565 1998ZM1375 1998L1487 1998 1487 920 1375 746 1375 1998ZM1188 1998L1299 1998 1299 626 1249 549 1188 647 1188 1998ZM998 1998L1110 1998 1110 768 998 942 998 1998ZM809 1998L920 1998 920 1062 809 1236 809 1998ZM619 1998L731 1998 731 1356 619 1530 619 1998ZM431 1998L542 1998 542 1650 431 1824 431 1998ZM319 1998L353 1998 353 1944 319 1998ZM175 2077L1249 404 2325 2077 175 2077Z\"></path></svg>",
 		"@android-emoji,red,triangle,pointed,up",
 		"Android Emoji"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2850\"><path d=\"M634 1172L746 1347 746 682 634 682 634 1172ZM935 682L823 682 823 1467 935 1641 935 682ZM1123 682L1011 682 1011 1761 1123 1935 1123 682ZM1314 682L1201 682 1201 2056 1249 2131 1314 2032 1314 682ZM1502 682L1390 682 1390 1912 1502 1738 1502 682ZM1691 682L1579 682 1579 1618 1691 1444 1691 682ZM1880 682L1768 682 1768 1324 1880 1150 1880 682ZM2070 682L1958 682 1958 1030 2070 856 2070 682ZM2181 682L2147 682 2147 735 2181 682ZM557 682L445 682 445 878 557 1053 557 682ZM319 682L367 759 367 682 319 682ZM2325 604L1249 2276 175 604 2325 604Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2600 2600\"><path d=\"M634 972L746 1147 746 482 634 482 634 972ZM935 482L823 482 823 1267 935 1441 935 482ZM1123 482L1011 482 1011 1561 1123 1735 1123 482ZM1314 482L1201 482 1201 1856 1249 1931 1314 1832 1314 482ZM1502 482L1390 482 1390 1712 1502 1538 1502 482ZM1691 482L1579 482 1579 1418 1691 1244 1691 482ZM1880 482L1768 482 1768 1124 1880 950 1880 482ZM2070 482L1958 482 1958 830 2070 656 2070 482ZM2181 482L2147 482 2147 535 2181 482ZM557 482L445 482 445 678 557 853 557 482ZM319 482L367 559 367 482 319 482ZM2325 404L1249 2076 175 404 2325 404Z\"></path></svg>",
 		"@android-emoji,red,triangle,pointed,down",
 		"Android Emoji"
 	],
@@ -478,116 +478,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\" data-slot=\"icon\"><path fill-rule=\"evenodd\" d=\"M9.401 3.003c1.155-2 4.043-2 5.197 0l7.355 12.748c1.154 2-.29 4.5-2.599 4.5H4.645c-2.309 0-3.752-2.5-2.598-4.5L9.4 3.003ZM12 8.25a.75.75 0 0 1 .75.75v3.75a.75.75 0 0 1-1.5 0V9a.75.75 0 0 1 .75-.75Zm0 8.25a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z\" clip-rule=\"evenodd\"></path></svg>",
 		"@heroicons,solid,exclamation,triangle",
 		"heroicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-alert-triangle-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1.67c.955 0 1.845 .467 2.39 1.247l.105 .16l8.114 13.548a2.914 2.914 0 0 1 -2.307 4.363l-.195 .008h-16.225a2.914 2.914 0 0 1 -2.582 -4.2l.099 -.185l8.11 -13.538a2.914 2.914 0 0 1 2.491 -1.403zm.01 13.33l-.127 .007a1 1 0 0 0 0 1.986l.117 .007l.127 -.007a1 1 0 0 0 0 -1.986l-.117 -.007zm-.01 -7a1 1 0 0 0 -.993 .883l-.007 .117v4l.007 .117a1 1 0 0 0 1.986 0l.007 -.117v-4l-.007 -.117a1 1 0 0 0 -.993 -.883z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,alert,triangle,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-alert-triangle-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21.998 17.997a1.913 1.913 0 0 0 -.255 -.872l-8.106 -13.534a1.914 1.914 0 0 0 -3.274 0l-1.04 1.736m-1.493 2.493l-5.573 9.304a1.914 1.914 0 0 0 1.636 2.871h16.107\"></path><path d=\"M12 16h.01\"></path><path d=\"M3 3l18 18\"></path><path d=\"M12 7v1\"></path></svg>",
-		"@tabler-icons,alert,triangle,off",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-alert-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 9v4\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z\"></path><path d=\"M12 16h.01\"></path></svg>",
-		"@tabler-icons,alert,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-circle-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path><path d=\"M12 20l7 -12h-14z\"></path></svg>",
-		"@tabler-icons,circle,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-help-triangle-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1.67c.955 0 1.845 .467 2.39 1.247l.105 .16l8.114 13.548a2.914 2.914 0 0 1 -2.307 4.363l-.195 .008h-16.225a2.914 2.914 0 0 1 -2.582 -4.2l.099 -.185l8.11 -13.538a2.914 2.914 0 0 1 2.491 -1.403zm0 13.33a1 1 0 0 0 -.993 .883l-.007 .117l.007 .127a1 1 0 0 0 1.986 0l.007 -.117l-.007 -.127a1 1 0 0 0 -.993 -.883zm1.368 -6.673a2.98 2.98 0 0 0 -3.631 .728a1 1 0 0 0 1.44 1.383l.171 -.18a.98 .98 0 0 1 1.11 -.15a1 1 0 0 1 -.34 1.886l-.232 .012a1 1 0 0 0 .111 1.994a3 3 0 0 0 1.371 -5.673z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,help,triangle,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-help-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 16v.01\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z\"></path><path d=\"M12 13a2 2 0 0 0 .914 -3.782a1.98 1.98 0 0 0 -2.414 .483\"></path></svg>",
-		"@tabler-icons,help,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-info-triangle-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1.67c.955 0 1.845 .467 2.39 1.247l.105 .16l8.114 13.548a2.914 2.914 0 0 1 -2.307 4.363l-.195 .008h-16.225a2.914 2.914 0 0 1 -2.582 -4.2l.099 -.185l8.11 -13.538a2.914 2.914 0 0 1 2.491 -1.403zm0 9.33h-1l-.117 .007a1 1 0 0 0 0 1.986l.117 .007v3l.007 .117a1 1 0 0 0 .876 .876l.117 .007h1l.117 -.007a1 1 0 0 0 .876 -.876l.007 -.117l-.007 -.117a1 1 0 0 0 -.764 -.857l-.112 -.02l-.117 -.006v-3l-.007 -.117a1 1 0 0 0 -.876 -.876l-.117 -.007zm.01 -3l-.127 .007a1 1 0 0 0 0 1.986l.117 .007l.127 -.007a1 1 0 0 0 0 -1.986l-.117 -.007z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,info,triangle,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-info-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z\"></path><path d=\"M12 9h.01\"></path><path d=\"M11 12h1v4h1\"></path></svg>",
-		"@tabler-icons,info,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-playstation-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 21a9 9 0 0 0 9 -9a9 9 0 0 0 -9 -9a9 9 0 0 0 -9 9a9 9 0 0 0 9 9z\"></path><path d=\"M7.5 15h9l-4.5 -8z\"></path></svg>",
-		"@tabler-icons,playstation,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1.67a2.914 2.914 0 0 0 -2.492 1.403l-8.11 13.537a2.914 2.914 0 0 0 2.484 4.385h16.225a2.914 2.914 0 0 0 2.503 -4.371l-8.116 -13.546a2.917 2.917 0 0 0 -2.494 -1.408z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,triangle,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-inverted-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M20.118 3h-16.225a2.914 2.914 0 0 0 -2.503 4.371l8.116 13.549a2.917 2.917 0 0 0 4.987 .005l8.11 -13.539a2.914 2.914 0 0 0 -2.486 -4.386z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,triangle,inverted,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-inverted\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10.363 20.405l-8.106 -13.534a1.914 1.914 0 0 1 1.636 -2.871h16.214a1.914 1.914 0 0 1 1.636 2.871l-8.106 13.534a1.914 1.914 0 0 1 -3.274 0z\"></path></svg>",
-		"@tabler-icons,triangle,inverted",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-minus-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M20.48 15.016l-6.843 -11.426a1.914 1.914 0 0 0 -3.274 0l-8.106 13.535a1.914 1.914 0 0 0 1.636 2.871h8.107\"></path><path d=\"M16 19h6\"></path></svg>",
-		"@tabler-icons,triangle,minus,2",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-minus\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0v.001z\"></path><path d=\"M9 13h6\"></path></svg>",
-		"@tabler-icons,triangle,minus",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7.825 7.83l-5.568 9.295a1.914 1.914 0 0 0 1.636 2.871h16.107m1.998 -1.99a1.913 1.913 0 0 0 -.255 -.88l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0l-1.028 1.718\"></path><path d=\"M3 3l18 18\"></path></svg>",
-		"@tabler-icons,triangle,off",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-plus-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M18.69 12.027l-5.054 -8.437a1.914 1.914 0 0 0 -3.274 0l-8.105 13.535a1.914 1.914 0 0 0 1.636 2.871h8.107\"></path><path d=\"M16 19h6\"></path><path d=\"M19 16v6\"></path></svg>",
-		"@tabler-icons,triangle,plus,2",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-plus\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0v.001z\"></path><path d=\"M9 13h6\"></path><path d=\"M12 10v6\"></path></svg>",
-		"@tabler-icons,triangle,plus",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-square-circle-filled\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M11.132 2.504l-4 7a1 1 0 0 0 .868 1.496h8a1 1 0 0 0 .868 -1.496l-4 -7a1 1 0 0 0 -1.736 0z\" stroke-width=\"0\" fill=\"currentColor\"></path><path d=\"M17 13a4 4 0 1 1 -3.995 4.2l-.005 -.2l.005 -.2a4 4 0 0 1 3.995 -3.8z\" stroke-width=\"0\" fill=\"currentColor\"></path><path d=\"M9 13h-4a2 2 0 0 0 -2 2v4a2 2 0 0 0 2 2h4a2 2 0 0 0 2 -2v-4a2 2 0 0 0 -2 -2z\" stroke-width=\"0\" fill=\"currentColor\"></path></svg>",
-		"@tabler-icons,triangle,square,circle,filled",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle-square-circle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 3l-4 7h8z\"></path><path d=\"M17 17m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0\"></path><path d=\"M4 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z\"></path></svg>",
-		"@tabler-icons,triangle,square,circle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0z\"></path></svg>",
-		"@tabler-icons,triangle",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-vector-triangle-off\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10 6v-1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-1\"></path><path d=\"M3 17m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z\"></path><path d=\"M20.705 20.709a1 1 0 0 1 -.705 .291h-2a1 1 0 0 1 -1 -1v-2c0 -.28 .115 -.532 .3 -.714\"></path><path d=\"M6.5 17.1l3.749 -6.823\"></path><path d=\"M13.158 9.197l-.658 -1.197\"></path><path d=\"M7 19h10\"></path><path d=\"M3 3l18 18\"></path></svg>",
-		"@tabler-icons,vector,triangle,off",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-vector-triangle\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M10 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z\"></path><path d=\"M3 17m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z\"></path><path d=\"M17 17m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z\"></path><path d=\"M6.5 17.1l5 -9.1\"></path><path d=\"M17.5 17.1l-5 -9.1\"></path><path d=\"M7 19l10 0\"></path></svg>",
-		"@tabler-icons,vector,triangle",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-dots-triangle\" viewBox=\"0 0 24 24\"><path d=\"M12 16C13.1 16 14 16.9 14 18S13.1 20 12 20 10 19.1 10 18 10.9 16 12 16M15 10C16.1 10 17 10.9 17 12S16.1 14 15 14 13 13.1 13 12 13.9 10 15 10M6 16C7.1 16 8 16.9 8 18S7.1 20 6 20 4 19.1 4 18 4.9 16 6 16M9 10C10.1 10 11 10.9 11 12S10.1 14 9 14 7 13.1 7 12 7.9 10 9 10M12 4C13.1 4 14 4.9 14 6S13.1 8 12 8 10 7.1 10 6 10.9 4 12 4M18 16C19.1 16 20 16.9 20 18S19.1 20 18 20 16 19.1 16 18 16.9 16 18 16\"></path></svg>",
@@ -895,8 +785,18 @@
 		"Phosphor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M164,216a12,12,0,0,1-12,12H104a12,12,0,0,1,0-24h48A12,12,0,0,1,164,216Zm76.26-29.9L235.6,178a12,12,0,1,0-20.79,12l4.65,8.08a3.56,3.56,0,0,1,0,3.73,4.46,4.46,0,0,1-4,2.2H192a12,12,0,0,0,0,24h23.46a28.31,28.31,0,0,0,24.79-14.19A27.47,27.47,0,0,0,240.26,186.1ZM64,204H40.55a4.46,4.46,0,0,1-4-2.2,3.56,3.56,0,0,1,0-3.73L41.19,190A12,12,0,1,0,20.4,178l-4.66,8.09a27.47,27.47,0,0,0,0,27.71A28.31,28.31,0,0,0,40.55,228H64a12,12,0,0,0,0-24Zm138.17-48a12,12,0,0,0,10.39-18l-23-40a12,12,0,0,0-20.8,12l23,40A12,12,0,0,0,202.18,156ZM166.5,58,152.81,34.23a28.74,28.74,0,0,0-49.62,0L89.5,58a12,12,0,1,0,20.79,12L124,46.2a4.75,4.75,0,0,1,8,0L145.71,70a12,12,0,0,0,10.41,6,11.87,11.87,0,0,0,6-1.6A12,12,0,0,0,166.5,58ZM82.85,93.6A12,12,0,0,0,66.46,98l-23,40a12,12,0,0,0,20.8,12l23-40A12,12,0,0,0,82.85,93.6Z\"></path></svg>",
+		"@phosphor-icons,bold,triangle,dashed",
+		"Phosphor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M241.73,135l-52,72a12,12,0,0,1-19.46,0L76,76.5,33.73,135A12,12,0,1,1,14.27,121l52-72a12,12,0,0,1,19.46,0L180,179.5,222.27,121A12,12,0,1,1,241.73,135Z\"></path></svg>",
 		"@phosphor-icons,bold,wave,triangle",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M215.46,216H40.54C27.92,216,20,202.79,26.13,192.09L113.59,40.22c6.3-11,22.52-11,28.82,0l87.46,151.87C236,202.79,228.08,216,215.46,216Z\" opacity=\"0.2\"></path><path d=\"M160,216a8,8,0,0,1-8,8H104a8,8,0,0,1,0-16h48A8,8,0,0,1,160,216Zm76.8-27.91L232.14,180a8,8,0,0,0-13.86,8l4.65,8.09a7.59,7.59,0,0,1,0,7.72,8.5,8.5,0,0,1-7.48,4.2H192a8,8,0,0,0,0,16h23.45a24.34,24.34,0,0,0,21.33-12.19A23.51,23.51,0,0,0,236.8,188.09ZM64,208H40.55a8.5,8.5,0,0,1-7.48-4.2,7.59,7.59,0,0,1,0-7.72L37.72,188a8,8,0,1,0-13.86-8l-4.66,8.08a23.51,23.51,0,0,0,0,23.72A24.34,24.34,0,0,0,40.55,224H64a8,8,0,0,0,0-16Zm138.18-56a8,8,0,0,0,6.93-12l-23-40a8,8,0,0,0-13.86,8l23,40A8,8,0,0,0,202.18,152ZM149.35,36.22a24.76,24.76,0,0,0-42.7,0L93,60a8,8,0,1,0,13.86,8l13.7-23.78a8.75,8.75,0,0,1,15,0L149.18,68a8,8,0,0,0,6.94,4,7.91,7.91,0,0,0,4-1.07A8,8,0,0,0,163,60ZM80.85,97.07A8,8,0,0,0,69.93,100l-23,40a8,8,0,0,0,13.87,8l23-40A8,8,0,0,0,80.85,97.07Z\"></path></svg>",
+		"@phosphor-icons,twotone,triangle,dashed",
 		"Phosphor Icons"
 	],
 	[
@@ -910,6 +810,11 @@
 		"Phosphor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M236.8,188.09,149.35,36.22a24.76,24.76,0,0,0-42.7,0L19.2,188.09a23.51,23.51,0,0,0,0,23.72A24.34,24.34,0,0,0,40.55,224h174.9a24.34,24.34,0,0,0,21.33-12.19A23.51,23.51,0,0,0,236.8,188.09ZM108,200H60.79A12,12,0,0,1,50.4,182l24.18-42a8,8,0,0,1,13.87,8L67.71,184H108a8,8,0,0,1,0,16Zm-1.12-84A8,8,0,0,1,93,108l24.59-42.7a12,12,0,0,1,20.8,0L163,108a8,8,0,0,1-13.87,8L128,79.31Zm98.72,78a12.05,12.05,0,0,1-10.39,6H148a8,8,0,0,1,0-16h40.29l-20.74-36a8,8,0,0,1,13.87-8l24.18,42A12,12,0,0,1,205.6,194Z\"></path></svg>",
+		"@phosphor-icons,filled,triangle,dashed",
+		"Phosphor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M236.78,211.81A24.34,24.34,0,0,1,215.45,224H40.55a24.34,24.34,0,0,1-21.33-12.19,23.51,23.51,0,0,1,0-23.72L106.65,36.22a24.76,24.76,0,0,1,42.7,0L236.8,188.09A23.51,23.51,0,0,1,236.78,211.81Z\"></path></svg>",
 		"@phosphor-icons,filled,triangle",
 		"Phosphor Icons"
@@ -917,6 +822,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40Zm-9.85,93.12-40,48A8,8,0,0,1,160,184h-.43a8,8,0,0,1-6.23-3.55l-58-87.09L62.15,133.12a8,8,0,0,1-12.3-10.24l40-48a8,8,0,0,1,12.81.68l58.05,87.09,33.14-39.77a8,8,0,1,1,12.3,10.24Z\"></path></svg>",
 		"@phosphor-icons,filled,wave,triangle",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M158,216a6,6,0,0,1-6,6H104a6,6,0,0,1,0-12h48A6,6,0,0,1,158,216Zm77.07-26.91L230.41,181a6,6,0,1,0-10.4,6l4.66,8.09a9.49,9.49,0,0,1,0,9.72,10.46,10.46,0,0,1-9.21,5.2H192a6,6,0,0,0,0,12h23.45a22.37,22.37,0,0,0,19.6-11.19A21.53,21.53,0,0,0,235.07,189.09ZM64,210H40.55a10.46,10.46,0,0,1-9.21-5.2,9.49,9.49,0,0,1,0-9.72L36,187a6,6,0,0,0-10.4-6l-4.66,8.08a21.53,21.53,0,0,0,0,21.72A22.37,22.37,0,0,0,40.55,222H64a6,6,0,0,0,0-12Zm138.18-60a6,6,0,0,0,5.2-9l-23-40a6,6,0,1,0-10.4,6l23,40A6,6,0,0,0,202.18,150ZM147.61,37.22a22.75,22.75,0,0,0-39.22,0L94.69,61a6,6,0,1,0,10.4,6l13.7-23.78a10.75,10.75,0,0,1,18.42,0L150.91,67a6,6,0,0,0,10.4-6ZM79.85,98.8A6,6,0,0,0,71.66,101l-23,40A6,6,0,1,0,59,147l23-40A6,6,0,0,0,79.85,98.8Z\"></path></svg>",
+		"@phosphor-icons,light,triangle,dashed",
 		"Phosphor Icons"
 	],
 	[
@@ -930,6 +840,11 @@
 		"Phosphor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M160,216a8,8,0,0,1-8,8H104a8,8,0,0,1,0-16h48A8,8,0,0,1,160,216Zm76.8-27.91L232.14,180a8,8,0,0,0-13.86,8l4.65,8.09a7.59,7.59,0,0,1,0,7.72,8.5,8.5,0,0,1-7.48,4.2H192a8,8,0,0,0,0,16h23.45a24.34,24.34,0,0,0,21.33-12.19A23.51,23.51,0,0,0,236.8,188.09ZM64,208H40.55a8.5,8.5,0,0,1-7.48-4.2,7.59,7.59,0,0,1,0-7.72L37.72,188a8,8,0,1,0-13.86-8l-4.66,8.08a23.51,23.51,0,0,0,0,23.72A24.34,24.34,0,0,0,40.55,224H64a8,8,0,0,0,0-16Zm138.18-56a8,8,0,0,0,6.93-12l-23-40a8,8,0,0,0-13.86,8l23,40A8,8,0,0,0,202.18,152ZM149.35,36.22a24.76,24.76,0,0,0-42.7,0L93,60a8,8,0,1,0,13.86,8l13.7-23.78a8.75,8.75,0,0,1,15,0L149.18,68a8,8,0,0,0,6.94,4,7.91,7.91,0,0,0,4-1.07A8,8,0,0,0,163,60ZM80.85,97.07A8,8,0,0,0,69.93,100l-23,40a8,8,0,0,0,13.87,8l23-40A8,8,0,0,0,80.85,97.07Z\"></path></svg>",
+		"@phosphor-icons,regular,triangle,dashed",
+		"Phosphor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M236.8,188.09,149.35,36.22a24.76,24.76,0,0,0-42.7,0L19.2,188.09a23.51,23.51,0,0,0,0,23.72A24.34,24.34,0,0,0,40.55,224h174.9a24.34,24.34,0,0,0,21.33-12.19A23.51,23.51,0,0,0,236.8,188.09ZM222.93,203.8a8.5,8.5,0,0,1-7.48,4.2H40.55a8.5,8.5,0,0,1-7.48-4.2,7.59,7.59,0,0,1,0-7.72L120.52,44.21a8.75,8.75,0,0,1,15,0l87.45,151.87A7.59,7.59,0,0,1,222.93,203.8Z\"></path></svg>",
 		"@phosphor-icons,regular,triangle",
 		"Phosphor Icons"
@@ -937,6 +852,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M238.48,132.68l-52,72a8,8,0,0,1-13,0L76,69.66l-45.51,63a8,8,0,1,1-13-9.36l52-72a8,8,0,0,1,13,0l97.51,135,45.51-63a8,8,0,1,1,13,9.36Z\"></path></svg>",
 		"@phosphor-icons,regular,wave,triangle",
+		"Phosphor Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"currentColor\"><path d=\"M156,216a4,4,0,0,1-4,4H104a4,4,0,0,1,0-8h48A4,4,0,0,1,156,216Zm77.34-25.91L228.68,182a4,4,0,1,0-6.93,4l4.65,8.08a11.45,11.45,0,0,1,0,11.72,12.47,12.47,0,0,1-10.94,6.2H192a4,4,0,0,0,0,8h23.46a20.36,20.36,0,0,0,17.86-10.2A19.52,19.52,0,0,0,233.34,190.09ZM64,212H40.54a12.47,12.47,0,0,1-10.94-6.2,11.45,11.45,0,0,1,0-11.72L34.25,186a4,4,0,1,0-6.93-4l-4.66,8.09a19.52,19.52,0,0,0,0,19.71A20.36,20.36,0,0,0,40.54,220H64a4,4,0,0,0,0-8Zm138.18-64a4,4,0,0,0,3.47-6l-23-40a4,4,0,1,0-6.93,4l23,40A4,4,0,0,0,202.18,148ZM145.88,38.22a20.75,20.75,0,0,0-35.76,0L96.42,62a4,4,0,1,0,6.94,4l13.69-23.79a12.76,12.76,0,0,1,21.9,0L152.64,66a4,4,0,0,0,6.94-4Zm-67,62.31A4,4,0,0,0,73.39,102l-23,40a4,4,0,0,0,6.94,4l23-40A4,4,0,0,0,78.85,100.53Z\"></path></svg>",
+		"@phosphor-icons,thin,triangle,dashed",
 		"Phosphor Icons"
 	],
 	[
@@ -1020,11 +940,6 @@
 		"Radix Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z\"></path><path d=\"M12 9v4\"></path><path d=\"M12 17h.01\"></path></svg>",
-		"@lucide,alert,triangle",
-		"Lucide"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 22V2L7 7l10 5\"></path></svg>",
 		"@lucide,flag,triangle,left",
 		"Lucide"
@@ -1032,6 +947,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 22V2l10 5-10 5\"></path></svg>",
 		"@lucide,flag,triangle,right",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3\"></path><path d=\"M12 9v4\"></path><path d=\"M12 17h.01\"></path></svg>",
+		"@lucide,triangle,alert",
 		"Lucide"
 	],
 	[
@@ -1240,7 +1160,7 @@
 		"akar-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" style=\"enable-background:new 0 0 1024 1024\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M928.99 755.83 574.6 203.25c-12.89-20.16-36.76-32.58-62.6-32.58s-49.71 12.43-62.6 32.58L95.01 755.83c-12.91 20.12-12.9 44.91.01 65.03 12.92 20.12 36.78 32.51 62.59 32.49h708.78c25.82.01 49.68-12.37 62.59-32.49 12.91-20.12 12.92-44.91.01-65.03M554.67 768h-85.33v-85.33h85.33zm0-426.67v298.66h-85.33V341.32z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M928.99 755.83 574.6 203.25c-12.89-20.16-36.76-32.58-62.6-32.58s-49.71 12.43-62.6 32.58L95.01 755.83c-12.91 20.12-12.9 44.91.01 65.03 12.92 20.12 36.78 32.51 62.59 32.49h708.78c25.82.01 49.68-12.37 62.59-32.49s12.92-44.91.01-65.03M554.67 768h-85.33v-85.33h85.33zm0-426.67v298.66h-85.33V341.32z\"></path></svg>",
 		"@element-plus-icons,warn,triangle,filled",
 		"Element Plus Icons"
 	],

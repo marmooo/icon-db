@@ -35,7 +35,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M25 41c0-8.837 7.163-16 16-16h110c8.837 0 16 7.163 16 16v87.373a16 16 0 0 1-4.686 11.313l-22.628 22.628A16 16 0 0 1 128.373 167H41c-8.837 0-16-7.163-16-16V41Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M70 94c2.613 0 5.174-.627 7.393-1.81 2.219-1.182 4.007-2.874 5.163-4.882 1.156-2.01 1.633-4.255 1.377-6.484-.257-2.23-1.235-4.352-2.826-6.13-1.59-1.776-3.73-3.136-6.175-3.925a16.208 16.208 0 0 0-7.663-.538c-2.563.437-4.932 1.48-6.84 3.01-1.907 1.532-3.276 3.49-3.952 5.653\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><ellipse cx=\"122\" cy=\"94\" rx=\"17\" ry=\"24\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></ellipse><path d=\"M56.477 109.106c.676 2.163 2.046 4.121 3.953 5.652 1.907 1.531 4.276 2.574 6.839 3.011 2.563.437 5.217.251 7.662-.538 2.446-.789 4.585-2.149 6.176-3.926 1.59-1.777 2.57-3.9 2.826-6.129.256-2.229-.221-4.475-1.377-6.483-1.156-2.01-2.944-3.7-5.163-4.883C75.173 94.627 72.613 94 70 94\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M25 41c0-8.837 7.163-16 16-16h110c8.837 0 16 7.163 16 16v87.373a16 16 0 0 1-4.686 11.313l-22.628 22.628A16 16 0 0 1 128.373 167H41c-8.837 0-16-7.163-16-16z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M70 94c2.613 0 5.174-.627 7.393-1.81 2.219-1.182 4.007-2.874 5.163-4.882 1.156-2.01 1.633-4.255 1.377-6.484-.257-2.23-1.235-4.352-2.826-6.13-1.59-1.776-3.73-3.136-6.175-3.925a16.2 16.2 0 0 0-7.663-.538c-2.563.437-4.932 1.48-6.84 3.01-1.907 1.532-3.276 3.49-3.952 5.653\"></path><ellipse cx=\"122\" cy=\"94\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"17\" ry=\"24\"></ellipse><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M56.477 109.106c.676 2.163 2.046 4.121 3.953 5.652s4.276 2.574 6.839 3.011 5.217.251 7.662-.538 4.585-2.149 6.176-3.926c1.59-1.777 2.57-3.9 2.826-6.129s-.221-4.475-1.377-6.483c-1.156-2.01-2.944-3.7-5.163-4.883S72.613 94 70 94\"></path></svg>",
 		"@lawnicons,themed,icon,calendar,30",
 		"Lawnicons"
 	],
@@ -48,21 +48,6 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><g fill=\"#bebebe\"><path opacity=\".4\" d=\"m5 0v2h-3v14h12v-14h-3v-2z\"></path><path stroke-width=\".707\" d=\"m2 11v5h12v-5z\"></path></g></svg>",
 		"@numix-icon-theme,status,battery,level,30,symbolic",
 		"Numix icon theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-rewind-backward-30\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19.007 16.466a6 6 0 0 0 -4.007 -10.466h-11\"></path><path d=\"M12 15.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M6 14h1.5a1.5 1.5 0 0 1 0 3h-.5h.5a1.5 1.5 0 0 1 0 3h-1.5\"></path><path d=\"M7 9l-3 -3l3 -3\"></path></svg>",
-		"@tabler-icons,rewind,backward,30",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-rewind-forward-30\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5.007 16.478a6 6 0 0 1 3.993 -10.478h11\"></path><path d=\"M15 15.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M17 9l3 -3l-3 -3\"></path><path d=\"M9 14h1.5a1.5 1.5 0 0 1 0 3h-.5h.5a1.5 1.5 0 0 1 0 3h-1.5\"></path></svg>",
-		"@tabler-icons,rewind,forward,30",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-time-duration-30\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M14 10.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path><path d=\"M8 9h1.5a1.5 1.5 0 0 1 0 3h-.5h.5a1.5 1.5 0 0 1 0 3h-1.5\"></path><path d=\"M3 12v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M12 21a9 9 0 0 0 0 -18\"></path></svg>",
-		"@tabler-icons,time,duration,30",
-		"Tabler Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-battery-30-bluetooth\" viewBox=\"0 0 24 24\"><path d=\"M5,2V4H3.33A1.33,1.33 0 0,0 2,5.33V20.67C2,21.4 2.6,22 3.33,22H12.67C13.4,22 14,21.4 14,20.67V5.33A1.33,1.33 0 0,0 12.67,4H11V2H5M4,6H12V15H4V6M19,8V11.79L16.71,9.5L16,10.21L18.79,13L16,15.79L16.71,16.5L19,14.21V18H19.5L22.35,15.14L20.21,13L22.35,10.85L19.5,8H19M20,9.91L20.94,10.85L20,11.79V9.91M20,14.21L20.94,15.14L20,16.08V14.21Z\"></path></svg>",

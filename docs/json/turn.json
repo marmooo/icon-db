@@ -5,6 +5,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M148.326 148.326a74 74 0 1 1-33.173-123.804\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M96 119a23.001 23.001 0 0 1-11.5-42.919\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M167.479 76.847A74 74 0 0 1 170 96\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M103.462 73 117 76.667l-16 24.666L114.538 105\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m118 48 32-7-10 85 28-6\"></path></svg>",
+		"@lawnicons,sleep,timer,turn,music,off",
+		"Lawnicons"
+	],
+	[
 		"<svg role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" aria-labelledby=\"turnLeftIconTitle\"><title id=\"turnLeftIconTitle\">Turn Left</title><path d=\"M4.71493213,9 L8.06176471,9 C14.65507,9 20,13.0983574 20,19.3875\"></path><polyline points=\"9 14 4 9 9 4 9 4\"></polyline></svg>",
 		"@ikonate,turn,left",
 		"Ikonate"
@@ -670,36 +675,6 @@
 		"Font Awesome"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrow-sharp-turn-left\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M17 18v-11.31a.7 .7 0 0 0 -1.195 -.495l-9.805 9.805\"></path><path d=\"M11 16h-5v-5\"></path></svg>",
-		"@tabler-icons,arrow,sharp,turn,left",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-arrow-sharp-turn-right\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7 18v-11.31a.7 .7 0 0 1 1.195 -.495l9.805 9.805\"></path><path d=\"M13 16h5v-5\"></path></svg>",
-		"@tabler-icons,arrow,sharp,turn,right",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-s-turn-down\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7 5a2 2 0 1 1 -4 0a2 2 0 0 1 4 0z\"></path><path d=\"M5 7v9.5a3.5 3.5 0 0 0 7 0v-9a3.5 3.5 0 0 1 7 0v13.5\"></path><path d=\"M16 18l3 3l3 -3\"></path></svg>",
-		"@tabler-icons,s,turn,down",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-s-turn-left\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 7a2 2 0 1 1 0 -4a2 2 0 0 1 0 4z\"></path><path d=\"M17 5h-9.5a3.5 3.5 0 0 0 0 7h9a3.5 3.5 0 0 1 0 7h-13.5\"></path><path d=\"M6 16l-3 3l3 3\"></path></svg>",
-		"@tabler-icons,s,turn,left",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-s-turn-right\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M5 5m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"></path><path d=\"M7 5h9.5a3.5 3.5 0 0 1 0 7h-9a3.5 3.5 0 0 0 0 7h13.5\"></path><path d=\"M18 16l3 3l-3 3\"></path></svg>",
-		"@tabler-icons,s,turn,right",
-		"Tabler Icons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"icon icon-tabler icon-tabler-s-turn-up\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M7 19a2 2 0 1 0 -4 0a2 2 0 0 0 4 0z\"></path><path d=\"M5 17v-9.5a3.5 3.5 0 0 1 7 0v9a3.5 3.5 0 0 0 7 0v-13.5\"></path><path d=\"M16 6l3 -3l3 3\"></path></svg>",
-		"@tabler-icons,s,turn,up",
-		"Tabler Icons"
-	],
-	[
 		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 17L24 13C24 8.99999 27 5.99999 31 5.99999C35 5.99999 38 8.99999 38 13L38 32\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M10 6L10 35C10 39 13 42 17 42C21 42 24 39 24 35L24 17\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M15 11L10 6L5 11\" stroke=\"black\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"38\" cy=\"37.0001\" r=\"5\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\"></circle></svg>",
 		"@iconpark-icons,connect,s,turn,down",
 		"IconPark Icons"
@@ -1090,7 +1065,7 @@
 		"Carbon"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M329.956 257.138a254.862 254.862 0 0 0 0 509.724h364.088a254.862 254.862 0 0 0 0-509.724zm0-72.818h364.088a327.68 327.68 0 1 1 0 655.36H329.956a327.68 327.68 0 1 1 0-655.36z\"></path><path fill=\"currentColor\" d=\"M329.956 621.227a109.227 109.227 0 1 0 0-218.454 109.227 109.227 0 0 0 0 218.454m0 72.817a182.044 182.044 0 1 1 0-364.088 182.044 182.044 0 0 1 0 364.088\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1024 1024\"><path fill=\"currentColor\" d=\"M329.956 257.138a254.862 254.862 0 0 0 0 509.724h364.088a254.862 254.862 0 0 0 0-509.724zm0-72.818h364.088a327.68 327.68 0 1 1 0 655.36H329.956a327.68 327.68 0 1 1 0-655.36\"></path><path fill=\"currentColor\" d=\"M329.956 621.227a109.227 109.227 0 1 0 0-218.454 109.227 109.227 0 0 0 0 218.454m0 72.817a182.044 182.044 0 1 1 0-364.088 182.044 182.044 0 0 1 0 364.088\"></path></svg>",
 		"@element-plus-icons,turn,off",
 		"Element Plus Icons"
 	],
