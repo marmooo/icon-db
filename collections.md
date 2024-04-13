@@ -374,8 +374,8 @@
   [MIT](https://github.com/framework7io/framework7-icons/blob/master/LICENSE)
 - [Scarlab Icons](https://github.com/la-moore/scarlab-icons) licensed under the
   [MIT](https://github.com/la-moore/scarlab-icons/blob/master/LICENSE)
-- [Huge Icons](https://github.com/zerolimitir/huge-icons) licensed under the
-  [MIT](https://github.com/zerolimitir/huge-icons/blob/main/LICENSE)
+- [HugeIcons](https://github.com/hugeicons/hugeicons-react) licensed under the
+  [MIT](https://github.com/hugeicons/hugeicons-react/blob/main/LICENSE.md)
 - [JTB-Icons](https://github.com/JTBLabs/JTB-Icons) licensed under the
   [MIT](https://github.com/JTBLabs/JTB-Icons/blob/main/LICENSE)
 - [Spectrum-CSS Workflow Icons](https://github.com/adobe/spectrum-css-workflow-icons)
