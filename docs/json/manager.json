@@ -105,6 +105,11 @@
 		"Arcticons"
 	],
 	[
+		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;}</style></defs><path class=\"c\" d=\"M10.5,26.0038h5.2656v16.4962h-5.2656v-16.4962ZM21.3672,5.5h5.2656v37h-5.2656V5.5ZM32.2344,17.6159h5.2656v24.8841h-5.2656v-24.8841Z\"></path></svg>",
+		"@arcticons,my,data,manager",
+		"Arcticons"
+	],
+	[
 		"<svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"c\" x=\"11.9909\" y=\"4.6262\" width=\"30.7661\" height=\"30.7661\" rx=\"3\" ry=\"3\"></rect><path class=\"c\" d=\"m5.757,12.0823v26.5439c0,1.6569,1.3431,3,3,3h26.5439\"></path><polygon class=\"c\" points=\"38.6084 8.7748 29.5267 8.7748 29.5267 24.5239 34.0675 21.7134 38.6084 24.5239 38.6084 8.7748\"></polygon></svg>",
 		"@arcticons,my,link,manager",
 		"Arcticons"
@@ -165,8 +170,18 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m89 103 6 7 10-13\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M68 86s12-6 28-6 28 6 28 6c0 35-28 50-28 50s-28-15-28-50Z\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m22 94 74-67 74 67h-19v61a6 6 0 0 1-6 6H47a6 6 0 0 1-6-6V94H22Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,adguard,home,manager",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m136 100-40 52-40-52m0 0h21a6 6 0 0 0 6-6V46a6 6 0 0 1 6-6h14a6 6 0 0 1 6 6v48a6 6 0 0 0 6 6h21\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M128 64v13a6 6 0 0 0 6 6h37l-44 57m-79-22L21 83h37a6 6 0 0 0 6-6V48\"></path></svg>",
 		"@lawnicons,advanced,download,manager",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M96 138H28a6 6 0 0 1-6-6V40a6 6 0 0 1 6-6h37l16 16h83a6 6 0 0 1 6 6v76a6 6 0 0 1-6 6h-24m-42 6-26 26\"></path><path stroke-width=\"8\" d=\"m83.052 85.617-12.866-4.113-4.804-13.611a1.26 1.26 0 0 0-.52-.64 1.6 1.6 0 0 0-1.722-.002 1.27 1.27 0 0 0-.52.642l-4.806 13.61-12.866 4.114c-.269.081-.508.24-.688.456a1.13 1.13 0 0 0-.26.715c.002.261.094.513.26.714.18.216.419.375.688.456l12.86 4.119 4.802 14.019c.09.256.27.482.52.649a1.59 1.59 0 0 0 1.732 0c.242-.151.425-.38.52-.649l4.812-14.025 12.858-4.111c.27-.082.508-.241.688-.458.166-.2.258-.453.26-.714a1.13 1.13 0 0 0-.26-.715 1.44 1.44 0 0 0-.688-.456\"></path><circle cx=\"118\" cy=\"124\" r=\"26\"></circle></svg>",
+		"@lawnicons,amaze,file,manager",
 		"Lawnicons"
 	],
 	[
@@ -177,6 +192,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M122 167H43c-9.941 0-18-8.059-18-18V43c0-9.941 8.059-18 18-18h106c9.941 0 18 8.059 18 18v77\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M100.984 48h-9.968c-3.314 0-5.924 2.707-6.418 5.984-1.295 8.597-5.177 11.183-5.545 11.41l-.057.034c-.414.227-5.247 2.703-13.59-.376-3.112-1.149-6.766-.247-8.423 2.626l-4.99 8.657c-1.654 2.868-.613 6.477 1.952 8.57 6.786 5.537 7.092 10.564 7.106 11.056v.078c-.014.492-.32 5.519-7.106 11.056-2.565 2.093-3.606 5.702-1.952 8.57l4.99 8.657c1.657 2.873 5.31 3.781 8.398 2.568 8.112-3.187 12.279-1.089 12.622-.903l.047.027c.368.224 4.972 3.179 6.487 12.01.56 3.266 3.165 5.976 6.48 5.976h9.967c3.314 0 5.919-2.71 6.479-5.976 1.515-8.831 6.119-11.786 6.487-12.01l.047-.027c.343-.186 4.511-2.284 12.622.903 3.087 1.213 6.741.305 8.398-2.568l4.99-8.657c1.654-2.868.613-6.477-1.952-8.57-6.785-5.537-7.092-10.563-7.106-11.055v-.08c.014-.492.321-5.518 7.106-11.055 2.565-2.093 3.606-5.702 1.952-8.57l-4.99-8.657c-1.657-2.873-5.31-3.772-8.414-2.604-6.992 2.632-11.049 1.147-12.25.55a7 7 0 0 1-.753-.433c-1.177-.767-4.809-3.69-6.13-11.215-.572-3.264-3.172-5.976-6.486-5.976\"></path><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M146 142h9.288A13.006 13.006 0 0 1 168 155a13 13 0 0 1-12.712 13H146z\"></path></svg>",
 		"@lawnicons,app,manager,debug",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M22 170h38m72 0h38m-148 0L74 22h44l52 148\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m112.71 110.43 27.039-19.645h-33.421L96 59 85.672 90.785h-33.42L79.29 110.43m33.42 0L132 170m-72 0 19.29-59.57\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,astro,file,manager",
 		"Lawnicons"
 	],
 	[
@@ -192,6 +212,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"m169 56-72 80m22-80 24 80m-120 0h44M37 96h44M51 56h44\"></path></svg>",
 		"@lawnicons,ex,kernel,manager",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M144 52H40c-9.941 0-18 8.059-18 18v60c0 9.941 8.059 18 18 18h104c9.941 0 18-8.059 18-18V67M92 86H22\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m128.08 115.951 40.859-59.495a6.036 6.036 0 0 0-1.438-8.308l-8.305-6.005a6.023 6.023 0 0 0-8.495 1.473L110 102.879V125l18.08-9.049Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,expense,manager",
 		"Lawnicons"
 	],
 	[
@@ -215,6 +240,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M78 103c12 5 16 16 16 16s9-24 28-35\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M22 55c0-9.941 8.059-18 18-18h41.515a6 6 0 0 1 4.242 1.757l12.486 12.486A6 6 0 0 0 102.485 53H164a6 6 0 0 1 6 6v88a6 6 0 0 1-6 6H40c-9.941 0-18-8.059-18-18V55Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,fv,file,manager",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" d=\"M67 127v14m-16 0v-28h26a6 6 0 0 1 6 6v22m16-28v28\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m76 25 13.304 24.833A6 6 0 0 0 94.592 53H167\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"20\"></rect></svg>",
 		"@lawnicons,mi,file,manager",
 		"Lawnicons"
@@ -222,6 +252,11 @@
 	[
 		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M130 87a33.993 33.993 0 0 0-9.958-24.042A34.012 34.012 0 0 0 96 53a33.999 33.999 0 0 0-34 34\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"83\" cy=\"84\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"109\" cy=\"84\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M72 61 62 51m0 54V87m68 18V87m-10-26 10-10\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"M167 105H25\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,ml,manager",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M130 87a33.993 33.993 0 0 0-9.958-24.042A34.012 34.012 0 0 0 96 53a33.999 33.999 0 0 0-34 34\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"83\" cy=\"84\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"84\" cy=\"135\" r=\"11\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"109\" cy=\"84\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M72 61 62 51m0 54V87m68 18V87m-10-26 10-10\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect><path d=\"M167 105H25m98 30H95m19 0v8\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,ml,manager,pro",
 		"Lawnicons"
 	],
 	[
@@ -275,6 +310,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"39\" cy=\"118\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"153\" cy=\"118\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"39\" cy=\"144\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"127\" cy=\"144\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"65\" cy=\"144\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"153\" cy=\"144\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M52 28a6 6 0 0 1 6-6h76a6 6 0 0 1 6 6v61.254a6.002 6.002 0 0 1-2.078 4.54L96 130 54.078 93.795A6 6 0 0 1 52 89.254V28Zm2 142h84\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,rboard,theme,manager",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M22 134V44a6 6 0 0 1 6-6h114a6 6 0 0 1 6 6v90a6 6 0 0 1-6 6H28a6 6 0 0 1-6-6Z\"></path><path d=\"M107 162h57a6 6 0 0 0 6-6v-45\"></path></svg>",
 		"@lawnicons,remote,desktop,manager",
 		"Lawnicons"
@@ -297,6 +337,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M59 88h74a6 6 0 0 1 6 6v70a6 6 0 0 1-6 6H59a6 6 0 0 1-6-6V94a6 6 0 0 1 6-6zm37 16v9m21.651 3.5-7.795 4.5m-35.506-4.5 7.794 4.5M96 145v9m-13.856-17-7.795 4.5m35.507-4.5 7.795 4.5M131.899 70H60.101c-3.714 0-6.514-3.349-5.328-6.868C58.755 51.327 69.601 33 96 33s37.245 18.327 41.227 30.132c1.186 3.52-1.614 6.868-5.328 6.868zM71 37 58 22m63 15 13-15\"></path><circle cx=\"96\" cy=\"129\" r=\"16\"></circle><circle cx=\"78\" cy=\"56\" r=\"3\" stroke-width=\"6\"></circle><circle cx=\"114\" cy=\"56\" r=\"3\" stroke-width=\"6\"></circle></svg>",
 		"@lawnicons,smartpack,package,manager",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96 70v98M25 49l71 21 71-21\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M25 49c31-9 71-27 71-27s40 18 71 27c0 103-67 121-71 121S25 152 25 49Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,system,manager",
 		"Lawnicons"
 	],
 	[
@@ -470,7 +515,7 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M140-220v-520 520Zm0 60q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h256q12.444 0 23.722 5t19.366 13.088L481-740h339q24 0 42 18t18 42v148q0 12.75-8.675 21.375-8.676 8.625-21.5 8.625-12.825 0-21.325-8.625T820-532v-148H456l-60-60H140v520h330q12.75 0 21.375 8.675 8.625 8.676 8.625 21.5 0 12.825-8.625 21.325T470-160H140Zm420 50v-81q0-5.565 2-10.783Q564-207 569-212l211.612-210.773q9.113-9.12 20.25-13.174Q812-440 823-440q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5t-13.583 20.624L692-89q-5 5-10.217 7-5.218 2-10.783 2h-81q-12.75 0-21.375-8.625T560-110Zm300-233-37-37 37 37ZM620-140h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M140-220v-520 520Zm0 60q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h256q12.44 0 23.72 5t19.37 13.09L481-740h339q24 0 42 18t18 42v148q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-148H456l-60-60H140v520h330q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5H140Zm420 50v-81q0-5.57 2-10.78 2-5.22 7-10.22l211.61-210.77q9.11-9.12 20.25-13.18Q812-440 823-440q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5t-13.58 20.62L692-89q-5 5-10.22 7-5.21 2-10.78 2h-81q-12.75 0-21.37-8.63Q560-97.25 560-110Zm300-233-37-37 37 37ZM620-140h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z\"></path></svg>",
 		"@material-symbols,rounded,bookmark,manager",
 		"Material Symbols"
 	],
@@ -550,7 +595,7 @@
 		"Fluent UI MDL2"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" style=\"transform:rotate(0deg)\"><path d=\"M20 22V17C20 15.1144 20 14.1716 19.4142 13.5858C18.8284 13 17.8856 13 16 13L12 22L8 13C6.11438 13 5.17157 13 4.58579 13.5858C4 14.1716 4 15.1144 4 17V22\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M12 15L11.5 19L12 20.5L12.5 19L12 15ZM12 15L11 13H13L12 15Z\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M15.5 6.5V5.5C15.5 3.567 13.933 2 12 2C10.067 2 8.5 3.567 8.5 5.5V6.5C8.5 8.433 10.067 10 12 10C13.933 10 15.5 8.433 15.5 6.5Z\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" color=\"currentColor\"><path d=\"M20 22V17C20 15.1144 20 14.1716 19.4142 13.5858C18.8284 13 17.8856 13 16 13L12 22L8 13C6.11438 13 5.17157 13 4.58579 13.5858C4 14.1716 4 15.1144 4 17V22\" stroke=\"currentColor\"></path><path d=\"M12 15L11.5 19L12 20.5L12.5 19L12 15ZM12 15L11 13H13L12 15Z\" stroke=\"currentColor\"></path><path d=\"M15.5 6.5V5.5C15.5 3.567 13.933 2 12 2C10.067 2 8.5 3.567 8.5 5.5V6.5C8.5 8.433 10.067 10 12 10C13.933 10 15.5 8.433 15.5 6.5Z\" stroke=\"currentColor\"></path></svg>",
 		"@hugeicons,manager",
 		"HugeIcons"
 	]
