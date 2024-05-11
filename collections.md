@@ -390,3 +390,6 @@
   [Apache-2.0](https://github.com/Mage-Icons/mage-icons/blob/main/License.txt)
 - [Token Icons](https://github.com/0xa3k5/token-icons) licensed under the
   [MIT](https://github.com/0xa3k5/token-icons/blob/main/LICENCE)
+- [SWM Icon Pack](https://github.com/kamilagraf/react-swm-icon-pack) licensed
+  under the
+  [MIT](https://github.com/kamilagraf/react-swm-icon-pack/blob/main/LICENSE)
