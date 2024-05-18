@@ -120,6 +120,36 @@
 		"Weather Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M17 3.34a10 10 0 1 1 -15 8.66l.005 -.324a10 10 0 0 1 14.995 -8.336m-5.401 9.576l.052 .021l.08 .026l.08 .019l.072 .011l.117 .007l.076 -.003l.135 -.02l.082 -.02l.103 -.039l.073 -.035l.078 -.046l.06 -.042l.08 -.069l.083 -.088l.062 -.083l.053 -.09l.031 -.064l.032 -.081l.03 -.109l.015 -.094l.007 -.117v-5a1 1 0 0 0 -2 0v3.131l-1.445 -.963a1 1 0 0 0 -1.317 .184l-.07 .093a1 1 0 0 0 .277 1.387l3.038 2.024z\"></path></svg>",
+		"@tabler-icons,filled,clock,hour,10",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"></path><path d=\"M12 12l-3 -2\"></path><path d=\"M12 7v5\"></path></svg>",
+		"@tabler-icons,outline,clock,hour,10",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 10l2 -2v8\"></path><path d=\"M13 10v4a2 2 0 1 0 4 0v-4a2 2 0 1 0 -4 0z\"></path></svg>",
+		"@tabler-icons,outline,number,10,small",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 9l-3 -3l3 -3\"></path><path d=\"M15.997 17.918a6.002 6.002 0 0 0 -.997 -11.918h-11\"></path><path d=\"M6 14v6\"></path><path d=\"M9 15.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path></svg>",
+		"@tabler-icons,outline,rewind,backward,10",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 9l3 -3l-3 -3\"></path><path d=\"M8 17.918a5.997 5.997 0 0 1 -5 -5.918a6 6 0 0 1 6 -6h11\"></path><path d=\"M12 14v6\"></path><path d=\"M15 15.5v3a1.5 1.5 0 0 0 3 0v-3a1.5 1.5 0 0 0 -3 0z\"></path></svg>",
+		"@tabler-icons,outline,rewind,forward,10",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 9v6\"></path><path d=\"M12 11v2a2 2 0 1 0 4 0v-2a2 2 0 1 0 -4 0z\"></path><path d=\"M3 12v.01\"></path><path d=\"M21 12v.01\"></path><path d=\"M12 21v.01\"></path><path d=\"M7.5 4.2v.01\"></path><path d=\"M16.5 19.8v.01\"></path><path d=\"M7.5 19.8v.01\"></path><path d=\"M4.2 16.5v.01\"></path><path d=\"M19.8 16.5v.01\"></path><path d=\"M4.2 7.5v.01\"></path><path d=\"M19.81 7.527a8.994 8.994 0 0 0 -7.81 -4.527\"></path></svg>",
+		"@tabler-icons,outline,time,duration,10",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"mdi-battery-10-bluetooth\" viewBox=\"0 0 24 24\"><path d=\"M5,2V4H3.33A1.33,1.33 0 0,0 2,5.33V20.67C2,21.4 2.6,22 3.33,22H12.67C13.4,22 14,21.4 14,20.67V5.33A1.33,1.33 0 0,0 12.67,4H11V2H5M4,6H12V18H4V6M19,8V11.79L16.71,9.5L16,10.21L18.79,13L16,15.79L16.71,16.5L19,14.21V18H19.5L22.35,15.14L20.21,13L22.35,10.85L19.5,8H19M20,9.91L20.94,10.85L20,11.79V9.91M20,14.21L20.94,15.14L20,16.08V14.21Z\"></path></svg>",
 		"@material-design,battery,10,bluetooth",
 		"Material Design"
