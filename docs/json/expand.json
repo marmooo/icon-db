@@ -125,6 +125,11 @@
 		"Metro UI CSS"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M554 469.33299999999997v256h128l-170 170-170-170h128v-256h-128l170-170 170 170h-128zM170 171.33299999999997h684v84h-684v-84zM170 939.333h684v84h-684v-84z\"></path></svg>",
+		"@metro-ui-css,expand",
+		"Metro UI CSS"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1000\" height=\"850\" viewBox=\"0 0 1000 850\"><path d=\"M0-23l0 488 83 0 0-340 285 276 58-58-277-284 339 0 0-82-488 0z m894 488l0 339-285-276-58 59 277 284-340 0 0 82 489 0 0-488-83 0z\"></path></svg>",
 		"@android-developer-icons,expand",
 		"Android Developer Icons"
@@ -290,26 +295,6 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m283-345-43-43 240-240 240 239-43 43-197-197-197 198Z\"></path></svg>",
-		"@material-symbols,outline,expand,less,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m283-345-43-43 240-240 240 239-43 43-197-197-197 198Z\"></path></svg>",
-		"@material-symbols,outline,expand,less",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-345 240-585l43-43 197 198 197-197 43 43-240 239Z\"></path></svg>",
-		"@material-symbols,outline,expand,more,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-345 240-585l43-43 197 198 197-197 43 43-240 239Z\"></path></svg>",
-		"@material-symbols,outline,expand,more",
-		"Material Symbols"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M190-80q-13 0-21.5-8.5T160-110q0-13 8.5-21.5T190-140h580q13 0 21.5 8.5T800-110q0 13-8.5 21.5T770-80H190Zm292-112q-6 0-11-2t-10-7L351-311q-9-9-8.5-21.5T352-354q9-9 21.5-9t21.5 9l57 58v-368l-58 58q-9 9-21 9t-21-9q-9-9-9-21.5t9-21.5l109-110q5-5 10-7t11-2q6 0 11 2t10 7l110 110q9 9 9 21t-9 21q-9 9-21.5 9t-21.5-9l-58-57v368l58-58q9-9 21.5-8.5T613-353q9 9 9 21.5t-9 21.5L503-201q-5 5-10 7t-11 2ZM190-820q-13 0-21.5-8.5T160-850q0-13 8.5-21.5T190-880h580q13 0 21.5 8.5T800-850q0 13-8.5 21.5T770-820H190Z\"></path></svg>",
 		"@material-symbols,rounded,expand,filled",
 		"Material Symbols"
@@ -370,26 +355,6 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-543 304-367q-9 9-21.5 9.5T261-366q-9-9-9-21.5t9-21.5l198-198q5-5 10-7t11-2q6 0 11 2t10 7l197 197q9 9 9.5 21t-8.5 21q-9 9-21.5 9t-21.5-9L480-543Z\"></path></svg>",
-		"@material-symbols,rounded,expand,less,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-543 304-367q-9 9-21.5 9.5T261-366q-9-9-9-21.5t9-21.5l198-198q5-5 10-7t11-2q6 0 11 2t10 7l197 197q9 9 9.5 21t-8.5 21q-9 9-21.5 9t-21.5-9L480-543Z\"></path></svg>",
-		"@material-symbols,rounded,expand,less",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-357q-6 0-11-2t-10-7L261-564q-9-9-9-21t9-21q9-9 21.5-9t21.5 9l176 176 176-176q9-9 21-9t21 9q9 9 9 21.5t-9 21.5L501-366q-5 5-10 7t-11 2Z\"></path></svg>",
-		"@material-symbols,rounded,expand,more,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-357q-6 0-11-2t-10-7L261-564q-9-9-9-21t9-21q9-9 21.5-9t21.5 9l176 176 176-176q9-9 21-9t21 9q9 9 9 21.5t-9 21.5L501-366q-5 5-10 7t-11 2Z\"></path></svg>",
-		"@material-symbols,rounded,expand,more",
-		"Material Symbols"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M160-80v-60h640v60H160Zm322-100L330-332l43-43 79 79v-368l-79 79-43-43 152-152 152 152-43 43-79-79v368l79-79 43 43-152 152ZM160-820v-60h640v60H160Z\"></path></svg>",
 		"@material-symbols,sharp,expand,filled",
 		"Material Symbols"
@@ -447,26 +412,6 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M200-200v-240h60v180h180v60H200Zm500-320v-180H520v-60h240v240h-60Z\"></path></svg>",
 		"@material-symbols,sharp,expand,content",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m283-345-43-43 240-240 240 239-43 43-197-197-197 198Z\"></path></svg>",
-		"@material-symbols,sharp,expand,less,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m283-345-43-43 240-240 240 239-43 43-197-197-197 198Z\"></path></svg>",
-		"@material-symbols,sharp,expand,less",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-345 240-585l43-43 197 198 197-197 43 43-240 239Z\"></path></svg>",
-		"@material-symbols,sharp,expand,more,filled",
-		"Material Symbols"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M480-345 240-585l43-43 197 198 197-197 43 43-240 239Z\"></path></svg>",
-		"@material-symbols,sharp,expand,more",
 		"Material Symbols"
 	],
 	[
@@ -1936,23 +1881,23 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M4 5v26a1 1 0 0 0 1 1h26a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1Zm21.5 15H20v5.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5V20h-5.5a.5.5 0 0 1-.5-.5v-3a.5.5 0 0 1 .5-.5H16v-5.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V16h5.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,tree,expand",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,tree,expand",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M9 8h17V3a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v22a1 1 0 0 0 1 1h5V9a1 1 0 0 1 1-1Z\"></path><path d=\"M10 11v22a1 1 0 0 0 1 1h22a1 1 0 0 0 1-1V11a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1Zm19.5 13H24v5.5a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5V24h-5.5a.5.5 0 0 1-.5-.5v-3a.5.5 0 0 1 .5-.5H20v-5.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5V20h5.5a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,tree,expand,all",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,tree,expand,all",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M40 6H8a2 2 0 0 0-2 2v32a2 2 0 0 0 2 2h32a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2Zm-7 20h-7v7a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-7h-7a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1h7v-7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7h7a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,tree,expand",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,tree,expand",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M8 10a2 2 0 0 1 2-2h26V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v28a2 2 0 0 0 2 2h2Z\"></path><path d=\"M42 12H14a2 2 0 0 0-2 2v28a2 2 0 0 0 2 2h28a2 2 0 0 0 2-2V14a2 2 0 0 0-2-2Zm-5 18h-7v7a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-7h-7a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1h7v-7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7h7a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,tree,expand,all",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,tree,expand,all",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><title>expand-fullscreen-solid</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"invisible_box\" data-name=\"invisible box\"><rect width=\"48\" height=\"48\" fill=\"none\"></rect></g><g id=\"icons_Q2\" data-name=\"icons Q2\"><g><path d=\"M18.6,26.6,8,37.2V30.1A2.1,2.1,0,0,0,6.3,28,2,2,0,0,0,4,30V42a2,2,0,0,0,2,2H17.9A2.1,2.1,0,0,0,20,42.3,2,2,0,0,0,18,40H10.8L21.3,29.5a2.1,2.1,0,0,0,.3-2.7A1.9,1.9,0,0,0,18.6,26.6Z\"></path><path d=\"M30,4a2,2,0,0,0-2,2.3A2.1,2.1,0,0,0,30.1,8h7.1L26.7,18.5a2,2,0,0,0-.2,2.8A1.8,1.8,0,0,0,28,22a2,2,0,0,0,1.4-.6L40,10.8v7.1A2.1,2.1,0,0,0,41.7,20,2,2,0,0,0,44,18V6a2,2,0,0,0-2-2Z\"></path></g></g></g></svg>",

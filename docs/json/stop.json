@@ -150,6 +150,11 @@
 		"Metro UI CSS"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M726 255.33299999999997l170 172-170 170v-128h-172v-86h172v-128zM426 383.33299999999997q-16 0-29 13t-13 31q0 16 13 29t29 13q18 0 31-13t13-29q0-18-13-31t-31-13zM256 383.33299999999997q-18 0-30 13t-12 31q0 16 12 29t30 13 30-13 12-29q0-18-12-31t-30-13zM298 811.333h172v-86h-172v-128l-170 170 170 172v-128zM598 811.333q16 0 29-13t13-31q0-16-13-29t-29-13q-18 0-31 13t-13 29q0 18 13 31t31 13zM768 811.333q18 0 30-13t12-31q0-16-12-29t-30-13-30 13-12 29q0 18 12 31t30 13z\"></path></svg>",
+		"@metro-ui-css,multiple,stop",
+		"Metro UI CSS"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M251.938 484.42499999999995l-188.117-108.61 32-55.426 886.81 512-32 55.426-100.783-58.187c-8.079 32.567-22.109 64.544-45.021 108.687-32.268 62.171-38.382 76.038-38.382 85.605v64h-426.028v-64c0 1.139-17.422-22.975-58.59-70.551-5.771-6.677-8.155-9.444-11.606-13.487-54.621-63.981-78.191-100.939-78.191-148.412 0.116-2.97 0.082-3.617 0.045-4.321l-0.075-198.072c0-44.605 24.108-83.344 59.938-104.652zM791.46 795.918l-430.672-248.649v115.434c0 9.884-10.094 17.873-22.546 17.873s-22.546-7.988-22.546-17.873v-131.753c-32.983 0.03-59.695 26.04-59.695 58.127l0.075 198.048c0 0.761 0.209 1.463-0.045 4.345 0 66.026 148.387 176.547 148.387 232.45h298.028c0-56.715 75.272-142.393 89.015-228.003zM793.376 647.929l64 36.845v-273.857c0-56.525-43.498-102.684-98.745-107.663-18.71-44.273-63.147-75.085-114.702-75.085-14.418-51.839-62.617-89.528-119.241-89.528-1.18 0-2.352 0.018-3.599-0.159-16.88-43.492-58.786-74.483-108.176-74.483-64.44 0-116.125 52.769-116.125 117.2v180.837l64 36.845v-217.683c0-29.37 23.323-53.2 52.125-53.2s52.14 23.815 52.14 53.2v277.709l45.048 25.934v-279.097c4.584-2.284 9.466-3.106 14.588-3.106 32.938 0 59.635 25.921 59.635 57.903v89.528c0-0.278 0.045 58.915 0.134 177.58l45.093 25.96v-258.278c4.614-2.344 9.511-3.165 14.648-3.165 33.073 0 59.874 25.921 59.874 57.903v194.375c0.791 9.317 10.437 16.693 22.382 16.693 12.453 0 22.546-8.003 22.546-17.888v-176.443c24.532 0.149 44.376 19.829 44.376 44.107v237.011z\"></path></svg>",
 		"@caomei,hand,stop",
 		"CaoMei"
@@ -1946,23 +1951,23 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><rect height=\"28\" rx=\"1\" ry=\"1\" width=\"24\" x=\"6\" y=\"4\"></rect></svg>",
-		"@spectrum-css-workflow-icons,stop",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,stop",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M18 2a16 16 0 1 0 16 16A16 16 0 0 0 18 2Zm8 23a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,stop,circle",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,stop,circle",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><rect height=\"40\" rx=\"2\" ry=\"2\" width=\"36\" x=\"6\" y=\"4\"></rect></svg>",
-		"@spectrum-css-workflow-icons,stop",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,stop",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M24 4.1A19.9 19.9 0 1 0 43.9 24 19.9 19.9 0 0 0 24 4.1ZM32 33a1 1 0 0 1-1 1H17a1 1 0 0 1-1-1V15a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,stop,circle",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,stop,circle",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><title>stop-circle-solid</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"invisible_box\" data-name=\"invisible box\"><rect width=\"48\" height=\"48\" fill=\"none\"></rect></g><g id=\"icons_Q2\" data-name=\"icons Q2\"><path d=\"M24,2A22,22,0,1,0,46,24,21.9,21.9,0,0,0,24,2Zm8,29a1.1,1.1,0,0,1-1,1H17a1.1,1.1,0,0,1-1-1V17a1.1,1.1,0,0,1,1-1H31a1.1,1.1,0,0,1,1,1Z\"></path></g></g></svg>",

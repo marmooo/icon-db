@@ -140,7 +140,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\"><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\" d=\"M30.104 21.828V10.22a4.223 4.223 0 0 0-4.223-4.223H10.044a4.223 4.223 0 0 0-4.223 4.223v15.837a4.223 4.223 0 0 0 4.223 4.223h9.176\"></path><circle cx=\"17.962\" cy=\"18.138\" r=\"5.279\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\"></circle><circle cx=\"24.297\" cy=\"11.803\" r=\".792\"></circle><circle cx=\"49.743\" cy=\"1.498\" r=\"5.807\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\" transform=\"rotate(43.536)\"></circle><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3.175\" d=\"m30.82 31.349-5.741-5.454m19.9 18.908-5.74-5.454\"></path></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M79.167 124H38c-8.837 0-16-7.163-16-16V42c0-8.837 7.163-16 16-16h66c8.837 0 16 7.163 16 16v41.167\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M71 95c11.046 0 20-8.954 20-20s-8.954-20-20-20-20 8.954-20 20 8.954 20 20 20Zm63 63c11.046 0 20-8.954 20-20s-8.954-20-20-20-20 8.954-20 20 8.954 20 20 20Zm-13.806-34.962L100 104m70 66-20.191-19.038\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"100\" cy=\"46\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle></svg>",
 		"@lawnicons,camera,assistant",
 		"Lawnicons"
 	],
@@ -170,13 +170,18 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" viewBox=\"0 0 192 192\"><path stroke-width=\"10\" d=\"M81 69h83m-53 54H28m78-99L66 94m20 74 40-70M40 53l40 70m72 16-40-70\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke-width=\"12\"></circle><circle cx=\"168\" cy=\"24\" r=\"4\" stroke-width=\"8\"></circle></svg>",
+		"@lawnicons,manual,camera",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"23\"></circle><circle cx=\"148\" cy=\"70\" r=\"4\" stroke-width=\"8\"></circle><path d=\"M170 138V54a6 6 0 0 0-6-6H28a6 6 0 0 0-6 6v84a6 6 0 0 0 6 6h136a6 6 0 0 0 6-6z\"></path></svg>",
 		"@lawnicons,nothing,camera",
 		"Lawnicons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M60 66v58m17-58H60m17 36H60m17-36a18 18 0 0 1 0 36m47 0s-11-3-11-11c0-7.5 6-11 11-11s11 3 11 3m-11 19s11 3 11 11c0 7.5-6 11-11 11s-11-3-11-3\"></path><path d=\"M160.086 59A74 74 0 1 1 133 31.914\"></path></svg>",
-		"@lawnicons,ps,camera",
+		"@lawnicons,photoshop,camera",
 		"Lawnicons"
 	],
 	[
@@ -1490,6 +1495,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m715-368-68-39 125-93 68 39-125 93ZM160-160v-60h210v-262l-142-80q-22-13-28.5-37t6.5-46l75-125q13-21 36.5-27.5T362-792l395 223-235 173-92-52v228q0 25-17.5 42.5T370-160H160Z\"></path></svg>",
+		"@material-symbols,outline,speed,camera,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m715-368-68-39 125-93 68 39-125 93Zm-197-99 130-96-315-178-75 127 260 147Zm-65-137ZM160-160v-60h210v-262l-142-80q-22.07-12.96-28.53-36.98Q193-623 206-645l75-125q13-21 36.5-27.5T362-792l395 223-235 173-92-52v228q0 24.75-17.62 42.37Q394.75-160 370-160H160Z\"></path></svg>",
+		"@material-symbols,outline,speed,camera",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M140-120q-24 0-42-18t-18-42v-513q0-23 18-41.5t42-18.5h147l73-87h240l73 87h147q23 0 41.5 18.5T880-693v513q0 24-18.5 42T820-120H140Zm230-160 45-47-83-84h295l-84 84 47 47 156-156-156-157-45 45 81 79H332l81-79-43-46-156 158 156 156Z\"></path></svg>",
 		"@material-symbols,outline,switch,camera,filled",
 		"Material Symbols"
@@ -1710,6 +1725,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m698-378-31-18q-7-4-8-12t6-13l91-67q8-5 16.5-6t16.5 4l31 18q7 4 8 12t-6 13l-91 67q-8 5-16.5 6t-16.5-4ZM190-160q-13 0-21.5-8.5T160-190q0-13 8.5-21.5T190-220h180v-262l-142-80q-22-13-28.5-37t6.5-46l75-125q13-21 36.5-27.5T362-792l355 200q14 8 15.5 24T720-542L553-419q-14 11-31.5 12t-33.5-8l-58-33v228q0 25-17.5 42.5T370-160H190Z\"></path></svg>",
+		"@material-symbols,rounded,speed,camera,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m698-378-30.57-17.77Q660-400 659-407.97q-1-7.96 6-13.03l91-67q8-5 16.5-6t16.5 4l30.57 17.77Q827-468 828-460t-6 13l-91 67q-8 5-16.5 6t-16.5-4Zm-180-89 130-96-315-178-75 127 260 147Zm-65-137ZM190-160q-12.75 0-21.37-8.68-8.63-8.67-8.63-21.5 0-12.82 8.63-21.32 8.62-8.5 21.37-8.5h180v-262l-142-80q-22.07-12.96-28.53-36.98Q193-623 206-645l75-125q13-21 36.5-27.5T362-792l355 200q14 8 15.5 24T720-542L553-419q-14 11-31.5 12t-33.5-8l-58-33v228q0 24.75-17.62 42.37Q394.75-160 370-160H190Z\"></path></svg>",
+		"@material-symbols,rounded,speed,camera",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M140-120q-24 0-42-18t-18-42v-513q0-23 18-41.5t42-18.5h147l55-66q8-11 20-16t26-5h184q14 0 26 5t20 16l55 66h147q23 0 41.5 18.5T880-693v513q0 24-18.5 42T820-120H140Zm192-291h295l-61 61q-10 10-10 23.5t10 23.5q10 10 23.5 10t23.5-10l112-112q9-9 9-21t-9-21L612-571q-9-9-22-9t-22 9q-10 10-10 23t10 22l58 57H332l59-58q9-9 9-21.5t-8-21.5q-9-10-22-10.5t-23 9.5L235-457q-9 9-9 21t9 21l112 112q10 10 23 9.5t23-10.5q9-10 9-23t-9-23l-61-61Z\"></path></svg>",
 		"@material-symbols,rounded,switch,camera,filled",
 		"Material Symbols"
@@ -1927,6 +1952,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M517-80v-320h320v120l80-80v240l-80-80v120H517Zm-37-400Zm0-130q-54 0-92 38t-38 92q0 43 24 76t62 47v-68q-11-9-18.5-24.5T410-480q0-29 20.5-49.5T480-550q29 0 49 20t20 49h60q0-54-37.5-91.5T480-610ZM388-80l-20-126q-19-7-40-19t-37-25l-118 54-93-164 108-79q-2-9-2.5-20.5T185-480q0-9 .5-20.5T188-521L80-600l93-164 118 54q16-13 37-25t40-18l20-127h184l20 126q19 7 40.5 18.5T669-710l118-54 93 164-108 77q1 10 1.5 21.5t.5 20.5h-60q0-20-2-35.5t-6-30.5l94-69-40-72-106 46q-23-26-52-43.5T538-708l-14-112h-88l-14 112q-34 7-63.5 24T306-642l-106-46-40 72 94 69q-4 17-6.5 33.5T245-480q0 17 2.5 33.5T254-413l-94 69 40 72 106-46q26 26 59.5 43.5T436-249v169h-48Z\"></path></svg>",
 		"@material-symbols,sharp,settings,video,camera",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m715-368-68-39 125-93 68 39-125 93ZM160-160v-60h210v-262L175-592l136-229 446 252-235 173-92-52v288H160Z\"></path></svg>",
+		"@material-symbols,sharp,speed,camera,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"m715-368-68-39 125-93 68 39-125 93Zm-197-99 130-96-315-178-75 127 260 147ZM160-160v-60h210v-262L175-592l136-229 446 252-235 173-92-52v288H160Zm293-444Z\"></path></svg>",
+		"@material-symbols,sharp,speed,camera",
 		"Material Symbols"
 	],
 	[
@@ -5231,48 +5266,48 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"36\" height=\"36\" viewBox=\"0 0 36 36\"><path d=\"M18 12a6 6 0 1 0 6 6 6.007 6.007 0 0 0-6-6Z\"></path><path d=\"M33 8h-6.05l-3.352-3.674a1 1 0 0 0-.74-.326h-9.717a1 1 0 0 0-.739.326L9.05 8H3a1 1 0 0 0-1 1v20a1 1 0 0 0 1 1h30a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1ZM18 26.2a8.2 8.2 0 1 1 8.2-8.2 8.2 8.2 0 0 1-8.2 8.2Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M33 8h-7.05L22.6 4.326A1 1 0 0 0 21.859 4h-9.718a1 1 0 0 0-.739.326L8.05 8H1a1 1 0 0 0-1 1v20a1 1 0 0 0 1 1h32a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1ZM17 26.2a8.141 8.141 0 0 1-5.782-2.418l-1.365 1.365A.5.5 0 0 1 9 24.793V20.5a.5.5 0 0 1 .5-.5h4.293a.5.5 0 0 1 .353.854l-1.364 1.364A5.907 5.907 0 0 0 17 24a5.985 5.985 0 0 0 5.51-3.688.5.5 0 0 1 .455-.312h1.291a.5.5 0 0 1 .48.643A8.178 8.178 0 0 1 17 26.2Zm8-10.7a.5.5 0 0 1-.5.5h-4.293a.5.5 0 0 1-.354-.853l1.365-1.365A5.907 5.907 0 0 0 17 12a5.986 5.986 0 0 0-5.51 3.688.5.5 0 0 1-.455.312H9.744a.5.5 0 0 1-.48-.642 8.148 8.148 0 0 1 13.518-3.14l1.364-1.364a.5.5 0 0 1 .854.353Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera,flip",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera,flip",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M15.8 26.862a12.346 12.346 0 0 1 .525-2.835 8.2 8.2 0 1 1 9.854-8.186c.271-.021.541-.042.816-.042a11.213 11.213 0 0 1 6.435 2.14l.57-.576V7a1 1 0 0 0-1-1h-6.05L23.6 2.326A1 1 0 0 0 22.859 2h-9.718a1 1 0 0 0-.739.326L9.05 6H3a1 1 0 0 0-1 1v20a1 1 0 0 0 1 1h12.733Z\"></path><path d=\"M23.975 16.247c0-.084.025-.163.025-.247a6 6 0 1 0-6.8 5.919 11.413 11.413 0 0 1 6.775-5.672ZM27 33.363a6.143 6.143 0 0 1-4.718-2.1l2.282-2.287H18.1v6.477l2.476-2.481A8.648 8.648 0 0 0 27 35.9a9.2 9.2 0 0 0 8.9-8.9h-2.255A6.812 6.812 0 0 1 27 33.363ZM33.485 21.026A9.112 9.112 0 0 0 27 18.1a9.2 9.2 0 0 0-8.9 8.9h2.255A6.812 6.812 0 0 1 27 20.636a6.214 6.214 0 0 1 4.817 2.093l-2.245 2.293H35.9V18.56Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera,refresh",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera,refresh",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M32.4 10.2 24 16.5V9.818A1.818 1.818 0 0 0 22.182 8H5.818A1.818 1.818 0 0 0 4 9.818v16.364A1.818 1.818 0 0 0 5.818 28h16.364A1.818 1.818 0 0 0 24 26.182V19.5l8.4 6.3A1 1 0 0 0 34 25V11a1 1 0 0 0-1.6-.8Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,movie,camera",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,movie,camera",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><circle cx=\"24\" cy=\"25\" r=\"7\"></circle><path d=\"M44 12h-6.75a2 2 0 0 1-1.664-.891l-4.992-4.218A2 2 0 0 0 28.93 6h-9.86a2 2 0 0 0-1.664.891l-4.867 4.218a2 2 0 0 1-1.664.891H4a2 2 0 0 0-2 2v26a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2V14a2 2 0 0 0-2-2ZM24 36.3A11.3 11.3 0 1 1 35.3 25 11.3 11.3 0 0 1 24 36.3Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M44 12h-6.75a2 2 0 0 1-1.664-.891l-4.992-4.218A2 2 0 0 0 28.93 6h-9.86a2 2 0 0 0-1.664.891l-4.867 4.218a2 2 0 0 1-1.664.891H4a2 2 0 0 0-2 2v26a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2V14a2 2 0 0 0-2-2ZM24 38a11.924 11.924 0 0 1-9.265-4.431l-1.9 1.691a.5.5 0 0 1-.835-.373V28.5a.5.5 0 0 1 .5-.5h7.185a.5.5 0 0 1 .332.874l-2.289 2.034A7.941 7.941 0 0 0 31.717 28h4.1A11.994 11.994 0 0 1 24 38Zm12-14.5a.5.5 0 0 1-.5.5h-7.185a.5.5 0 0 1-.332-.874l2.289-2.034A7.941 7.941 0 0 0 16.283 24h-4.1a11.955 11.955 0 0 1 21.085-5.569l1.9-1.691a.5.5 0 0 1 .832.373Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera,flip",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera,flip",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M20.21 34a17.441 17.441 0 0 1 .519-2.185 11.3 11.3 0 1 1 14.522-11.779c.25-.012.5-.036.749-.036a15.3 15.3 0 0 1 8.284 2.418L46 20.665V10a2 2 0 0 0-2-2h-6.75a2 2 0 0 1-1.664-.891l-4.993-4.218A2 2 0 0 0 28.929 2H19.07a2 2 0 0 0-1.664.891l-4.867 4.218A2 2 0 0 1 10.875 8H4a2 2 0 0 0-2 2v26a2 2 0 0 0 2 2h16.02c.052-2.526.19-4 .19-4ZM44.885 36A9.109 9.109 0 0 1 36 44.508a8.114 8.114 0 0 1-6.17-2.667L33.663 38H24.1v9.583l3.446-3.453A11.545 11.545 0 0 0 36 47.9c6.327 0 11.483-5.256 11.9-11.9Z\"></path><path d=\"M42.267 30.189 38.535 34H47.9v-9.563l-3.4 3.477A11.469 11.469 0 0 0 36 24.1c-6.327 0-11.483 5.256-11.9 11.9h3.015A9.109 9.109 0 0 1 36 27.491a8.691 8.691 0 0 1 6.267 2.698ZM30.986 20.866a6.994 6.994 0 1 0-8.486 6.963 16.268 16.268 0 0 1 8.486-6.963Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,camera,refresh",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,camera,refresh",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M42.4 13.5 32 22.05V13a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v22a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2v-9.05l10.4 8.55a1 1 0 0 0 1.6-.8V14.3a1 1 0 0 0-1.6-.8Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,movie,camera",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,movie,camera",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1152\" height=\"1152\" viewBox=\"0 0 1152 1152\" xml:space=\"preserve\"><path fill=\"#DCDCDC\" d=\"M624 240v-72c0-39.8-32.2-72-72-72H72c-39.8 0-72 32.2-72 72v72h624z\"></path><path fill=\"#F0F0F0\" d=\"M228 864h-72c-6.6 0-12-5.4-12-12V444c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v408c0 6.6-5.4 12-12 12zM420 864h-72c-6.6 0-12-5.4-12-12V564c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v288c0 6.6-5.4 12-12 12zM612 864h-72c-6.6 0-12-5.4-12-12V660c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v192c0 6.6-5.4 12-12 12z\"></path><path fill=\"#DCDCDC\" d=\"M624 852c0 6.6-5.4 12-12 12h-72c-6.6 0-12-5.4-12-12V660c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v156c0-39.7 32.3-72 72-72h24v-36c0-6.6 5.4-12 12-12h46.7c13-15.2 31.8-24 51.8-24h163c13.5 0 33.5 4.7 52.4 27.4l10.1 12.9V360c0-39.8-32.2-72-72-72H0v648c0 39.8 32.2 72 72 72h552V852zm-384 0c0 6.6-5.4 12-12 12h-72c-6.6 0-12-5.4-12-12V444c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v408zm192 0c0 6.6-5.4 12-12 12h-72c-6.6 0-12-5.4-12-12V564c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v288z\"></path><path fill=\"#F0F0F0\" d=\"m742.8 744 34.4-46.4.9-1 .6-.6H732c-6.6 0-12 5.4-12 12v36h22.8z\"></path><path fill=\"#87BEFF\" d=\"M1062.9 792c-6 0-11.7-8.3-15.5-13l-38.4-48.9c-3.8-4.6-9.5-10.1-15.5-10.1h-163c-6 0-11.7 2.7-15.5 7.3L776.6 779c-3.8 4.6-9.5 13-15.5 13H696c-13.3 0-24 10.7-24 24v264c0 13.3 10.7 24 24 24h432c13.3 0 24-10.7 24-24V816c0-13.3-10.7-24-24-24h-65.1zM912 1043.4c-67 0-121.3-54.3-121.3-121.3S845 800.8 912 800.8s121.3 54.3 121.3 121.3S979 1043.4 912 1043.4z\"></path><path fill=\"#87BEFF\" d=\"M912 861.5c33.5 0 60.6 27.1 60.6 60.6s-27.2 60.6-60.6 60.6c-33.5 0-60.6-27.1-60.6-60.6s27.1-60.6 60.6-60.6z\"></path></svg>",
-		"@spectrum-css-workflow-icons,project,camera,color,light",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,project,camera,color,light",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\"><title>camera-solid</title><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"invisible_box\" data-name=\"invisible box\"><rect width=\"48\" height=\"48\" fill=\"none\"></rect></g><g id=\"icons_Q2\" data-name=\"icons Q2\"><path d=\"M44,11H34L30,6H18l-4,5H4a2,2,0,0,0-2,2V40a2,2,0,0,0,2,2H44a2,2,0,0,0,2-2V13A2,2,0,0,0,44,11ZM24,35a9,9,0,1,1,9-9A9,9,0,0,1,24,35Z\"></path></g></g></svg>",

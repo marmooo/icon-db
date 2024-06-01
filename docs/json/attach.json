@@ -385,6 +385,11 @@
 		"Teenyicons"
 	],
 	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M2.87843 8.38875L8.70018 2.84208C9.90593 1.69334 11.8608 1.69334 13.0666 2.84208C14.2722 3.99082 14.2722 5.85331 13.0666 7.00205L6.15317 13.5887C5.55032 14.163 4.57288 14.163 3.97001 13.5887C3.36716 13.0143 3.36716 12.083 3.97001 11.5087L10.1556 5.6154C10.3566 5.42393 10.3566 5.11352 10.1556 4.92207C9.95471 4.73061 9.62888 4.73061 9.42789 4.92207L3.2423 10.8153C2.23753 11.7726 2.23753 13.3248 3.2423 14.282C4.24707 15.2393 5.87613 15.2393 6.8809 14.282L13.7943 7.69538C15.4019 6.16372 15.4019 3.68041 13.7943 2.14875C12.1866 0.617084 9.5801 0.617084 7.97248 2.14875L2.15072 7.69538C1.94976 7.88684 1.94976 8.19726 2.15072 8.38875C2.35167 8.58015 2.67748 8.58015 2.87843 8.38875Z\"></path></svg>",
+		"@codicons,attach",
+		"Codicons"
+	],
+	[
 		"<svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title></title><desc>This icon is a part of Clarity icon theme</desc><metadata><rdf:RDF><cc:Work><dc:title></dc:title><dc:description>This icon is a part of Clarity icon theme</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><defs><linearGradient x1=\"0\" y1=\"128\" x2=\"128\" y2=\"0\" id=\"gradient\" gradientUnits=\"userSpaceOnUse\"><stop style=\"stop-color:#dbdbdb;stop-opacity:1\" offset=\"0\"></stop><stop style=\"stop-color:#757575;stop-opacity:1\" offset=\"1\"></stop></linearGradient><filter id=\"shadow\"><feMorphology operator=\"dilate\" in=\"SourceGraphic\" radius=\"3\"></feMorphology><feGaussianBlur stdDeviation=\"1.5\"></feGaussianBlur></filter></defs><symbol id=\"shape\"><path d=\"M 93.929471,26.271898 C 87.888737,21.946102 79.479389,23.334202 75.149748,29.378781 l -33.960383,47.41457 c -3.091502,4.31426 -2.099453,10.320388 2.218653,13.41189 4.318106,3.087657 10.320388,2.095608 13.41189,-2.222498 L 80.798277,54.506849 77.672168,52.265126 53.697645,85.744865 h 0 c -1.857209,2.583942 -5.460116,3.183786 -8.044058,1.334267 -2.587788,-1.849518 -3.179941,-5.45627 -1.326578,-8.047903 h 0 l 33.956538,-47.410725 0.0038,-0.0038 -0.0077,-0.0038 c 3.087657,-4.302725 9.109165,-5.29862 13.415736,-2.214808 4.30657,3.087658 5.302464,9.109166 2.218652,13.415736 v -0.0038 l -37.221072,51.971075 0.0038,0.0038 C 52.374913,100.81786 43.946339,102.20981 37.913296,97.8917 31.880252,93.565904 30.492152,85.145021 34.810258,79.108132 L 61.860903,41.341049 58.734794,39.10317 31.684149,76.870254 c -5.563935,7.767207 -3.775939,18.572084 3.995113,24.136016 7.771053,5.56778 18.57593,3.77594 24.139865,-3.987419 L 97.040199,45.047775 C 101.3583,39.007041 99.97405,30.601539 93.929471,26.271898 z\"></path></symbol><use style=\"opacity:0.45;fill:#000000;fill-opacity:1;stroke:none\" xlink:href=\"#shape\" filter=\"url(#shadow)\"></use><use style=\"fill:url(#gradient);fill-opacity:1;stroke:none\" xlink:href=\"#shape\"></use></svg>",
 		"@clarity,stock,attach",
 		"Clarity"
@@ -486,22 +491,22 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M16.207 31.557a6.64 6.64 0 0 1-4.728 1.97h-.106a6.976 6.976 0 0 1-4.827-2.075 6.764 6.764 0 0 1-.1-9.661l17.779-17.8a4.874 4.874 0 0 1 3.133-1.479 3.72 3.72 0 0 1 3.042 1.12A3.537 3.537 0 0 1 31.517 6.7a5.74 5.74 0 0 1-1.584 3L18.072 21.541c-.764.765-1.483 1.315-2.3.5s-.176-1.569.526-2.271c.267-.267 8.248-8.238 9.673-9.659a.732.732 0 0 0 .014-1.021l-.675-.718a.735.735 0 0 0-1.056-.015L14.3 18.344a3.632 3.632 0 0 0-.072 5.469c2.661 2.66 5.683-.591 5.683-.591L31.7 11.466c2.508-2.5 3.47-6.6.472-9.6A6.227 6.227 0 0 0 27.589 0a7.275 7.275 0 0 0-5.132 2.227L4.76 19.9A9.433 9.433 0 0 0 18.1 33.24l15.405-15.4a.735.735 0 0 0 0-1.038l-.75-.751a.735.735 0 0 0-1.039 0Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,attach",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,attach",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M12 17v2a1 1 0 0 0 1 1h6.7l3.8-3.8c.074-.074.163-.127.24-.2H13a1 1 0 0 0-1 1ZM33 4H13a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h20a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1ZM7.2 26h-.4A2.8 2.8 0 0 0 4 28.8v.4A2.8 2.8 0 0 0 6.8 32h.4a2.8 2.8 0 0 0 2.8-2.8v-.4A2.8 2.8 0 0 0 7.2 26Zm0-12h-.4A2.8 2.8 0 0 0 4 16.8v.4A2.8 2.8 0 0 0 6.8 20h.4a2.8 2.8 0 0 0 2.8-2.8v-.4A2.8 2.8 0 0 0 7.2 14ZM13 28a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h4.844a9.442 9.442 0 0 1-1.279-4ZM7.2 2h-.4A2.8 2.8 0 0 0 4 4.8v.4A2.8 2.8 0 0 0 6.8 8h.4A2.8 2.8 0 0 0 10 5.2v-.4A2.8 2.8 0 0 0 7.2 2ZM36 28.071l-4.7 4.7a7 7 0 0 1-9.9-9.9l5.407-5.407a5 5 0 0 1 7.071 7.071l-5.407 5.407a3 3 0 0 1-4.242-4.242l4.7-4.7 1.414 1.414-4.7 4.7a1 1 0 0 0 1.414 1.414l5.407-5.407a3 3 0 0 0-4.243-4.243l-5.407 5.407a5 5 0 0 0 7.071 7.071l4.7-4.7Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,text,bulleted,attach",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,text,bulleted,attach",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M21.707 41.643a9.044 9.044 0 0 1-6.439 2.683h-.145A9.5 9.5 0 0 1 8.549 41.5a9.211 9.211 0 0 1-.143-13.158l22.768-22.8a6.64 6.64 0 0 1 4.267-2.014A5.071 5.071 0 0 1 39.6 5.056a4.818 4.818 0 0 1 1.511 4.184 7.814 7.814 0 0 1-2.157 4.085S22.834 29.414 22.247 30c-1.041 1.041-2.019 1.791-3.136.674s-.239-2.138.717-3.094c.364-.363 11.785-11.771 13.726-13.707a1 1 0 0 0 .02-1.39l-.92-.979a1 1 0 0 0-1.438-.02L17.105 25.646c-1.383 1.383-3.11 4.436-.1 7.449 3.623 3.623 7.739-.8 7.739-.8l16.612-16.568c3.416-3.412 4.727-8.992.643-13.076A8.48 8.48 0 0 0 35.762.109a9.908 9.908 0 0 0-6.991 3.034L6.115 25.764a12.849 12.849 0 0 0 18.17 18.172L43.818 24.4a1 1 0 0 0 0-1.414L42.8 21.967a1 1 0 0 0-1.415 0Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,attach",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,attach",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M43 8H17a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h26a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1ZM8 36a4 4 0 1 0 4 4 4 4 0 0 0-4-4Zm8-11v2a1 1 0 0 0 1 1h12.632l4-4H17a1 1 0 0 0-1 1Zm-8-5a4 4 0 1 0 4 4 4 4 0 0 0-4-4ZM8 4a4 4 0 1 0 4 4 4 4 0 0 0-4-4Zm9 36a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h7.44a10.922 10.922 0 0 1-1.157-4ZM45.4 37.326l-5.566 5.566a7 7 0 0 1-9.9-9.9l7.528-7.528a5 5 0 0 1 7.071 0 4.816 4.816 0 0 1-.156 6.915l-6.542 6.542a2.82 2.82 0 0 1-4.086.156 2.789 2.789 0 0 1 .184-4.059l4.58-4.58 1.23 1.23-4.58 4.58a1 1 0 0 0 1.414 1.414l6.542-6.542a3 3 0 0 0-4.243-4.243l-7.528 7.528a5.232 5.232 0 0 0-.1 7.26 5.127 5.127 0 0 0 7.172-.189l5.566-5.566Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,text,bulleted,attach",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,text,bulleted,attach",
+		"Spectrum-CSS Workflow Icons v2"
 	]
 ]

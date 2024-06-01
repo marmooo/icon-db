@@ -95,7 +95,7 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><g stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" clip-path=\"url(#a)\"><path d=\"M60.107 78.013H29.978c-5.04 0-8.817 4.631-7.816 9.586l13.72 67.989A7.96 7.96 0 0 0 43.7 162h104.6a8 8 0 0 0 7.818-6.412l13.721-67.99c1-4.955-2.777-9.585-7.818-9.585H129.4m-69.293 0H129.4m-69.293 0 28.976-44.395c3.21-4.918 10.437-4.8 13.486.22L129.4 78.013\"></path><path d=\"m73 138 23-36 23 36z\"></path></g><defs><clipPath id=\"a\"><path fill=\"#fff\" d=\"M0 0h192v192H0z\"></path></clipPath></defs></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m60 75 31.067-44.874c2.386-3.447 7.48-3.447 9.866 0L132 75M96 98l-22 38h44L96 98Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M22.213 83.574C21.178 79.758 24.045 76 27.991 76h136.018c3.946 0 6.813 3.758 5.778 7.574l-19.265 73a5.99 5.99 0 0 1-5.778 4.426H47.256a5.99 5.99 0 0 1-5.778-4.426l-19.265-73Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,aurora,store",
 		"Lawnicons"
 	],
@@ -142,11 +142,6 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M45.192 66.095H146.8c9.985 0 19.27 8.116 18.023 18.023l-8.536 67.858c-1.246 9.907-8.038 18.026-18.023 18.024l-85.237-.02c-9.985-.004-16.878-8.105-18.024-18.024L27.17 84.118c-1.146-9.919 8.038-18.023 18.023-18.023z\"></path><path d=\"M126.768 128.03v-13.693m0-26.991V52.764c0-16.99-13.774-30.764-30.764-30.764S65.24 35.773 65.24 52.764v13.33m51.227 38.386-20.503 17.169\"></path><circle cx=\"85.617\" cy=\"130.313\" r=\"13.495\"></circle><circle cx=\"126.768\" cy=\"100.842\" r=\"13.495\"></circle><circle cx=\"126.768\" cy=\"141.525\" r=\"13.495\"></circle></svg>",
 		"@lawnicons,password,store",
-		"Lawnicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\"></circle><circle cx=\"65\" cy=\"71\" r=\"5\" stroke-width=\"10\"></circle><circle cx=\"127\" cy=\"71\" r=\"5\" stroke-width=\"10\"></circle><path d=\"M134 104c0 4.202-.983 8.363-2.893 12.246-1.909 3.882-4.708 7.41-8.237 10.381s-7.718 5.329-12.328 6.937S100.99 136 96 136s-9.932-.828-14.542-2.436-8.8-3.965-12.328-6.937c-3.529-2.971-6.328-6.499-8.237-10.381C58.983 112.363 58 108.202 58 104z\"></path></svg>",
-		"@lawnicons,stickify,store",
 		"Lawnicons"
 	],
 	[
@@ -968,6 +963,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m2 7 4.41-4.41A2 2 0 0 1 7.83 2h8.34a2 2 0 0 1 1.42.59L22 7\"></path><path d=\"M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8\"></path><path d=\"M15 22v-4a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4\"></path><path d=\"M2 7h20\"></path><path d=\"M22 7v3a2 2 0 0 1-2 2v0a2.7 2.7 0 0 1-1.59-.63.7.7 0 0 0-.82 0A2.7 2.7 0 0 1 16 12a2.7 2.7 0 0 1-1.59-.63.7.7 0 0 0-.82 0A2.7 2.7 0 0 1 12 12a2.7 2.7 0 0 1-1.59-.63.7.7 0 0 0-.82 0A2.7 2.7 0 0 1 8 12a2.7 2.7 0 0 1-1.59-.63.7.7 0 0 0-.82 0A2.7 2.7 0 0 1 4 12v0a2 2 0 0 1-2-2V7\"></path></svg>",
 		"@lucide,store",
 		"Lucide"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m25,2v7h7V2h-7Zm5,5h-3v-3h3v3Z\"></path><path class=\"cls-2\" d=\"m23,6h-7v12h12v-7h-5v-5Zm-2,10h-3v-3h3v3Zm5-3v3h-3v-3h3Zm-8-2v-3h3v3h-3Z\"></path><path class=\"cls-2\" d=\"m26,20v2H6v-14h8v-2H6c-1.104.0011-1.999.8959-2,2v14c.0012,1.104.896,1.9987,2,2h20c1.104-.0015,1.9985-.8961,2-2v-2h-2Z\"></path><rect class=\"cls-2\" x=\"2\" y=\"26\" width=\"28\" height=\"2\"></rect><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,image,store,local",
+		"Carbon"
 	],
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>shop</title><path d=\"M30,10.68l-2-6A1,1,0,0,0,27,4H5a1,1,0,0,0-1,.68l-2,6A1.19,1.19,0,0,0,2,11v6a1,1,0,0,0,1,1H4V28H6V18h6V28H28V18h1a1,1,0,0,0,1-1V11A1.19,1.19,0,0,0,30,10.68ZM26,26H14V18H26Zm2-10H24V12H22v4H17V12H15v4H10V12H8v4H4V11.16L5.72,6H26.28L28,11.16Z\" transform=\"translate(0)\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",

@@ -1140,6 +1140,26 @@
 		"Codicons"
 	],
 	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m28,4H4c-1.1045,0-2,.8955-2,2v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2Zm0,2v12H4V6h11v6.1699s-3.5898-3.5801-3.5898-3.5801l-1.4102,1.4102,6,6,6-6-1.4102-1.4102-3.5898,3.5801v-6.1699h11Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,bottom,panel,close,filled",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m28,4H4c-1.1045,0-2,.8955-2,2v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2Zm0,16v6H4v-6h24Zm0-14v12H4V6h11v6.1699s-3.5898-3.5801-3.5898-3.5801l-1.4102,1.4102,6,6,6-6-1.4102-1.4102-3.5898,3.5801v-6.1699h11Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,bottom,panel,close",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m28,4H4c-1.1045,0-2,.8955-2,2v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2Zm0,2v12h-11v-6.1699s3.5898,3.5798,3.5898,3.5798l1.4102-1.4099-6-6-6,6,1.4102,1.4099,3.5898-3.5798v6.1699H4V6h24Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,bottom,panel,open,filled",
+		"Carbon"
+	],
+	[
+		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; } .cls-1, .cls-2 { stroke-width: 0px; }</style></defs><path class=\"cls-2\" d=\"m28,4H4c-1.1045,0-2,.8955-2,2v20c0,1.1045.8955,2,2,2h24c1.1045,0,2-.8955,2-2V6c0-1.1045-.8955-2-2-2Zm0,16v6H4v-6h24Zm0-14v12h-11v-6.1699s3.5898,3.5798,3.5898,3.5798l1.4102-1.4099-6-6-6,6,1.4102,1.4099,3.5898-3.5798v6.1699H4V6h24Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&amp;lt;Transparent Rectangle&amp;gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,bottom,panel,open",
+		"Carbon"
+	],
+	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>open-panel--bottom</title><path d=\"M28,4H4A2,2,0,0,0,2,6V26a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V6A2,2,0,0,0,28,4Zm0,2V18H4V6ZM4,26V20H28v6Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,open,panel,bottom",
 		"Carbon"
@@ -1471,12 +1491,12 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><rect height=\"3\" rx=\"1\" ry=\"1\" width=\"16\" x=\"10\" y=\"30\"></rect><rect height=\"3\" rx=\"1\" ry=\"1\" width=\"16\" x=\"10\" y=\"8\"></rect><rect height=\"3\" rx=\"1\" ry=\"1\" width=\"16\" x=\"10\" y=\"14\"></rect><path d=\"M30.5 2h-25A1.5 1.5 0 0 0 4 3.5V34h2v-8h24v8h2V3.5A1.5 1.5 0 0 0 30.5 2ZM30 22H6V4h24Z\"></path></svg>",
-		"@spectrum-css-workflow-icons,panel",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,panel",
+		"Spectrum-CSS Workflow Icons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 48 48\" width=\"48\"><path d=\"M42 2H6a2 2 0 0 0-2 2v42h4V34h32v12h4V4a2 2 0 0 0-2-2ZM8 28V6h32v22Z\"></path><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"24\" x=\"12\" y=\"38\"></rect><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"24\" x=\"12\" y=\"10\"></rect><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"24\" x=\"12\" y=\"18\"></rect></svg>",
-		"@spectrum-css-workflow-icons,panel",
-		"Spectrum-CSS Workflow Icons"
+		"@spectrum-css-workflow-icons-v2,panel",
+		"Spectrum-CSS Workflow Icons v2"
 	]
 ]
