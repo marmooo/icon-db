@@ -210,9 +210,44 @@
 		"Solar Icon Set"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" color=\"currentColor\"><path d=\"M5 6V5.5C5 4.55719 5 4.08579 5.29289 3.79289C5.58579 3.5 6.05719 3.5 7 3.5C7.94281 3.5 8.41421 3.5 8.70711 3.79289C9 4.08579 9 4.55719 9 5.5V6\" stroke=\"currentColor\"></path><path d=\"M15 5L18 5\" stroke=\"currentColor\"></path><path d=\"M16 2H14.6667C12.7932 2 12 2.93374 12 4.66667C12 5.53313 11.6034 6 10.6667 6H7C5.11438 6 4.17157 6 3.58579 6.58579C3 7.17157 3 8.11438 3 10V15C3 18.2998 3 19.9497 4.02513 20.9749C5.05025 22 6.70017 22 10 22H14C17.2998 22 18.9497 22 19.9749 20.9749C21 19.9497 21 18.2998 21 15V7C21 4.64298 21 3.46447 20.2678 2.73223C19.5355 2 18.357 2 16 2Z\" stroke=\"currentColor\"></path><path d=\"M9 14.5873C9 13.1229 10.2638 11.6757 11.1509 10.8403C11.6326 10.3866 12.3674 10.3866 12.8491 10.8403C13.7362 11.6757 15 13.1229 15 14.5873C15 16.0231 13.864 17.5 12 17.5C10.136 17.5 9 16.0231 9 14.5873Z\" stroke=\"currentColor\"></path></svg>",
-		"@hugeicons,fuel",
-		"HugeIcons"
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M2 3.5v18H1V23h7v-5h5v-6.75h.5c.69 0 1.25.56 1.25 1.25v4.75a2.75 2.75 0 1 0 5.5 0V7.89l-.03-.1a17.67 17.67 0 0 0-3.13-6.26l-1.18.94a16.12 16.12 0 0 1 2.84 5.64v9.14a1.25 1.25 0 1 1-2.5 0V12.5a2.75 2.75 0 0 0-2.75-2.75H13V3.5A2.5 2.5 0 0 0 10.5 1h-6A2.5 2.5 0 0 0 2 3.5ZM4 10h7v1H4v-1Z\"></path><path fill=\"currentColor\" d=\"M10.5 19H9v5h1.5v-1.75h12V24H24v-5h-1.5v1.75h-12V19Z\"></path></svg>",
+		"@audi-icons,fuel,range,active,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M5 6.5A3.5 3.5 0 0 1 8.5 3h15A3.5 3.5 0 0 1 27 6.5V20h1.5a4.5 4.5 0 0 1 4.5 4.5v11a3.5 3.5 0 1 0 7 0v-19c0-3-1.9-7.05-5.9-12.2l.8-.6c4 5.16 6.1 9.44 6.1 12.8v19a4.5 4.5 0 1 1-9 0v-11a3.5 3.5 0 0 0-3.5-3.5H27v17h-1V6.5A2.5 2.5 0 0 0 23.5 4h-15A2.5 2.5 0 0 0 6 6.5V44h10v1H3v-1h2V6.5ZM8 20h16v1H8v-1Zm10 28v-9h1v4h26v-4h1v9h-1v-4H19v4h-1Z\"></path></svg>",
+		"@audi-icons,fuel,range,l",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M2 3.5A2.5 2.5 0 0 1 4.5 1h6A2.5 2.5 0 0 1 13 3.5V10h.5a2.5 2.5 0 0 1 2.5 2.5v5a1.5 1.5 0 0 0 3 0V8.07a16.39 16.39 0 0 0-2.89-5.76l.78-.62a17.42 17.42 0 0 1 3.1 6.17l.01.07v9.57a2.5 2.5 0 0 1-5 0v-5c0-.83-.67-1.5-1.5-1.5H13v7h-1V3.5c0-.83-.67-1.5-1.5-1.5h-6C3.67 2 3 2.67 3 3.5V22h4v1H1v-1h1V3.5ZM4 10h7v1H4v-1Zm5 14v-5h1v2h13v-2h1v5h-1v-2H10v2H9Z\"></path></svg>",
+		"@audi-icons,fuel,range,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M0 12V5h1v3h14V5h1v7h-1V9H1v3H0Z\"></path></svg>",
+		"@audi-icons,fuel,range,xs",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M4 3.5A2.5 2.5 0 0 1 6.5 1h6A2.5 2.5 0 0 1 15 3.5v6.25h.5a2.75 2.75 0 0 1 2.75 2.75v5a1.25 1.25 0 1 0 2.5 0V8.1c-.64-2.2-1.6-4.08-2.84-5.63l1.18-.94a17.67 17.67 0 0 1 3.13 6.26l.03.1v9.61a2.75 2.75 0 1 1-5.5 0v-5c0-.69-.56-1.25-1.25-1.25H15v10.5h1v1.5H3v-1.5h1V3.5ZM6 10v1h7v-1H6Z\"></path></svg>",
+		"@audi-icons,fuel,station,active,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M7 6.5A3.5 3.5 0 0 1 10.5 3h15A3.5 3.5 0 0 1 29 6.5V20h1.5a4.5 4.5 0 0 1 4.5 4.5v11a3.5 3.5 0 1 0 7 0v-19c0-3-1.9-7.05-5.9-12.2l.8-.6c4 5.16 6.1 9.44 6.1 12.8v19a4.5 4.5 0 1 1-9 0v-11a3.5 3.5 0 0 0-3.5-3.5H29v23h2v1H5v-1h2V6.5ZM8 44h20V6.5A2.5 2.5 0 0 0 25.5 4h-15A2.5 2.5 0 0 0 8 6.5V44Zm18-23H10v-1h16v1Z\"></path></svg>",
+		"@audi-icons,fuel,station,l",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M4 3.5A2.5 2.5 0 0 1 6.5 1h6A2.5 2.5 0 0 1 15 3.5V10h.5a2.5 2.5 0 0 1 2.5 2.5v5a1.5 1.5 0 0 0 3 0V8.07a16.39 16.39 0 0 0-2.89-5.76l.78-.62a17.42 17.42 0 0 1 3.1 6.17l.01.07v9.57a2.5 2.5 0 0 1-5 0v-5c0-.83-.67-1.5-1.5-1.5H15v11h1v1H3v-1h1V3.5ZM5 22h9V3.5c0-.83-.67-1.5-1.5-1.5h-6C5.67 2 5 2.67 5 3.5V22Zm1-12h7v1H6v-1Z\"></path></svg>",
+		"@audi-icons,fuel,station,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M3.5 2C2.67 2 2 2.67 2 3.5V15h6V3.5C8 2.67 7.33 2 6.5 2h-3ZM9 16H1V3.5A2.5 2.5 0 0 1 3.5 1h3A2.5 2.5 0 0 1 9 3.5V7h.5A2.5 2.5 0 0 1 12 9.5V13a1 1 0 1 0 2 0V8.56a3 3 0 0 0-.14-.95 16.15 16.15 0 0 0-2.75-5.3l.78-.62a17.14 17.14 0 0 1 2.93 5.62c.12.41.18.83.18 1.25V13a2 2 0 1 1-4 0V9.5c0-.83-.67-1.5-1.5-1.5H9v8ZM7 8H3V7h4v1Z\"></path></svg>",
+		"@audi-icons,fuel,station,xs",
+		"Audi Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" color=\"currentColor\"><path d=\"M10.4626 13L9.06858 14.8124C8.91919 15.0066 9.02626 15.2861 9.26987 15.3378L10.7301 15.6477C10.9899 15.7028 11.0889 16.0122 10.9073 16.2011L9.17773 18\" stroke=\"currentColor\"></path><path d=\"M4 10H16\" stroke=\"currentColor\"></path><path d=\"M4 21L4 9C4 6.17157 4 4.75736 4.87868 3.87868C5.75736 3 7.17157 3 10 3C12.8284 3 14.2426 3 15.1213 3.87868C16 4.75736 16 6.17157 16 9L16 21H4Z\" stroke=\"currentColor\"></path><path d=\"M2 21H18\" stroke=\"currentColor\"></path><path d=\"M16 14H17.6667C17.9767 14 18.1317 14 18.2588 14.0341C18.6039 14.1265 18.8735 14.3961 18.9659 14.7412C19 14.8683 19 15.0233 19 15.3333V16.5C19 17.3284 19.6716 18 20.5 18C21.3284 18 22 17.3284 22 16.5V10.2111C22 9.60998 22 9.30941 21.9142 9.02598C21.8284 8.74255 21.6616 8.49247 21.3282 7.9923L20.5547 6.83205C20.2082 6.31223 19.6247 6 19 6\" stroke=\"currentColor\"></path></svg>",
