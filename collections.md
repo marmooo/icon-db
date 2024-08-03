@@ -39,7 +39,7 @@
   licensed under the
   [SIL-OFL-1.1](https://fonts.google.com/noto/specimen/Noto+Emoji/about)
 - [Noto Color Emoji](https://github.com/googlefonts/noto-emoji) licensed under
-  the [Apache-2.0](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE)
+  the [SIL-OFL-1.1](https://github.com/googlefonts/noto-emoji/blob/main/LICENSE)
 - [Blobmoji](https://github.com/C1710/blobmoji) licensed under the
   [Apache-2.0](https://github.com/C1710/blobmoji/blob/main/LICENSE)
 - [Android Emoji](https://github.com/aosp-mirror/platform_frameworks_base)
