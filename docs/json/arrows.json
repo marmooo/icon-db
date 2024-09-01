@@ -1865,6 +1865,11 @@
 		"Tabler Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 21v-6\"></path><path d=\"M20 6l-3 -3l-3 3\"></path><path d=\"M10 18l-3 3l-3 -3\"></path><path d=\"M7 3v2\"></path><path d=\"M7 9v2\"></path><path d=\"M17 3v6\"></path><path d=\"M17 21v-2\"></path><path d=\"M17 15v-2\"></path></svg>",
+		"@tabler-icons,outline,arrows,transfer,up,down",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 21v-6\"></path><path d=\"M20 6l-3 -3l-3 3\"></path><path d=\"M17 3v18\"></path><path d=\"M10 18l-3 3l-3 -3\"></path><path d=\"M7 3v2\"></path><path d=\"M7 9v2\"></path></svg>",
 		"@tabler-icons,outline,arrows,transfer,up",
 		"Tabler Icons"
@@ -4260,32 +4265,42 @@
 		"coolicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g transform=\"translate(24 0) scale(-1 1)\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 14L3.5 20.5M14 10L20.5 3.5\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M21 3H15M3 21V15M21 3V9M3 21H9\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 14l6.5 6.5M10 10l-6.5 -6.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M3 3h6M21 21v-6M3 3v6M21 21h-6\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,diagonal,rotated",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 14L3.5 20.5M14 10L20.5 3.5\" stroke-dasharray=\"10\" stroke-dashoffset=\"10\"><animate attributeName=\"stroke-dashoffset\" values=\"10;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M21 3H15M3 21V15M21 3V9M3 21H9\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 14l-6.5 6.5M14 10l6.5 -6.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M21 3h-6M3 21v-6M21 3v6M3 21h6\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,diagonal",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 7H10.5M3 17H13.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M10 7L14 11M10 7L14 3M14 17L10 21M14 17L10 13\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 7h-10.5M3 17h10.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M10 7l4 4M10 7l4 -4M14 17l-4 4M14 17l-4 -4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,horizontal",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 7H3.5M9 17H20.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M3 7L7 11M3 7L7 3M21 17L17 21M21 17L17 13\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 7h-11.5M9 17h11.5\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M3 7l4 4M3 7l4 -4M21 17l-4 4M21 17l-4 -4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.4s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,horizontal",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g transform=\"rotate(90 12 12)\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 7H10.5M3 17H13.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M10 7L14 11M10 7L14 3M14 17L10 21M14 17L10 13\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 12l8.5 8.5M12 12l-8.5 -8.5\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M3 3h8M21 21v-8M3 3v8M21 21h-8\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.4s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"@material-line-icons,arrows,long,diagonal,rotated",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 12l-8.5 8.5M12 12l8.5 -8.5\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M21 3h-8M3 21v-8M21 3v8M3 21h8\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" begin=\"0.4s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
+		"@material-line-icons,arrows,long,diagonal",
+		"Material Line Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21l0 -10.5M7 3l0 10.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M17 10l-4 4M17 10l4 4M7 14l-4 -4M7 14l4 -4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,vertical",
 		"Material Line Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g transform=\"rotate(90 12 12)\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 7H3.5M9 17H20.5\" stroke-dasharray=\"12\" stroke-dashoffset=\"12\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M3 7L7 11M3 7L7 3M21 17L17 21M21 17L17 13\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.3s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 15l0 -11.5M7 9l0 11.5\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"0.4s\" fill=\"freeze\"></animate></path><path d=\"M17 3l-4 4M17 3l4 4M7 21l-4 -4M7 21l4 -4\" stroke-dasharray=\"8\" stroke-dashoffset=\"8\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" begin=\"0.4s\" dur=\"0.2s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,arrows,vertical",
 		"Material Line Icons"
 	],
