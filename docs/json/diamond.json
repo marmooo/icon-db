@@ -1195,7 +1195,7 @@
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M11.116 2.985l-8.131 8.132a1.25 1.25 0 000 1.767l8.131 8.132a1.25 1.25 0 001.768 0l8.131-8.132a1.25 1.25 0 000-1.768l-8.131-8.131a1.25 1.25 0 00-1.768 0zm-9.192 7.07l8.132-8.13a2.75 2.75 0 013.889 0l8.131 8.13a2.75 2.75 0 010 3.89l-8.131 8.131a2.75 2.75 0 01-3.89 0l-8.131-8.131a2.75 2.75 0 010-3.89z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M11.116 2.985l-8.131 8.132a1.25 1.25 0 000 1.767l8.131 8.132a1.25 1.25 0 001.768 0l8.132-8.132a1.25 1.25 0 000-1.768l-8.132-8.131a1.25 1.25 0 00-1.768 0zm-9.192 7.07l8.132-8.13a2.75 2.75 0 013.889 0l8.131 8.13a2.75 2.75 0 010 3.89l-8.131 8.131a2.75 2.75 0 01-3.89 0l-8.131-8.131a2.75 2.75 0 010-3.89z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,diamond",
 		"flight-icons"
 	],
@@ -1340,187 +1340,352 @@
 		"Fluent UI MDL2"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM12 8.5v7m-3-1.75 6-3.5m-6 0 6 3.5\"></path></svg>",
+		"@mynaui-icons,asterisk,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12 8V6m0 12v-2m-3-4h4a2 2 0 1 0 0-4H9zm0 0h5a2 2 0 1 1 0 4H9z\"></path></svg>",
+		"@mynaui-icons,bitcoin,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"m8.667 12.633 1.505 1.721a1 1 0 0 0 1.564-.073L15.333 9.3\"></path></svg>",
+		"@mynaui-icons,check,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12 6v6l4 2\"></path></svg>",
+		"@mynaui-icons,clock,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"m14.908 9.7.132.131c1.022 1.023 1.534 1.534 1.534 2.169s-.512 1.147-1.534 2.17l-.132.13M13.072 8l-2.143 8M9.092 9.7l-.132.131C7.938 10.854 7.427 11.365 7.427 12s.51 1.147 1.533 2.17l.132.13\"></path></svg>",
+		"@mynaui-icons,code,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM12 7.627v5.5m0 3.246v-.5\"></path></svg>",
+		"@mynaui-icons,danger,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M12 12s2.5.5 2.5 2-1.12 2-2.5 2-2.5-.5-2.5-2 2.5-2 2.5-2m0 0s2.5-.5 2.5-2-1.12-2-2.5-2-2.5.5-2.5 2 2.5 2 2.5 2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M15.333 7.722H12m0 0h-1.667C9.045 7.722 8 8.68 8 9.862 8 11.041 9.045 12 10.333 12H12m0-4.278V6.5m0 1.222V12m0 0h1.667c1.288 0 2.333.958 2.333 2.139 0 1.181-1.045 2.139-2.333 2.139H12M12 12v4.278m0 0H8m4 0V17.5\"></path></svg>",
+		"@mynaui-icons,dollar,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM12 12.25v-.5m4 .5v-.5m-8 .5v-.5\"></path></svg>",
+		"@mynaui-icons,dots,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM12.25 12h-.5m.5-4h-.5m.5 8h-.5\"></path></svg>",
+		"@mynaui-icons,dots,vertical,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 12s2.5.5 2.5 2-1.12 2-2.5 2-2.5-.5-2.5-2 2.5-2 2.5-2m0 0s2.5-.5 2.5-2-1.12-2-2.5-2-2.5.5-2.5 2 2.5 2 2.5 2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,eight,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14 8c-2 .5-4.5 0-4.5 0v2.852h2.778c1.227 0 2.222.852 2.222 1.902v1.12c0 2.818-5 2.852-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12 12H8.5m0 0H7m1.5 0c0 2 1.565 4 3.75 4 1.209 0 2.126-.267 2.75-.867M8.5 12c0-2 1.25-4 3.75-4 1.209 0 2.126.267 2.75.866\"></path></svg>",
+		"@mynaui-icons,euro,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 8c-2 .5-4.5 0-4.5 0v2.852h2.778c1.227 0 2.222.852 2.222 1.902v1.12c0 2.818-5 2.852-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,five,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M12.583 8c-.833 3-3.333 5.5-3.333 5.5h5M13 16v-4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M10.242 10.71c.672.547 1.008.821 1.008 1.29 0 .469-.336.743-1.008 1.29-.185.152-.37.295-.538.413a9.098 9.098 0 0 1-.49.318c-.67.407-1.006.611-1.306.385-.3-.225-.328-.697-.383-1.642A13.532 13.532 0 0 1 7.5 12c0-.235.01-.497.025-.764.055-.945.082-1.417.383-1.642.3-.226.635-.022 1.306.385.174.106.342.214.49.318.169.118.353.261.538.412m5.75.001c.672.546 1.008.82 1.008 1.29 0 .469-.336.743-1.008 1.29-.185.152-.37.295-.538.413a9.093 9.093 0 0 1-.49.318c-.67.407-1.006.611-1.306.385-.3-.225-.328-.697-.383-1.642A13.577 13.577 0 0 1 13.25 12c0-.235.01-.497.025-.764.055-.945.082-1.417.383-1.642.3-.226.636-.022 1.306.385.174.106.341.214.49.318.169.118.353.261.538.412\"></path></svg>",
+		"@mynaui-icons,forward,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.583 8c-.833 3-3.333 5.5-3.333 5.5h5M13 16v-4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,four,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14 12.833 12 7.5l-2 5.333m4 0 1 2.667m-1-2.667h-4M9 15.5l1-2.667\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M14 12a2 2 0 1 1-4 0m4 0a2 2 0 1 0-4 0m4 0h3m-7 0H7\"></path></svg>",
+		"@mynaui-icons,git,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM10.905 8l-1.437 8m4.937-8-1.437 8m3.314-5.75H7.718m8.564 3.5H7.718\"></path></svg>",
+		"@mynaui-icons,hash,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M10.291 9.5a1.78 1.78 0 0 0-1.781 1.781c0 1.969 3.375 4.219 3.375 4.219s3.375-2.25 3.375-4.219c0-1.219-.797-1.781-1.781-1.781-.698 0-1.302.4-1.594.985a1.781 1.781 0 0 0-1.594-.985\"></path></svg>",
+		"@mynaui-icons,heart,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12 16v-5h-.5m0 5h1M12 8.5V8\"></path></svg>",
+		"@mynaui-icons,info,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 12.833 12 7.5l-2 5.333m4 0 1 2.667m-1-2.667h-4M9 15.5l1-2.667\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,a,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 12V8h3.671c2.192 0 2.5 3.258.456 4M9.5 12v4h3.671c2.192 0 2.5-3.258.456-4M9.5 12h4.127\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 12V8h3.671c2.192 0 2.5 3.258.456 4M9.5 12v4h3.671c2.192 0 2.5-3.258.456-4M9.5 12h4.127\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,b,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M15 10v-.25A1.75 1.75 0 0 0 13.25 8H11a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.25A1.75 1.75 0 0 0 15 14.25V14\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 10v-.25A1.75 1.75 0 0 0 13.25 8H11a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2.25A1.75 1.75 0 0 0 15 14.25V14\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,c,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 15.5v-7A.5.5 0 0 1 10 8h2a3.5 3.5 0 0 1 3.5 3.5v1A3.5 3.5 0 0 1 12 16h-2a.5.5 0 0 1-.5-.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 15.5v-7A.5.5 0 0 1 10 8h2a3.5 3.5 0 0 1 3.5 3.5v1A3.5 3.5 0 0 1 12 16h-2a.5.5 0 0 1-.5-.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,d,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14.5 8h-5v4m5 4h-5v-4m0 0h4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.5 8h-5v4m5 4h-5v-4m0 0h4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,e,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14.75 8h-5v4m0 0v4m0-4h4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.75 8h-5v4m0 0v4m0-4h4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,f,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M12.833 12H14a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-3a1.5 1.5 0 0 1-1.5-1.5v-5A1.5 1.5 0 0 1 11 8h2a1.5 1.5 0 0 1 1.5 1.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.833 12H14a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-3a1.5 1.5 0 0 1-1.5-1.5v-5A1.5 1.5 0 0 1 11 8h2a1.5 1.5 0 0 1 1.5 1.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,g,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 8v4m0 0v4m0-4h5m0-4v4m0 0v4M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 8v4m0 0v4m0-4h5m0-4v4m0 0v4M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,h,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 8H12m0 0h2.5M12 8v8m2.5 0H12m0 0H9.5m-6.793-5.705a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 8H12m0 0h2.5M12 8v8m2.5 0H12m0 0H9.5m-6.793-5.705a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,i,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14.25 8v6a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.25 8v6a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,j,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.75 8v4m0 0v4m0-4h.5m0 0 4.5 4m-4.5-4 4.5-4M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.75 8v4m0 0v4m0-4h.5m0 0 4.5 4m-4.5-4 4.5-4M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,k,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 8v7.5H15\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 8v7.5H15\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,l,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 16V8l3 4 3-4v8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 16V8l3 4 3-4v8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,m,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 16V8l6 8V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 16V8l6 8V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,n,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 14v-4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 14v-4a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,o,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.75 12V8.5a.5.5 0 0 1 .5-.5h3a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5zm0 0v4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.75 12V8.5a.5.5 0 0 1 .5-.5h3a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5zm0 0v4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,p,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M15 16v-6a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2zm0 0-2-2m2 2 .5.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 16v-6a2 2 0 0 0-2-2h-2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2zm0 0-2-2m2 2 .5.5\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,q,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.75 12V8.5a.5.5 0 0 1 .5-.5h3a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5H11.5m-1.75 0v4m0-4h1.75m0 0 3 4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.75 12V8.5a.5.5 0 0 1 .5-.5h3a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1-1.5 1.5H11.5m-1.75 0v4m0-4h1.75m0 0 3 4\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,r,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M14.5 9.25V9a1 1 0 0 0-1-1h-3a1 1 0 0 0-1 1v.984a1.5 1.5 0 0 0 .943 1.393l3.114 1.246c.57.228.943.78.943 1.393V15a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-.25\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.5 9.25V9a1 1 0 0 0-1-1h-3a1 1 0 0 0-1 1v.984a1.5 1.5 0 0 0 .943 1.393l3.114 1.246c.57.228.943.78.943 1.393V15a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-.25\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,s,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8.25h3m0 0h3m-3 0v8m-9.293-5.955a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 8.25h3m0 0h3m-3 0v8m-9.293-5.955a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,t,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 8v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,u,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"m9 8.25 3 8 3-8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m9 8.25 3 8 3-8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,v,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8v8l3-4 3 4V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 8v8l3-4 3 4V8\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,w,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"m9 8 6 8m-6 0 6-8M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m9 8 6 8m-6 0 6-8M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,x,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"m9 8.25 3 4m3-4-3 4m0 0v4m-9.293-5.955a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m9 8.25 3 4m3-4-3 4m0 0v4m-9.293-5.955a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,y,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9 8h6l-6 8h6\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 8h6l-6 8h6\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,letter,z,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M10.5 16h1a3 3 0 0 0 3-3v-2.5m0 0a2.5 2.5 0 0 0-5 0c0 1.38 1.12 2 2.5 2s2.5-.62 2.5-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"m16 10-3.5 3.5-2-2L8 14\"></path></svg>",
+		"@mynaui-icons,line,chart,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M14.004 10.947V8.925c0-2.641-4.008-2.491-4.008 0v2.021m-.994 0h5.996c.553 0 1.002.453 1.002 1.011v3.032c0 .558-.449 1.011-1.002 1.011H9.002A1.006 1.006 0 0 1 8 14.99v-3.033c0-.558.449-1.01 1.002-1.01\"></path></svg>",
+		"@mynaui-icons,lock,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM8.5 12h7\"></path></svg>",
+		"@mynaui-icons,minus,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12.5 14.5V8.6a.6.6 0 0 1 .6-.6h1.4m-2 6.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0\"></path></svg>",
+		"@mynaui-icons,music,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.5 16h1a3 3 0 0 0 3-3v-2.5m0 0a2.5 2.5 0 0 0-5 0c0 1.38 1.12 2 2.5 2s2.5-.62 2.5-2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,nine,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M12.75 16V8L10 10\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.75 16V8L10 10\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,one,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M10.75 16c0-3 4-8 4-8s-3 .5-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM10 9v6m4-6v6\"></path></svg>",
+		"@mynaui-icons,pause,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zm7.147-.441L9.5 9.5m5.004 5.004-.354-.354m-4.65.35 5-5\"></path></svg>",
+		"@mynaui-icons,percentage,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M13.242 10.71c.672.547 1.008.821 1.008 1.29 0 .469-.336.743-1.008 1.29-.185.152-.37.295-.538.413a9.093 9.093 0 0 1-.49.318c-.67.407-1.006.611-1.306.385-.3-.225-.328-.697-.383-1.642A13.577 13.577 0 0 1 10.5 12c0-.235.01-.497.025-.764.055-.945.082-1.417.383-1.642.3-.226.636-.022 1.306.385.174.106.341.214.49.318.169.118.353.261.538.412\"></path></svg>",
+		"@mynaui-icons,play,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM15.5 12H12m0 0H8.5m3.5 0V8.5m0 3.5v3.5\"></path></svg>",
+		"@mynaui-icons,plus,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M12 13.496c0-2.003 2-1.503 2-3.506 0-2.659-4-2.659-4 0m2 6.007v-.5\"></path></svg>",
+		"@mynaui-icons,question,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M8.008 10.71C7.336 11.256 7 11.53 7 12c0 .469.336.743 1.008 1.29.185.152.37.295.538.413.149.104.316.212.49.318.67.407 1.006.611 1.306.385.3-.225.328-.697.383-1.642.015-.267.025-.53.025-.764 0-.235-.01-.497-.025-.764-.055-.945-.082-1.417-.383-1.642-.3-.226-.635-.022-1.306.385a9.078 9.078 0 0 0-.49.318 9.647 9.647 0 0 0-.538.412m5.75.001c-.672.547-1.008.821-1.008 1.29 0 .469.336.743 1.008 1.29.185.152.37.295.538.413.149.104.316.212.49.318.67.407 1.006.611 1.306.385.3-.225.328-.697.383-1.642.015-.267.025-.53.025-.764 0-.235-.01-.497-.025-.764-.055-.945-.082-1.417-.383-1.642-.3-.226-.635-.022-1.306.385a9.07 9.07 0 0 0-.49.318 9.632 9.632 0 0 0-.538.412\"></path></svg>",
+		"@mynaui-icons,rewind,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M9 7.5h6m-6 2.778h6M13.25 17.5 9 13.056h1.5c3.334 0 3.334-5.556 0-5.556\"></path></svg>",
+		"@mynaui-icons,rupee,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M13.856 13.85a3.429 3.429 0 1 0-4.855-4.842 3.429 3.429 0 0 0 4.855 4.842m0 0L16 16\"></path></svg>",
+		"@mynaui-icons,search,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.75 16c0-3 4-8 4-8s-3 .5-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,seven,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M13.5 8h-1a3 3 0 0 0-3 3v2.5m0 0a2.5 2.5 0 0 0 5 0c0-1.38-1.12-2-2.5-2s-2.5.62-2.5 2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM9 13.5v-3m3 4.5V9m3 4.5v-3\"></path></svg>",
+		"@mynaui-icons,signal,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.5 8h-1a3 3 0 0 0-3 3v2.5m0 0a2.5 2.5 0 0 0 5 0c0-1.38-1.12-2-2.5-2s-2.5.62-2.5 2\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,six,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 9.994c0-2.659 5-2.659 5 0 0 0 0 2.006-2.5 2.006 2.5 0 2.5 2.006 2.5 2.006 0 2.659-5 2.659-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM9 15l6-6\"></path></svg>",
+		"@mynaui-icons,slash,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M9.5 12c0-1.178 0-1.768.366-2.134.366-.366.956-.366 2.134-.366s1.768 0 2.134.366c.366.366.366.956.366 2.134s0 1.768-.366 2.134c-.366.366-.956.366-2.134.366s-1.768 0-2.134-.366C9.5 13.768 9.5 13.178 9.5 12\"></path></svg>",
+		"@mynaui-icons,stop,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 9.994c0-2.659 5-2.659 5 0 0 0 0 2.006-2.5 2.006 2.5 0 2.5 2.006 2.5 2.006 0 2.659-5 2.659-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,three,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 10.337c0-3.116 4.615-3.116 4.615 0 0 2.352-3.015 4.38-4.615 5.663 0 0 3-.5 5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 10.337c0-3.116 4.615-3.116 4.615 0 0 2.352-3.015 4.38-4.615 5.663 0 0 3-.5 5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,two,diamond",
 		"MynaUI Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M9.5 13.5v-3a2.5 2.5 0 0 1 5 0v3a2.5 2.5 0 0 1-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path><path d=\"M14.5 9.25a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0M16.809 18c-1.275-4.565-8.272-4.587-9.6-.063\"></path></svg>",
+		"@mynaui-icons,user,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM15 9l-6 6m0-6 6 6\"></path></svg>",
+		"@mynaui-icons,x,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0zM15.182 12.5H12m0 0H8.818m3.182 0-3.5-5m3.5 5 3.5-5m-3.5 5V15m3.182 0H12m0 0H8.818M12 15v2.5\"></path></svg>",
+		"@mynaui-icons,yen,diamond",
+		"MynaUI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.5 13.5v-3a2.5 2.5 0 0 1 5 0v3a2.5 2.5 0 0 1-5 0\"></path><path d=\"M2.707 10.295a2.41 2.41 0 0 0 0 3.41l7.588 7.588a2.409 2.409 0 0 0 3.41 0l7.588-7.588a2.409 2.409 0 0 0 0-3.41l-7.588-7.588a2.41 2.41 0 0 0-3.41 0z\"></path></svg>",
 		"@mynaui-icons,zero,diamond",
 		"MynaUI Icons"
 	],

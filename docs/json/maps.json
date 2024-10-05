@@ -1,11 +1,11 @@
 [
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Google Maps\" role=\"img\" viewBox=\"0 0 512 512\" fill=\"#fff\"><path d=\"m0 0H512V512H0\"></path><mask id=\"a\"><path d=\"m122 198c0 70 40 105 77 154s40 73 44 83 6 13 13 13 10-3 13-13 7-34 44-83 77-84 77-153a1 1 0 00-268-2m83 0a51 51 0 110 2\"></path></mask><g stroke-width=\"130\" mask=\"url(#a)\"><path stroke=\"#fbbc04\" d=\"m104 379 152-181\"></path><path stroke=\"#4285f4\" d=\"M256 198L378 53\"></path><path stroke=\"#34a853\" d=\"m189 459 243-290\"></path><path stroke=\"#1a73e8\" d=\"m255 120-79-67\"></path><path stroke=\"#ea4335\" d=\"m76 232 91-109\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Google Maps\" role=\"img\" viewBox=\"0 0 512 512\" fill=\"#fff\"><path d=\"m0 0H512V512H0\"></path><mask id=\"a\"><path d=\"m122 198c0 70 40 105 77 154s40 73 44 83 6 13 13 13 10-3 13-13 7-34 44-83 77-84 77-153a1 1 0 00-268-2m83 0a51 51 0 110 2\"></path></mask><g stroke-width=\"130\" mask=\"url(#a)\"><path stroke=\"#fbbc04\" d=\"m104 379 152-181\"></path><path stroke=\"#4285f4\" d=\"M256 198L378 53\"></path><path stroke=\"#34a853\" d=\"m189 459 243-290\"></path><path stroke=\"#1a73e8\" d=\"M176 53l79 67\"></path><path stroke=\"#ea4335\" d=\"m76 232 91-109\"></path></g></svg>",
 		"@super-tiny-icons,google,maps",
 		"Super Tiny Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-label=\"Google Maps\" role=\"img\" viewBox=\"0 0 512 512\"><path id=\"a\"\nd=\"m0 0H512V512H0\"\nfill=\"#fff\"></path><clipPath id=\"b\"><use xlink:href=\"#a\"></use></clipPath><g clip-path=\"url(#b)\"><path fill=\"#35a85b\" d=\"M0 512V0h512z\"></path><path fill=\"#5881ca\" d=\"M256 288L32 512h448z\"></path><path fill=\"#c1c0be\" d=\"M288 256L512 32v448z\"></path><path stroke=\"#fadb2a\" stroke-width=\"71\" d=\"M0 512L512 0\"></path><path fill=\"none\" stroke=\"#f2f2f2\" stroke-width=\"22\" d=\"M175 173h50a50 54 0 1 1-15-41\"></path><path fill=\"#de3738\" d=\"M353 85a70 70 0 0 1 140 0c0 70-70 70-70 157 0-87-70-87-70-157\"></path><circle cx=\"423\" cy=\"89\" r=\"25\" fill=\"#7d2426\"></circle></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" aria-label=\"Google Maps\" role=\"img\" viewBox=\"0 0 512 512\"><path id=\"a\"\nd=\"m0 0H512V512H0\"\nfill=\"#fff\"></path><clipPath id=\"b\"><use xlink:href=\"#a\"></use></clipPath><g clip-path=\"url(#b)\"><path fill=\"#35a85b\" d=\"M0 512V0h512z\"></path><path fill=\"#5881ca\" d=\"M256 288L32 512h448z\"></path><path fill=\"#c1c0be\" d=\"M288 256L512 32v448z\"></path><path stroke=\"#fadb2a\" stroke-width=\"71\" d=\"M0 512L512 0\"></path><path fill=\"none\" stroke=\"#f2f2f2\" stroke-width=\"22\" d=\"M175 173h50a50 54 0 11-15-41\"></path><path fill=\"#de3738\" d=\"M353 85a70 70 0 01140 0c0 70-70 70-70 157 0-87-70-87-70-157\"></path><circle cx=\"423\" cy=\"89\" r=\"25\" fill=\"#7d2426\"></circle></g></svg>",
 		"@super-tiny-icons,google,maps,old",
 		"Super Tiny Icons"
 	],
@@ -60,6 +60,11 @@
 		"Arcticons"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.g{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path id=\"c\" class=\"g\" d=\"M10.995,10.995c-.82.8223-.898,2.127-.1816,3.041-3.1146,4.323-5.8326,9.8007-5.8133,15.4057l2.0138,2.0138c1.0429-4.158,3.7475-9.0362,8.4809-12.3429l22.1096,22.1096,3.6179-3.6179L19.1127,15.4948c3.3067-4.7334,8.1848-7.438,12.3428-8.4809l-2.0138-2.0138c-5.6043-.0193-11.0815,2.6978-15.4042,5.8118-.9146-.7168-2.2204-.6382-3.0425.1831Z\"></path><g id=\"d\"><path id=\"e\" class=\"g\" d=\"M9.3361,25.8302c.4715,4.8791,1.8678,6.5769,2.9161,8.0336l-1.9978,1.9978,3.753,3.753,2.0036-2.0036c1.8967,1.3559,4.0165,2.25,6.1998,2.6807v2.7083s5.3062,0,5.3062,0v-2.5717c1.7115-.2477,3.9116-.7593,6.6163-2.6772\"></path><path id=\"f\" class=\"g\" d=\"M25.7271,9.3971c4.7302.4501,6.68,1.8068,8.1367,2.8551l1.9978-1.9978,3.753,3.753-2.0036,2.0036c1.3559,1.8967,2.25,4.0165,2.6807,6.1998h2.7083s0,5.3062,0,5.3062h-2.5717c-.2477,1.7115-.9995,4.2656-2.6873,6.6063\"></path></g><path class=\"g\" d=\"M34.4702,30.8523c.3562-.5735.6623-1.1814.9122-1.8176.5-1.2733.7746-2.6599.7746-4.1107,0-6.2135-5.0371-11.2506-11.2506-11.2506-2.0091,0-3.8951.5266-5.5277,1.4493\"></path><path class=\"g\" d=\"M15.1095,19.3883c-.6986,1.2337-1.1709,2.6124-1.3605,4.0797-.0616.4766-.0933.9626-.0933,1.456,0,6.2135,5.0371,11.2506,11.2506,11.2506,1.4748,0,2.8833-.2838,4.174-.7997.6213-.2484,1.2152-.5505,1.7761-.9007\"></path></svg>",
+		"@arcticons,mods,maps,skins,for,minecraft",
+		"Arcticons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"a\" d=\"M40.0026,6.8426c-.1412,1.6954-2.744,32.5228-2.9092,34.4882a1.57,1.57,0,0,1-2.8809.9664c-.815-1.1028-8.5138-13.0746-8.5138-13.0746L9.3546,27.5558a1.4157,1.4157,0,0,1-.6092-2.6712l28.68-19.401C38.95,4.4522,40.1438,5.1472,40.0026,6.8426Z\"></path><circle class=\"a\" cx=\"30.7222\" cy=\"20.2497\" r=\"2.9406\"></circle></svg>",
 		"@arcticons,os,maps",
 		"Arcticons"
@@ -87,6 +92,11 @@
 	[
 		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m59 65 81 83m-28-92-61.5 63M142 87.5 81 150M22 91l65.5 67\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"81\" cy=\"119\" r=\"3\" stroke=\"#000\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m112 56 54.651 56\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M105 35.558c-1.939-7.9-10.625-12.927-19.402-11.228l-11.83 2.29C64.993 28.319 59.449 36.1 61.387 44M22.25 89.186c-1.536-8.725 4.146-17.08 12.757-18.758l103.251-20.131c8.64-1.685 17.011 3.977 18.762 12.691l12.656 62.974c1.773 8.825-3.91 17.42-12.658 19.14L52.281 165.698c-8.796 1.73-17.29-4.157-18.86-13.073l-11.17-63.439Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,maps,me",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m159.964 43.828-11.979-11.996a6.003 6.003 0 0 0-8.452-.047l-4.956 4.854C96.782 10.763 44.955 27.07 44.955 27.07c29.936 5.226 52.39 16.28 69.212 29.559l-87.283 85.486c-6.461 6.329-6.52 16.723-.129 23.123 6.39 6.4 16.77 6.342 23.088-.129l85.444-87.497c24.98 31.206 28.433 64.402 28.433 64.402s18.633-47.852-8.293-85.027l4.584-4.694a6.025 6.025 0 0 0-.047-8.465Z\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,mods,maps,for,minecraft,pe",
 		"Lawnicons"
 	],
 	[

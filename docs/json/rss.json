@@ -345,6 +345,11 @@
 		"Fluent UI System Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><title>file_type_rss</title><defs><linearGradient id=\"a\" x1=\"30.06\" x2=\"225.94\" y1=\"30.06\" y2=\"225.94\" gradientTransform=\"matrix(.11 0 0 .11 2 2)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#E3702D\"></stop><stop offset=\".11\" stop-color=\"#EA7D31\"></stop><stop offset=\".35\" stop-color=\"#F69537\"></stop><stop offset=\".5\" stop-color=\"#FB9E3A\"></stop><stop offset=\".7\" stop-color=\"#EA7C31\"></stop><stop offset=\".89\" stop-color=\"#DE642B\"></stop><stop offset=\"1\" stop-color=\"#D95B29\"></stop></linearGradient></defs><rect width=\"28\" height=\"28\" x=\"2\" y=\"2\" fill=\"#cc5d15\" rx=\"6.01\" ry=\"6.01\"></rect><rect width=\"26.91\" height=\"26.91\" x=\"2.54\" y=\"2.54\" fill=\"#f49c52\" rx=\"5.47\" ry=\"5.47\"></rect><rect width=\"25.82\" height=\"25.82\" x=\"3.1\" y=\"3.1\" fill=\"url(#a)\" rx=\"5.14\" ry=\"5.14\"></rect><path fill=\"#fff\" d=\"M6.82 6.16v3.83a15.31 15.31 0 0 1 15.3 15.3h3.83A19.14 19.14 0 0 0 6.81 6.17zm0 6.45v3.72a8.97 8.97 0 0 1 8.96 8.97h3.72A12.69 12.69 0 0 0 6.81 12.6zm2.62 7.44a2.63 2.63 0 0 0-2.63 2.62 2.63 2.63 0 0 0 2.63 2.63 2.63 2.63 0 0 0 2.63-2.63 2.63 2.63 0 0 0-2.63-2.63z\"></path></svg>",
+		"@vscode-icons,file,type,rss",
+		"vscode-icons"
+	],
+	[
 		"<svg width=\"24\" height=\"24\" stroke-width=\"1.5\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 17C12 14 10 12 7 12\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M17 17C17 11 13 7 7 7\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M7 17.01L7.01 16.9989\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M21 8V16C21 18.7614 18.7614 21 16 21H8C5.23858 21 3 18.7614 3 16V8C3 5.23858 5.23858 3 8 3H16C18.7614 3 21 5.23858 21 8Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@iconoir,regular,rss,feed,tag",
 		"Iconoir"
@@ -510,7 +515,7 @@
 		"akar-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><circle cx=\"5\" cy=\"19\" r=\"0\"><animate attributeName=\"r\" values=\"0;2\" dur=\"0.2s\" fill=\"freeze\"></animate></circle></g><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 11c2.39 0 4.68 0.95 6.36 2.64c1.69 1.68 2.64 3.97 2.64 6.36\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" begin=\"0.2s\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M4 4c4.24 0 8.31 1.69 11.31 4.69c3 3 4.69 7.07 4.69 11.31\" stroke-dasharray=\"32\" stroke-dashoffset=\"32\"><animate attributeName=\"stroke-dashoffset\" values=\"32;0\" begin=\"0.6s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"currentColor\"><circle cx=\"5\" cy=\"19\" r=\"0\"><animate attributeName=\"r\" values=\"0;2\" dur=\"0.2s\" fill=\"freeze\"></animate></circle></g><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 11c2.39 0 4.68 0.95 6.36 2.64c1.69 1.68 2.64 3.97 2.64 6.36\" stroke-dasharray=\"16\" stroke-dashoffset=\"16\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" begin=\"0.2s\" dur=\"0.3s\" fill=\"freeze\"></animate></path><path d=\"M4 4c4.24 0 8.31 1.69 11.31 4.69c3 3 4.69 7.07 4.69 11.31\" stroke-dasharray=\"28\" stroke-dashoffset=\"28\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" begin=\"0.6s\" dur=\"0.4s\" fill=\"freeze\"></animate></path></g></svg>",
 		"@material-line-icons,rss",
 		"Material Line Icons"
 	],
@@ -665,7 +670,7 @@
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"><path d=\"M6 11.25A6.75 6.75 0 0 1 12.75 18M6 6a12 12 0 0 1 12 12m-11.5-.146.354-.354\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 11.25A6.75 6.75 0 0 1 12.75 18M6 6a12 12 0 0 1 12 12m-11.5-.146.354-.354\"></path></svg>",
 		"@mynaui-icons,rss",
 		"MynaUI Icons"
 	],
