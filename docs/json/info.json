@@ -430,7 +430,7 @@
 		"Numix icon theme"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect width=\"42\" height=\"51\" x=\"15\" y=\"9\" fill=\"#c2352a\" rx=\"5\" ry=\"5\" style=\"paint-order:stroke fill markers\"></rect><rect width=\"42\" height=\"51\" x=\"7\" y=\"5\" fill=\"#f2f2f2\" rx=\"5\" ry=\"5\" style=\"paint-order:stroke fill markers\"></rect><path fill=\"#90caf9\" d=\"m45 20-9 1v9h9z\"></path><path fill=\"#bdbdbd\" d=\"M30 9v11l15-3v-7c0-.554-.446-1-1-1H30z\"></path><path fill=\"#ffcc80\" d=\"M27 9H11v14l16-3z\"></path><rect width=\"9\" height=\"9\" x=\"40\" y=\"47\" fill=\"#f2f2f2\" rx=\"0\" ry=\"0\" style=\"paint-order:stroke fill markers\"></rect><path fill=\"#ff8a80\" d=\"M11 39v12c0 .554.446 1 1 1h32c.554 0 1-.446 1-1v-6l-34-6z\"></path><path fill=\"#bdbdbd\" d=\"m34 21-23 4v12l23 4zM45 32h-9v9l9 2z\"></path><path fill=\"#fafafa\" d=\"m15 5-8 8h2.273c2.382-.287 4.85-.399 5.727-3.715z\"></path><path fill=\"#df574d\" d=\"M53 5c-2.216 0-4 1.784-4 4v47a4 4 0 0 1 8 0V9c0-2.216-1.784-4-4-4z\" style=\"paint-order:stroke fill markers\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><rect width=\"42\" height=\"51\" x=\"15\" y=\"9\" fill=\"#c2352a\" rx=\"5\" ry=\"5\" style=\"paint-order:stroke fill markers\"></rect><rect width=\"42\" height=\"51\" x=\"7\" y=\"5\" fill=\"#f2f2f2\" rx=\"5\" ry=\"5\" style=\"paint-order:stroke fill markers\"></rect><path fill=\"#90caf9\" d=\"m45 20-9 1v9h9z\"></path><path fill=\"#bdbdbd\" d=\"M30 9v11l15-3v-7c0-.554-.446-1-1-1z\"></path><path fill=\"#ffcc80\" d=\"M27 9H11v14l16-3z\"></path><rect width=\"9\" height=\"9\" x=\"40\" y=\"47\" fill=\"#f2f2f2\" rx=\"0\" ry=\"0\" style=\"paint-order:stroke fill markers\"></rect><path fill=\"#ff8a80\" d=\"M11 39v12c0 .554.446 1 1 1h32c.554 0 1-.446 1-1v-6z\"></path><path fill=\"#bdbdbd\" d=\"m34 21-23 4v12l23 4zm11 11h-9v9l9 2z\"></path><path fill=\"#fafafa\" d=\"m15 5-8 8h2.273c2.382-.287 4.85-.399 5.727-3.715z\"></path><path fill=\"#df574d\" d=\"M53 5c-2.216 0-4 1.784-4 4v47a4 4 0 0 1 8 0V9c0-2.216-1.784-4-4-4\" style=\"paint-order:stroke fill markers\"></path></svg>",
 		"@tela-icon-theme,apps,info,febvre,komikku",
 		"Tela Icon Theme"
 	],
@@ -793,6 +793,16 @@
 		"<svg width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M24 44C29.5228 44 34.5228 41.7614 38.1421 38.1421C41.7614 34.5228 44 29.5228 44 24C44 18.4772 41.7614 13.4772 38.1421 9.85786C34.5228 6.23858 29.5228 4 24 4C18.4772 4 13.4772 6.23858 9.85786 9.85786C6.23858 13.4772 4 18.4772 4 24C4 29.5228 6.23858 34.5228 9.85786 38.1421C13.4772 41.7614 18.4772 44 24 44Z\" fill=\"#2F88FF\" stroke=\"black\" stroke-width=\"4\" stroke-linejoin=\"round\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M24 11C25.3807 11 26.5 12.1193 26.5 13.5C26.5 14.8807 25.3807 16 24 16C22.6193 16 21.5 14.8807 21.5 13.5C21.5 12.1193 22.6193 11 24 11Z\" fill=\"white\"></path><path d=\"M24.5 34V20H23.5H22.5\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M21 34H28\" stroke=\"white\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@iconpark-icons,character,info",
 		"IconPark Icons"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 5C1 4.44772 1.44772 4 2 4H22C22.5523 4 23 4.44772 23 5V19C23 19.5523 22.5523 20 22 20H2C1.44772 20 1 19.5523 1 19V5ZM9 8H7V10H9V8ZM7 13V16H9V11H6V13H7ZM13 9V11H19V9H13ZM18 13H13V15H18V13Z\"></path></svg>",
+		"@remix-icon,business,info,card,filled",
+		"Remix Icon"
+	],
+	[
+		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 6H21V18H3V6ZM2 4C1.44772 4 1 4.44772 1 5V19C1 19.5523 1.44772 20 2 20H22C22.5523 20 23 19.5523 23 19V5C23 4.44772 22.5523 4 22 4H2ZM13 9H19V11H13V9ZM18 13H13V15H18V13ZM6 13H7V16H9V11H6V13ZM9 8H7V10H9V8Z\"></path></svg>",
+		"@remix-icon,business,info,card,line",
+		"Remix Icon"
 	],
 	[
 		"<svg viewBox=\"0 0 24 24\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16 2L21 7V21.0082C21 21.556 20.5551 22 20.0066 22H3.9934C3.44476 22 3 21.5447 3 21.0082V2.9918C3 2.44405 3.44495 2 3.9934 2H16ZM11 7V9H13V7H11ZM11 11V17H13V11H11Z\"></path></svg>",
