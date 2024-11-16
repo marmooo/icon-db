@@ -393,3 +393,5 @@
 - [SWM Icon Pack](https://github.com/kamilagraf/react-swm-icon-pack) licensed
   under the
   [MIT](https://github.com/kamilagraf/react-swm-icon-pack/blob/main/LICENSE)
+- [Web3 Icons](https://github.com/0xa3k5/web3icons) licensed under the
+  [MIT](https://github.com/0xa3k5/web3icons/blob/main/LICENCE)
