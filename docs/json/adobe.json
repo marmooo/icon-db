@@ -610,6 +610,11 @@
 		"Arcticons"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"M20.787,8.425c1.3308,0,2.1071.9359,2.1071,3.5975s-1.9612,8.0025-3.4749,11.441c-1.7005,3.863-6.0831,12.219-8.909,12.111-1.287-.0492-1.9652-.74-2.0084-1.8106-.0487-1.2051.8347-1.9547,2.5444-3.1099,2.812-1.9,6.9699-3.26,11.21-4.3759,4.2142-1.109,5.3508-1.4649,8.9182-1.4649s4.3251,1.2014,4.3251,2.4029-1.0166,1.8668-2.3104,1.8668c-1.4174,0-4.0311-.011-9.2048-6.2105-4.6113-5.5256-5.0414-8.7981-5.0414-11.164s.5499-3.2833,1.8437-3.2833h.0004Z\"></path><path class=\"c\" d=\"M41,31.26V8c0-2.2091-1.7909-4-4-4H8c-2.2091,0-4,1.7909-4,4v29c0,2.2091,1.7909,4,4,4h23.299\"></path><circle class=\"c\" cx=\"37\" cy=\"37\" r=\"7\"></circle><path class=\"c\" d=\"M34.508,40.124c.4906.6387,1.1057.8765,1.9615.8765h1.1844c1.1022,0,1.9957-.8935,1.9957-1.9957v-.0086c0-1.1022-.8935-1.9957-1.9957-1.9957h-1.3065c-1.1034,0-1.9978-.8945-1.9978-1.9978,0-1.1058.8964-2.0022,2.0022-2.0022h1.1779c.8558,0,1.4709.2379,1.9615.8765\"></path></svg>",
+		"@arcticons,adobe,acrobat,sign",
+		"Arcticons"
+	],
+	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"M29.2312,25.575c0-2.4853,2.0147-4.5,4.5-4.5h0\"></path><line class=\"c\" x1=\"29.2312\" y1=\"21.0751\" x2=\"29.2312\" y2=\"33\"></line><line class=\"c\" x1=\"24.2186\" y1=\"27.0374\" x2=\"16.2439\" y2=\"27.0374\"></line><polyline class=\"c\" points=\"14.2688 33 20.2312 15 26.1937 33\"></polyline><rect class=\"c\" x=\"5.5\" y=\"5.5\" width=\"37\" height=\"37\" rx=\"4\" ry=\"4\"></rect></svg>",
 		"@arcticons,adobe,aero,player",
 		"Arcticons"
@@ -745,13 +750,28 @@
 		"uiw icons"
 	],
 	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.9706 12.0546H9.02738L9.99949 8.81422L10.9706 12.0546Z\" fill=\"black\"></path><path d=\"M22 2V22H2V2H22ZM11.2438 6H8.7559L5.15234 18H7.24379L8.42739 14.0546H11.57L12.7524 18H14.8437L11.2438 6ZM17.9997 9H15.9958V11.0039H17.9997V9ZM17.9997 18V12H15.9997V18H17.9997Z\" fill=\"black\"></path></svg>",
+		"@tdesign-icons,logo,adobe,illustrate,filled",
+		"TDesign Icons"
+	],
+	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 2H22V22H2V2ZM4 4V20H20V4H4ZM8.75622 6H11.2441L14.844 18H12.7528L11.5703 14.0546H8.4277L7.2441 18H5.15266L8.75622 6ZM9.0277 12.0546H10.9709L9.99981 8.81422L9.0277 12.0546ZM15.9961 9H18V11.0039H15.9961V9ZM18 12V18H16V12H18Z\" fill=\"black\"></path></svg>",
 		"@tdesign-icons,logo,adobe,illustrate",
 		"TDesign Icons"
 	],
 	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M22 2H2V22H22V2ZM8 6L8 16H13V18H6V6H8ZM20 13.5H19C17.9846 13.5 17.0109 13.9034 16.2929 14.6213L16 14.9142V18H14V11H16L16 12.3314C16.8987 11.7919 17.9343 11.5 19 11.5H20V13.5Z\" fill=\"black\"></path></svg>",
+		"@tdesign-icons,logo,adobe,lightroom,filled",
+		"TDesign Icons"
+	],
+	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 2L22 2L22 22L2 22L2 2ZM4 4L4 20L20 20L20 13.5L19 13.5C17.9846 13.5 17.0109 13.9034 16.2929 14.6213L16 14.9142L16 18L14 18L14 11L16 11L16 12.3314C16.8987 11.7919 17.9343 11.5 19 11.5L20 11.5L20 4L4 4ZM8 6L8 16L13 16L13 18L6 18L6 6L8 6Z\" fill=\"black\"></path></svg>",
-		"@tdesign-icons,logo,adobe,photoshop",
+		"@tdesign-icons,logo,adobe,lightroom",
+		"TDesign Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 8.00003L8 11.0001H9.5C10.3284 11.0001 11 10.3285 11 9.50003C11 8.67157 10.3284 7.99998 9.49997 8L8 8.00003Z\" fill=\"black\"></path><path d=\"M22 2H2V22H22V2ZM8 13.0001L8 18H6V6.00007L9.49993 6C11.433 5.99996 13 7.56702 13 9.50003C13 11.433 11.433 13.0001 9.5 13.0001H8ZM13.5 12.4528C13.5 11.0982 14.5982 10 15.9528 10H18V12H15.9528C15.7027 12 15.5 12.2027 15.5 12.4528C15.5 12.6478 15.6247 12.8208 15.8096 12.8825L16.8228 13.2202C17.8244 13.554 18.5 14.4914 18.5 15.5472C18.5 16.9018 17.4018 18 16.0472 18H13.5V16H16.0472C16.2973 16 16.5 15.7973 16.5 15.5472C16.5 15.3522 16.3753 15.1792 16.1904 15.1175L15.1772 14.7798C14.1756 14.446 13.5 13.5086 13.5 12.4528Z\" fill=\"black\"></path></svg>",
+		"@tdesign-icons,logo,adobe,photoshop,filled",
 		"TDesign Icons"
 	],
 	[
