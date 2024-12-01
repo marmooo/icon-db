@@ -10,8 +10,8 @@
   [MIT](https://github.com/edent/SuperTinyIcons/blob/master/LICENSE)
 - [SVG Logos](https://github.com/gilbarbara/logos) licensed under the
   [CC0-1.0](https://github.com/gilbarbara/logos/blob/master/LICENSE.txt)
-- [Arcticons](https://github.com/Donnnno/Arcticons) licensed under the
-  [CC-BY-SA-4.0](https://github.com/Donnnno/Arcticons)
+- [Arcticons](https://github.com/Arcticons-Team/Arcticons) licensed under the
+  [CC-BY-SA-4.0](https://github.com/Arcticons-Team/Arcticons)
 - [File Icons](https://github.com/file-icons/icons) licensed under the
   [ISC](undefined)
 - [Brandico font](https://github.com/fontello/brandico.font) licensed under the
