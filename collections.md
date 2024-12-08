@@ -395,3 +395,5 @@
   [MIT](https://github.com/kamilagraf/react-swm-icon-pack/blob/main/LICENSE)
 - [Web3 Icons](https://github.com/0xa3k5/web3icons) licensed under the
   [MIT](https://github.com/0xa3k5/web3icons/blob/main/LICENCE)
+- [Stash Icons](https://github.com/stash-ui/icons) licensed under the
+  [MIT](https://github.com/stash-ui/icons/blob/master/LICENSE)
