@@ -30,6 +30,11 @@
 		"OOUI"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> down</title><path d=\"m2 10 1.42-1.41L9 14.17V2h2v12.17l5.59-5.58L18 10l-8 8z\"></path></svg>",
+		"@ooui,arrow,down",
+		"OOUI"
+	],
+	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> next</title><path d=\"M8.6 3.4 14.2 9H2v2h12.2l-5.6 5.6L10 18l8-8-8-8z\"></path></svg>",
 		"@ooui,arrow,next,ltr",
 		"OOUI"
@@ -47,6 +52,11 @@
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> previous</title><path d=\"M2 11h12.2l-5.6 5.6L10 18l8-8-8-8-1.4 1.4L14.2 9H2z\"></path></svg>",
 		"@ooui,arrow,previous,rtl",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> up</title><path d=\"m2 10 1.42 1.41L9 5.83V18h2V5.83l5.59 5.58L18 10l-8-8z\"></path></svg>",
+		"@ooui,arrow,up",
 		"OOUI"
 	],
 	[
@@ -222,6 +232,11 @@
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> bold</title><path d=\"M18 19h-4L5 5v14H2V1h5l8 13c-.02-.84 0-1 0-2V1h3z\"></path></svg>",
 		"@ooui,bold,n",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> bold</title><path d=\"M16.84 8.38c0 1.06-.13 2.04-.38 2.93a6.7 6.7 0 0 1-1.15 2.31 5.1 5.1 0 0 1-2 1.52L16.8 19h-3.96l-2.56-3.22H10a8.1 8.1 0 0 1-3.05-.52 5.4 5.4 0 0 1-2.13-1.5 6.5 6.5 0 0 1-1.25-2.35c-.27-.9-.4-1.92-.4-3.05 0-1.49.24-2.78.73-3.88s1.24-1.95 2.25-2.56S8.45 1 10.02 1c1.55 0 2.84.3 3.85.92 1.01.6 1.76 1.46 2.24 2.57s.73 2.4.73 3.9zm-10.44 0c0 1 .12 1.85.37 2.58.25.72.64 1.27 1.18 1.66.53.38 1.22.57 2.05.57.86 0 1.55-.2 2.08-.57.53-.39.92-.94 1.16-1.66q.36-1.095.36-2.58c0-1.5-.28-2.68-.83-3.54s-1.46-1.29-2.75-1.29c-.84 0-1.54.2-2.07.59-.54.39-.93.94-1.18 1.66a8 8 0 0 0-.37 2.58\"></path></svg>",
+		"@ooui,bold,q",
 		"OOUI"
 	],
 	[
@@ -770,12 +785,12 @@
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> external link</title><path d=\"M17 17H3V3h5V1H3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5h-2z\"></path><path d=\"m11 1 3.29 3.29-5.73 5.73 1.42 1.42 5.73-5.73L19 9V1z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> external link</title><path d=\"M19 1h-8l3.286 3.286L6 12l1.371 1.472 8.332-7.77.007.008L19 9zM2 5h4v2H3v10h10v-4.004h2V18a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1\"></path></svg>",
 		"@ooui,link,external,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> external link</title><path d=\"M3 12H1v5c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2h-5v2h5v14H3z\"></path><path d=\"m1 9 3.3-3.3 5.7 5.7 1.4-1.4-5.7-5.7L9 1H1z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> external link</title><path d=\"M1 1h8L5.714 4.286 14 12l-1.371 1.472-8.332-7.77-.007.008L1 9zm17 4h-4v2h3v10H7v-4.004H5V18a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1\"></path></svg>",
 		"@ooui,link,external,rtl",
 		"OOUI"
 	],
