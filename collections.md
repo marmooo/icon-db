@@ -315,9 +315,9 @@
   [MIT](https://github.com/vmware/clarity-assets/blob/master/LICENSE)
 - [Gitlab SVGs](https://gitlab.com/gitlab-org/gitlab-svgs) licensed under the
   [MIT](https://gitlab.com/gitlab-org/gitlab-svgs/-/blob/main/LICENSE)
-- [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
+- [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)
   licensed under the
-  [MIT](https://github.com/PKief/vscode-material-icon-theme/blob/main/LICENSE.md)
+  [MIT](https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE.md)
 - [IconBrew](https://github.com/elrumo/icon-brew) licensed under the
   [MIT](https://github.com/elrumo/icon-brew/blob/master/LICENSE.md)
 - [Themify Icons](https://github.com/lykmapipo/themify-icons) licensed under the
