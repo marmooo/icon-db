@@ -70,6 +70,11 @@
 		"Numix icon theme"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 64 64\"><path fill=\"#c4c7cc\" d=\"M25.9 43.834c-.52 0-.9.378-.9.834v10.955L20.922 56H20.9c-.52 0-.9.378-.9.834V58h24v-1.166c0-.456-.381-.834-.9-.834h-.024L39 55.623V44.668c0-.456-.38-.834-.9-.834z\"></path><rect width=\"60\" height=\"40\" x=\"2\" y=\"6\" fill=\"#2f3337\" rx=\"6\" ry=\"6\"></rect><rect width=\"54\" height=\"34\" x=\"5\" y=\"9\" fill=\"#5294e2\" rx=\"3\" ry=\"3\"></rect></svg>",
+		"@tela-icon-theme,apps,colorscheme,preferences,desktop,display,randr",
+		"Tela Icon Theme"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"64\" height=\"64\" viewBox=\"0 0 16.933 16.933\"><defs><clipPath id=\"f\"><rect width=\"15.875\" height=\"12.171\" x=\".529\" y=\"282.45\" fill=\"url(#a)\" stroke-opacity=\".039\" stroke-width=\".554\" paint-order=\"stroke markers fill\" ry=\".265\"></rect></clipPath><clipPath id=\"e\"><rect width=\"15.875\" height=\"12.171\" x=\".529\" y=\"282.45\" fill=\"url(#a)\" stroke-opacity=\".039\" stroke-width=\".554\" paint-order=\"stroke markers fill\" ry=\".265\"></rect></clipPath><clipPath id=\"d\"><rect width=\"15.875\" height=\"12.171\" x=\".529\" y=\"282.45\" fill=\"url(#a)\" stroke-opacity=\".039\" stroke-width=\".554\" paint-order=\"stroke markers fill\" ry=\".265\"></rect></clipPath><clipPath id=\"c\"><rect width=\"15.875\" height=\"12.171\" x=\".529\" y=\"282.45\" fill=\"url(#a)\" stroke-opacity=\".039\" stroke-width=\".554\" paint-order=\"stroke markers fill\" ry=\".265\"></rect></clipPath><clipPath id=\"b\"><rect width=\"15.875\" height=\"12.171\" x=\".529\" y=\"282.45\" fill=\"url(#a)\" stroke-opacity=\".039\" stroke-width=\".554\" paint-order=\"stroke markers fill\" ry=\".265\"></rect></clipPath><linearGradient id=\"a\" x1=\"13.229\" x2=\"2.117\" y1=\"297\" y2=\"280.07\" gradientTransform=\"matrix(1.0714 0 0 1 -.605 0)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#66bcff\"></stop><stop offset=\"1\" stop-color=\"#b29aff\"></stop></linearGradient></defs><path fill=\"#9ab9dd\" d=\"M2.381 284.25c-.733 0-1.323.413-1.323.926v7.037c0 .513.59.926 1.323.926H3.44v-8.889z\" clip-path=\"url(#b)\" transform=\"matrix(1 0 0 1.4288 0 -404.01)\"></path><path fill=\"#9add9c\" d=\"M3.44 284.25v8.889h2.886v-8.889z\" clip-path=\"url(#c)\" transform=\"matrix(1 0 0 1.4288 0 -404.01)\"></path><path fill=\"#f3f284\" d=\"M6.326 284.25v8.889h4.33v-8.889z\" clip-path=\"url(#d)\" transform=\"matrix(1 0 0 1.4288 0 -404.01)\"></path><path fill=\"#edb968\" d=\"M10.655 284.25v8.889h2.887v-8.889z\" clip-path=\"url(#e)\" transform=\"matrix(1 0 0 1.4288 0 -404.01)\"></path><path fill=\"#ed8e68\" d=\"M13.542 284.25v8.889h1.01c.732 0 1.322-.413 1.322-.926v-7.037c0-.513-.59-.926-1.323-.926z\" clip-path=\"url(#f)\" transform=\"matrix(1 0 0 1.4288 0 -404.01)\"></path><rect width=\"13.229\" height=\"1.058\" x=\"1.852\" y=\"2.646\" opacity=\".35\" rx=\".529\" ry=\".529\"></rect><rect width=\"1.058\" height=\".529\" x=\"2.117\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"2.646\" height=\".529\" x=\"7.144\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".529\" height=\".529\" x=\"14.287\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".794\" height=\".529\" x=\"13.229\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\".529\" height=\".529\" x=\"12.435\" y=\"2.91\" opacity=\".35\" ry=\".265\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"10.053\" height=\"1.323\" x=\"3.44\" y=\"12.7\" fill=\"#fff\" opacity=\".35\" paint-order=\"markers stroke fill\" rx=\".265\" ry=\".265\"></rect><g fill=\"#fff\" transform=\"translate(0 1.722)\"><rect width=\"1.323\" height=\"1.323\" x=\"4.233\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"6.614\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"8.996\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect><rect width=\"1.323\" height=\"1.323\" x=\"11.376\" y=\"10.448\" rx=\".264\" ry=\".264\" style=\"paint-order:stroke markers fill\"></rect></g></svg>",
 		"@tela-icon-theme,apps,preferences,desktop,display,color",
 		"Tela Icon Theme"
@@ -530,22 +535,22 @@
 		"Solar Icon Set"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M0 4.46C0 3.1 1.1 2 2.46 2H24v12H0V4.46ZM0 15v3h21.54C22.9 18 24 16.9 24 15.54V15H0Zm15 4H9v1.5H5V22h14v-1.5h-4V19Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M0 4.46C0 3.1 1.1 2 2.46 2H24v12H0zM0 15v3h21.54C22.9 18 24 16.9 24 15.54V15zm15 4H9v1.5H5V22h14v-1.5h-4z\"></path></svg>",
 		"@audi-icons,display,active,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M4.41 6A3.41 3.41 0 0 0 1 9.41V29h46V6H4.41ZM47 30H1v5h42.59A3.41 3.41 0 0 0 47 31.59V30ZM0 9.41A4.41 4.41 0 0 1 4.41 5H48v26.59A4.41 4.41 0 0 1 43.59 36H29v7h10v1H9v-1h10v-7H0V9.41ZM20 36v7h8v-7h-8Z\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M4.41 6A3.4 3.4 0 0 0 1 9.41V29h46V6zM47 30H1v5h42.59A3.4 3.4 0 0 0 47 31.59zM0 9.41A4.4 4.4 0 0 1 4.41 5H48v26.59A4.4 4.4 0 0 1 43.59 36H29v7h10v1H9v-1h10v-7H0zM20 36v7h8v-7z\"></path></svg>",
 		"@audi-icons,display,l",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M2.46 3C1.66 3 1 3.65 1 4.46V14h22V3H2.46ZM23 15H1v2h20.54c.8 0 1.46-.65 1.46-1.46V15ZM0 4.46C0 3.1 1.1 2 2.46 2H24v13.54C24 16.9 22.9 18 21.54 18H15v3h4v1H5v-1h4v-3H0V4.46ZM10 18v3h4v-3h-4Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M2.46 3C1.66 3 1 3.65 1 4.46V14h22V3zM23 15H1v2h20.54c.8 0 1.46-.65 1.46-1.46zM0 4.46C0 3.1 1.1 2 2.46 2H24v13.54C24 16.9 22.9 18 21.54 18H15v3h4v1H5v-1h4v-3H0zM10 18v3h4v-3z\"></path></svg>",
 		"@audi-icons,display,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M1.78 3a.78.78 0 0 0-.78.78v8.11h13.22c.43 0 .78-.34.78-.77V3H1.78ZM0 3.78C0 2.8.8 2 1.78 2H16v9.12c0 .98-.8 1.77-1.78 1.77H8.5V15H13v1H3v-1h4.5v-2.1H0V3.77Z\"></path></svg>",
+		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M1.78 3a.8.8 0 0 0-.78.78v8.11h13.22c.43 0 .78-.34.78-.77V3zM0 3.78C0 2.8.8 2 1.78 2H16v9.12c0 .98-.8 1.77-1.78 1.77H8.5V15H13v1H3v-1h4.5v-2.1H0z\"></path></svg>",
 		"@audi-icons,display,xs",
 		"Audi Icons"
 	],
