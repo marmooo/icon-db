@@ -15,6 +15,16 @@
 		"Lawnicons"
 	],
 	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M152 87c-2 36-38 49-38 49\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M121 55c-13 3-28 11-28 11s-18.5-6-34-6m2 1c-5 9-9 33 11 34s21-21 21-29\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M118 56c15 9 14 34.5 0 38S93 81 93 66\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M166.378 118.867a73.995 73.995 0 0 1-72.702 51.096 74 74 0 1 1 52.981-127.907\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M160.318 60.908a18.496 18.496 0 0 0-9.688 21.38 18.508 18.508 0 0 0 10.79 12.304 18.502 18.502 0 0 0 8.29 1.368\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><ellipse cx=\"76.017\" cy=\"69.871\" rx=\"1\" ry=\"4\" transform=\"rotate(15 76.017 69.87)\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></ellipse><path d=\"M108.295 67.57c.799 2.072 1.762 3.497 2.152 3.183.389-.315.057-2.25-.742-4.323-.799-2.072-1.762-3.497-2.152-3.183-.389.315-.057 2.25.742 4.323Z\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,red,ball,4",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m109 34-28-3 16 14m67 16.5 7 6.5-9 2\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m63 161-41-28m8 33-8-5m102-3-53-20-47-35m10-25 33 28m4-27L39 45h27m78 97-18-5\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m147 117 24-4-18-10m-65-4c0-20 40-52 64-76m-44 96c29 0 32-56 44-96\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M108 119a20.006 20.006 0 0 1-14.142-5.858 20.001 20.001 0 0 1 6.488-32.62 20.005 20.005 0 0 1 21.796 4.336A20.002 20.002 0 0 1 108 119h0Z\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,stack,ball",
+		"Lawnicons"
+	],
+	[
 		"<svg viewBox=\"0 0 17 16\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" class=\"si-glyph si-glyph-billiard-ball\"><title>917</title><defs></defs><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(1.000000, 0.000000)\" fill=\"#434343\"><path d=\"M8.01,0.057 C3.627,0.057 0.071,3.611 0.071,7.997 C0.071,12.382 3.628,15.937 8.01,15.937 C12.395,15.937 15.95,12.381 15.95,7.997 C15.95,3.61 12.395,0.057 8.01,0.057 L8.01,0.057 Z M7.01,12.114 C4.206,12.114 1.934,9.831 1.934,7.015 C1.934,4.201 4.206,1.917 7.01,1.917 C9.815,1.917 12.088,4.2 12.088,7.015 C12.088,9.831 9.814,12.114 7.01,12.114 L7.01,12.114 Z\" class=\"si-glyph-fill\"></path><rect x=\"7\" y=\"4\" width=\"0.938\" height=\"5.938\" class=\"si-glyph-fill\"></rect><rect x=\"6\" y=\"4\" width=\"1.969\" height=\"0.938\" class=\"si-glyph-fill\"></rect></g></g></svg>",
 		"@glyph,billiard,ball",
 		"Glyph"
@@ -1130,7 +1140,7 @@
 		"Font Awesome"
 	],
 	[
-		"<svg id=\"icons\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"208\" fill=\"none\" stroke=\"#000\" stroke-miterlimit=\"10\" stroke-width=\"32\"></circle><circle cx=\"288\" cy=\"200\" r=\"24\"></circle><circle cx=\"296\" cy=\"128\" r=\"24\"></circle><circle cx=\"360\" cy=\"168\" r=\"24\"></circle></svg>",
+		"<svg id=\"icons\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><circle cx=\"256\" cy=\"256\" r=\"208\" fill=\"none\" stroke=\"#000\" stroke-miterlimit=\"10\" stroke-width=\"32\"></circle><circle cx=\"288\" cy=\"200\" r=\"24\" fill=\"currentColor\"></circle><circle cx=\"296\" cy=\"128\" r=\"24\" fill=\"currentColor\"></circle><circle cx=\"360\" cy=\"168\" r=\"24\" fill=\"currentColor\"></circle></svg>",
 		"@ionicons,bowling,ball,outline",
 		"Ionicons"
 	],
