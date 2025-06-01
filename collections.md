@@ -324,24 +324,57 @@
   the [MPL-2.0](https://github.com/Klarr-Agency/Circum-Icons/blob/main/LICENSE)
 - [Memory Icons](https://github.com/Pictogrammers/Memory) licensed under the
   [Apache-2.0](https://github.com/Pictogrammers/Memory/blob/main/LICENSE)
-- [Streamline Covid Icons](https://github.com/webalys-hq/streamline-vectors)
-  licensed under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/covid)
-- [Streamline Emojis](https://github.com/webalys-hq/streamline-vectors) licensed
+- [Streamline Block](https://github.com/webalys-hq/streamline-vectors) licensed
   under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/freebies-freemojis)
-- [Streamline Guidance](https://github.com/webalys-hq/streamline-vectors)
-  licensed under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/guidance)
-- [Streamline Memes](https://github.com/webalys-hq/streamline-vectors) licensed
-  under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/memes)
-- [Streamline Nasty icons](https://github.com/webalys-hq/streamline-vectors)
-  licensed under the
-  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/nasty-icons)
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/block)
 - [Streamline Core](https://github.com/webalys-hq/streamline-vectors) licensed
   under the
   [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/core)
+- [Streamline Covid](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/covid)
+- [Streamline Cyber](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/cyber)
+- [Streamline Flex](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/flex)
+- [Streamline Emojis](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/freebies-freemojis)
+- [Streamline Freehand](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/freehand)
+- [Streamline Guidance](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/guidance)
+- [Streamline Kameleon](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/kameleon)
+- [Streamline Logos](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/logos)
+- [Streamline Memes](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/memes)
+- [Streamline Nasty](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/nasty-icons)
+- [Streamline Pixel](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/pixel)
+- [Streamline Plump](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/plump)
+- [Streamline Sharp](https://github.com/webalys-hq/streamline-vectors) licensed
+  under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/sharp)
+- [Streamline Stickies](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/stickies)
+- [Streamline Ultimate](https://github.com/webalys-hq/streamline-vectors)
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/ultimate)
 - [Solar Icon Set](https://github.com/480-Design/Solar-icon-set) licensed under
   the [CC-BY-4.0](https://www.figma.com/community/file/1166831539721848736)
 - [Basil Icons](https://craftwork.design/downloads/basil/) licensed under the
