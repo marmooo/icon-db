@@ -840,6 +840,16 @@
 		"@feather"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M5 2h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1Zm5 0h1a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1Z\"></path></svg>",
+		"@octicons,pause",
+		"Octicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M9 3H7.5A1.5 1.5 0 0 0 6 4.5v15A1.5 1.5 0 0 0 7.5 21H9a1.5 1.5 0 0 0 1.5-1.5v-15A1.5 1.5 0 0 0 9 3Zm7.5 0H15a1.5 1.5 0 0 0-1.5 1.5v15A1.5 1.5 0 0 0 15 21h1.5a1.5 1.5 0 0 0 1.5-1.5v-15A1.5 1.5 0 0 0 16.5 3Z\"></path></svg>",
+		"@octicons,pause",
+		"Octicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm224-72l0 144c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-144c0-13.3 10.7-24 24-24s24 10.7 24 24zm112 0l0 144c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-144c0-13.3 10.7-24 24-24s24 10.7 24 24z\"></path></svg>",
 		"@font-awesome,regular,circle,pause",
 		"Font Awesome"
@@ -1017,6 +1027,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0\"></path><path d=\"M13.022 17.945a9.308 9.308 0 0 1 -1.022 .055c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.195 .325 -.394 .636 -.596 .935\"></path><path d=\"M17 17v5\"></path><path d=\"M21 17v5\"></path></svg>",
 		"@tabler-icons,outline,eye,pause",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 6h16\"></path><path d=\"M6 12h12\"></path><path d=\"M9 18h4\"></path><path d=\"M17 17v5\"></path><path d=\"M21 17v5\"></path></svg>",
+		"@tabler-icons,outline,filter,2,pause",
 		"Tabler Icons"
 	],
 	[
@@ -1375,22 +1390,22 @@
 		"Fluent UI System Icons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 10C2 5.58172 5.58172 2 10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10ZM9 7.5C9 7.22386 8.77614 7 8.5 7C8.22386 7 8 7.22386 8 7.5V12.5C8 12.7761 8.22386 13 8.5 13C8.77614 13 9 12.7761 9 12.5V7.5ZM12 7.5C12 7.22386 11.7761 7 11.5 7C11.2239 7 11 7.22386 11 7.5V12.5C11 12.7761 11.2239 13 11.5 13C11.7761 13 12 12.7761 12 12.5V7.5Z\" fill=\"#212121\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2ZM8.5 6.5C8.22386 6.5 8 6.72386 8 7V13C8 13.2761 8.22386 13.5 8.5 13.5C8.77614 13.5 9 13.2761 9 13V7C9 6.72386 8.77614 6.5 8.5 6.5ZM11.5 6.5C11.2239 6.5 11 6.72386 11 7V13C11 13.2761 11.2239 13.5 11.5 13.5C11.7761 13.5 12 13.2761 12 13V7C12 6.72386 11.7761 6.5 11.5 6.5Z\" fill=\"#212121\"></path></svg>",
 		"@fluent-ui-system-icons,pause,circle,pause,circle,filled",
 		"Fluent UI System Icons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 10C2 5.58172 5.58172 2 10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10ZM9 7.5C9 7.22386 8.77614 7 8.5 7C8.22386 7 8 7.22386 8 7.5V12.5C8 12.7761 8.22386 13 8.5 13C8.77614 13 9 12.7761 9 12.5V7.5ZM12 7.5C12 7.22386 11.7761 7 11.5 7C11.2239 7 11 7.22386 11 7.5V12.5C11 12.7761 11.2239 13 11.5 13C11.7761 13 12 12.7761 12 12.5V7.5Z\" fill=\"#212121\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2ZM8.5 6.5C8.22386 6.5 8 6.72386 8 7V13C8 13.2761 8.22386 13.5 8.5 13.5C8.77614 13.5 9 13.2761 9 13V7C9 6.72386 8.77614 6.5 8.5 6.5ZM11.5 6.5C11.2239 6.5 11 6.72386 11 7V13C11 13.2761 11.2239 13.5 11.5 13.5C11.7761 13.5 12 13.2761 12 13V7C12 6.72386 11.7761 6.5 11.5 6.5Z\" fill=\"#212121\"></path></svg>",
 		"@fluent-ui-system-icons,pause,circle,pause,circle,filled",
 		"Fluent UI System Icons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 7.5C9 7.22386 8.77614 7 8.5 7C8.22386 7 8 7.22386 8 7.5V12.5C8 12.7761 8.22386 13 8.5 13C8.77614 13 9 12.7761 9 12.5V7.5ZM12 7.5C12 7.22386 11.7761 7 11.5 7C11.2239 7 11 7.22386 11 7.5V12.5C11 12.7761 11.2239 13 11.5 13C11.7761 13 12 12.7761 12 12.5V7.5ZM10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2ZM3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10Z\" fill=\"#212121\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2ZM10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3ZM8.5 6.5C8.77614 6.5 9 6.72386 9 7V13C9 13.2761 8.77614 13.5 8.5 13.5C8.22386 13.5 8 13.2761 8 13V7C8 6.72386 8.22386 6.5 8.5 6.5ZM11.5 6.5C11.7761 6.5 12 6.72386 12 7V13C12 13.2761 11.7761 13.5 11.5 13.5C11.2239 13.5 11 13.2761 11 13V7C11 6.72386 11.2239 6.5 11.5 6.5Z\" fill=\"#212121\"></path></svg>",
 		"@fluent-ui-system-icons,pause,circle,pause,circle,regular",
 		"Fluent UI System Icons"
 	],
 	[
-		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9 7.5C9 7.22386 8.77614 7 8.5 7C8.22386 7 8 7.22386 8 7.5V12.5C8 12.7761 8.22386 13 8.5 13C8.77614 13 9 12.7761 9 12.5V7.5ZM12 7.5C12 7.22386 11.7761 7 11.5 7C11.2239 7 11 7.22386 11 7.5V12.5C11 12.7761 11.2239 13 11.5 13C11.7761 13 12 12.7761 12 12.5V7.5ZM10 2C5.58172 2 2 5.58172 2 10C2 14.4183 5.58172 18 10 18C14.4183 18 18 14.4183 18 10C18 5.58172 14.4183 2 10 2ZM3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10Z\" fill=\"#212121\"></path></svg>",
+		"<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 2C14.4183 2 18 5.58172 18 10C18 14.4183 14.4183 18 10 18C5.58172 18 2 14.4183 2 10C2 5.58172 5.58172 2 10 2ZM10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3ZM8.5 6.5C8.77614 6.5 9 6.72386 9 7V13C9 13.2761 8.77614 13.5 8.5 13.5C8.22386 13.5 8 13.2761 8 13V7C8 6.72386 8.22386 6.5 8.5 6.5ZM11.5 6.5C11.7761 6.5 12 6.72386 12 7V13C12 13.2761 11.7761 13.5 11.5 13.5C11.2239 13.5 11 13.2761 11 13V7C11 6.72386 11.2239 6.5 11.5 6.5Z\" fill=\"#212121\"></path></svg>",
 		"@fluent-ui-system-icons,pause,circle,pause,circle,regular",
 		"Fluent UI System Icons"
 	],
@@ -2205,16 +2220,6 @@
 		"Gitlab SVGs"
 	],
 	[
-		"<svg fill=\"none\" height=\"18\" width=\"18\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 18 18\"><path d=\"M6.75 3a.75.75 0 0 0-1.5 0zm-1.5 12a.75.75 0 0 0 1.5 0zm7.5-12a.75.75 0 0 0-1.5 0zm-1.5 12a.75.75 0 0 0 1.5 0zm-4.5 0V3h-1.5v12zm6 0V3h-1.5v12z\" fill=\"currentColor\"></path></svg>",
-		"@iconbrew,pause",
-		"IconBrew"
-	],
-	[
-		"<svg fill=\"none\" height=\"24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M8 4a1 1 0 0 0-2 0zM6 20a1 1 0 1 0 2 0zM18 4a1 1 0 1 0-2 0zm-2 16a1 1 0 1 0 2 0zm-8 0V4H6v16zm10 0V4h-2v16z\" fill=\"currentColor\"></path></svg>",
-		"@iconbrew,pause",
-		"IconBrew"
-	],
-	[
 		"<?xml version=\"1.0\" encoding=\"utf-8\"?><!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"17\" height=\"17\" viewBox=\"0 0 17 17\"><g></g><path d=\"M3 15h4v-13h-4v13zM4 3h2v11h-2v-11zM10 2v13h4v-13h-4zM13 14h-2v-11h2v11z\" fill=\"#000000\"></path></svg>",
 		"@themify-icons,control,pause",
 		"Themify Icons"
@@ -2230,22 +2235,42 @@
 		"Memory Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M4 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1H4a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" fill=\"#37d7ff\" d=\"M12.5.5H10a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h2.5a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1H4a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_4\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5.5H10a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h2.5a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" fill=\"#d7e0ff\" d=\"M4 0.5H1.5a1 1 0 0 0 -1 1v11a1 1 0 0 0 1 1H4a1 1 0 0 0 1 -1v-11a1 1 0 0 0 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" fill=\"#d7e0ff\" d=\"M12.5 0.5H10a1 1 0 0 0 -1 1v11a1 1 0 0 0 1 1h2.5a1 1 0 0 0 1 -1v-11a1 1 0 0 0 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_3\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 0.5H1.5a1 1 0 0 0 -1 1v11a1 1 0 0 0 1 1H4a1 1 0 0 0 1 -1v-11a1 1 0 0 0 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_4\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 0.5H10a1 1 0 0 0 -1 1v11a1 1 0 0 0 1 1h2.5a1 1 0 0 0 1 -1v-11a1 1 0 0 0 -1 -1Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,button,pause",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M0 1.5A1.5 1.5 0 0 1 1.5 0H4a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 4 14H1.5A1.5 1.5 0 0 1 0 12.5v-11ZM10 0a1.5 1.5 0 0 0-1.5 1.5v11A1.5 1.5 0 0 0 10 14h2.5a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 12.5 0H10Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"#8fbffa\" fill-rule=\"evenodd\" d=\"M0 1.5A1.5 1.5 0 0 1 1.5 0H4a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 4 14H1.5A1.5 1.5 0 0 1 0 12.5v-11ZM10 0a1.5 1.5 0 0 0 -1.5 1.5v11A1.5 1.5 0 0 0 10 14h2.5a1.5 1.5 0 0 0 1.5 -1.5v-11A1.5 1.5 0 0 0 12.5 0H10Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,button,pause",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 .5H1.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1H4a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5.5H10a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h2.5a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core-Gradient\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Gradient/Entertainment/button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"url(#paint0_linear_14402_14935)\" fill-rule=\"evenodd\" d=\"M2 .5C1.17157.5.5 1.17157.5 2v10c0 .8284.67157 1.5 1.5 1.5h2.5c.82843 0 1.5-.6716 1.5-1.5V2C6 1.17157 5.32843.5 4.5.5H2Zm7.5 0C8.67157.5 8 1.17157 8 2v10c0 .8284.67157 1.5 1.5 1.5H12c.8284 0 1.5-.6716 1.5-1.5V2c0-.82843-.6716-1.5-1.5-1.5H9.5Z\" clip-rule=\"evenodd\"></path></g><defs><linearGradient id=\"paint0_linear_14402_14935\" x1=\"14.627\" x2=\"-2.908\" y1=\"16.253\" y2=\"3.798\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ffd600\"></stop><stop offset=\"1\" stop-color=\"#ff007a\"></stop></linearGradient></defs></svg>",
 		"@streamline-core,button,pause",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M0 1.5A1.5 1.5 0 0 1 1.5 0H4a1.5 1.5 0 0 1 1.5 1.5v11A1.5 1.5 0 0 1 4 14H1.5A1.5 1.5 0 0 1 0 12.5v-11ZM10 0a1.5 1.5 0 0 0-1.5 1.5v11A1.5 1.5 0 0 0 10 14h2.5a1.5 1.5 0 0 0 1.5-1.5v-11A1.5 1.5 0 0 0 12.5 0H10Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4 0.5H1.5c-0.552285 0 -1 0.447715 -1 1v11c0 0.5523 0.447715 1 1 1H4c0.55228 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.44772 -1 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 0.5H10c-0.55228 0 -1 0.447715 -1 1v11c0 0.5523 0.44772 1 1 1h2.5c0.5523 0 1 -0.4477 1 -1v-11c0 -0.552285 -0.4477 -1 -1 -1Z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,button,pause",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core-Neon\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 1H2c-0.55228 0 -1 0.44772 -1 1v10c0 0.5523 0.44772 1 1 1h2.5c0.55228 0 1 -0.4477 1 -1V2c0 -0.55228 -0.44772 -1 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 1H9.5c-0.55228 0 -1 0.44772 -1 1v10c0 0.5523 0.44772 1 1 1H12c0.5523 0 1 -0.4477 1 -1V2c0 -0.55228 -0.4477 -1 -1 -1Z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,button,pause",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Vector\" fill=\"#fddc5c\" d=\"M4.5 1H2c-0.55228 0 -1 0.44772 -1 1v10c0 0.5523 0.44772 1 1 1h2.5c0.55228 0 1 -0.4477 1 -1V2c0 -0.55228 -0.44772 -1 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" fill=\"#fddc5c\" d=\"M12 1H9.5c-0.55228 0 -1 0.44772 -1 1v10c0 0.5523 0.44772 1 1 1H12c0.5523 0 1 -0.4477 1 -1V2c0 -0.55228 -0.4477 -1 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Union\" fill=\"#0c098c\" fill-rule=\"evenodd\" d=\"M1.625 2c0 -0.20711 0.16789 -0.375 0.375 -0.375h2.5c0.20711 0 0.375 0.16789 0.375 0.375v10c0 0.2071 -0.16789 0.375 -0.375 0.375H2c-0.20711 0 -0.375 -0.1679 -0.375 -0.375V2ZM2 0.375C1.10254 0.375 0.375 1.10254 0.375 2v10c0 0.8975 0.72754 1.625 1.625 1.625h2.5c0.89746 0 1.625 -0.7275 1.625 -1.625V2c0 -0.89746 -0.72754 -1.625 -1.625 -1.625H2ZM9.125 2c0 -0.20711 0.16789 -0.375 0.375 -0.375H12c0.2071 0 0.375 0.16789 0.375 0.375v10c0 0.2071 -0.1679 0.375 -0.375 0.375H9.5c-0.20711 0 -0.375 -0.1679 -0.375 -0.375V2ZM9.5 0.375c-0.89746 0 -1.625 0.72754 -1.625 1.625v10c0 0.8975 0.72754 1.625 1.625 1.625H12c0.8975 0 1.625 -0.7275 1.625 -1.625V2c0 -0.89746 -0.7275 -1.625 -1.625 -1.625H9.5Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,button,pause",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core-Remix\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Remix/Entertainment/button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M1.625 2c0 -0.20711 0.16789 -0.375 0.375 -0.375h2.5c0.20711 0 0.375 0.16789 0.375 0.375v10c0 0.2071 -0.16789 0.375 -0.375 0.375H2c-0.20711 0 -0.375 -0.1679 -0.375 -0.375V2ZM2 0.375C1.10254 0.375 0.375 1.10254 0.375 2v10c0 0.8975 0.72754 1.625 1.625 1.625h2.5c0.89746 0 1.625 -0.7275 1.625 -1.625V2c0 -0.89746 -0.72754 -1.625 -1.625 -1.625H2ZM9.125 2c0 -0.20711 0.16789 -0.375 0.375 -0.375H12c0.2071 0 0.375 0.16789 0.375 0.375v10c0 0.2071 -0.1679 0.375 -0.375 0.375H9.5c-0.20711 0 -0.375 -0.1679 -0.375 -0.375V2ZM9.5 0.375c-0.89746 0 -1.625 0.72754 -1.625 1.625v10c0 0.8975 0.72754 1.625 1.625 1.625H12c0.8975 0 1.625 -0.7275 1.625 -1.625V2c0 -0.89746 -0.7275 -1.625 -1.625 -1.625H9.5Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,button,pause",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Button-Pause-2--Streamline-Core\"><desc> Button Pause 2 Streamline Icon: https://streamlinehq.com</desc><g id=\"button-pause-2--button-television-buttons-movies-tv-pause-video-controls\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M0 1.5C0 0.671573 0.671573 0 1.5 0H4c0.82843 0 1.5 0.671573 1.5 1.5v11c0 0.8284 -0.67157 1.5 -1.5 1.5H1.5C0.671573 14 0 13.3284 0 12.5v-11ZM10 0c-0.82843 0 -1.5 0.671573 -1.5 1.5v11c0 0.8284 0.67157 1.5 1.5 1.5h2.5c0.8284 0 1.5 -0.6716 1.5 -1.5v-11c0 -0.828427 -0.6716 -1.5 -1.5 -1.5H10Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,button,pause",
 		"Streamline Core"
 	],

@@ -15,6 +15,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M127 100h15M89 78v36m53-36h-9a6 6 0 0 0-6 6v30m-75-14h14a6 6 0 0 0 6-6V84a6 6 0 0 0-6-6h-8a6 6 0 0 0-6 6v30m37-36h14a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6H89\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"16\"></rect></svg>",
+		"@lawnicons,grapheneos,secure,pdf,viewer",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"m40 47 56-24m56 24L96 23m-56 82c0 31 40 64 56 64m56-64c0 31-40 64-56 64M40 47v31m112-31v31\"></path></svg>",
 		"@lawnicons,moto,secure",
 		"Lawnicons"
@@ -52,11 +57,6 @@
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg width=\"192\" height=\"192\" viewBox=\"0 0 50.799999 50.8\" version=\"1.1\" id=\"svg1\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\"><defs id=\"defs1\"></defs><g id=\"layer1\" transform=\"matrix(1.0000035,0,0,1.0000035,0.09703616,-8.6900923e-5)\" style=\"stroke-width:0.999997\"><path style=\"fill:none;stroke:#000000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32;stroke-dasharray:none\" d=\"M 25.594246,5.8208162 C 19.572638,8.8404897 13.55103,10.788667 7.5294213,12.249799 l 9.11e-5,19.481768 C 11.835984,38.690686 17.953884,42.998524 25.594204,44.979171 33.979131,43.030993 39.547491,38.45274 43.076283,31.73153 l 4.9e-5,-19.481851 C 36.860478,11.243121 31.712976,8.6781427 25.594246,5.8208162 Z\" id=\"path1\"></path><path id=\"path2\" style=\"fill:none;stroke:#000000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32\" d=\"m 30.256134,19.226648 c 0,2.555378 -2.0872,4.62692 -4.66189,4.62692 -2.574691,1e-6 -4.661891,-2.071542 -4.661891,-4.62692 0,-2.555377 2.0872,-4.62692 4.661891,-4.62692 2.574691,10e-7 4.66189,2.071544 4.66189,4.62692 z\"></path><path style=\"fill:none;stroke:#000000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32;stroke-dasharray:none\" d=\"m 16.093969,32.110039 c 1.100725,-4.610684 2.5719,-8.02918 9.499986,-8.256467 6.312976,0.259756 8.140848,3.905828 9.112075,8.256756\" id=\"path3\"></path></g></svg>",
 		"@lawnicons,synology,secure,signin",
-		"Lawnicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M116 82a30.002 30.002 0 0 0 25.981-45 30 30 0 0 0-51.961 0\"></path><path d=\"M116 54a30 30 0 0 0-12 57.496V156m37.981-87A30 30 0 0 1 128 111.495V156m-12 14-12-14m12 14 12-14m-44.846-30.029L54.87 154.255M66.184 109 37.9 137.284m-1.415 18.385 1.415-18.385m-1.415 18.385 18.385-1.414\"></path></svg>",
-		"@lawnicons,ubs,access,secure,login",
 		"Lawnicons"
 	],
 	[
@@ -323,6 +323,21 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M13.84376,7.53645l-1.28749-1.0729A2,2,0,0,0,11.27591,6H4A2,2,0,0,0,2,8V24a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H15.12412A2,2,0,0,1,13.84376,7.53645Z\" style=\"fill: #f9a825\"></path><path d=\"M28,16V12.17193A4.11612,4.11612,0,0,0,24.393,8.0188,4.00079,4.00079,0,0,0,20,12v4H18a2,2,0,0,0-2,2v8a2,2,0,0,0,2,2H30a2,2,0,0,0,2-2V18a2,2,0,0,0-2-2Zm-4,8a2,2,0,1,1,2-2A2,2,0,0,1,24,24Zm2-8H22V12a2,2,0,0,1,4,0Z\" style=\"fill: #fff9c4\"></path></svg>",
 		"@material-icon-theme,folder,secure",
 		"Material Icon Theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"User-Protection-2—Shield-Secure-Security-Profile-Person--Streamline-Core-Neon\"><desc> User Protection 2—shield Secure Security Profile Person Streamline Icon: https://streamlinehq.com</desc><g id=\"user-protection-2âshield-secure-security-profile-person\"><path id=\"Ellipse 1925\" stroke=\"#000cfe\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5 5a2 2 0 1 0 4 0 2 2 0 1 0 -4 0\" stroke-width=\"1\"></path><path id=\"Ellipse 1926\" stroke=\"#000cfe\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13c1.5532 -0.5177 2.88725 -1.4411 3.9003 -2.6288C9.9839 9.2303 8.57724 8.5 7 8.5c-1.57724 0 -2.9839 0.7303 -3.9003 1.8712C4.11275 11.5589 5.4468 12.4823 7 13Z\" stroke-width=\"1\"></path><path id=\"Vector 3701\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 1H2c-0.55228 0 -1 0.44772 -1 1v2.67544C1 8.45241 3.41686 11.8056 7 13c3.5831 -1.1944 6 -4.54759 6 -8.32456V2c0 -0.55228 -0.4477 -1 -1 -1Z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,user,protection,2—shield,secure,security,profile,person",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"User-Protection-2—Shield-Secure-Security-Profile-Person--Streamline-Core\"><desc> User Protection 2—shield Secure Security Profile Person Streamline Icon: https://streamlinehq.com</desc><g id=\"user-protection-2âshield-secure-security-profile-person\"><path id=\"Vector 3703\" fill=\"#79ee8d\" d=\"M12 1H2c-0.55228 0 -1 0.44772 -1 1v2.67544C1 8.45241 3.41686 11.8056 7 13c3.5831 -1.1944 6 -4.54759 6 -8.32456V2c0 -0.55228 -0.4477 -1 -1 -1Z\" stroke-width=\"1\"></path><path id=\"Union\" fill=\"#0c098c\" fill-rule=\"evenodd\" d=\"M0.375 2C0.375 1.10254 1.10254 0.375 2 0.375h10c0.8975 0 1.625 0.72754 1.625 1.625v2.67544c0 4.04599 -2.589 7.63806 -6.42736 8.91746 -0.12829 0.0428 -0.26699 0.0428 -0.39528 0C2.964 12.3135 0.375 8.72143 0.375 4.67544V2ZM2 1.625c-0.20711 0 -0.375 0.16789 -0.375 0.375v2.67544c0 1.78413 0.58064 3.46645 1.58911 4.83496C4.19981 8.57484 5.5329 8 7 8c1.4671 0 2.80019 0.57484 3.7859 1.5104 1.0085 -1.36851 1.5891 -3.05083 1.5891 -4.83496V2c0 -0.20711 -0.1679 -0.375 -0.375 -0.375H2Zm2.75 3.5c0 -1.24264 1.00736 -2.25 2.25 -2.25s2.25 1.00736 2.25 2.25S8.24264 7.375 7 7.375s-2.25 -1.00736 -2.25 -2.25Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,user,protection,2—shield,secure,security,profile,person",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"User-Protection-2—Shield-Secure-Security-Profile-Person--Streamline-Core-Remix\"><desc> User Protection 2—shield Secure Security Profile Person Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Remix/Interface Essential/user-protection-2âshield-secure-security-profile-person\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M2 0.375C1.10254 0.375 0.375 1.10254 0.375 2v2.67544c0 4.04599 2.589 7.63806 6.42736 8.91746 0.12829 0.0428 0.26699 0.0428 0.39528 0C11.036 12.3135 13.625 8.72143 13.625 4.67544V2c0 -0.89746 -0.7275 -1.625 -1.625 -1.625H2ZM1.625 2c0 -0.20711 0.16789 -0.375 0.375 -0.375h10c0.2071 0 0.375 0.16789 0.375 0.375v2.67544c0 1.78413 -0.5806 3.46645 -1.5891 4.83496C9.80019 8.57484 8.4671 8 7 8c-1.4671 0 -2.80019 0.57484 -3.78589 1.5104C2.20564 8.14189 1.625 6.45957 1.625 4.67544V2ZM7 3.5c-0.75939 0 -1.375 0.61561 -1.375 1.375S6.24061 6.25 7 6.25s1.375 -0.61561 1.375 -1.375S7.75939 3.5 7 3.5ZM4.375 4.875C4.375 3.42525 5.55025 2.25 7 2.25s2.625 1.17525 2.625 2.625S8.44975 7.5 7 7.5 4.375 6.32475 4.375 4.875Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,user,protection,2—shield,secure,security,profile,person",
+		"Streamline Core"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"laptop_secure\" focusable=\"false\"><path d=\"M884 1536q15 67 42 128H128q-27 0-50-10t-40-27-28-41-10-50q0-16 3-34t8-38 14-35 21-29l210-211V256h1536v611q-30-17-62-28t-66-19V384H384v768h480v128H347l-206 205q-3 3-5 10t-4 14-3 15-1 12H64h820zm652-571q59 0 108 14t100 43q42 25 96 31t108 7h51q25 0 49-1v325q0 105-38 198t-101 173-145 144-169 110l-59 31-60-31q-87-45-168-109t-145-145-101-173-38-198v-325h50q26 0 54 1 53 0 106-6t96-33q50-29 99-42t107-14zm384 222q-66 0-127-12t-118-45q-34-20-66-28t-73-9q-38 0-71 8t-66 28q-58 33-119 45t-128 13v197q0 86 33 162t88 142 123 118 140 90q70-37 139-89t123-118 88-142 34-163v-197z\"></path></svg>",

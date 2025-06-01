@@ -40,7 +40,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 102v28m0-68v2m0 18v2m-19 24 19 22 19-22\"></path><rect width=\"148\" height=\"128\" x=\"22\" y=\"32\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"24\"></rect></svg>",
+		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M96 104v26m0-70v2m0 20v2m-19 24 19 22 19-22\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"22\" y=\"32\" width=\"148\" height=\"128\" rx=\"24\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
 		"@lawnicons,video,downloader",
 		"Lawnicons"
 	],
@@ -63,6 +63,11 @@
 		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 192 192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M144 25H37c-6.627 0-12 5.373-12 12v107m23 23h107c6.627 0 12-5.373 12-12V48m-71 87V55\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m136 95-40 40-40-40\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@lawnicons,video,downloader,story",
 		"Lawnicons"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"c\" x=\"25.5001\" y=\"25.5\" width=\"17\" height=\"17\"></rect><path class=\"c\" d=\"M22.5001,42.5c-4.5087,0-8.8328-1.791-12.021-4.9792-3.1882-3.1882-4.9792-7.5123-4.9792-12.021h17l.0002,17.0002Z\"></path><circle class=\"c\" cx=\"14.0001\" cy=\"14\" r=\"8.5\"></circle><path class=\"c\" d=\"M30.5001,5.5v9h-3.5l7,8,7-8h-3.5V5.5h-7Z\"></path></svg>",
+		"@arcticons,black,downloader,for,gcam",
+		"Arcticons"
 	],
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"c\" cx=\"38.5\" cy=\"38.4992\" r=\"7\"></circle><path class=\"c\" d=\"m33.4316,43.3262c-2.8476,1.3923-6.0483,2.1738-9.4316,2.1738-11.8741,0-21.5-9.6259-21.5-21.5S12.1259,2.5,24,2.5s21.5,9.6259,21.5,21.5c0,3.3829-.7813,6.5833-2.1733,9.4307\"></path><line class=\"c\" x1=\"38.5\" y1=\"42.4992\" x2=\"38.5\" y2=\"34.4992\"></line><polyline class=\"c\" points=\"35.2034 39.2026 38.5 42.4992 41.7966 39.2026\"></polyline><path class=\"c\" d=\"m22.9655,33.5v-15.5034c0-1.9311,1.5655-3.4966,3.4965-3.4966.0023,0,.0046,0,.0069,0h0c1.7172,0,2.7931.5103,3.531,1.4621\"></path><line class=\"c\" x1=\"20\" y1=\"21.2517\" x2=\"27\" y2=\"21.2517\"></line></svg>",
@@ -115,8 +120,13 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"a\" d=\"M32.9992,19,24,29,15,19H32.9992Z\"></path><path class=\"a\" d=\"M43.5,37.5v-27a2,2,0,0,0-2-2H6.5a2,2,0,0,0-2,2v27a2,2,0,0,0,2,2h35A2,2,0,0,0,43.5,37.5Z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"a\" x=\"4.5\" y=\"8.5\" width=\"39\" height=\"31\" rx=\"4\" ry=\"4\"></rect><path class=\"a\" d=\"M32.9992,19,24,29,15,19H32.9992Z\"></path></svg>",
 		"@arcticons,black,youtube,downloader",
+		"Arcticons"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"c\" x=\"25.5001\" y=\"25.5\" width=\"17\" height=\"17\"></rect><path class=\"c\" d=\"M22.5001,42.5c-4.5087,0-8.8328-1.791-12.021-4.9792-3.1882-3.1882-4.9792-7.5123-4.9792-12.021h17l.0002,17.0002Z\"></path><circle class=\"c\" cx=\"14.0001\" cy=\"14\" r=\"8.5\"></circle><path class=\"c\" d=\"M30.5001,5.5v9h-3.5l7,8,7-8h-3.5V5.5h-7Z\"></path></svg>",
+		"@arcticons,white,downloader,for,gcam",
 		"Arcticons"
 	],
 	[
@@ -170,7 +180,7 @@
 		"Arcticons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"a\" d=\"M32.9992,19,24,29,15,19H32.9992Z\"></path><path class=\"a\" d=\"M43.5,37.5v-27a2,2,0,0,0-2-2H6.5a2,2,0,0,0-2,2v27a2,2,0,0,0,2,2h35A2,2,0,0,0,43.5,37.5Z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><rect class=\"a\" x=\"4.5\" y=\"8.5\" width=\"39\" height=\"31\" rx=\"4\" ry=\"4\"></rect><path class=\"a\" d=\"M32.9992,19,24,29,15,19H32.9992Z\"></path></svg>",
 		"@arcticons,white,youtube,downloader",
 		"Arcticons"
 	]

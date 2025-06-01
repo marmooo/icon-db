@@ -1,7 +1,7 @@
 [
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\" xml:space=\"preserve\" version=\"1.1\" id=\"svg4\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\"><defs id=\"defs4\"></defs><path style=\"fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke\" d=\"M 19.924381,30.72845 30.873233,24.33107 19.924381,17.93368 Z\" id=\"path1\"></path><g style=\"fill:none;stroke:#000000;stroke-width:1.00003;stroke-linecap:round;stroke-linejoin:round\" id=\"g2\" transform=\"matrix(0.99996574,0,0,1,1.9942123e-4,0)\"><path d=\"m 181.138,400.912 h 35.5 m -17.75,-17.75 v 35.5\" style=\"stroke-width:10.3036;paint-order:fill markers stroke\" transform=\"matrix(0,0.30823,-0.30806,0,163.01786,-22.854)\" stroke-width=\"10.3033\" id=\"path2\"></path></g><path d=\"M 16.756593,10.21292 H 5.820829\" style=\"fill:none;stroke:#000000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke\" id=\"path3\"></path><path style=\"fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke\" d=\"m 11.288851,17.36228 v 17.91161 c 0,1.7535 1.421417,3.175 3.174809,3.175 H 26.893359 M 39.508424,25.8267 39.508623,13.3881 c 3e-5,-1.75348 -1.421406,-3.17494 -3.174788,-3.17483 l -12.428859,8e-4\" id=\"path4\"></path></svg>",
-		"@lawnicons,crop,trim,video",
+		"@lawnicons,crop,and,trim,video",
 		"Lawnicons"
 	],
 	[
@@ -70,22 +70,42 @@
 		"neuicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pathfinder-trim\"><path id=\"Rectangle 752\" fill=\"#ffffff\" d=\"M.5 1.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7Z\"></path><path id=\"Rectangle 761\" fill=\"#37d7ff\" d=\"M4.5 5.5a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1v-7Z\"></path><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 4.5v-3c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h3\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 13.5a1 1 0 0 0 1-1v-7c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h7Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Trim--Streamline-Core\"><desc> Pathfinder Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-trim\"><path id=\"Rectangle 752\" fill=\"#ffffff\" d=\"M0.5 1.5c0 -0.552285 0.447715 -1 1 -1h7c0.55228 0 1 0.447715 1 1v7c0 0.55228 -0.44772 1 -1 1h-7c-0.552285 0 -1 -0.44772 -1 -1v-7Z\" stroke-width=\"1\"></path><path id=\"Rectangle 761\" fill=\"#d7e0ff\" d=\"M4.5 5.5c0 -0.55228 0.44772 -1 1 -1h7c0.5523 0 1 0.44772 1 1v7c0 0.5523 -0.4477 1 -1 1h-7c-0.55228 0 -1 -0.4477 -1 -1v-7Z\" stroke-width=\"1\"></path><path id=\"Vector\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 4.5v-3c0 -0.544667 -0.45533 -1 -1 -1h-7c-0.544667 0 -1 0.455333 -1 1v7c0 0.54467 0.455333 1 1 1h3\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 13.5c0.5523 0 1 -0.4477 1 -1v-7c0 -0.54467 -0.4553 -1 -1 -1h-7c-0.54467 0 -1 0.45533 -1 1v7c0 0.5447 0.45533 1 1 1h7Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pathfinder,trim",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pathfinder-trim\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M12.5 4h-7A1.5 1.5 0 0 0 4 5.5v7A1.5 1.5 0 0 0 5.5 14h7a1.5 1.5 0 0 0 1.5-1.5v-7A1.5 1.5 0 0 0 12.5 4Z\"></path><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M1.5 0h7A1.5 1.5 0 0 1 10 1.5v1.25H5.5A2.75 2.75 0 0 0 2.75 5.5V10H1.5A1.5 1.5 0 0 1 0 8.5v-7A1.5 1.5 0 0 1 1.5 0Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Trim--Streamline-Core\"><desc> Pathfinder Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-trim\"><path id=\"Vector\" fill=\"#8fbffa\" d=\"M12.5 4h-7A1.5 1.5 0 0 0 4 5.5v7A1.5 1.5 0 0 0 5.5 14h7a1.5 1.5 0 0 0 1.5 -1.5v-7A1.5 1.5 0 0 0 12.5 4Z\" stroke-width=\"1\"></path><path id=\"Subtract\" fill=\"#2859c5\" fill-rule=\"evenodd\" d=\"M1.5 0h7A1.5 1.5 0 0 1 10 1.5v1.25H5.5A2.75 2.75 0 0 0 2.75 5.5V10H1.5A1.5 1.5 0 0 1 0 8.5v-7A1.5 1.5 0 0 1 1.5 0Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pathfinder,trim",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pathfinder-trim\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 4.5v-3c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h3\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 13.5a1 1 0 0 0 1-1v-7c0-.545-.455-1-1-1h-7c-.545 0-1 .455-1 1v7c0 .545.455 1 1 1h7Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Square-Trim--Streamline-Core-Gradient\"><desc> Pathfinder Square Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Gradient/Interface Essential/pathfinder-square-trim\"><path id=\"Union\" fill=\"url(#paint0_linear_14402_8247)\" fill-rule=\"evenodd\" d=\"M8.5.499939H2c-.82843 0-1.5.671571-1.5 1.500001v6.5c0 .82843.67157 1.5 1.5 1.5h.75v-4.5c0-1.51878 1.23122-2.75 2.75-2.75H10v-.75C10 1.17151 9.32843.499939 8.5.499939Zm-3 3.500001H12c.8284 0 1.5.67157 1.5 1.5v6.49996c0 .8285-.6716 1.5-1.5 1.5H5.5c-.82843 0-1.5-.6715-1.5-1.5V5.49994c0-.82843.67157-1.5 1.5-1.5Z\" clip-rule=\"evenodd\"></path></g><defs><linearGradient id=\"paint0_linear_14402_8247\" x1=\"1\" x2=\"15.816\" y1=\"1.55\" y2=\"9.901\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#00d078\"></stop><stop offset=\"1\" stop-color=\"#007df0\"></stop></linearGradient></defs></svg>",
+		"@streamline-core,pathfinder,square,trim",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Trim--Streamline-Core\"><desc> Pathfinder Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-trim\"><path id=\"Vector\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 4.5v-3c0 -0.544667 -0.45533 -1 -1 -1h-7c-0.544667 0 -1 0.455333 -1 1v7c0 0.54467 0.455333 1 1 1h3\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12.5 13.5c0.5523 0 1 -0.4477 1 -1v-7c0 -0.54467 -0.4553 -1 -1 -1h-7c-0.54467 0 -1 0.45533 -1 1v7c0 0.5447 0.45533 1 1 1h7Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pathfinder,trim",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pathfinder-trim\"><path id=\"Union\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M8.5 0h-7A1.5 1.5 0 0 0 0 1.5v7A1.5 1.5 0 0 0 1.5 10h1.25V5.5A2.75 2.75 0 0 1 5.5 2.75H10V1.5A1.5 1.5 0 0 0 8.5 0Zm-3 4h7A1.5 1.5 0 0 1 14 5.5v7a1.5 1.5 0 0 1-1.5 1.5h-7A1.5 1.5 0 0 1 4 12.5v-7A1.5 1.5 0 0 1 5.5 4Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Square-Trim--Streamline-Core-Neon\"><desc> Pathfinder Square Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-square-trim\"><path id=\"Vector\" stroke=\"#000cfe\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9.5 4.5V2c0 -0.54467 -0.45533 -1 -1 -1H2c-0.54467 0 -1 0.45533 -1 1v6.5c0 0.54467 0.45533 1 1 1h2.5\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 13c0.5523 0 1 -0.4477 1 -1V5.5c0 -0.54467 -0.4553 -1 -1 -1H5.5c-0.54467 0 -1 0.45533 -1 1V12c0 0.5447 0.45533 1 1 1H12Z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pathfinder,square,trim",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Square-Trim--Streamline-Core\"><desc> Pathfinder Square Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-square-trim\"><path id=\"Vector\" fill=\"#79ee8d\" d=\"M8.5 9.5c0.55228 0 1 -0.44772 1 -1V2c0 -0.54467 -0.45533 -1 -1 -1H2c-0.54467 0 -1 0.45533 -1 1v6.5c0 0.54467 0.45533 1 1 1h6.5Z\" stroke-width=\"1\"></path><path id=\"Union\" fill=\"#0c098c\" fill-rule=\"evenodd\" d=\"M0.375 2C0.375 1.11016 1.11016 0.375 2 0.375h6.5c0.88984 0 1.625 0.73516 1.625 1.625v1.875H12c0.8898 0 1.625 0.73516 1.625 1.625V12c0 0.8975 -0.7275 1.625 -1.625 1.625H5.5c-0.88984 0 -1.625 -0.7352 -1.625 -1.625v-1.875H2c-0.88984 0 -1.625 -0.73516 -1.625 -1.625V2Zm8.5 1.875H5.5c-0.88984 0 -1.625 0.73516 -1.625 1.625v3.375H2c-0.19949 0 -0.375 -0.17551 -0.375 -0.375V2c0 -0.19949 0.17551 -0.375 0.375 -0.375h6.5c0.19949 0 0.375 0.17551 0.375 0.375v1.875Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pathfinder,square,trim",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Square-Trim--Streamline-Core-Remix\"><desc> Pathfinder Square Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Remix/Interface Essential/pathfinder-square-trim\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M0.375 2C0.375 1.11016 1.11016 0.375 2 0.375h6.5c0.88984 0 1.625 0.73516 1.625 1.625v1.875H12c0.8898 0 1.625 0.73516 1.625 1.625V12c0 0.8975 -0.7275 1.625 -1.625 1.625H5.5c-0.88984 0 -1.625 -0.7352 -1.625 -1.625v-1.875H2c-0.88984 0 -1.625 -0.73516 -1.625 -1.625V2Zm8.5 1.875H5.5c-0.88984 0 -1.625 0.73516 -1.625 1.625v3.375H2c-0.19949 0 -0.375 -0.17551 -0.375 -0.375V2c0 -0.19949 0.17551 -0.375 0.375 -0.375h6.5c0.19949 0 0.375 0.17551 0.375 0.375v1.875Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pathfinder,square,trim",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pathfinder-Trim--Streamline-Core\"><desc> Pathfinder Trim Streamline Icon: https://streamlinehq.com</desc><g id=\"pathfinder-trim\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M8.5 0h-7C0.671573 0 0 0.671573 0 1.5v7C0 9.32843 0.671573 10 1.5 10h1.25V5.5c0 -1.51878 1.23122 -2.75 2.75 -2.75H10V1.5C10 0.671573 9.32843 0 8.5 0Zm-3 4h7c0.8284 0 1.5 0.67157 1.5 1.5v7c0 0.8284 -0.6716 1.5 -1.5 1.5h-7c-0.82843 0 -1.5 -0.6716 -1.5 -1.5v-7C4 4.67157 4.67157 4 5.5 4Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pathfinder,trim",
 		"Streamline Core"
 	],

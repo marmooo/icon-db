@@ -715,6 +715,11 @@
 		"Arcticons"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"M45.4998,23.9998c-.0001,8.6957-5.2383,16.5352-13.272,19.863-8.0339,3.3276-17.2811,1.4881-23.43-4.6606C2.6491,33.0533.8097,23.806,4.1372,15.7722,7.4651,7.7384,15.3045,2.5003,24.0002,2.5002v21.5l21.4996-.0004Z\"></path></svg>",
+		"@arcticons,black,pie,vat",
+		"Arcticons"
+	],
+	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.b{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"b\" cx=\"29.8327\" cy=\"16.9261\" r=\"11.4261\"></circle><path class=\"b\" d=\"m10.4372,20.3662c-2.857,2.07-4.7222,5.4445-4.7222,9.2503,0,6.3178,5.1103,11.4281,11.4173,11.4281,3.1589,0,6.0159-1.2722,8.0859-3.3422\"></path><path class=\"b\" d=\"m19.5797,21.9618c-1.0673.7116-2.3503,1.132-3.7411,1.132-2.2209,0-4.1831-1.0781-5.4014-2.7276-.8409-1.1212-1.3369-2.512-1.3369-4.0106,0-3.7303,3.0187-6.749,6.7383-6.749,1.5848,0,3.0403.5498,4.1939,1.4662\"></path><path class=\"b\" d=\"m26.1455,27.7405c-1.2506,1.5525-1.9945,3.5362-1.9945,5.6817,0,1.5525.3881,3.008,1.0673,4.2801,1.5309,2.857,4.5389,4.7976,7.9997,4.7976,5.0133,0,9.067-4.0645,9.067-9.0778,0-3.4608-1.9406-6.4795-4.8084-8.0104\"></path></svg>",
 		"@arcticons,white,black,pie,icon,pack",
 		"Arcticons"
@@ -722,6 +727,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"a\" cx=\"34.9568\" cy=\"35.3218\" r=\"6.2886\"></circle><circle class=\"a\" cx=\"39.3434\" cy=\"18.6299\" r=\"5.1566\"></circle><circle class=\"a\" cx=\"18.0065\" cy=\"39.2251\" r=\"5.1566\"></circle><circle class=\"a\" cx=\"7.5247\" cy=\"29.4939\" r=\"4.0247\"></circle><circle class=\"a\" cx=\"29.7801\" cy=\"7.6429\" r=\"4.0247\" transform=\"translate(-0.0577 0.2284) rotate(-0.439)\"></circle><circle class=\"a\" cx=\"18.2528\" cy=\"7.0451\" r=\"2.8928\"></circle><circle class=\"a\" cx=\"7.0165\" cy=\"18.3559\" r=\"2.8928\"></circle><circle class=\"a\" cx=\"11.2581\" cy=\"11.4351\" r=\"1.7608\"></circle></svg>",
 		"@arcticons,white,pie,launcher",
+		"Arcticons"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"c\" d=\"M45.4998,23.9998c-.0001,8.6957-5.2383,16.5352-13.272,19.863-8.0339,3.3276-17.2811,1.4881-23.43-4.6606C2.6491,33.0533.8097,23.806,4.1372,15.7722,7.4651,7.7384,15.3045,2.5003,24.0002,2.5002v21.5l21.4996-.0004Z\"></path></svg>",
+		"@arcticons,white,pie,vat",
 		"Arcticons"
 	],
 	[
@@ -1090,37 +1100,47 @@
 		"Clarity Icons"
 	],
 	[
-		"<svg fill=\"none\" height=\"18\" width=\"18\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 18 18\"><g stroke=\"currentColor\"><path d=\"M15.171 6.47a6.017 6.017 0 0 0-3.707-3.708c-.75-.26-1.124-.389-1.544-.09-.42.3-.42.786-.42 1.761v2c0 .943 0 1.415.293 1.707.293.293.764.293 1.707.293h2c.975 0 1.462 0 1.761-.42.3-.42.17-.794-.09-1.543z\" stroke-linejoin=\"round\"></path><path d=\"M15.187 11A6.5 6.5 0 1 1 7 2.813\" stroke-linecap=\"round\"></path></g></svg>",
-		"@iconbrew,chart,pie",
-		"IconBrew"
-	],
-	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.3 2.97l-.08-.04c-.597-.284-1.203-.573-1.783-.684-.713-.136-1.37-.009-2.038.413-.737.465-1.1 1.111-1.261 1.883C11 5.202 11 6.019 11 6.909v1.157c0 .886 0 1.65.082 2.262.088.655.287 1.284.797 1.793.51.51 1.138.709 1.793.797.612.082 1.376.082 2.262.082h1.157c.89 0 1.706 0 2.367-.138.772-.161 1.418-.524 1.883-1.261.422-.669.549-1.325.413-2.038-.11-.58-.4-1.186-.685-1.782l-.039-.082a10.037 10.037 0 0 0-4.73-4.73zm-2.834 1.38c.265-.167.41-.175.597-.139.295.056.663.224 1.377.564a8.037 8.037 0 0 1 3.785 3.785c.34.714.508 1.082.564 1.377.036.188.027.332-.14.597-.123.195-.255.298-.6.37-.433.09-1.037.096-2.049.096h-1c-.971 0-1.599-.002-2.061-.064-.434-.059-.57-.153-.646-.229-.076-.076-.17-.212-.229-.646C13.002 9.6 13 8.971 13 8V7c0-1.012.005-1.616.095-2.05.072-.344.175-.476.371-.6zm-5.021.481a1 1 0 0 0-.89-1.791A10 10 0 0 0 2 12c0 5.523 4.477 10 10 10a10 10 0 0 0 8.888-5.414 1 1 0 0 0-1.776-.918A8 8 0 1 1 8.445 4.83z\" fill=\"currentColor\"></path></svg>",
-		"@iconbrew,chart,pie",
-		"IconBrew"
-	],
-	[
 		"<?xml version=\"1.0\" encoding=\"utf-8\"?><!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"17\" height=\"17\" viewBox=\"0 0 17 17\"><g></g><path d=\"M14.985 8.943l0.998 0.067c-0.263 3.92-3.55 6.99-7.483 6.99-4.136 0-7.5-3.364-7.5-7.5 0-3.905 3.047-7.19 6.938-7.479l0.074 0.997c-3.371 0.25-6.012 3.097-6.012 6.482 0 3.584 2.916 6.5 6.5 6.5 3.409 0 6.257-2.66 6.485-6.057zM17 7.499v0.5l-0.501 0.017h-7.482v-8.017l0.501 0.001c4.126 0.009 7.482 3.374 7.482 7.499zM15.986 7.016c-0.223-3.17-2.776-5.743-5.969-5.995v5.995h5.969z\" fill=\"#000000\"></path></svg>",
 		"@themify-icons,pie,chart",
 		"Themify Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M.5 7a6.5 6.5 0 0 0 11.096 4.596L7 7V.5A6.5 6.5 0 0 0 .5 7Z\"></path><path id=\"Subtract\" fill=\"#ffffff\" fill-rule=\"evenodd\" d=\"M7 .5V7l4.596 4.596A6.5 6.5 0 0 0 7 .5Z\" clip-rule=\"evenodd\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z\"></path><path id=\"Vector_3\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 .5V7l4.6 4.6\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" fill=\"#d7e0ff\" d=\"M0.5 7a6.5 6.5 0 0 0 11.096 4.596L7 7V0.5A6.5 6.5 0 0 0 0.5 7Z\" stroke-width=\"1\"></path><path id=\"Subtract\" fill=\"#ffffff\" fill-rule=\"evenodd\" d=\"M7 0.5V7l4.596 4.596A6.5 6.5 0 0 0 7 0.5Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5a6.5 6.5 0 1 0 0 -13 6.5 6.5 0 0 0 0 13Z\" stroke-width=\"1\"></path><path id=\"Vector_3\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 0.5V7l4.6 4.6\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pie,chart",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" fill=\"#37d7ff\" d=\"M7 14A7 7 0 1 0 7 0a7 7 0 0 0 0 14Z\"></path><path id=\"Vector_2\" fill=\"#3e3e3e\" d=\"M14 7a7 7 0 0 0-7-7v6.586a1 1 0 0 0 .293.707l4.657 4.657A6.978 6.978 0 0 0 14 7Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" fill=\"#8fbffa\" d=\"M7 14c3.866 0 7 -3.134 7 -7 0 -3.86599 -3.134 -7 -7 -7 -3.86599 0 -7 3.13401 -7 7 0 3.866 3.13401 7 7 7Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" fill=\"#2859c5\" d=\"M14 7c0 -3.86599 -3.134 -7 -7 -7v6.58579c0 0.26521 0.10536 0.51957 0.29289 0.7071l4.65681 4.65681C13.2165 10.683 14 8.933 14 7Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pie,chart",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13Z\"></path><path id=\"Vector_2\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 .5V7l4.6 4.6\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core-Gradient\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Gradient/Money Shopping/pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Subtract\" fill=\"url(#paint0_linear_14402_14309)\" fill-rule=\"evenodd\" d=\"M6.375.0275269C2.8018.343686 0 3.34465 0 7.00001 0 10.866 3.13401 14 7 14c1.78013 0 3.4051-.6645 4.6403-1.7589L6.57091 7.45445C6.44587 7.33638 6.375 7.172 6.375 7.00002V.0275269ZM12.4986 11.3323C13.4389 10.1406 14 8.63583 14 7.00001 14 3.34465 11.1982.343686 7.625.0275269V6.73057l4.8736 4.60173Z\" clip-rule=\"evenodd\"></path></g><defs><linearGradient id=\"paint0_linear_14402_14309\" x1=\"15.213\" x2=\"-3.646\" y1=\"16.959\" y2=\"3.537\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ffd600\"></stop><stop offset=\"1\" stop-color=\"#ff007a\"></stop></linearGradient></defs></svg>",
 		"@streamline-core,pie,chart",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M6.375.028A7 7 0 1 0 11.64 12.24L6.57 7.454A.625.625 0 0 1 6.376 7V.028Zm6.124 11.304A7 7 0 0 0 7.625.027v6.704l4.874 4.601Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 0.5V7l4.6 4.6\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pie,chart",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core-Neon\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 13.5c3.5899 0 6.5 -2.9101 6.5 -6.5C13.5 3.41015 10.5899 0.5 7 0.5 3.41015 0.5 0.5 3.41015 0.5 7c0 3.5899 2.91015 6.5 6.5 6.5Z\" stroke-width=\"1\"></path><path id=\"Vector_2\" stroke=\"#000cfe\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M13.5 7C13.5 3.41015 10.5899 0.5 7 0.5V7l4.5962 4.5962C12.7725 10.4199 13.5 8.79493 13.5 7Z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pie,chart",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Vector\" fill=\"#ff7972\" d=\"M7.00002 13.377c3.52138 0 6.37598 -2.8546 6.37598 -6.376 0 -3.52137 -2.8546 -6.376 -6.37598 -6.376C3.47865 0.625 0.624023 3.47963 0.624023 7.001c0 3.5214 2.854627 6.376 6.375997 6.376Z\" stroke-width=\"1\"></path><path id=\"Union\" fill=\"#0c098c\" fill-rule=\"evenodd\" d=\"M7 1.25c-3.17618 0.00001 -5.75098 2.57482 -5.75098 5.751 0 3.1762 2.57481 5.751 5.751 5.751 1.58834 0 3.02628 -0.6439 4.06708 -1.6849L7.29289 7.29289C7.10536 7.10536 7 6.851 7 6.58579V1.25ZM7.00002 0C3.13348 0 -0.000976562 3.13445 -0.000976562 7.001c0 3.8665 3.134456562 7.001 7.000996562 7.001 3.86658 0 7.00098 -3.1345 7.00098 -7.001C14.001 3.13445 10.8666 0 7.00002 0Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pie,chart",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core-Remix\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Remix/Money Shopping/pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M7 1.25c-3.17618 0.00001 -5.75098 2.57482 -5.75098 5.751 0 3.1762 2.57481 5.751 5.751 5.751 1.58834 0 3.02628 -0.6439 4.06708 -1.6849L7.29289 7.29289C7.10536 7.10536 7 6.851 7 6.58579V1.25ZM7.00002 0C3.13348 0 -0.000976562 3.13445 -0.000976562 7.001c0 3.8665 3.134456562 7.001 7.000996562 7.001 3.86658 0 7.00098 -3.1345 7.00098 -7.001C14.001 3.13445 10.8666 0 7.00002 0Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,pie,chart",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Pie-Chart--Streamline-Core\"><desc> Pie Chart Streamline Icon: https://streamlinehq.com</desc><g id=\"pie-chart--product-data-analysis-analytics-pie-business-chart\"><path id=\"Subtract\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M6.375 0.0275269C2.8018 0.343686 0 3.34465 0 7.00001 0 10.866 3.13401 14 7 14c1.78013 0 3.4051 -0.6645 4.6403 -1.7589L6.57091 7.45445C6.44587 7.33638 6.375 7.172 6.375 7.00002V0.0275269ZM12.4986 11.3323C13.4389 10.1406 14 8.63583 14 7.00001 14 3.34465 11.1982 0.343686 7.625 0.0275269V6.73057l4.8736 4.60173Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,pie,chart",
 		"Streamline Core"
 	],

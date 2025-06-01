@@ -245,13 +245,13 @@
 		"CoreUI Icons Brand Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M77.749 42.134c1.157 27.686 11.572 35.67 27.002 55.113 19.417 24.595 34.075 38.438 45.969 41.657 17.809 4.764 27.645-10.302 10.287-17.834-17.36-7.533-48.22-5.151-66.22-2.383-29.253 4.7-50.277 13.07-66.543 31.355-14.272 15.839-1.607 27.686 12.666 13.907 13.051-12.233 30.474-46.034 37.61-61.808 9.516-20.99 20.188-39.661 18.806-64.256s-20.348-18.8-19.577 4.25z\"></path></svg>",
-		"@lawnicons,adobe",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" viewBox=\"0 0 192 192\"><path d=\"M112 66a16 16 0 0 0-32 0v14m38 5-18.765 20.397a6 6 0 0 1-8.658.18L85 100\"></path><path d=\"M123 116V86a6 6 0 0 0-6-6H75a6 6 0 0 0-6 6v30a6 6 0 0 0 6 6h42a6 6 0 0 0 6-6\"></path><path stroke-width=\"10\" d=\"M37 96c0-56 1-57 1-57l58-18 58 18 1 57c-1 56-59 75-59 75s-59-19-59-75\"></path></svg>",
+		"@lawnicons,adobe,account,access",
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" viewBox=\"0 0 192 192\"><path d=\"M112 66a16 16 0 0 0-32 0v14m38 5-18.765 20.397a6 6 0 0 1-8.658.18L85 100\"></path><path d=\"M123 116V86a6 6 0 0 0-6-6H75a6 6 0 0 0-6 6v30a6 6 0 0 0 6 6h42a6 6 0 0 0 6-6\"></path><path stroke-width=\"10\" d=\"M37 96c0-56 1-57 1-57l58-18 58 18 1 57c-1 56-59 75-59 75s-59-19-59-75\"></path></svg>",
-		"@lawnicons,adobe,account,access",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M77.749 42.134c1.157 27.686 11.572 35.67 27.002 55.113 19.417 24.595 34.075 38.438 45.969 41.657 17.809 4.764 27.645-10.302 10.287-17.834-17.36-7.533-48.22-5.151-66.22-2.383-29.253 4.7-50.277 13.07-66.543 31.355-14.272 15.839-1.607 27.686 12.666 13.907 13.051-12.233 30.474-46.034 37.61-61.808 9.516-20.99 20.188-39.661 18.806-64.256s-20.348-18.8-19.577 4.25z\"></path></svg>",
+		"@lawnicons,adobe,acrobat,reader",
 		"Lawnicons"
 	],
 	[
@@ -271,7 +271,7 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M63 127h24.436c13.564 0 29.414-9.886 28.436-16.806-.977-6.92-11.24 3.954-8.797 12.852 1.861 6.777 12.544 2.636 17.594-4.943-1.466 5.107-2.052 13.247 7.331 4.943\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" d=\"m78.98 105.5 37.32-37.38a3.827 3.827 0 1 0-5.416-5.407l-37.313 37.37L66 112z\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
-		"@lawnicons,adobe,filled,sign",
+		"@lawnicons,adobe,filled,and,sign",
 		"Lawnicons"
 	],
 	[
@@ -895,22 +895,42 @@
 		"Vaadin Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"adobe\"><path id=\"Subtract\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M5.233.816H.816v12.367h12.368V.817H8.766l4.417 12.367H9.975L7 4.965l-1.843 5.568h1.71l.883 2.65H.816L5.233.816Z\" clip-rule=\"evenodd\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M5.233.816.816 13.183H7.75l-.884-2.65H5.157L7 4.965l2.975 8.218h3.208L8.766.816H5.233Z\"></path><path id=\"Rectangle 54\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.816.816h12.367v12.367H.816z\"></path><path id=\"Vector 566\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.233.816.816 13.183H7.75l-.884-2.65H5.157L7 4.965l2.975 8.218h3.208L8.766.816H5.233Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe\"><path id=\"Subtract\" fill=\"#d7e0ff\" fill-rule=\"evenodd\" d=\"M5.23309 0.816406H0.816406V13.1836H13.1836V0.816406H8.76643L13.1831 13.1831H9.9754L6.99976 4.96515 5.15745 10.5331h1.70897l0.88334 2.65H0.816406L5.23309 0.816406Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path><path id=\"Vector\" fill=\"#ffffff\" d=\"M5.23309 0.816406 0.816406 13.1831H7.74976l-0.88334 -2.65H5.15745l1.84231 -5.56795L9.9754 13.1831h3.2077L8.76643 0.816406H5.23309Z\" stroke-width=\"1\"></path><path id=\"Rectangle 54\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M0.816 0.816h12.367v12.367H0.816z\" stroke-width=\"1\"></path><path id=\"Vector 566\" stroke=\"#4147d5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.23309 0.816406 0.816406 13.1831H7.74976l-0.88334 -2.65H5.15745l1.84231 -5.56795L9.9754 13.1831h3.2077L8.76643 0.816406H5.23309Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,adobe",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"adobe\"><path id=\"Union\" fill=\"#37d7ff\" fill-rule=\"evenodd\" d=\"M.816.316a.5.5 0 0 0-.5.5v12.368a.5.5 0 0 0 .5.5h12.368a.5.5 0 0 0 .5-.5V.816a.5.5 0 0 0-.5-.5H.816Z\" clip-rule=\"evenodd\"></path><path id=\"Vector 566\" fill=\"#3e3e3e\" d=\"M5.391 1.37 1.37 12.63h6.314l-.805-2.413H5.322L7 5.147l2.71 7.483h2.92L8.608 1.37H5.391Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe\"><path id=\"Union\" fill=\"#8fbffa\" fill-rule=\"evenodd\" d=\"M0.816406 0.316406c-0.276142 0 -0.5 0.223858 -0.5 0.5V13.1836c0 0.2761 0.223858 0.5 0.5 0.5H13.1836c0.2761 0 0.5 -0.2239 0.5 -0.5V0.816406c0 -0.276142 -0.2239 -0.5 -0.5 -0.5H0.816406Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path><path id=\"Vector 566\" fill=\"#2859c5\" d=\"M5.39106 1.36926 1.36926 12.6303h6.31347l-0.80436 -2.4131H5.32219l1.67759 -5.07012 2.7096 7.48322h2.92092L8.6085 1.36926H5.39106Z\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,adobe",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"adobe\"><path id=\"Vector 566\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.233.816.816 13.183H7.75l-.884-2.65H5.157L7 4.965l2.975 8.218h3.208L8.766.816H5.233Z\"></path><path id=\"Rectangle 53\" stroke=\"#3e3e3e\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M.816.816h12.367v12.367H.816z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core-Gradient\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Gradient/Computer Devices/adobe\"><path id=\"Subtract\" fill=\"url(#paint0_linear_14402_12246)\" fill-rule=\"evenodd\" d=\"M.499023.998962c0-.276142.223858-.5.5-.5H13.0011c.2762 0 .5.223858.5.5V13.0011c0 .2761-.2238.5-.5.5H.999023c-.276142 0-.5-.2239-.5-.5V.998962ZM1.53549 12.4642 5.43856 1.53555h3.12247L12.4641 12.4642H9.62941L6.9998 5.20185 5.37172 10.1223h1.51024l.78062 2.3419H1.53549Z\" clip-rule=\"evenodd\"></path></g><defs><linearGradient id=\"paint0_linear_14402_12246\" x1=\"13.457\" x2=\"-1.94\" y1=\"13.504\" y2=\"4.842\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#ff51e3\"></stop><stop offset=\"1\" stop-color=\"#1b4dff\"></stop></linearGradient></defs></svg>",
 		"@streamline-core,adobe",
 		"Streamline Core"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\"><g id=\"adobe\"><path id=\"Subtract\" fill=\"#3e3e3e\" fill-rule=\"evenodd\" d=\"M.316.816a.5.5 0 0 1 .5-.5h12.368a.5.5 0 0 1 .5.5v12.368a.5.5 0 0 1-.5.5H.816a.5.5 0 0 1-.5-.5V.816ZM1.37 12.63 5.391 1.37h3.217l4.022 11.26H9.71L7 5.147l-1.678 5.07h1.556l.805 2.413H1.369Z\" clip-rule=\"evenodd\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe\"><path id=\"Vector 566\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.23309 0.816406 0.816406 13.1831H7.74976l-0.88334 -2.65H5.15745l1.84231 -5.56795L9.9754 13.1831h3.2077L8.76643 0.816406H5.23309Z\" stroke-width=\"1\"></path><path id=\"Rectangle 53\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M0.816 0.816h12.367v12.367H0.816z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,adobe",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe-Logo--Streamline-Core-Neon\"><desc> Adobe Logo Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe\"><path id=\"Vector 566\" stroke=\"#000cfe\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M5.28555 1 1 12.9995h6.7275l-0.85711 -2.5713H5.21216l1.78761 -5.40263 2.88729 7.97393h3.11244L8.71399 1H5.28555Z\" stroke-width=\"1\"></path><path id=\"Rectangle 54\" stroke=\"#c71dff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M1 1h12v12H1z\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,adobe,logo",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe-Logo--Streamline-Core\"><desc> Adobe Logo Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe-logo\"><path id=\"Rectangle 54\" fill=\"#fddc5c\" d=\"M1 1h12v12H1z\" stroke-width=\"1\"></path><path id=\"Union\" fill=\"#0c098c\" fill-rule=\"evenodd\" d=\"M1 0.375C0.654822 0.375 0.375 0.654822 0.375 1v12c0 0.3452 0.279822 0.625 0.625 0.625h12c0.3452 0 0.625 -0.2798 0.625 -0.625V1c0 -0.345178 -0.2798 -0.625 -0.625 -0.625H1Zm0.625 10.8745V1.625h3.43733L1.625 11.2495Zm5.89432 1.1255h2.1416L6.99977 5.02557 5.21216 10.4282h1.65823l0.64893 1.9468Zm4.85568 -1.1242V1.625H8.9372l3.4378 9.6258Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,adobe,logo",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core-Remix\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"Free Remix/Computer Devices/adobe\"><path id=\"Union\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M1 0.375C0.654822 0.375 0.375 0.654822 0.375 1v12c0 0.3452 0.279822 0.625 0.625 0.625h12c0.3452 0 0.625 -0.2798 0.625 -0.625V1c0 -0.345178 -0.2798 -0.625 -0.625 -0.625H1Zm0.625 10.8745V1.625h3.43733L1.625 11.2495Zm5.89432 1.1255h2.1416L6.99977 5.02557 5.21216 10.4282h1.65823l0.64893 1.9468Zm4.85568 -1.1242V1.625H8.9372l3.4378 9.6258Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
+		"@streamline-core,adobe",
+		"Streamline Core"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 14 14\" id=\"Adobe--Streamline-Core\"><desc> Adobe Streamline Icon: https://streamlinehq.com</desc><g id=\"adobe\"><path id=\"Subtract\" fill=\"#000000\" fill-rule=\"evenodd\" d=\"M0.316406 0.816406c0 -0.276142 0.223858 -0.5 0.5 -0.5H13.1836c0.2761 0 0.5 0.223858 0.5 0.5V13.1836c0 0.2761 -0.2239 0.5 -0.5 0.5H0.816406c-0.276142 0 -0.5 -0.2239 -0.5 -0.5V0.816406ZM1.36923 12.6303l4.0218 -11.26104h3.21744L12.6303 12.6303H9.70935l-2.7096 -7.48322 -1.67759 5.07012h1.55618l0.80436 2.4131H1.36923Z\" clip-rule=\"evenodd\" stroke-width=\"1\"></path></g></svg>",
 		"@streamline-core,adobe",
 		"Streamline Core"
 	],
