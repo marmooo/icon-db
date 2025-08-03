@@ -110,6 +110,16 @@
 		"apancik/public-domain-icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M86 981.333v-298l640-86-640-86v-298l896 384z\"></path></svg>",
+		"@metro-ui-css,send",
+		"Metro UI CSS"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M682 981.333q88 0 151-63t63-151-63-151-151-63q-86 0-149 62t-63 150v4q0 88 62 150t150 62zM682 469.33299999999997q124 0 212 88t88 210-89 211-211 89q-102 0-181-61t-105-157l-310 132v-298l384-86-384-86v-298zM704 619.3330000000001v138l96 64-32 54-128-86v-170h64z\"></path></svg>",
+		"@metro-ui-css,schedule,send",
+		"Metro UI CSS"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1000\" height=\"850\" viewBox=\"0 0 1000 850\"><path d=\"M0-23l94 446 577 42-577 42-94 446 977-488-977-488z\"></path></svg>",
 		"@android-developer-icons,send",
 		"Android Developer Icons"
@@ -1138,6 +1148,11 @@
 		"<?xml version=\"1.0\" standalone=\"no\"?><!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\"><svg t=\"1569683742680\" class=\"icon\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" p-id=\"14019\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\"><path d=\"M931.4 498.9L94.9 79.5c-3.4-1.7-7.3-2.1-11-1.2-8.5 2.1-13.8 10.7-11.7 19.3l86.2 352.2c1.3 5.3 5.2 9.6 10.4 11.3l147.7 50.7-147.6 50.7c-5.2 1.8-9.1 6-10.3 11.3L72.2 926.5c-0.9 3.7-0.5 7.6 1.2 10.9 3.9 7.9 13.5 11.1 21.5 7.2l836.5-417c3.1-1.5 5.6-4.1 7.2-7.1 3.9-8 0.7-17.6-7.2-21.6zM170.8 826.3l50.3-205.6 295.2-101.3c2.3-0.8 4.2-2.6 5-5 1.4-4.2-0.8-8.7-5-10.2L221.1 403 171 198.2l628 314.9-628.2 313.2z\" p-id=\"14020\"></path></svg>",
 		"@ant-design-icons,outline,send",
 		"Ant Design Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M15.724 11.053V11.948L7.724 15.948L7.026 15.343L8.14 12.001H13V11.001H8.14L7.026 7.659L7.724 7.054L15.724 11.053ZM1 8C1 6.46 2.15 5.18 3.67 5.02L4.02 4.98L4.11 4.64C4.5 3.09 5.89 2 7.5 2C9.43 2 11 3.57 11 5.5V6H11.5C12.88 6 14 7.12 14 8.5V8.52L14.95 8.99C14.98 8.83 15 8.67 15 8.5C15 6.73 13.68 5.26 11.98 5.03C11.74 2.77 9.82 1 7.5 1C5.55 1 3.84 2.25 3.23 4.07C1.37 4.43 0 6.07 0 8C0 10.21 1.79 12 4 12H7V11H4C2.35 11 1 9.65 1 8Z\"></path></svg>",
+		"@codicons,send,to,remote,agent",
+		"Codicons"
 	],
 	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M1 1.91L1.78 1.5L15 7.44899V8.3999L1.78 14.33L1 13.91L2.58311 8L1 1.91ZM3.6118 8.5L2.33037 13.1295L13.5 7.8999L2.33037 2.83859L3.6118 7.43874L9 7.5V8.5H3.6118Z\"></path></svg>",

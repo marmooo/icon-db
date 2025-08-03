@@ -370,8 +370,18 @@
 		"Carbon"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 32 32\"><defs><style> .st0 { fill: none; }</style></defs><path d=\"M9.3,12.6l-1.3,1.5c-1.1-1-2-2.2-2.7-3.5l1.8-.9c.6,1.1,1.3,2.1,2.2,2.9h0ZM6.4,7.7c-.3-.9-.4-1.9-.4-2.8v-.9s-2,0-2,0v.9c0,1.1.2,2.3.5,3.4l1.9-.6h0ZM14.2,15c-1.2-.2-2.4-.7-3.4-1.3l-1,1.7c.3.2.7.4,1.1.6-.4.2-.7.4-1.1.6l1,1.7c1.1-.7,2.2-1.1,3.4-1.3v-1.9h0ZM5.3,21.4l1.8.9c.6-1.1,1.3-2.1,2.2-2.9l-1.3-1.5c-1.1,1-2,2.2-2.7,3.5h0ZM4,27.1v.9h2v-.9c0-1,.1-1.9.4-2.8l-1.9-.6c-.3,1.1-.5,2.2-.5,3.4h0ZM23,11l-1.4,1.4,2.6,2.6h-8.2s0,2,0,2h8.2s-2.6,2.6-2.6,2.6l1.4,1.4,5-5s-5-5-5-5Z\"></path><rect id=\"__x3C_Transparent_Rectangle_x3E_\" class=\"st0\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,join,inner",
+		"Carbon"
+	],
+	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><title>join--inner</title><path d=\"M20,6a9.9355,9.9355,0,0,0-4,.8418A9.999,9.999,0,1,0,16,25.16,9.998,9.998,0,1,0,20,6ZM12,24A8,8,0,1,1,13.7573,8.2017a9.9734,9.9734,0,0,0,0,15.5986A7.9919,7.9919,0,0,1,12,24Zm8,0a7.9919,7.9919,0,0,1-1.7573-.2,9.9734,9.9734,0,0,0,0-15.5986A7.9972,7.9972,0,1,1,20,24Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,join,inner",
+		"Carbon"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 32 32\"><defs><style> .st0 { fill: none; }</style></defs><path d=\"M28,16l-5,5-1.4-1.4,2.6-2.6h-10.2c-1.2.2-2.3.7-3.4,1.3l-1-1.7c.4-.3.8-.5,1.3-.7-4.1-1.8-6.9-5.6-6.9-10.1v-1.8s2,0,2,0v1.8c0,5.1,4.5,9.2,10,9.2h8.2l-2.6-2.6,1.4-1.4,5,5h0s0,0,0,0ZM4,27v1h2v-1c0-1,0-1.9.3-2.9l-1.9-.6c-.3,1.1-.5,2.3-.5,3.4h0ZM5.3,21.5l1.7.9c.6-1.1,1.3-2.1,2.2-3l-1.3-1.5c-1.1,1-2,2.2-2.6,3.6Z\"></path><rect id=\"_x3C_Transparent_Rectangle_x3E_\" class=\"st0\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,join,left,outer",
 		"Carbon"
 	],
 	[
@@ -382,6 +392,11 @@
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><title>join--outter</title><path d=\"M20,6a9.9539,9.9539,0,0,0-4,.8379,9.9953,9.9953,0,0,1,0,18.3242A9.9988,9.9988,0,1,0,20,6Z\"></path><path d=\"M10,16a9.9976,9.9976,0,0,1,6-9.1621,10,10,0,1,0,0,18.3242A9.9976,9.9976,0,0,1,10,16Z\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,join,outer",
+		"Carbon"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 32 32\"><defs><style> .st0 { fill: none; }</style></defs><path d=\"M28.01,16l-5,5-1.41-1.41,2.59-2.59h-6.09s-2.07,0-2.07,0c-5.52,0-10.02,4.11-10.02,9.17v1.83h-2v-1.83c0-4.45,2.82-8.29,6.89-10.09-.43-.21-.85-.43-1.26-.69l1.02-1.74c1.04.66,2.16,1.11,3.35,1.34h2s0,0,0,0h8.17l-2.59-2.59,1.41-1.41,5,5h0ZM6.36,7.81c-.26-.92-.39-1.88-.39-2.85v-.96h-1.95v.96c0,1.16.16,2.32.47,3.43l1.87-.57ZM7.9,14.04l1.31-1.51c-.9-.85-1.64-1.85-2.19-2.97l-1.74.92c.66,1.35,1.54,2.54,2.62,3.56Z\"></path><rect id=\"_x3C_Tranparent_Rectangle_x3E_\" class=\"st0\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,join,right,outer",
 		"Carbon"
 	],
 	[
