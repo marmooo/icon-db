@@ -15,7 +15,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" viewBox=\"0 0 192 192\"><circle cx=\"120\" cy=\"60\" r=\"20\" stroke-width=\"8\"></circle><path stroke-width=\"12\" d=\"M46 106h-2a16 16 0 0 1-16-16V38a16 16 0 0 1 16-16h104a16 16 0 0 1 16 16v52a16 16 0 0 1-16 16h-43\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M119 63 80 169m12-32 27.5-11M93 83l-22 60M60 71l-37 98m53-91-22 60m32 13.5-48.5-20L23 169h57z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"116\" cy=\"61\" r=\"14\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M51 110h-9c-8.837 0-16-7.163-16-16V38c0-8.837 7.163-16 16-16h110c8.837 0 16 7.163 16 16v56c0 8.837-7.163 16-16 16H98.5M78 170l6-16.123a6 6 0 0 0-3.282-7.616l-35.15-14.901a6 6 0 0 0-7.884 3.226L23 170\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m80 144 18-41-29.611-11.844a6 6 0 0 0-7.722 3.158L45 130m69-61-16 34m8 29-25 9\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M149 60v12\"></path></svg>",
 		"@lawnicons,auto,clicker",
 		"Lawnicons"
 	],
@@ -72,11 +72,6 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 22v62M52 66v18m0 0v20c0 16 0 66 44 66m44-86v20c0 16 0 66-44 66m44-104v18m-88 0h88m0-18a44 44 0 0 0-88 0\"></path></svg>",
 		"@lawnicons,op,auto,clicker",
-		"Lawnicons"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\"><path d=\"M20.25 33.63v10.35a1 1 135 0 1-1 1h-6.655a1.007 1.007 44.787 0 1-1.008-1l-.078-10.556m27.739-13.047.067 23.602a.997.997 134.919 0 1-.997 1h-6.655a1.007 1.007 44.807 0 1-1.007-1l-.08-11.773\" style=\"fill:none;stroke:#000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32;stroke-dasharray:none\" transform=\"translate(.001)\"></path><ellipse cx=\"25.047\" cy=\"19.606\" rx=\"5.855\" ry=\"5.811\" style=\"fill:none;stroke:#000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32;stroke-dasharray:none\"></ellipse><path d=\"M39.25 20.377c-.407 7.622-8.055 12.77-14.553 13.065-3.758.171-13.187-.018-13.187-.018s-.1-10.649.107-14.518c.407-7.622 6.922-13.472 14.553-13.065 7.63.406 13.486 6.914 13.08 14.536\" style=\"fill:none;stroke:#000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:32\"></path></svg>",
-		"@lawnicons,sony,auto,play",
 		"Lawnicons"
 	],
 	[
@@ -450,6 +445,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M345-80q-24 0-42-18t-18-42v-143h60v143h515v-392h-61v-60h61q24 0 42 18t18 42v392q0 24-18 42t-42 18H345Zm-20-281-51-32 5-8q14-23 15-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25.5 39t8.5 44q0 20-6.5 40T330-369l-5 8Zm195 0-51-32 5-8q14-23 15-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25 39t8 44q0 20-6 40t-18 40l-5 8Zm-410-91L41-825q88-23 176.5-39T397-880q91 0 180 16t177 39l-69 373-59-11 58-319q-72-16-143-27t-144-11q-73 0-144 11.5T110-782l58 319-58 11Z\"></path></svg>",
+		"@material-symbols,outline,windshield,defrost,auto,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M345-80q-24 0-42-18t-18-42v-143h60v143h515v-392h-61v-60h61q24 0 42 18t18 42v392q0 24-18 42t-42 18H345Zm-20-281-51-32 5-8q14-23 15-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25.5 39t8.5 44q0 20-6.5 40T330-369l-5 8Zm195 0-51-32 5-8q14-23 15-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25 39t8 44q0 20-6 40t-18 40l-5 8Zm-410-91L41-825q88-23 176.5-39T397-880q91 0 180 16t177 39l-69 373-59-11 58-319q-72-16-143-27t-144-11q-73 0-144 11.5T110-782l58 319-58 11Z\"></path></svg>",
+		"@material-symbols,outline,windshield,defrost,auto",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M451-120H180q-24 0-42-18t-18-42v-600q0-24 18-42t42-18h271v720Zm60-391v-329h269q24 0 42 18t18 42v269H511Zm0 391v-331h329v271q0 24-18 42t-42 18H511Z\"></path></svg>",
 		"@material-symbols,rounded,auto,awesome,mosaic,filled",
 		"Material Symbols"
@@ -680,6 +685,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M345-80q-24 0-42-18t-18-42v-113q0-13 8.5-21.5T315-283q13 0 21.5 8.5T345-253v113h515v-392h-31q-13 0-21.5-8.5T799-562q0-13 8.5-21.5T829-592h31q24 0 42 18t18 42v392q0 24-18 42t-42 18H345Zm-55-281q-11-6-15-17.5t3-22.5q14-23 15.5-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5q6-11 17.5-14t22.5 3q11 6 15 17.5t-3 22.5q-15 23-16 46.5t17 42.5q17 18 25.5 39t8.5 44q0 20-7 40t-18 37q-7 11-18 14t-22-3Zm194 0q-11-6-14.5-17.5T473-401q14-23 15.5-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650q6-11 17.5-14t22.5 3q11 6 15 17.5t-3 22.5q-15 23-16 46.5t17 42.5q17 18 25 39t8 44q0 20-6.5 40T525-372q-7 11-18.5 14t-22.5-3Zm-87-459q-73 0-144 11.5T110-782l53 290q2 12-5 22t-19 12q-12 2-22-4.5T105-481L47-795q-2-13 5-24t20-14q81-20 161.5-33.5T397-880q83 0 164 13.5T723-833q13 3 20 14t5 24l-58 314q-2 12-12.5 18.5T655-458q-12-2-19-12t-5-22l53-290q-72-16-143-27t-144-11Z\"></path></svg>",
+		"@material-symbols,rounded,windshield,defrost,auto,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M345-80q-24 0-42-18t-18-42v-113q0-13 8.5-21.5T315-283q13 0 21.5 8.5T345-253v113h515v-392h-31q-13 0-21.5-8.5T799-562q0-13 8.5-21.5T829-592h31q24 0 42 18t18 42v392q0 24-18 42t-42 18H345Zm-55-281q-11-6-15-17.5t3-22.5q14-23 15.5-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5q6-11 17.5-14t22.5 3q11 6 15 17.5t-3 22.5q-15 23-16 46.5t17 42.5q17 18 25.5 39t8.5 44q0 20-7 40t-18 37q-7 11-18 14t-22-3Zm194 0q-11-6-14.5-17.5T473-401q14-23 15.5-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650q6-11 17.5-14t22.5 3q11 6 15 17.5t-3 22.5q-15 23-16 46.5t17 42.5q17 18 25 39t8 44q0 20-6.5 40T525-372q-7 11-18.5 14t-22.5-3Zm-87-459q-73 0-144 11.5T110-782l53 290q2 12-5 22t-19 12q-12 2-22-4.5T105-481L47-795q-2-13 5-24t20-14q81-20 161.5-33.5T397-880q83 0 164 13.5T723-833q13 3 20 14t5 24l-58 314q-2 12-12.5 18.5T655-458q-12-2-19-12t-5-22l53-290q-72-16-143-27t-144-11Z\"></path></svg>",
+		"@material-symbols,rounded,windshield,defrost,auto",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M451-120H120v-720h331v720Zm60-391v-329h329v329H511Zm0 391v-331h329v331H511Z\"></path></svg>",
 		"@material-symbols,sharp,auto,awesome,mosaic,filled",
 		"Material Symbols"
@@ -907,6 +922,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M183-350h44l29-81h129l29 81h44L341-655h-41L183-350Zm85-116 51-142h3l51 142H268Zm55 266q-117 0-198.5-81.5T43-480q0-117 81.5-198.5T323-760q86 0 156.5 47T581-586l-16-69h43l54 232h2l64-232h30l64 232 54-232h41l-72 305h-43l-59-214h-4l-59 214h-43l-33-139q2 119-80.5 204T323-200Zm0-60q92 0 156-64t64-156q0-92-64-156t-156-64q-92 0-156 64t-64 156q0 92 64 156t156 64Zm0-220Z\"></path></svg>",
 		"@material-symbols,sharp,wb,auto",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M285-80v-203h60v143h515v-392h-61v-60h121v512H285Zm40-281-51-32 5-8q14-23 15-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25.5 39t8.5 44q0 20-6.5 40T330-369l-5 8Zm195 0-51-32 5-8q14-23 15-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25 39t8 44q0 20-6 40t-18 40l-5 8Zm-410-91L41-825q88-23 176.5-39T397-880q91 0 180 16t177 39l-69 373-59-11 58-319q-72-16-143-27t-144-11q-73 0-144 11.5T110-782l58 319-58 11Z\"></path></svg>",
+		"@material-symbols,sharp,windshield,defrost,auto,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M285-80v-203h60v143h515v-392h-61v-60h121v512H285Zm40-281-51-32 5-8q14-23 15-46.5T278-490q-17-18-25-38.5t-8-42.5q0-20 6-39.5t17-39.5l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25.5 39t8.5 44q0 20-6.5 40T330-369l-5 8Zm195 0-51-32 5-8q14-23 15-46.5T473-490q-17-18-25.5-38.5T439-571q0-20 6.5-39.5T463-650l6-10 51 32-5 7q-16 22-16.5 46t17.5 43q17 18 25 39t8 44q0 20-6 40t-18 40l-5 8Zm-410-91L41-825q88-23 176.5-39T397-880q91 0 180 16t177 39l-69 373-59-11 58-319q-72-16-143-27t-144-11q-73 0-144 11.5T110-782l58 319-58 11Z\"></path></svg>",
+		"@material-symbols,sharp,windshield,defrost,auto",
 		"Material Symbols"
 	],
 	[

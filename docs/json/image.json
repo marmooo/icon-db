@@ -345,6 +345,11 @@
 		"Metro UI CSS"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M170.667 298.66600000000005h554.667v298.667h85.333v-298.667c0-47.061-38.272-85.333-85.333-85.333h-554.667c-47.061 0-85.333 38.272-85.333 85.333v512c0 47.061 38.272 85.333 85.333 85.333h341.333v-85.333h-341.333v-512zM341.333 554.6659999999999l-128 170.667h469.333l-170.667-256-128 170.667zM810.667 682.6659999999999h-85.333v128h-128v85.333h128v128h85.333v-128h128v-85.333h-128z\"></path></svg>",
+		"@metro-ui-css,add,image,outline",
+		"Metro UI CSS"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M0 192v768h1024v-768h-1024zM64 256h896v576l-128-256-192 192-192-256-384 384v-640zM224 320c-51.2 0-96 44.8-96 96s44.8 96 96 96 96-44.8 96-96-44.8-96-96-96z\"></path></svg>",
 		"@caomei,image",
 		"CaoMei"
@@ -1185,6 +1190,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M200-280h560v-400H200v400Zm-60 120q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v520q0 24-18 42t-42 18H140Zm180-240 85-113 55 73 75-100 105 140H320Z\"></path></svg>",
+		"@material-symbols,outline,image,inset,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M200-280h560v-400H200v400Zm-60 120q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v520q0 24-18 42t-42 18H140Zm0-60h680v-520H140v520Zm0 0v-520 520Zm180-180 85-113 55 73 75-100 105 140H320Z\"></path></svg>",
+		"@material-symbols,outline,image,inset",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M180-120q-24 0-42-18t-18-42v-600q0-24 18-42t42-18h283q-19 28-28 60t-9 66q0 96 65 161t161 65q23 0 42.5-3.5T731-502l109 110v212q0 24-18 42t-42 18H180Zm695-322L742-575q-21 14-41.5 20.5T652-548q-70 0-118-48t-48-118q0-70 48-118t118-48q70 0 118 48t48 118q0 28-8 53t-22 46l130 130-43 43ZM652-608q46 0 76-30t30-76q0-46-30-76t-76-30q-46 0-76 30t-30 76q0 46 30 76t76 30ZM237-277h487L577-472 447-302l-93-126-117 151Z\"></path></svg>",
 		"@material-symbols,outline,image,search,filled",
 		"Material Symbols"
@@ -1285,6 +1300,16 @@
 		"Material Symbols"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M230-280h500q12 0 21-9t9-21v-340q0-12-9-21t-21-9H230q-12 0-21 9t-9 21v340q0 12 9 21t21 9Zm-90 120q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v520q0 24-18 42t-42 18H140Zm210-240q-9 0-13-8t1-16l55-73q5-6 12-6t12 6l43 57 63-84q5-6 12-6t12 6l75 100q5 8 1 16t-13 8H350Z\"></path></svg>",
+		"@material-symbols,rounded,image,inset,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M230-280h500q12 0 21-9t9-21v-340q0-12-9-21t-21-9H230q-12 0-21 9t-9 21v340q0 12 9 21t21 9Zm-90 120q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v520q0 24-18 42t-42 18H140Zm0-60h680v-520H140v520Zm0 0v-520 520Zm210-180q-8.5 0-12.75-8t.75-16l55-73q5-6 12-6t12 6l43 57 63-84q5-6 12-6t12 6l75 100q5 8 .75 16T610-400H350Z\"></path></svg>",
+		"@material-symbols,rounded,image,inset",
+		"Material Symbols"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M180-120q-24 0-42-18t-18-42v-600q0-24 18-42t42-18h236q16 0 24.5 13.5T442-798q-8 20-12 41t-4 43q0 96 65 161t161 65q23 0 42.5-3.5T731-502l91 92q8 8 13 19.5t5 23.5v187q0 24-18 42t-42 18H180Zm674-344L742-575q-21 14-41.5 20.5T652-548q-70 0-118-48t-48-118q0-70 48-118t118-48q70 0 118 48t48 118q0 28-8 53t-22 46l109 109q9 9 9 21t-9 21q-9 9-21.5 9t-21.5-9ZM652-608q46 0 76-30t30-76q0-46-30-76t-76-30q-46 0-76 30t-30 76q0 46 30 76t76 30ZM447-302l-75-102q-7-9-18-9t-18 9l-80 103q-6 8-1.5 16t13.5 8h426q9 0 13-8t-1-16L577-472 447-302Z\"></path></svg>",
 		"@material-symbols,rounded,image,search,filled",
 		"Material Symbols"
@@ -1382,6 +1407,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M241-499h60v-60h-60v60Zm170 0h60v-60h-60v60Zm168 175h60v-60h-60v60Zm0-175h60v-60h-60v60ZM80-160v-640h800v640H80Zm60-60h680v-520H140v520Zm0 0v-520 520Z\"></path></svg>",
 		"@material-symbols,sharp,image,aspect,ratio",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M200-280h560v-400H200v400Zm120-120 85-113 55 73 75-100 105 140H320ZM80-160v-640h800v640H80Z\"></path></svg>",
+		"@material-symbols,sharp,image,inset,filled",
+		"Material Symbols"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M200-280h560v-400H200v400Zm120-120 85-113 55 73 75-100 105 140H320ZM80-160v-640h800v640H80Zm60-60h680v-520H140v520Zm0 0v-520 520Z\"></path></svg>",
+		"@material-symbols,sharp,image,inset",
 		"Material Symbols"
 	],
 	[
