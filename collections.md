@@ -99,7 +99,7 @@
   the [GPL-3.0](https://github.com/pprince/etlinefont-bower/blob/master/LICENSE)
 - [Icons8 Windows 10 Icons](https://github.com/icons8/windows-10-icons) licensed
   under the
-  [Good Boy License](https://github.com/icons8/windows-10-icons/blob/master/LICENSE.md)
+  [Good Boy License and MIT](https://github.com/icons8/windows-10-icons/blob/master/LICENSE.md)
 - [Icons8 WPF Framework](https://github.com/icons8/WPF-UI-Framework) licensed
   under the
   [Good Boy License](https://github.com/icons8/WPF-UI-Framework/blob/master/LICENSE.md)
