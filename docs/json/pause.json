@@ -2060,17 +2060,17 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3ZM1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12ZM10.5 7V17H8.5V7H10.5ZM15.5 7V17H13.5V7H15.5Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"pause-circle-stroke\"><circle id=\"fill1\" cx=\"12\" cy=\"12\" r=\"10\" fill=\"white\"></circle><path id=\"stroke1\" d=\"M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M9.5 8V16M14.5 8V16\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,pause,circle,stroke",
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3ZM1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12Z\" fill=\"black\"></path><path d=\"M13 7H16V17H13V7Z\" fill=\"black\"></path><path d=\"M8 7H11V17H8V7Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"pause-circle\"><path d=\"M12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3ZM1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12Z\" fill=\"black\"></path><path d=\"M13 7H16V17H13V7Z\" fill=\"black\"></path><path d=\"M8 7H11V17H8V7Z\" fill=\"black\"></path></g></svg>",
 		"@tdesign-icons,pause,circle",
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 17L11 7H8V17H11Z\" fill=\"black\"></path><path d=\"M16 17L16 7H13L13 17H16Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"pause\"><path d=\"M11 17L11 7H8V17H11Z\" fill=\"black\"></path><path d=\"M16 17L16 7H13L13 17H16Z\" fill=\"black\"></path></g></svg>",
 		"@tdesign-icons,pause",
 		"TDesign Icons"
 	],
@@ -2475,6 +2475,11 @@
 		"Basil Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"M19.6 4H4.4A2.4 2.4 0 0 0 2 6.4v8.2A2.4 2.4 0 0 0 4.4 17h15.2a2.4 2.4 0 0 0 2.4-2.4V6.4A2.4 2.4 0 0 0 19.6 4\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M9 20h6m-1-7V8m-4 5V8M4.4 4h15.2A2.4 2.4 0 0 1 22 6.4v8.2a2.4 2.4 0 0 1-2.4 2.4H4.4A2.4 2.4 0 0 1 2 14.6V6.4A2.4 2.4 0 0 1 4.4 4\"></path></svg>",
+		"@sargam-icons,twotone,si,monitor,pause",
+		"Sargam Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"M20.2 3h-4.4a.8.8 0 0 0-.8.8v16.4a.8.8 0 0 0 .8.8h4.4a.8.8 0 0 0 .8-.8V3.8a.8.8 0 0 0-.8-.8M8.2 3H3.8a.8.8 0 0 0-.8.8v16.4a.8.8 0 0 0 .8.8h4.4a.8.8 0 0 0 .8-.8V3.8a.8.8 0 0 0-.8-.8\"></path><path stroke=\"#000\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M20.2 3h-4.4a.8.8 0 0 0-.8.8v16.4a.8.8 0 0 0 .8.8h4.4a.8.8 0 0 0 .8-.8V3.8a.8.8 0 0 0-.8-.8ZM8.2 3H3.8a.8.8 0 0 0-.8.8v16.4a.8.8 0 0 0 .8.8h4.4a.8.8 0 0 0 .8-.8V3.8a.8.8 0 0 0-.8-.8Z\"></path></svg>",
 		"@sargam-icons,twotone,si,pause",
 		"Sargam Icons"
@@ -2485,6 +2490,11 @@
 		"Sargam Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M15 19a1 1 0 1 1 0 2H9a1 1 0 1 1 0-2z\"></path><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M19.775 3.005A3.4 3.4 0 0 1 23 6.4v8.2a3.4 3.4 0 0 1-3.4 3.4H4.4A3.4 3.4 0 0 1 1 14.6V6.4A3.4 3.4 0 0 1 4.4 3h15.2zM10 7a1 1 0 0 0-1 1v5a1 1 0 1 0 2 0V8a1 1 0 0 0-1-1m4 0a1 1 0 0 0-1 1v5a1 1 0 1 0 2 0V8a1 1 0 0 0-1-1\" clip-rule=\"evenodd\"></path></svg>",
+		"@sargam-icons,filled,si,monitor,pause",
+		"Sargam Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M4.8 3h4.4a.8.8 0 0 1 .8.8v16.4a.8.8 0 0 1-.8.8H4.8a.8.8 0 0 1-.8-.8V3.8a.8.8 0 0 1 .8-.8M14.8 3h4.4a.8.8 0 0 1 .8.8v16.4a.8.8 0 0 1-.8.8h-4.4a.8.8 0 0 1-.8-.8V3.8a.8.8 0 0 1 .8-.8\"></path></svg>",
 		"@sargam-icons,filled,si,pause",
 		"Sargam Icons"
@@ -2492,6 +2502,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M3.4 4h17.2A2.4 2.4 0 0 1 23 6.4v11.2a2.4 2.4 0 0 1-2.4 2.4H3.4A2.4 2.4 0 0 1 1 17.6V6.4A2.4 2.4 0 0 1 3.4 4M10 7a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V8a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1v8a1 1 0 1 1-2 0V8a1 1 0 0 1 1-1\" clip-rule=\"evenodd\"></path></svg>",
 		"@sargam-icons,filled,si,pause,presentation",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M9 20h6m-1-7V8m-4 5V8M4.4 4h15.2A2.4 2.4 0 0 1 22 6.4v8.2a2.4 2.4 0 0 1-2.4 2.4H4.4A2.4 2.4 0 0 1 2 14.6V6.4A2.4 2.4 0 0 1 4.4 4\"></path></svg>",
+		"@sargam-icons,line,si,monitor,pause",
 		"Sargam Icons"
 	],
 	[
@@ -2630,22 +2645,22 @@
 		"Fluent UI MDL2"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M10 20H6V3h4v17Zm8 0h-4V3h4v17Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M10 20H6V3h4zm8 0h-4V3h4z\"></path></svg>",
 		"@audi-icons,pause,active,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M20 9v29h-6V9h6Zm13 0v29h-6V9h6Zm-5 28h4V10h-4v27Zm-13 0h4V10h-4v27Z\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M20 9v29h-6V9zm13 0v29h-6V9zm-5 28h4V10h-4zm-13 0h4V10h-4z\"></path></svg>",
 		"@audi-icons,pause,l",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M10 3v17H6V3h4Zm8 0v17h-4V3h4Zm-3 16h2V4h-2v15Zm-8 0h2V4H7v15Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M10 3v17H6V3zm8 0v17h-4V3zm-3 16h2V4h-2zm-8 0h2V4H7z\"></path></svg>",
 		"@audi-icons,pause,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M7 1v14H3V1h4Zm6 0v14H9V1h4Zm-3 13h2V2h-2v12Zm-6 0h2V2H4v12Z\"></path></svg>",
+		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M7 1v14H3V1zm6 0v14H9V1zm-3 13h2V2h-2zm-6 0h2V2H4z\"></path></svg>",
 		"@audi-icons,pause,xs",
 		"Audi Icons"
 	],

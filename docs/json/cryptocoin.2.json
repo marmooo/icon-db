@@ -1560,6 +1560,11 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M7.063 8.117c0-.583.472-1.055 1.055-1.055h7.76c.582 0 1.055-.472 1.055-1.055V4.055c0-.583-.473-1.055-1.055-1.055h-8.21c-.583 0-1.055.472-1.055 1.055V5.56c0 .583-.473 1.055-1.055 1.055H4.056A1.055 1.055 0 0 0 3 7.67v3.293c0 .583.475 1.031 1.058 1.031h1.951c.583 0 1.056-.472 1.056-1.055zm12.882 3.878h-1.952c-.583 0-1.055.472-1.055 1.055v2.833c0 .583-.472 1.055-1.055 1.055H8.118c-.583 0-1.055.472-1.055 1.055v1.952c0 .583.472 1.055 1.055 1.055h8.214a1.05 1.05 0 0 0 1.049-1.055v-1.566c0-.583.472-.996 1.055-.996h1.509c.582 0 1.055-.473 1.055-1.056v-3.29c0-.582-.473-1.042-1.055-1.042m-6.989-2.052h-1.874c-.61 0-1.107.496-1.107 1.107v1.874c0 .61.496 1.107 1.107 1.107h1.874c.61 0 1.107-.496 1.107-1.107V11.05c0-.61-.496-1.107-1.107-1.107\"></path></svg>",
+		"@token-icons,safe,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M12 21a9 9 0 0 0 6.933-14.74L6.26 18.934A8.97 8.97 0 0 0 12 21m-6.885-3.204L17.796 5.115A8.96 8.96 0 0 0 12 3a9 9 0 0 0-9 9c0 2.208.795 4.23 2.115 5.796\" clip-rule=\"evenodd\"></path></svg>",
 		"@token-icons,sai,tokens,cryptocoin",
 		"Token Icons"
@@ -3645,8 +3650,23 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#atomic__a)\" fill-rule=\"evenodd\" d=\"M3 20.5 8.341 6.152c.678-1.676 1.942-2.624 3.621-2.651V3.5h.076c1.68.028 2.943.976 3.62 2.652L21 20.5l-3.307-1.128L13.13 7.115c-.278-.678-.599-.922-1.13-.933-.532.011-.852.255-1.13.933L6.308 19.372zm11.324-5.464a2.28 2.28 0 0 1-2.293 2.27c-1.266 0-2.292-1.017-2.292-2.27s1.026-2.27 2.292-2.27a2.28 2.28 0 0 1 2.293 2.27\" clip-rule=\"evenodd\"></path><defs><linearGradient id=\"atomic__a\" x1=\"3\" x2=\"3\" y1=\"3.5\" y2=\"20.5\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#42C1FD\"></stop><stop offset=\"1\" stop-color=\"#1F8EFA\"></stop></linearGradient></defs></svg>",
+		"@token-icons,atomic,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#E33E3F\" fill-rule=\"evenodd\" d=\"M13.194 4.415c.666 0 1.29.088 1.87.25C14.496 3.37 13.32 3 12.011 3c-1.312 0-2.49.37-3.055 1.673a6.6 6.6 0 0 1 1.86-.258zm-2.529 1.302c-3.163 0-4.965 2.444-4.965 5.459v3.097c0 .301.256.54.573.54h11.454c.317 0 .573-.239.573-.54v-3.097c0-3.015-2.096-5.459-5.259-5.459zm1.33 5.486c1.108 0 2.005-.882 2.005-1.97 0-1.087-.897-1.968-2.005-1.968-1.106 0-2.004.881-2.004 1.969 0 1.087.898 1.969 2.005 1.969M5.7 16.633a.56.56 0 0 1 .573-.546h11.454a.56.56 0 0 1 .573.546v3.275c0 .603-.513 1.092-1.145 1.092H6.845c-.632 0-1.145-.489-1.145-1.092z\" clip-rule=\"evenodd\"></path></svg>",
 		"@token-icons,backpack,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M4 16.608v-4.18l3.569-1.452V4.467L11.116 3v10.69zm16 .036v-4.175l-3.569-1.457v-6.51l-3.547-1.457v10.68zm-7.99-1.493-7.094 2.935L12.006 21l7.115-2.93z\"></path></svg>",
+		"@token-icons,bitbox,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#blue__a)\" fill-rule=\"evenodd\" d=\"M8.298 3h7.404c1.842 0 2.51.19 3.184.545a3.73 3.73 0 0 1 1.562 1.542c.36.665.552 1.325.552 3.143v7.309c0 1.819-.192 2.478-.552 3.143a3.73 3.73 0 0 1-1.562 1.542c-.674.356-1.342.545-3.184.545H8.298c-1.842 0-2.51-.19-3.184-.545a3.73 3.73 0 0 1-1.562-1.542C3.192 18.017 3 17.358 3 15.539V8.23c0-1.818.192-2.478.552-3.143a3.73 3.73 0 0 1 1.562-1.542C5.788 3.189 6.456 3 8.298 3\" clip-rule=\"evenodd\"></path><path fill=\"url(#blue__b)\" fill-rule=\"evenodd\" d=\"M8.298 7.154h7.404c1.842 0 2.51.19 3.184.545a3.73 3.73 0 0 1 1.562 1.542c.36.665.552 1.324.552 3.143v2.924c0 1.819-.192 2.478-.552 3.143a3.73 3.73 0 0 1-1.562 1.542c-.674.356-1.342.545-3.184.545H8.298c-1.842 0-2.51-.189-3.184-.545a3.73 3.73 0 0 1-1.562-1.542C3.192 17.786 3 17.127 3 15.308v-2.924c0-1.819.192-2.478.552-3.143a3.73 3.73 0 0 1 1.562-1.542c.674-.356 1.342-.545 3.184-.545\" clip-rule=\"evenodd\"></path><path fill=\"url(#blue__c)\" fill-rule=\"evenodd\" d=\"M7.212 11.539h9.576c1.234 0 1.853.16 2.423.46.57.302 1.017.743 1.322 1.306.305.562.467 1.174.467 2.392v1.145c0 1.218-.162 1.83-.467 2.392a3.16 3.16 0 0 1-1.322 1.305c-.57.3-1.19.461-2.423.461H7.212c-1.234 0-1.853-.16-2.423-.461a3.16 3.16 0 0 1-1.322-1.305C3.162 18.671 3 18.06 3 16.842v-1.145c0-1.218.162-1.83.467-2.392A3.16 3.16 0 0 1 4.79 12c.57-.301 1.19-.461 2.423-.461\" clip-rule=\"evenodd\"></path><defs><linearGradient id=\"blue__a\" x1=\"903\" x2=\"903\" y1=\"53.433\" y2=\"1779.92\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#174697\"></stop><stop offset=\"1\" stop-color=\"#0C2550\"></stop></linearGradient><linearGradient id=\"blue__b\" x1=\"903\" x2=\"903\" y1=\"7.154\" y2=\"1317.29\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#3F78DC\"></stop><stop offset=\"1\" stop-color=\"#2F5FB3\"></stop></linearGradient><linearGradient id=\"blue__c\" x1=\"903\" x2=\"903\" y1=\"37.324\" y2=\"957.69\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#8BD7F9\"></stop><stop offset=\"1\" stop-color=\"#68BBE1\"></stop></linearGradient></defs></svg>",
+		"@token-icons,blue,tokens,color,cryptocoin",
 		"Token Icons"
 	],
 	[
@@ -3670,13 +3690,33 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#exodus__a)\" d=\"M21 8.026 13.194 3v2.81l5.008 3.195-.59 1.83h-4.418v2.33h4.419l.589 1.83-5.008 3.195V21L21 15.99l-1.276-3.982z\"></path><path fill=\"url(#exodus__b)\" d=\"M6.404 13.164h4.401v-2.328H6.387l-.572-1.83 4.99-3.196V3L3 8.026l1.276 3.982L3 15.99 10.822 21v-2.81l-5.007-3.195z\"></path><mask id=\"exodus__e\" width=\"18\" height=\"18\" x=\"3\" y=\"3\" maskUnits=\"userSpaceOnUse\" style=\"mask-type:alpha\"><path fill=\"url(#exodus__c)\" d=\"M20.758 8.026 13.092 3v2.81l4.918 3.195-.579 1.83h-4.339v2.33h4.34l.578 1.83-4.918 3.195V21l7.666-5.01-1.254-3.982z\"></path><path fill=\"url(#exodus__d)\" d=\"M6.424 13.164h4.322v-2.328H6.407l-.562-1.83 4.901-3.196V3L3.081 8.026l1.253 3.982-1.253 3.982L10.762 21v-2.81l-4.917-3.195z\"></path></mask><g mask=\"url(#exodus__e)\"><path fill=\"url(#exodus__f)\" d=\"M20.64 3H3.09v18h17.55z\"></path></g><defs><linearGradient id=\"exodus__a\" x1=\"18.475\" x2=\"13.422\" y1=\"22.238\" y2=\".981\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0B46F9\"></stop><stop offset=\"1\" stop-color=\"#BBFBE0\"></stop></linearGradient><linearGradient id=\"exodus__b\" x1=\"18.475\" x2=\"13.423\" y1=\"22.238\" y2=\".981\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0B46F9\"></stop><stop offset=\"1\" stop-color=\"#BBFBE0\"></stop></linearGradient><linearGradient id=\"exodus__c\" x1=\"18.278\" x2=\"13.143\" y1=\"22.238\" y2=\"1.023\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0B46F9\"></stop><stop offset=\"1\" stop-color=\"#BBFBE0\"></stop></linearGradient><linearGradient id=\"exodus__d\" x1=\"18.278\" x2=\"13.143\" y1=\"22.238\" y2=\"1.023\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0B46F9\"></stop><stop offset=\"1\" stop-color=\"#BBFBE0\"></stop></linearGradient><linearGradient id=\"exodus__f\" x1=\"4.215\" x2=\"13.103\" y1=\"7.05\" y2=\"13.688\" gradientUnits=\"userSpaceOnUse\"><stop offset=\".12\" stop-color=\"#8952FF\" stop-opacity=\".87\"></stop><stop offset=\"1\" stop-color=\"#DABDFF\" stop-opacity=\"0\"></stop></linearGradient></defs></svg>",
+		"@token-icons,exodus,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#glow__a)\" d=\"M18.312 18.416A8.97 8.97 0 0 1 12 21a8.97 8.97 0 0 1-6.3-2.574c3.685-2.903 8.923-2.906 12.612-.01m.104-.104A8.97 8.97 0 0 0 21 12a8.97 8.97 0 0 0-2.572-6.3c-2.905 3.697-2.908 8.923-.012 12.612m-.09-12.714c-3.695 2.91-8.95 2.906-12.64-.011A8.97 8.97 0 0 1 12 3c2.465 0 4.7.992 6.325 2.598m-12.74.087A8.97 8.97 0 0 0 3 12c0 2.466.992 4.7 2.598 6.325 2.91-3.694 2.906-8.948-.011-12.64\"></path><defs><linearGradient id=\"glow__a\" x1=\"3.009\" x2=\"20.985\" y1=\"2.964\" y2=\"21.009\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#6F03FB\"></stop><stop offset=\"1\" stop-color=\"#EC5EFF\"></stop></linearGradient></defs></svg>",
+		"@token-icons,glow,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#imtoken__a)\" d=\"M20.953 6.132c.594 7.966-4.574 11.731-9.207 12.133-4.308.373-8.362-2.25-8.718-6.279C2.735 8.657 4.811 7.24 6.442 7.1c1.678-.146 3.088 1 3.21 2.389.119 1.335-.722 1.942-1.307 1.993-.462.04-1.043-.238-1.096-.835-.045-.513.152-.583.104-1.128-.086-.97-.94-1.084-1.407-1.043-.566.049-1.593.703-1.449 2.333.145 1.644 1.736 2.943 3.821 2.762 2.25-.195 3.818-1.931 3.936-4.366a.9.9 0 0 1 .08-.374v-.003q.037-.076.085-.147.071-.106.19-.236 0-.003.002-.002.087-.097.206-.21c.983-.919 4.524-3.086 7.872-2.4a.34.34 0 0 1 .264.3\"></path><defs><linearGradient id=\"imtoken__a\" x1=\"19.143\" x2=\"5.727\" y1=\"8.706\" y2=\"16.386\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0CC5FF\"></stop><stop offset=\"1\" stop-color=\"#007FFF\"></stop></linearGradient></defs></svg>",
 		"@token-icons,imtoken,tokens,color,cryptocoin",
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#14AFEB\" d=\"M12.48 7.922c.13 1.336.196 2.004.546 2.494.15.21.336.393.547.54.495.343 1.164.4 2.502.512l.566.048v.968l-.566.048c-1.338.112-2.007.169-2.501.512-.212.147-.397.33-.548.54-.35.49-.415 1.158-.546 2.494h-.96c-.13-1.336-.196-2.004-.546-2.494a2.3 2.3 0 0 0-.547-.54c-.495-.343-1.164-.4-2.502-.512l-.566-.048v-.968l.566-.048c1.338-.112 2.007-.169 2.502-.512a2.3 2.3 0 0 0 .547-.54c.35-.49.415-1.158.546-2.494z\"></path><path fill=\"#14AFEB\" fill-rule=\"evenodd\" d=\"M12 3c7.411 0 9 1.588 9 9 0 7.411-1.589 9-9 9s-9-1.589-9-9 1.588-9 9-9m5.882 3.11C15.702 3.93 11.3 4.8 8.05 8.05s-4.12 7.652-1.94 9.832 6.582 1.312 9.833-1.939c3.25-3.25 4.119-7.653 1.94-9.833\" clip-rule=\"evenodd\"></path></svg>",
+		"@token-icons,keplr,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#7133F5\" d=\"M11.998 4.5C7.028 4.5 3 8.774 3 14.047v4.09c0 .753.575 1.363 1.285 1.363s1.288-.61 1.288-1.362v-4.091c0-.755.573-1.365 1.285-1.365.71 0 1.284.61 1.284 1.365v4.09c0 .753.575 1.363 1.285 1.363.712 0 1.286-.61 1.286-1.362v-4.091c0-.755.575-1.365 1.285-1.365.712 0 1.289.61 1.289 1.365v4.09c0 .753.574 1.363 1.284 1.363s1.285-.61 1.285-1.362v-4.091c0-.755.574-1.365 1.288-1.365.71 0 1.285.61 1.285 1.365v4.09c0 .753.575 1.363 1.287 1.363.71 0 1.284-.61 1.284-1.362v-4.091C21 8.774 16.97 4.5 11.998 4.5\"></path></svg>",
 		"@token-icons,kraken,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#5963FF\" fill-rule=\"evenodd\" d=\"M12 7.67a4.33 4.33 0 1 0 0 8.66 4.33 4.33 0 0 0 0-8.66m0 6.3a1.97 1.97 0 1 1 0-3.94 1.97 1.97 0 0 1 0 3.94\" clip-rule=\"evenodd\"></path><path fill=\"#5963FF\" fill-rule=\"evenodd\" d=\"M17.4 3H6.6A3.6 3.6 0 0 0 3 6.6v10.8A3.6 3.6 0 0 0 6.6 21h10.8a3.6 3.6 0 0 0 3.6-3.6V6.6A3.6 3.6 0 0 0 17.4 3m.406 12.18q.072.052.136.117a1.183 1.183 0 0 1-1.585 1.756l-.037-.031a.385.385 0 0 0-.49-.02A6.27 6.27 0 0 1 12 18.3a6.27 6.27 0 0 1-3.83-1.297.385.385 0 0 0-.49.019l-.037.03a1.185 1.185 0 1 1-1.449-1.873.38.38 0 0 0 .118-.467A6.3 6.3 0 0 1 5.7 12c0-.97.22-1.89.612-2.712a.38.38 0 0 0-.123-.47l-.038-.03a1.184 1.184 0 1 1 1.532-1.806.38.38 0 0 0 .486.015 6.27 6.27 0 0 1 3.83-1.297 6.28 6.28 0 0 1 3.83 1.297.385.385 0 0 0 .49-.019l.037-.03a1.185 1.185 0 1 1 1.448 1.873.38.38 0 0 0-.117.467c.392.822.612 1.741.612 2.712 0 .97-.22 1.89-.612 2.712a.38.38 0 0 0 .119.467\" clip-rule=\"evenodd\"></path></svg>",
+		"@token-icons,kukai,tokens,color,cryptocoin",
 		"Token Icons"
 	],
 	[
@@ -3755,6 +3795,11 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#FFEF46\" d=\"m12.063 12.715 1.245-1.199 2.32.757c1.518.505 2.278 1.43 2.278 2.734 0 .988-.38 1.64-1.14 2.481l-.231.253.084-.59c.337-2.144-.295-3.07-2.383-3.742zM8.942 5.376l6.327 2.103-1.37 1.304-3.291-1.094c-1.139-.378-1.519-.988-1.666-2.27zm-.38 10.682 1.434-1.367 2.7.884c1.413.462 1.898 1.072 1.75 2.607zM6.748 9.96c0-.4.211-.778.57-1.093.38.547 1.033 1.03 2.067 1.367l2.235.736-1.244 1.198-2.194-.715c-1.012-.336-1.434-.84-1.434-1.493M13.371 21c4.64-3.07 7.129-5.152 7.129-7.717 0-1.704-1.012-2.65-3.248-3.386l-1.687-.568 4.619-4.415-.928-.989-1.371 1.199L11.409 3c-2.003.652-4.534 2.565-4.534 4.479 0 .21.02.42.084.652-1.666.946-2.341 1.83-2.341 2.923 0 1.03.548 2.06 2.299 2.628l1.392.463L3.5 18.75l.928.988 1.498-1.366z\"></path></svg>",
+		"@token-icons,solflare,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#soul__a)\" d=\"M17.81 8.849H6.215c-1.762 0-3.19 1.412-3.19 3.154s1.428 3.153 3.19 3.153h11.593c1.762 0 3.19-1.412 3.19-3.153s-1.428-3.154-3.19-3.154\"></path><path fill=\"url(#soul__b)\" d=\"m9.746 3.933-5.81 5.786a3.174 3.174 0 0 0 0 4.502 3.205 3.205 0 0 0 4.52 0l5.81-5.786a3.174 3.174 0 0 0 0-4.502 3.205 3.205 0 0 0-4.52 0\"></path><path fill=\"url(#soul__c)\" d=\"m15.544 9.779-5.81 5.787a3.174 3.174 0 0 0 0 4.501 3.205 3.205 0 0 0 4.52 0l5.81-5.786a3.175 3.175 0 0 0 0-4.502 3.205 3.205 0 0 0-4.52 0\"></path><defs><radialGradient id=\"soul__a\" cx=\"0\" cy=\"0\" r=\"1\" gradientTransform=\"matrix(-9.93267 5.27396 -4.54389 -8.5577 18.402 8.83)\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#FFD8B0\"></stop><stop offset=\".359\" stop-color=\"#FFA3AC\"></stop><stop offset=\"1\" stop-color=\"#FF87CD\"></stop></radialGradient><radialGradient id=\"soul__b\" cx=\"0\" cy=\"0\" r=\"1\" gradientTransform=\"rotate(135.115 4.847 5.285)scale(9.52642 11.0623)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\".25\" stop-color=\"#FF2E79\"></stop><stop offset=\".87\" stop-color=\"#FF8BD1\"></stop></radialGradient><radialGradient id=\"soul__c\" cx=\"0\" cy=\"0\" r=\"1\" gradientTransform=\"rotate(-47.685 26.373 -4.382)scale(12.0539 7.71216)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\".13\" stop-color=\"#FF2B9D\"></stop><stop offset=\".724\" stop-color=\"#FF9BBF\"></stop><stop offset=\".958\" stop-color=\"#FAC7BD\"></stop></radialGradient></defs></svg>",
 		"@token-icons,soul,tokens,color,cryptocoin",
 		"Token Icons"
@@ -3762,6 +3807,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"m20.545 7.82-2.438-2.437-1.924-1.927a1.56 1.56 0 0 0-1.1-.456H8.918a1.56 1.56 0 0 0-1.1.456L5.896 5.38 3.457 7.817A1.56 1.56 0 0 0 3 8.918v6.168a1.55 1.55 0 0 0 .457 1.101l4.36 4.362q.056.055.115.098c.278.228.626.352.985.353h6.167c.36 0 .707-.125.985-.353q.06-.05.114-.098l4.361-4.362A1.56 1.56 0 0 0 21 15.086V8.918a1.56 1.56 0 0 0-.455-1.097m-1.923 4.19v5.17a1.45 1.45 0 0 1-1.454 1.446H6.826a1.446 1.446 0 0 1-1.45-1.449V6.834a1.45 1.45 0 0 1 1.45-1.45h10.342a1.45 1.45 0 0 1 1.45 1.45v5.176z\"></path></svg>",
 		"@token-icons,squads,tokens,color,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"url(#temple__a)\" d=\"M15.333 8.537H18L16.666 3H7.334l1.334 5.537h2.664l1.333 5.54H11l.667 2.768h1.665l.667 2.77H18z\"></path><path fill=\"url(#temple__b)\" d=\"M16.666 9.923h-1.002l-.332-1.385H18z\"></path><path fill=\"url(#temple__c)\" d=\"M15.333 5.77H9.335l-.17-.692h6.669z\"></path><path fill=\"url(#temple__d)\" d=\"M7.334 9.922 6 4.385 7.334 3l1.333 5.537z\"></path><path fill=\"url(#temple__e)\" d=\"M13.332 16.844h-1.665l-1.334 1.386h1.665z\"></path><path fill=\"url(#temple__f)\" d=\"M10.001 9.923H7.334l1.334-1.385h2.664z\"></path><path fill=\"url(#temple__g)\" d=\"M12.666 14.078H11l-.998-4.155 1.33-1.385z\"></path><path fill=\"url(#temple__h)\" d=\"M11.667 16.845 11 14.078l-1.334 1.385.667 2.767z\"></path><path fill=\"url(#temple__i)\" d=\"m13.999 19.615-.667-2.77-1.334 1.385.667 2.77z\"></path><path fill=\"url(#temple__j)\" d=\"m16.667 19.615-3-12.46-.534.552L16 19.615l-.535.555h.667z\"></path><path fill=\"url(#temple__k)\" d=\"M16.331 7.155h-.667l-.332-1.385.502-.692z\"></path><path fill=\"url(#temple__l)\" d=\"m16.667 19.615-.535.555h-.667l.535-.555h-2L12.664 21h4.002L18 19.615z\"></path><defs><linearGradient id=\"temple__a\" x1=\"7.333\" x2=\"17.999\" y1=\"11.308\" y2=\"11.308\" gradientUnits=\"userSpaceOnUse\"><stop offset=\".002\" stop-color=\"#FCC33C\"></stop><stop offset=\"1\" stop-color=\"#FFEE50\"></stop></linearGradient><linearGradient id=\"temple__b\" x1=\"17.999\" x2=\"15.332\" y1=\"9.231\" y2=\"9.231\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#FB9828\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__c\" x1=\"15.833\" x2=\"9.167\" y1=\"5.423\" y2=\"5.423\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F84200\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__d\" x1=\"6.551\" x2=\"8.231\" y1=\"3.203\" y2=\"9.691\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F96C13\"></stop><stop offset=\"1\" stop-color=\"#FB9828\"></stop></linearGradient><linearGradient id=\"temple__e\" x1=\"10.333\" x2=\"13.333\" y1=\"17.538\" y2=\"17.538\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F84200\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__f\" x1=\"7.333\" x2=\"11.333\" y1=\"9.231\" y2=\"9.231\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F84200\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__g\" x1=\"11.88\" x2=\"10.453\" y1=\"14.281\" y2=\"8.767\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F96C13\"></stop><stop offset=\"1\" stop-color=\"#FB9828\"></stop></linearGradient><linearGradient id=\"temple__h\" x1=\"11.116\" x2=\"10.15\" y1=\"18.028\" y2=\"14.297\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#FB9828\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__i\" x1=\"13.449\" x2=\"12.483\" y1=\"20.797\" y2=\"17.066\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F96C13\"></stop><stop offset=\"1\" stop-color=\"#FB9828\"></stop></linearGradient><linearGradient id=\"temple__j\" x1=\"16.133\" x2=\"12.819\" y1=\"20.169\" y2=\"7.373\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F96C13\"></stop><stop offset=\"1\" stop-color=\"#F84200\"></stop></linearGradient><linearGradient id=\"temple__k\" x1=\"16.069\" x2=\"15.533\" y1=\"7.446\" y2=\"5.379\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F84200\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient><linearGradient id=\"temple__l\" x1=\"13.226\" x2=\"17.209\" y1=\"20.308\" y2=\"20.308\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#F84200\"></stop><stop offset=\"1\" stop-color=\"#F96C13\"></stop></linearGradient></defs></svg>",
+		"@token-icons,temple,tokens,color,cryptocoin",
 		"Token Icons"
 	],
 	[
@@ -3830,8 +3880,18 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M3 20.5 8.341 6.152c.678-1.676 1.942-2.624 3.621-2.651V3.5h.076c1.68.028 2.943.976 3.62 2.652L21 20.5l-3.307-1.128L13.13 7.115c-.278-.678-.599-.922-1.13-.933-.532.011-.852.255-1.13.933L6.308 19.372zm11.324-5.464a2.28 2.28 0 0 1-2.293 2.27c-1.266 0-2.292-1.017-2.292-2.27s1.026-2.27 2.292-2.27a2.28 2.28 0 0 1 2.293 2.27\" clip-rule=\"evenodd\"></path></svg>",
+		"@token-icons,atomic,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M13.194 4.415c.666 0 1.29.088 1.87.25C14.496 3.37 13.32 3 12.011 3c-1.312 0-2.49.37-3.055 1.673a6.6 6.6 0 0 1 1.86-.258zm-2.529 1.302c-3.163 0-4.965 2.444-4.965 5.459v3.097c0 .301.256.54.573.54h11.454c.317 0 .573-.239.573-.54v-3.097c0-3.015-2.096-5.459-5.259-5.459zm1.33 5.486c1.108 0 2.005-.882 2.005-1.97 0-1.087-.897-1.968-2.005-1.968-1.106 0-2.004.881-2.004 1.969 0 1.087.898 1.969 2.005 1.969M5.7 16.633a.56.56 0 0 1 .573-.546h11.454a.56.56 0 0 1 .573.546v3.275c0 .603-.513 1.092-1.145 1.092H6.845c-.632 0-1.145-.489-1.145-1.092z\" clip-rule=\"evenodd\"></path></svg>",
 		"@token-icons,backpack,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M4 16.608v-4.18l3.569-1.452V4.467L11.116 3v10.69zm16 .036v-4.175l-3.569-1.457v-6.51l-3.547-1.457v10.68zm-7.99-1.493-7.094 2.935L12.006 21l7.115-2.93z\"></path></svg>",
+		"@token-icons,bitbox,tokens,cryptocoin",
 		"Token Icons"
 	],
 	[
@@ -3850,13 +3910,33 @@
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M21 8.026 13.195 3v2.81l5.007 3.195-.59 1.83h-4.417v2.33h4.418l.589 1.83-5.007 3.195V21L21 15.99l-1.276-3.982zM6.404 13.164h4.402v-2.328H6.387l-.572-1.83 4.99-3.196V3L3 8.026l1.276 3.982L3 15.99 10.822 21v-2.81l-5.007-3.195z\"></path></svg>",
+		"@token-icons,exodus,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M18.312 18.416A8.97 8.97 0 0 1 12 21a8.97 8.97 0 0 1-6.3-2.574c3.685-2.903 8.923-2.906 12.612-.01m.104-.104A8.97 8.97 0 0 0 21 12a8.97 8.97 0 0 0-2.572-6.3c-2.905 3.697-2.908 8.923-.012 12.612m-.09-12.714c-3.695 2.91-8.95 2.906-12.64-.011A8.97 8.97 0 0 1 12 3c2.465 0 4.7.992 6.325 2.598m-12.74.087A8.97 8.97 0 0 0 3 12c0 2.466.992 4.7 2.598 6.325 2.91-3.694 2.906-8.948-.011-12.64\"></path></svg>",
+		"@token-icons,glow,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M20.953 6.132c.594 7.966-4.574 11.731-9.207 12.133-4.308.373-8.362-2.25-8.718-6.279C2.735 8.657 4.811 7.24 6.442 7.1c1.678-.146 3.088 1 3.21 2.389.119 1.335-.722 1.942-1.307 1.993-.462.04-1.043-.238-1.096-.835-.045-.513.152-.583.104-1.128-.086-.97-.94-1.084-1.407-1.043-.566.049-1.593.703-1.449 2.333.145 1.644 1.736 2.943 3.821 2.762 2.25-.195 3.818-1.931 3.936-4.366a.9.9 0 0 1 .08-.374v-.003q.037-.076.085-.147.071-.106.19-.236 0-.003.002-.002.087-.097.206-.21c.983-.919 4.524-3.086 7.872-2.4a.34.34 0 0 1 .264.3\"></path></svg>",
 		"@token-icons,imtoken,tokens,cryptocoin",
 		"Token Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M12.48 7.922c.13 1.336.196 2.004.546 2.494.15.21.336.393.547.54.495.343 1.164.4 2.502.512l.566.048v.968l-.566.048c-1.338.112-2.007.169-2.501.512-.212.147-.397.33-.548.54-.35.49-.415 1.158-.546 2.494h-.96c-.13-1.336-.196-2.004-.546-2.494a2.3 2.3 0 0 0-.547-.54c-.495-.343-1.164-.4-2.502-.512l-.566-.048v-.968l.566-.048c1.338-.112 2.007-.169 2.502-.512a2.3 2.3 0 0 0 .547-.54c.35-.49.415-1.158.546-2.494z\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M12 3c7.411 0 9 1.588 9 9 0 7.411-1.589 9-9 9s-9-1.589-9-9 1.588-9 9-9m5.882 3.11C15.702 3.93 11.3 4.8 8.05 8.05s-4.12 7.652-1.94 9.832 6.582 1.312 9.833-1.939c3.25-3.25 4.119-7.653 1.94-9.833\" clip-rule=\"evenodd\"></path></svg>",
+		"@token-icons,keplr,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"M11.998 4.5C7.028 4.5 3 8.774 3 14.047v4.09c0 .753.575 1.363 1.285 1.363s1.288-.61 1.288-1.362v-4.091c0-.755.573-1.365 1.285-1.365.71 0 1.284.61 1.284 1.365v4.09c0 .753.575 1.363 1.285 1.363.712 0 1.286-.61 1.286-1.362v-4.091c0-.755.575-1.365 1.285-1.365.712 0 1.289.61 1.289 1.365v4.09c0 .753.574 1.363 1.284 1.363s1.285-.61 1.285-1.362v-4.091c0-.755.574-1.365 1.288-1.365.71 0 1.285.61 1.285 1.365v4.09c0 .753.575 1.363 1.287 1.363.71 0 1.284-.61 1.284-1.362v-4.091C21 8.774 16.97 4.5 11.998 4.5\"></path></svg>",
 		"@token-icons,kraken,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M12 7.67a4.33 4.33 0 1 0 0 8.66 4.33 4.33 0 0 0 0-8.66m0 6.3a1.97 1.97 0 1 1 0-3.94 1.97 1.97 0 0 1 0 3.94\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M17.4 3H6.6A3.6 3.6 0 0 0 3 6.6v10.8A3.6 3.6 0 0 0 6.6 21h10.8a3.6 3.6 0 0 0 3.6-3.6V6.6A3.6 3.6 0 0 0 17.4 3m.406 12.18q.072.052.136.117a1.183 1.183 0 0 1-1.585 1.756l-.037-.031a.385.385 0 0 0-.49-.02A6.27 6.27 0 0 1 12 18.3a6.27 6.27 0 0 1-3.83-1.297.385.385 0 0 0-.49.019l-.037.03a1.185 1.185 0 1 1-1.449-1.873.38.38 0 0 0 .118-.467A6.3 6.3 0 0 1 5.7 12c0-.97.22-1.89.612-2.712a.38.38 0 0 0-.123-.47l-.038-.03a1.184 1.184 0 1 1 1.532-1.806.38.38 0 0 0 .486.015 6.27 6.27 0 0 1 3.83-1.297 6.28 6.28 0 0 1 3.83 1.297.385.385 0 0 0 .49-.019l.037-.03a1.185 1.185 0 1 1 1.448 1.873.38.38 0 0 0-.117.467c.392.822.612 1.741.612 2.712 0 .97-.22 1.89-.612 2.712a.38.38 0 0 0 .119.467\" clip-rule=\"evenodd\"></path></svg>",
+		"@token-icons,kukai,tokens,cryptocoin",
 		"Token Icons"
 	],
 	[
@@ -3932,6 +4012,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M3 16.14V7.86A3.06 3.06 0 0 1 6.06 4.8h11.88A3.06 3.06 0 0 1 21 7.86v8.28a3.06 3.06 0 0 1-3.06 3.06H6.06A3.06 3.06 0 0 1 3 16.14M7.5 8.4a.9.9 0 1 0-1.8 0 .9.9 0 0 0 1.8 0m0 7.194a.9.9 0 1 0-1.8 0 .9.9 0 0 0 1.8 0m9.9-4.494a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8m-7.2-3.6h7.2a.9.9 0 0 1 0 1.8h-7.2a.9.9 0 0 1 0-1.8m8.1 8.094a.9.9 0 0 0-.9-.9h-7.2a.9.9 0 0 0 0 1.8h7.2a.9.9 0 0 0 .9-.9M6.6 11.1h7.2a.9.9 0 0 1 0 1.8H6.6a.9.9 0 0 1 0-1.8\" clip-rule=\"evenodd\"></path></svg>",
 		"@token-icons,sequence,tokens,cryptocoin",
+		"Token Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#fff\" d=\"m12.063 12.715 1.245-1.199 2.32.757c1.518.505 2.278 1.43 2.278 2.734 0 .988-.38 1.64-1.14 2.481l-.231.253.084-.59c.337-2.144-.295-3.07-2.383-3.742zM8.942 5.376l6.327 2.103-1.37 1.304-3.291-1.094c-1.139-.378-1.519-.988-1.666-2.27zm-.38 10.682 1.434-1.367 2.7.884c1.413.462 1.898 1.072 1.75 2.607zM6.748 9.96c0-.4.211-.778.57-1.093.38.547 1.033 1.03 2.067 1.367l2.235.736-1.244 1.198-2.194-.715c-1.012-.336-1.434-.84-1.434-1.493M13.371 21c4.64-3.07 7.129-5.152 7.129-7.717 0-1.704-1.012-2.65-3.248-3.386l-1.687-.568 4.619-4.415-.928-.989-1.371 1.199L11.409 3c-2.003.652-4.534 2.565-4.534 4.479 0 .21.02.42.084.652-1.666.946-2.341 1.83-2.341 2.923 0 1.03.548 2.06 2.299 2.628l1.392.463L3.5 18.75l.928.988 1.498-1.366z\"></path></svg>",
+		"@token-icons,solflare,tokens,cryptocoin",
 		"Token Icons"
 	],
 	[

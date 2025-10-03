@@ -130,6 +130,16 @@
 		"Octicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M2.75 1h10.5c.967 0 1.75.783 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 15H2.75A1.75 1.75 0 0 1 1 13.25V2.75C1 1.783 1.783 1 2.75 1Zm9.03 5.28a.749.749 0 1 0-1.06-1.06L6.75 9.189 5.28 7.72a.749.749 0 1 0-1.06 1.06l2 2a.749.749 0 0 0 1.06 0Z\"></path></svg>",
+		"@octicons,checkbox,filled",
+		"Octicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20.25 2c.966 0 1.75.783 1.75 1.75v16.5A1.75 1.75 0 0 1 20.25 22H3.75A1.75 1.75 0 0 1 2 20.25V3.75C2 2.783 2.783 2 3.75 2Zm-2.97 6.22a.749.749 0 0 0-1.06 0l-5.97 5.969-2.47-2.469a.749.749 0 1 0-1.06 1.06l3 3a.749.749 0 0 0 1.06 0l6.5-6.5a.749.749 0 0 0 0-1.06Z\"></path></svg>",
+		"@octicons,checkbox,filled",
+		"Octicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><polyline points=\"352 176 217.6 336 160 272\" style=\"fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px\"></polyline><rect x=\"64\" y=\"64\" width=\"384\" height=\"384\" rx=\"48\" ry=\"48\" style=\"fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px\"></rect></svg>",
 		"@ionicons,checkbox,outline",
 		"Ionicons"
@@ -700,7 +710,7 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 2L15 2V7.5H13V4L4 4L4 13H7.5V15H2L2 2ZM9 9L22 9L22 22L9 22L9 9ZM11 11L11 20L20 20L20 11L11 11ZM19.4142 14L15 18.4142L12.0858 15.5L13.5 14.0858L15 15.5858L18 12.5858L19.4142 14Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"component-checkbox\"><path id=\"fill1\" d=\"M10 10L21 10V21H10L10 10Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M10 10L21 10V21H10L10 10Z\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M14 6.5V3H3V14H6.5M18 14L15 17L13.5 15.5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,component,checkbox",
 		"TDesign Icons"
 	],

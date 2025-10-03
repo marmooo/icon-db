@@ -45,7 +45,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><path d=\"m58 59 74 74-37 37V22l37 37-74 74\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m58 59 74 74-37 37V22l37 37-74 74\"></path></svg>",
 		"@lawnicons,generic,bluetooth",
 		"Lawnicons"
 	],
@@ -1580,7 +1580,7 @@
 		"Fontaudio"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.0002 0.254639L18.4526 6.96181L13.4144 12L18.4526 17.0382L11.0002 23.7454V14.4142L7.00015 18.4142L5.58594 17L10.5859 12L5.58594 7L7.00015 5.58579L11.0002 9.58579V0.254639ZM13.0002 14.4142V19.2546L15.5477 16.9618L13.0002 14.4142ZM13.0002 9.58579L15.5477 7.0382L13.0002 4.74536V9.58579Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"bluetooth\"><path id=\"stroke1\" d=\"M7 7L12 12M12 12L17 17L12 21.5V12ZM12 12L7 17M12 12L17 7L12 2.5V12Z\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,bluetooth",
 		"TDesign Icons"
 	],
@@ -2183,6 +2183,21 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.01993 6.48008C5.72704 6.18718 5.72704 5.71231 6.01993 5.41942C6.31283 5.12652 6.7877 5.12652 7.08059 5.41942L11.75 10.0888L11.75 2.60355C11.75 1.71265 12.8272 1.26648 13.4571 1.89645L17.8033 6.24264C18.1938 6.63316 18.1938 7.26633 17.8033 7.65685L13.5104 11.9497L17.8033 16.2426C18.1938 16.6332 18.1938 17.2663 17.8033 17.6569L13.4571 22.003C12.8272 22.633 11.75 22.1868 11.75 21.2959V13.8107L7.08059 18.4801C6.7877 18.773 6.31283 18.773 6.01993 18.4801C5.72704 18.1872 5.72704 17.7123 6.01993 17.4194L11.4896 11.9497L6.01993 6.48008ZM13.25 3.81066V10.0888L16.3891 6.94975L13.25 3.81066ZM16.3891 16.9497L13.25 13.8107L13.25 20.0888L16.3891 16.9497Z\" fill=\"black\"></path></svg>",
 		"@basil-icons,solid,interface,bluetooth",
 		"Basil Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"m12 12 6 5-6 5V2l6 5z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"m5 6 13 11-6 5V2l6 5L5 18\"></path></svg>",
+		"@sargam-icons,twotone,si,bluetooth",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M11.576 1.095a1 1 0 0 1 1.065.136l6 5a1 1 0 0 1 .005 1.533L13.639 12l5.007 4.236a1.002 1.002 0 0 1-.005 1.532l-6 5A1 1 0 0 1 11 22v-7.768l-5.355 4.532a1 1 0 0 1-1.291-1.528L10.542 12 4.355 6.764a1 1 0 0 1 1.29-1.528L11 9.766V2a1 1 0 0 1 .576-.905\"></path></svg>",
+		"@sargam-icons,filled,si,bluetooth",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"m5 6 13 11-6 5V2l6 5L5 18\"></path></svg>",
+		"@sargam-icons,line,si,bluetooth",
+		"Sargam Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.3008 17.3208L14.6108 15.3908L12.3008 13.3008V17.3208Z\" fill=\"#292D32\"></path><path d=\"M12.3008 6.67969V10.6397L14.6108 8.51969L12.3008 6.67969Z\" fill=\"#292D32\"></path><path d=\"M16.19 2H7.81C4.17 2 2 4.17 2 7.81V16.18C2 19.83 4.17 22 7.81 22H16.18C19.82 22 21.99 19.83 21.99 16.19V7.81C22 4.17 19.83 2 16.19 2ZM5.25 12C5.25 11.24 5.87 10.62 6.63 10.62C7.39 10.62 8 11.24 8 12C8 12.76 7.38 13.38 6.62 13.38C5.86 13.38 5.25 12.76 5.25 12ZM15.57 16.54L13.16 18.55C12.75 18.9 12.37 19 12.08 19C11.85 19 11.67 18.94 11.57 18.89C11.34 18.78 10.8 18.43 10.8 17.45V14.06L7.9 16.71C7.6 16.99 7.12 16.97 6.84 16.66C6.56 16.35 6.58 15.88 6.89 15.6L10.8 12.02V11.94L6.89 8.4C6.58 8.12 6.56 7.65 6.84 7.34C7.12 7.04 7.6 7.01 7.9 7.29L10.8 9.94V6.56C10.8 5.58 11.34 5.22 11.57 5.12C11.8 5.01 12.42 4.83 13.17 5.46L15.58 7.47C15.91 7.74 16.1 8.13 16.11 8.54C16.12 8.95 15.95 9.35 15.64 9.64L13.04 12L15.63 14.37C15.94 14.66 16.12 15.06 16.11 15.47C16.09 15.88 15.9 16.27 15.57 16.54ZM17.38 13.38C16.62 13.38 16 12.76 16 12C16 11.24 16.62 10.62 17.38 10.62C18.14 10.62 18.76 11.24 18.76 12C18.76 12.76 18.13 13.38 17.38 13.38Z\" fill=\"#292D32\"></path></svg>",

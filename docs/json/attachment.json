@@ -270,7 +270,7 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3 1H15.4142L21 6.58579V12H19V9H13V3H5V21H12V23H3V1ZM15 3.41421V7H18.5858L15 3.41421ZM14 15.5C14 14.1193 15.1193 13 16.5 13C17.8807 13 19 14.1193 19 15.5V20H17V15.5C17 15.2239 16.7761 15 16.5 15C16.2239 15 16 15.2239 16 15.5V20C16 21.1046 16.8954 22 18 22C19.1046 22 20 21.1046 20 20V16H22V20C22 22.2091 20.2091 24 18 24C15.7909 24 14 22.2091 14 20V15.5Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"file-attachment\"><path id=\"stroke1\" d=\"M20 11V7L15 2H4V22H12M14 2V8H20\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M19 19V15.5C19 14.6716 18.3284 14 17.5 14C16.6716 14 16 14.6716 16 15.5V20C16 21.6569 17.3431 23 19 23C20.6569 23 22 21.6569 22 20V16.5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,file,attachment",
 		"TDesign Icons"
 	],
@@ -413,6 +413,21 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" id=\"Attachment--Streamline-Ultimate\"><desc> Attachment Streamline Icon: https://streamlinehq.com</desc><path stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M23.25 9.90003 12.273 20.878c-1.2659 1.2659 -2.9828 1.9771 -4.77302 1.9771 -1.79022 0 -3.50712 -0.7112 -4.773 -1.9771C1.4611 19.6122 0.749939 17.8953 0.749939 16.105c0 -1.7902 0.711161 -3.5071 1.977041 -4.773L11.743 2.31703c0.4151 -0.42979 0.9116 -0.77261 1.4607 -1.00845 0.549 -0.23584 1.1395 -0.359981 1.737 -0.365173 0.5975 -0.005192 1.19 0.108663 1.7431 0.334933 0.553 0.22626 1.0554 0.5604 1.478 0.98292 0.4225 0.42251 0.7566 0.92495 0.9829 1.47798 0.2262 0.55303 0.3401 1.14559 0.3349 1.7431 -0.0052 0.59751 -0.1293 1.188 -0.3652 1.73701 -0.2358 0.54902 -0.5786 1.04557 -1.0084 1.46068L9.09098 17.7c-0.42429 0.41 -0.99261 0.6368 -1.58255 0.6318 -0.58995 -0.005 -1.15431 -0.2416 -1.57155 -0.6587 -0.41723 -0.4171 -0.65395 -0.9814 -0.65917 -1.5713 -0.00522 -0.59 0.22148 -1.1583 0.63127 -1.5828L14.925 5.50003\" stroke-width=\"1.5\"></path></svg>",
 		"@streamline-ultimate,attachment",
 		"Streamline Ultimate"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"m19.605 10.48.137-.136a4.31 4.31 0 0 0 0-6.086 4.307 4.307 0 0 0-6.086 0l-9.398 9.398a4.307 4.307 0 0 0 0 6.086 4.31 4.31 0 0 0 6.086 0l6.351-6.356a2.35 2.35 0 0 0-1.66-4.008 2.35 2.35 0 0 0-1.66.688l-6.657 6.656\"></path></svg>",
+		"@sargam-icons,twotone,si,attachment",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M20 7.3c0-.875-.347-1.714-.965-2.334a3.31 3.31 0 0 0-4.673-.001h.001l-9.397 9.398h-.001a3.31 3.31 0 0 0 0 4.671l.119.113a3.31 3.31 0 0 0 4.554-.113l6.35-6.354a1.35 1.35 0 0 0 0-1.907l-.098-.09a1.35 1.35 0 0 0-1.809.09L7.425 17.43a1 1 0 0 1-1.414-1.414l6.656-6.658a3.35 3.35 0 0 1 4.614-.114l.12.114.001.001a3.35 3.35 0 0 1 0 4.734l-6.352 6.356a5.31 5.31 0 0 1-7.498 0H3.55a5.31 5.31 0 0 1 0-7.499l9.4-9.4a5.31 5.31 0 0 1 7.306-.18l.191.18.001.002a5.31 5.31 0 0 1 0 7.498l-.138.137a1 1 0 1 1-1.413-1.414l.136-.136c.619-.62.966-1.46.966-2.336\"></path></svg>",
+		"@sargam-icons,filled,si,attachment",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"m19.605 10.48.137-.136a4.31 4.31 0 0 0 0-6.086 4.307 4.307 0 0 0-6.086 0l-9.398 9.398a4.307 4.307 0 0 0 0 6.086 4.31 4.31 0 0 0 6.086 0l6.351-6.356a2.35 2.35 0 0 0-1.66-4.008 2.35 2.35 0 0 0-1.66.688l-6.657 6.656\"></path></svg>",
+		"@sargam-icons,line,si,attachment",
+		"Sargam Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 15L6 9C6 5.68629 8.68629 3 12 3C15.3137 3 18 5.68629 18 9V17C18 19.2091 16.2091 21 14 21C11.7909 21 10 19.2091 10 17V9C10 7.89543 10.8954 7 12 7C13.1046 7 14 7.89543 14 9V17\" stroke=\"#292929\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",

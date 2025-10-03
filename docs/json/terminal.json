@@ -25,7 +25,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><path d=\"m50 66 16-8m17 8h12M50 50l16 8\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><circle cx=\"71\" cy=\"134\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"121\" cy=\"134\" r=\"4\" stroke=\"#000\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m58 88 8 14m68-14-8 14m34 59a63.988 63.988 0 0 0-18.745-45.255A63.992 63.992 0 0 0 96 97a63.994 63.994 0 0 0-45.255 18.745A63.998 63.998 0 0 0 32 161\" stroke=\"#000\" stroke-width=\"10\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><rect x=\"25\" y=\"25\" width=\"142\" height=\"142\" rx=\"6\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m50 66 16-8m17 8h12M50 50l16 8\"></path><circle cx=\"71\" cy=\"134\" r=\"4\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\"></circle><circle cx=\"121\" cy=\"134\" r=\"4\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m58 88 8 14m68-14-8 14m34 59a64 64 0 0 0-18.745-45.255A64 64 0 0 0 96 97a64 64 0 0 0-45.255 18.745A64 64 0 0 0 32 161\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
 		"@lawnicons,terminal,emulator",
 		"Lawnicons"
 	],
@@ -600,7 +600,7 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 3H23V21H1V3ZM3 5V8H21V5H3ZM21 10H3V19H21V10ZM7 11.0858L10.4142 14.5L7 17.9142L5.58579 16.5L7.58579 14.5L5.58579 12.5L7 11.0858ZM12 15L18 15L18 17L12 17V15Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"terminal-rectangle-1\"><path id=\"fill1\" d=\"M2 20H22V9H2V20Z\" fill=\"white\"></path><path id=\"fill2\" d=\"M2 4H22V9H2V4Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M22 9H2M22 9V20H2V9M22 9V4H2V9\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M7 12.5L9 14.5L7 16.5M13 16L17 16\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,terminal,rectangle",
 		"TDesign Icons"
 	],
@@ -610,7 +610,7 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M23 3V21L1 21L1 3L23 3ZM21 5L3 5L3 19H21V5ZM19 17H12V15H19V17ZM10.0701 12L6.33096 15.7442L4.91579 14.331L7.2436 12L4.91579 9.66905L6.33096 8.25579L10.0701 12Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"terminal-rectangle\"><path id=\"fill1\" d=\"M22 4L22 20L2 20L2 4L22 4Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M22 4L22 20L2 20L2 4L22 4Z\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M6.33008 14.33L8.65693 12L6.33008 9.67M13.0001 16H18.0001\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,terminal,rectangle",
 		"TDesign Icons"
 	],
@@ -620,12 +620,12 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M23 3L1 3L1 21L23 21V3ZM3 10H21V19H3L3 10ZM3 8V5L21 5V8H3ZM7 17H5L5 12L7 12L7 17Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"terminal-window\"><path id=\"fill1\" d=\"M2 20L22 20L22 9L2 9L2 20Z\" fill=\"white\"></path><path id=\"fill2\" d=\"M2 9L22 9L22 4L2 4L2 9Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M2 9H22M2 9L2 4L22 4V9M2 9L2 20H22V9\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M6 16L6 13\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,terminal,window",
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.50015 5.58582L9.91436 12L3.50015 18.4142L2.08594 17L7.08594 12L2.08594 7.00003L3.50015 5.58582ZM12.0002 18H22.0002V20H12.0002V18Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"terminal\"><path id=\"stroke1\" d=\"M13 19H21M3.5 17L8.5 12L3.5 7\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,terminal",
 		"TDesign Icons"
 	],

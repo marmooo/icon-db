@@ -820,6 +820,11 @@
 		"Ionicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2l.117 .007a1 1 0 0 1 .876 .876l.007 .117v4l.005 .15a2 2 0 0 0 1.838 1.844l.157 .006h4l.117 .007a1 1 0 0 1 .876 .876l.007 .117v9a3 3 0 0 1 -2.824 2.995l-.176 .005h-10a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-14a3 3 0 0 1 2.824 -2.995l.176 -.005zm0 9l-.09 .004l-.058 .007l-.118 .025l-.105 .035l-.113 .054l-.111 .071a1 1 0 0 0 -.112 .097l-2.5 2.5a1 1 0 0 0 0 1.414l.094 .083a1 1 0 0 0 1.32 -.083l.793 -.793v3.586a1 1 0 0 0 2 0v-3.585l.793 .792a1 1 0 0 0 1.414 -1.414l-2.5 -2.5l-.082 -.073l-.104 -.074l-.098 -.052l-.11 -.044l-.112 -.03l-.126 -.017z\"></path><path d=\"M19 7h-4l-.001 -4.001z\"></path></svg>",
+		"@tabler-icons,filled,file,upload",
+		"Tabler Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 20h-8a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12v5\"></path><path d=\"M11 16h-5a2 2 0 0 0 -2 2\"></path><path d=\"M15 16l3 -3l3 3\"></path><path d=\"M18 13v9\"></path></svg>",
 		"@tabler-icons,outline,book,upload",
 		"Tabler Icons"
@@ -1760,17 +1765,17 @@
 		"Font-GIS"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4.59837 6.28287C5.1802 2.71919 8.27221 0 12 0C15.7278 0 18.8198 2.71919 19.4016 6.28287C22.0637 7.09632 24 9.57116 24 12.5C24 15.0274 22.5573 17.2161 20.4552 18.2907L19.5648 18.7459L18.6544 16.9651L19.5448 16.5099C21.0044 15.7638 22 14.2473 22 12.5C22 10.2915 20.408 8.45275 18.3089 8.07232L17.538 7.93262L17.4891 7.15072C17.3095 4.27638 14.9202 2 12 2C9.0798 2 6.69051 4.27638 6.51088 7.15072L6.46201 7.93262L5.69115 8.07232C3.59195 8.45275 2 10.2915 2 12.5C2 14.2473 2.99564 15.7638 4.45517 16.5099L5.34557 16.9651L4.43523 18.7459L3.54483 18.2907C1.44268 17.2161 0 15.0274 0 12.5C0 9.57116 1.93625 7.09632 4.59837 6.28287ZM12 9.58579L17.4142 15L16 16.4142L13 13.4142L13 23H11L11 13.4142L8 16.4142L6.58579 15L12 9.58579Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"cloud-upload\"><path id=\"stroke1\" d=\"M4 17.4003C2.21916 16.4899 1 14.6373 1 12.5C1 9.79943 2.94636 7.55346 5.51282 7.08835C5.72518 3.69029 8.54842 1 12 1C15.4516 1 18.2748 3.69029 18.4872 7.08835C21.0536 7.55346 23 9.79943 23 12.5C23 14.6373 21.7808 16.4899 20 17.4003\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M8 15L12 11L16 15M12 22V12.25\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,cloud,upload",
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2.58569L18.4142 8.99991L17 10.4141L13 6.41412L13 15.9999H11L11 6.41412L7 10.4141L5.58579 8.99991L12 2.58569ZM3 17.9999H21V19.9999H3V17.9999Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"upload-1\"><path id=\"stroke1\" d=\"M4 19H20M7 9L12 4L17 9M12 15V5.25\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,upload",
 		"TDesign Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2.58569L17.9142 8.49991L16.5 9.91412L13 6.41412L13 15.9999H11L11 6.41412L7.5 9.91412L6.08579 8.49991L12 2.58569ZM4.5 13.9999V18.9999H19.5V13.9999H21.5V20.9999H2.5V13.9999H4.5Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"upload\"><path id=\"stroke1\" d=\"M16.5 8.5L12 4L7.5 8.5M12 5.25V15\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M20.5 15V20H3.5V15\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,upload",
 		"TDesign Icons"
 	],
@@ -2925,22 +2930,22 @@
 		"Fluent UI MDL2"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13.25 20h-1.5v-9.69l-3.22 3.22-1.06-1.06 5.03-5.03 5.03 5.03-1.06 1.06-3.22-3.22V20ZM6 5.25v-1.5h13v1.5H6Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13.25 20h-1.5v-9.69l-3.22 3.22-1.06-1.06 5.03-5.03 5.03 5.03-1.06 1.06-3.22-3.22zM6 5.25v-1.5h13v1.5z\"></path></svg>",
 		"@audi-icons,upload,active,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M25 17.7V39h-1V17.7l-8.15 8.15-.7-.7 9.35-9.36 9.35 9.36-.7.7L25 17.71ZM11 10V9h27v1H11Z\"></path></svg>",
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M25 17.7V39h-1V17.7l-8.15 8.15-.7-.7 9.35-9.36 9.35 9.36-.7.7zM11 10V9h27v1z\"></path></svg>",
 		"@audi-icons,upload,l",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13 20h-1V9.7l-3.65 3.65-.7-.7 4.85-4.86 4.85 4.86-.7.7L13 9.71V20ZM6 5V4h13v1H6Z\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13 20h-1V9.7l-3.65 3.65-.7-.7 4.85-4.86 4.85 4.86-.7.7L13 9.71zM6 5V4h13v1z\"></path></svg>",
 		"@audi-icons,upload,s",
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M8 16H7V5.7L3.35 9.36l-.7-.7L7.5 3.79l4.85 4.86-.7.7L8 5.71V16ZM1 1V0h13v1H1Z\"></path></svg>",
+		"<svg width=\"16\" height=\"16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M8 16H7V5.7L3.35 9.36l-.7-.7L7.5 3.79l4.85 4.86-.7.7L8 5.71zM1 1V0h13v1z\"></path></svg>",
 		"@audi-icons,upload,xs",
 		"Audi Icons"
 	],

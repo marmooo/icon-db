@@ -870,7 +870,7 @@
 		"OOUI"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 3L18 12C18 15.3137 15.3137 18 12 18C8.68629 18 6 15.3137 6 12L6 3L8 3L8 12C8 14.2091 9.79086 16 12 16C14.2091 16 16 14.2091 16 12L16 3L18 3ZM4 20H20V22H4V20Z\" fill=\"black\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"textformat-underline\"><path id=\"stroke1\" d=\"M17 4L17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12L7 4\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M19 21H5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,textformat,underline",
 		"TDesign Icons"
 	],
@@ -1103,6 +1103,21 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4.75 3C4.75 2.58579 4.41421 2.25 4 2.25C3.58579 2.25 3.25 2.58579 3.25 3V9C3.25 13.8325 7.16751 17.75 12 17.75C16.8325 17.75 20.75 13.8325 20.75 9V3C20.75 2.58579 20.4142 2.25 20 2.25C19.5858 2.25 19.25 2.58579 19.25 3V9C19.25 13.0041 16.0041 16.25 12 16.25C7.99594 16.25 4.75 13.0041 4.75 9V3Z\" fill=\"black\"></path><path d=\"M4 20.25C3.58579 20.25 3.25 20.5858 3.25 21C3.25 21.4142 3.58579 21.75 4 21.75H20C20.4142 21.75 20.75 21.4142 20.75 21C20.75 20.5858 20.4142 20.25 20 20.25H4Z\" fill=\"black\"></path></svg>",
 		"@solar-icon-set,outline,text,formatting,underline",
 		"Solar Icon Set"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M18 3v9c0 3.3-2.7 6-6 6s-6-2.7-6-6V3M4 21h16M4 3h4m8 0h4\"></path></svg>",
+		"@sargam-icons,twotone,si,underline",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M20 20a1 1 0 1 1 0 2H4a1 1 0 1 1 0-2zM5 12V4H4a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2H7v8c0 2.748 2.252 5 5 5s5-2.252 5-5V4h-1a1 1 0 1 1 0-2h4a1 1 0 1 1 0 2h-1v8c0 3.852-3.148 7-7 7s-7-3.148-7-7\"></path></svg>",
+		"@sargam-icons,filled,si,underline",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M18 3v9c0 3.3-2.7 6-6 6s-6-2.7-6-6V3M4 21h16M4 3h4m8 0h4\"></path></svg>",
+		"@sargam-icons,line,si,underline",
+		"Sargam Icons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20.95 4.13C20.66 3.71 20.29 3.34 19.87 3.05C18.92 2.36 17.68 2 16.19 2H7.81C7.61 2 7.41 2.01 7.22 2.03C3.94 2.24 2 4.37 2 7.81V16.19C2 17.68 2.36 18.92 3.05 19.87C3.34 20.29 3.71 20.66 4.13 20.95C4.95 21.55 5.99 21.9 7.22 21.98C7.41 21.99 7.61 22 7.81 22H16.19C19.83 22 22 19.83 22 16.19V7.81C22 6.32 21.64 5.08 20.95 4.13ZM16.83 18.96H7.17C6.76 18.96 6.42 18.62 6.42 18.21C6.42 17.8 6.76 17.46 7.17 17.46H16.84C17.25 17.46 17.59 17.8 17.59 18.21C17.59 18.62 17.25 18.96 16.83 18.96ZM17.58 10.62C17.58 13.7 15.08 16.2 12 16.2C8.92 16.2 6.42 13.7 6.42 10.62V5.79C6.42 5.38 6.76 5.04 7.17 5.04C7.58 5.04 7.92 5.38 7.92 5.79V10.62C7.92 12.87 9.75 14.7 12 14.7C14.25 14.7 16.08 12.87 16.08 10.62V5.79C16.08 5.38 16.42 5.04 16.83 5.04C17.24 5.04 17.58 5.38 17.58 5.79V10.62Z\" fill=\"#292D32\"></path></svg>",
