@@ -430,3 +430,6 @@
   [MIT](https://github.com/stash-ui/icons/blob/master/LICENSE)
 - [Dinkie Icons](https://github.com/atelier-anchor/dinkie-icons) licensed under
   the [MIT](https://github.com/atelier-anchor/dinkie-icons/blob/main/LICENSE)
+- [Siemens Industrial Experience Icons](https://github.com/siemens/ix-icons)
+  licensed under the
+  [MIT](https://github.com/siemens/ix-icons/blob/main/LICENSE.md)
