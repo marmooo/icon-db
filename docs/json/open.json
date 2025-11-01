@@ -1290,7 +1290,7 @@
 		"Numix icon theme"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" style=\"enable-background:new\"><g transform=\"translate(-387,-169.00012)\"><rect height=\"2\" width=\"10\" x=\"390\" y=\"172\" style=\"fill:#bebebe;fill-opacity:1;color:#f00\"></rect><rect height=\"2\" width=\"10\" x=\"390\" y=\"176\" style=\"fill:#bebebe;fill-opacity:1;color:#f00\"></rect><rect height=\"2\" width=\"10\" x=\"390\" y=\"180\" style=\"fill:#bebebe;fill-opacity:1;color:#f00\"></rect></g></svg>",
+		"<svg version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m3 3v2h10v-2h-10zm0 4v2h10v-2h-10zm0 4v2h10v-2h-10z\" style=\"fill:#bebebe\"></path></svg>",
 		"@numix-icon-theme,actions,open,menu,symbolic",
 		"Numix icon theme"
 	],
@@ -1390,6 +1390,11 @@
 		"Breeze Icons"
 	],
 	[
+		"<svg version=\"1.1\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style id=\"current-color-scheme\" type=\"text/css\">.ColorScheme-Text { color:#232629; }</style></defs><path class=\"ColorScheme-Text\" d=\"m3.0000067 10.000326v2.999589l10.000327 1.64e-4v-9.9999172l-3-1.641e-4v-1.0000002l4 1.643e-4v11.999917l-12.000327-1.63e-4v-3.99959m5.0000002-7.0003287-3.2832002 0.00969 4.8079811 4.808206-0.7071071 0.7071071-4.807981-4.8082062-0.0097 3.2832027-0.999999 7e-7 7e-6 -5h4.9999998\" fill=\"currentColor\"></path></svg>",
+		"@breeze-icons,actions,open,link,rtl",
+		"Breeze Icons"
+	],
+	[
 		"<svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m 13.000328,10.000326 0,2.999589 -10.0003273,1.64e-4 0,-9.9999172 2.9999999,-1.641e-4 1e-7,-1.0000002 -4,1.643e-4 0,11.9999172 12.0003273,-1.63e-4 0,-3.99959 m -5.0000002,-7.0003287 3.2832002,0.00969 -4.8079811,4.808206 0.7071071,0.7071071 4.807981,-4.8082062 0.0097,3.2832027 0.999999,7e-7 -7e-6,-5 -4.9999998,0\" class=\"ColorScheme-Text\"></path></svg>",
 		"@breeze-icons,actions,open,link",
 		"Breeze Icons"
@@ -1422,6 +1427,11 @@
 	[
 		"<svg version=\"1.1\" viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style type=\"text/css\" id=\"current-color-scheme\"> .ColorScheme-Text { color:#232629; }</style></defs><path style=\"fill:currentColor;fill-opacity:1;stroke:none\" d=\"m15 11c-2.215995 0-4 1.784005-4 4s1.784005 4 4 4 4-1.784005 4-4-1.784005-4-4-4m0 1c1.661995 0 3 1.338005 3 3s-1.338005 3-3 3-3-1.338005-3-3 1.338005-3 3-3m-1 1v3h2v-1h-1v-2h-1m-11-10v16h8v-1h-7v-8h3v-0.009766l0.007813 0.009766 2-2h8.992188v3h1v-6h-6.992188l-2-2-0.0078 0.00977v-0.00977h-7\" class=\"ColorScheme-Text\"></path></svg>",
 		"@breeze-icons,actions,folder,open,recent",
+		"Breeze Icons"
+	],
+	[
+		"<svg version=\"1.1\" viewBox=\"0 0 22 22\" xmlns=\"http://www.w3.org/2000/svg\"><defs><style id=\"current-color-scheme\" type=\"text/css\">.ColorScheme-Text { color:#232629; }</style></defs><path class=\"ColorScheme-Text\" d=\"m4.000007 11v6.999918l14.000327 1.64e-4v-14.000246l-7-1.643e-4v-1l8 1.643e-4v16.000246l-16.000327-1.64e-4v-7.999918m5-7.0003284-3.2832 0.00969 8.343861 8.3440854-0.707108 0.707107-8.34386-8.3440856-0.0097 3.2832031h-1l7e-6 -5 5-1e-7\" fill=\"currentColor\"></path></svg>",
+		"@breeze-icons,actions,open,link,rtl",
 		"Breeze Icons"
 	],
 	[

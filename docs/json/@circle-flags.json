@@ -35,7 +35,7 @@
 		"circle-flags"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#0052b4\" d=\"m0 166.9 253-26.7L512 167v178l-261.1 26L0 344.8z\"></path><path fill=\"#d80027\" d=\"M0 0h512v166.9H0z\"></path><path fill=\"#ff9811\" d=\"M0 344.9h512V512H0z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#0052b4\" d=\"m0 171 256-32 256 32v170l-256 32L0 341Z\"></path><path fill=\"#d80027\" d=\"M0 0h512v171H0Z\"></path><path fill=\"#ff9811\" d=\"M0 341h512v171H0Z\"></path></g></svg>",
 		"@circle-flags,am",
 		"circle-flags"
 	],
@@ -62,6 +62,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#338af3\" d=\"M0 0h512v144.7L488 256l24 111.3V512H0V367.3L26 256 0 144.7z\"></path><path fill=\"#eee\" d=\"M0 144.7h512v222.6H0z\"></path><path fill=\"#ffda44\" d=\"m332.4 256-31.2 14.7 16.7 30.3-34-6.5-4.2 34.3-23.7-25.2-23.6 25.2-4.3-34.3-34 6.5 16.6-30.3-31.2-14.7 31.3-14.7L194 211l34 6.5 4.3-34.3 23.6 25.2 23.6-25.2 4.4 34.3 34-6.5-16.7 30.3z\"></path></g></svg>",
 		"@circle-flags,ar",
+		"circle-flags"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#0052b4\" d=\"m0 171 256-32 256 32v170l-256 32L0 341Z\"></path><path fill=\"#d80027\" d=\"M0 0h512v171H0Z\"></path><path fill=\"#ff9811\" d=\"M0 341h512v171H0Z\"></path><path fill=\"#eee\" d=\"M428 0v57h-43v57h-43v57h-43v57h-43v56h43v57h43v57h43v57h43v57h84v-57h-41v-57h-43v-57h-43v-57h-43v-56h43v-57h43v-57h43V57h41V0z\"></path></g></svg>",
+		"@circle-flags,artsakh",
 		"circle-flags"
 	],
 	[
@@ -1730,7 +1735,12 @@
 		"circle-flags"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#eee\" d=\"M0 0h512v512H0z\"></path><path fill=\"#ffda44\" d=\"M399 0 167 167 0 399v45l68 68h45l232-167 167-232V68L444 0Z\"></path><path fill=\"#333\" d=\"M444 0 0 444v68h68L512 68V0Z\"></path><path fill=\"#338af3\" d=\"m113 512 399-399v399z\"></path><path fill=\"#6da544\" d=\"M0 399V0h399Z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#338af3\" d=\"M512 0v170H0V0z\"></path><path fill=\"#ffda44\" d=\"M200 0 0 132v38h56L256 38V0z\"></path><path fill=\"#333\" d=\"M512 170v172H0V170zM222 0 0 148v22h34L256 22V0z\"></path><path fill=\"#6da544\" d=\"M512 342v170H0V342zM0 132V0h200z\"></path></g></svg>",
+		"@circle-flags,tz,zanzibar",
+		"circle-flags"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><mask id=\"a\"><circle cx=\"256\" cy=\"256\" r=\"256\" fill=\"#fff\"></circle></mask><g mask=\"url(#a)\"><path fill=\"#ffda44\" d=\"M399 0 0 399v45l68 68h45l399-399V68L444 0z\"></path><path fill=\"#333\" d=\"M444 0 0 444v68h68L512 68V0z\"></path><path fill=\"#338af3\" d=\"m113 512 399-399v399z\"></path><path fill=\"#6da544\" d=\"M0 399V0h399z\"></path></g></svg>",
 		"@circle-flags,tz",
 		"circle-flags"
 	],

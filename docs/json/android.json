@@ -5,7 +5,7 @@
 		"Zocial CSS Social Buttons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Android\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#fff\"></path><path d=\"m434.5 342a176 176 0 00-91-140.4l29.7-51.5a6 6 0 10-10.7-6.2L332.4 196a187 187 0 00-152.8 0l-30.1-52.1a6 6 0 10-10.7 6.2l29.7 51.5A176 176 0 0077.5 342m96.3-50.9a14.9 14.9 0 11.1 0m164.3 0a14.9 14.9 0 11.1 0\" fill=\"#3ddc84\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Android\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#fff\"></path><path d=\"M433 320a184 184 0 011 8H74a181 181 0 011-10 180 180 0 0118-54 180 180 0 0113-21 182 182 0 0120-23 182 182 0 0132-26l-11-19-18-32a17 17 0 01-2-13 16 16 0 018-10 16 16 0 017-2 17 17 0 0116 8 10000 10000 0 008 13l11 18 11 19 1 2 6-2a180 180 0 0158-10h2c22 0 44 4 64 11l2 1 1-2 11-19 11-18 8-13a17 17 0 0110-8 17 17 0 016 0 17 17 0 017 2 16 16 0 016 6 17 17 0 012 14l-1 3a9000 9000 0 01-8 13l-11 18-11 19a181 181 0 0132 25 181 181 0 0120 23 182 182 0 0113 21 180 180 0 0118 54v2Z\" fill=\"#34a853\"></path><path d=\"M350 276c7-5 8-16 2-25s-17-12-24-7-8 16-2 25 17 12 24 7m-163-7c6-9 5-20-2-25s-18-1-24 7c-6 9-5 20 2 25s18 1 24-7\" fill=\"#202124\"></path></svg>",
 		"@super-tiny-icons,android",
 		"Super Tiny Icons"
 	],
@@ -85,6 +85,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M56 170V83m0-53L26 83h60zm80 79V22m0 87h-30l30 53 30-53z\"></path></svg>",
+		"@lawnicons,android,proxy,server",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M91 159h60m-2-48V55a6 6 0 0 0-6-6H87.954a6 6 0 0 1-4.755-2.342L76.8 38.342A6 6 0 0 0 72.046 36H28a6 6 0 0 0-6 6v94a6 6 0 0 0 6 6h38.5\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M151 159a18.996 18.996 0 0 0 18.635-15.293 19 19 0 0 0-.282-8.625 19.01 19.01 0 0 0-11.082-12.636 19 19 0 0 0-7.288-1.446 29.998 29.998 0 0 0-51.196-20.213 30 30 0 0 0-5.904 8.38 25 25 0 0 0-21.68 8.349 25 25 0 0 0-5.723 21.361A25 25 0 0 0 91 159\"></path></svg>",
 		"@lawnicons,android,samba,client",
 		"Lawnicons"
@@ -125,7 +130,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><path d=\"M128.46 23.44c-2.6 5.6-6.58 14.13-9.23 19.57 0 0-7.93-1.66-20.22-1.66s-20.22 1.66-20.22 1.66c-2.65-5.44-6.63-13.97-9.23-19.57-.95-2.04-3.9-1.88-4.61.25-6.18 18.47-24.49 77.61-25.9 133.83a8.61 8.61 0 0 0 6.89 8.64c8.12 1.66 24.24 3.84 53.08 3.84s44.97-2.18 53.08-3.84a8.61 8.61 0 0 0 6.89-8.64c-1.41-56.22-19.72-115.36-25.9-133.83-.71-2.13-3.67-2.29-4.61-.25Z\"></path><path stroke-width=\"10\" d=\"M50.5 77.95a35.1 35.1 0 0 0-19.43-.93m14.38 18.25a35.1 35.1 0 0 0-19.43-.93M147.3 76.88a35.1 35.1 0 0 1 19.43-.93m-15.46 19.32a35.1 35.1 0 0 1 19.43-.93\"></path><path d=\"M45 166c-29-5-23-34-20-46\"></path><path stroke-width=\"8\" d=\"M83.74 92.41c2.5 2.41 5.61 3.22 8.43 2.21s5.32-3.83 6.78-7.66c.62 2.63 2.12 4.62 3.78 5.75 1.66 1.12 3.48 1.48 5.28 1.7 2.07.25 4.33.2 6.25-.79\"></path><circle cx=\"78\" cy=\"71\" r=\"3\" stroke-width=\"6\"></circle><circle cx=\"120\" cy=\"71\" r=\"3\" stroke-width=\"6\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M127.412 23.442c-2.6 5.6-6.58 14.13-9.23 19.57 0 0-7.93-1.66-19.22-1.66-12.29 0-19.22 1.66-19.22 1.66-2.65-5.44-6.63-13.97-9.23-19.57-.95-2.04-3.9-1.88-4.61.25-6.18 18.47-24.49 77.611-25.9 133.831a8.61 8.61 0 0 0 6.89 8.64c8.12 1.66 23.24 3.84 52.08 3.84 27.84 0 43.97-2.18 52.08-3.84a8.61 8.61 0 0 0 6.89-8.64c-1.41-56.22-19.72-115.36-25.9-133.83-.71-2.13-3.67-2.29-4.61-.25h-.02Z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M50.5 73.952a35.1 35.1 0 0 0-19.43-.93m14.38 20.25a35.1 35.1 0 0 0-19.43-.93m121.28-19.46a35.1 35.1 0 0 1 19.43-.93m-15.46 21.32a35.1 35.1 0 0 1 19.43-.93\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M46 166c-24-2-24-46-24-46\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M84 92.393c2.457 2.384 5.514 3.186 8.286 2.186s5.23-3.79 6.665-7.579c.61 2.602 2.084 4.571 3.715 5.69 1.632 1.108 3.421 1.464 5.19 1.681 2.035.248 4.257.198 6.144-.781\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"6\" d=\"M78 74a3 3 0 1 0 0-6 3 3 0 0 0 0 6m42 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6\"></path></svg>",
 		"@lawnicons,clash,for,android",
 		"Lawnicons"
 	],
