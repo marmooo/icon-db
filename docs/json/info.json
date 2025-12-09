@@ -45,6 +45,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M54.467 27.272c.391-3.117 3.083-5.408 6.187-5.266l53.653 2.467c3.473.16 6.075 3.278 5.647 6.767l-16.383 133.472c-.396 3.229-3.253 5.557-6.457 5.263l-53.69-4.937c-3.362-.309-5.8-3.376-5.376-6.763l16.42-131.003ZM79 43.804l14 .643M74.5 147.172l-3.186-.293M120 44l37.933 2.586a6 6 0 0 1 5.572 6.475l-3.014 36.927a6 6 0 0 1-6.5 5.49L114 92\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m142.5 66.25-4.5-.321\"></path></svg>",
+		"@lawnicons,esaldo,info",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M96 48 56 72v48l40 24m0-96 40 24v48l-40 24\"></path><circle cx=\"96\" cy=\"50\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><circle cx=\"96\" cy=\"142\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M96 21v28m0 94v28\"></path><circle cx=\"135.837\" cy=\"73\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" transform=\"rotate(60 135.837 73)\"></circle><circle cx=\"6\" cy=\"6\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" transform=\"rotate(120 8.276 47.98)scale(1 -1)\"></circle><circle cx=\"56.163\" cy=\"119\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" transform=\"rotate(60 56.163 119)\"></circle><circle cx=\"6\" cy=\"6\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" transform=\"rotate(120 34.834 93.981)scale(1 -1)\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m160.952 58.5-24.249 14m-105.655-14 24.249 14m0 47-24.249 14m105.655-14 24.249 14\"></path></svg>",
 		"@lawnicons,grapheneos,info",
 		"Lawnicons"
@@ -1355,7 +1360,7 @@
 		"Ant Design Icons"
 	],
 	[
-		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.568 1.031A6.8 6.8 0 0 1 12.76 3.05a7.06 7.06 0 0 1 .46 9.39 6.85 6.85 0 0 1-8.58 1.74 7 7 0 0 1-3.12-3.5 7.12 7.12 0 0 1-.23-4.71 7 7 0 0 1 2.77-3.79 6.8 6.8 0 0 1 4.508-1.149zM9.04 13.88a5.89 5.89 0 0 0 3.41-2.07 6.07 6.07 0 0 0-.4-8.06 5.82 5.82 0 0 0-7.43-.74 6.06 6.06 0 0 0 .5 10.29 5.81 5.81 0 0 0 3.92.58zM7.375 6h1.25V5h-1.25v1zm1.25 1v4h-1.25V7h1.25z\"></path></svg>",
+		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M8.49902 7.49998C8.49902 7.22384 8.27517 6.99998 7.99902 6.99998C7.72288 6.99998 7.49902 7.22384 7.49902 7.49998V10.5C7.49902 10.7761 7.72288 11 7.99902 11C8.27517 11 8.49902 10.7761 8.49902 10.5V7.49998ZM8.74807 5.50001C8.74807 5.91369 8.41271 6.24905 7.99903 6.24905C7.58535 6.24905 7.25 5.91369 7.25 5.50001C7.25 5.08633 7.58535 4.75098 7.99903 4.75098C8.41271 4.75098 8.74807 5.08633 8.74807 5.50001ZM8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM2 8C2 4.68629 4.68629 2 8 2C11.3137 2 14 4.68629 14 8C14 11.3137 11.3137 14 8 14C4.68629 14 2 11.3137 2 8Z\"></path></svg>",
 		"@codicons,info",
 		"Codicons"
 	],
@@ -1700,7 +1705,7 @@
 		"neuicons"
 	],
 	[
-		"<svg width=\"1920\" height=\"1920\" viewBox=\"0 0 1920 1920\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M960 0C1489.35 0 1920 430.645 1920 960C1920 1489.35 1489.35 1920 960 1920C430.645 1920 0 1489.35 0 960C0 430.645 430.645 0 960 0ZM960 1807.06C1427.13 1807.06 1807.06 1427.13 1807.06 960C1807.06 492.875 1427.13 112.941 960 112.941C492.875 112.941 112.941 492.875 112.941 960C112.941 1427.13 492.875 1807.06 960 1807.06Z\" fill=\"#273540\"></path><path d=\"M1080.31 1194H954.64L923.4 1088.21H768.62L736.67 1194H613.84L774.3 725.4H920.56L1080.31 1194ZM791.34 1005.14H900.68L846.01 815.57L791.34 1005.14Z\" fill=\"#273540\"></path><path d=\"M1257.13 725.4V1194H1135.01V725.4H1257.13Z\" fill=\"#273540\"></path></svg>",
+		"<svg width=\"1920\" height=\"1920\" viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M960 0C1489.35 0 1920 430.645 1920 960C1920 1489.35 1489.35 1920 960 1920C430.645 1920 0 1489.35 0 960C0 430.645 430.645 0 960 0ZM960 1807.06C1427.13 1807.06 1807.06 1427.13 1807.06 960C1807.06 492.875 1427.13 112.941 960 112.941C492.875 112.941 112.941 492.875 112.941 960C112.941 1427.13 492.875 1807.06 960 1807.06Z\"></path><path d=\"M1080.31 1194H954.64L923.4 1088.21H768.62L736.67 1194H613.84L774.3 725.4H920.56L1080.31 1194ZM791.34 1005.14H900.68L846.01 815.57L791.34 1005.14Z\"></path><path d=\"M1257.13 725.4V1194H1135.01V725.4H1257.13Z\"></path></svg>",
 		"@instructure-ui-icons,line,ai,info",
 		"Instructure UI Icons"
 	],
@@ -1715,7 +1720,7 @@
 		"Instructure UI Icons"
 	],
 	[
-		"<svg width=\"1920\" height=\"1920\" viewBox=\"0 0 1920 1920\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M900.68 1005.14H791.34L846.01 815.57L900.68 1005.14Z\" fill=\"#273540\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M960 0C1489.35 0 1920 430.645 1920 960C1920 1489.35 1489.35 1920 960 1920C430.645 1920 0 1489.35 0 960C0 430.645 430.645 0 960 0ZM774.3 725.4L613.84 1194H736.67L768.62 1088.21H923.399L954.64 1194H1080.31L920.56 725.4H774.3ZM1135.01 725.4V1194H1257.13V725.4H1135.01Z\" fill=\"#273540\"></path></svg>",
+		"<svg width=\"1920\" height=\"1920\" viewBox=\"0 0 1920 1920\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M900.68 1005.14H791.34L846.01 815.57L900.68 1005.14Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M960 0C1489.35 0 1920 430.645 1920 960C1920 1489.35 1489.35 1920 960 1920C430.645 1920 0 1489.35 0 960C0 430.645 430.645 0 960 0ZM774.3 725.4L613.84 1194H736.67L768.62 1088.21H923.399L954.64 1194H1080.31L920.56 725.4H774.3ZM1135.01 725.4V1194H1257.13V725.4H1135.01Z\"></path></svg>",
 		"@instructure-ui-icons,solid,ai,info",
 		"Instructure UI Icons"
 	],

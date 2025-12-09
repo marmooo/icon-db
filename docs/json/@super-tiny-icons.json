@@ -235,7 +235,7 @@
 		"Super Tiny Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Bun\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#fff\"></path><path d=\"m150 139c50-27 78-51 102-51s52 24 102 51a182 145 0 11-204 0z\" fill=\"#fbf0df\" stroke=\"#000\" stroke-width=\"12\"></path><path d=\"m126 356a199 167 9 00298-126A176 139 0 01126 356\" fill=\"#f6dece\"></path><path d=\"m224 114q-18 36-54 46 44 0 54-46zm15-7q0 38-29 64 39-16 29-64zm11-1q19 30 9 69 24-36-9-69zm14-1q31 24 35 60 9-42-35-60z\" fill=\"#ccbea7\" stroke=\"#ccbea7\" stroke-width=\"3\" stroke-linejoin=\"round\"></path><path d=\"m175 264a29 17 0 102 0h150a29 17 0 102 0\" fill=\"#febbd0\"></path><path d=\"m190 219a28 28 0 101 0h123a28 28 0 101 0m92-45A190 151 1 11111 359q249 122 325-93\"></path><path d=\"m76 265c31-108 86-116 109-130s54-40 82-38c-30-11-57 16-101 40s-90 57-90 128m105-37a10 10 0 101 0h123a10 10 0 101 0\" fill=\"#fff\"></path><g stroke=\"#000\"><path d=\"M284 292c10 0-8 35-32 37-24-2-42-37-32-37Z\" fill=\"#b71422\" stroke-width=\"6\"></path><path d=\"m229 316a31 31 0 0149-3q-25 30-49 3\" fill=\"#ff6164\" stroke-width=\"5\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Bun\" role=\"img\" viewBox=\"0 0 512 512\" stroke=\"#000\" stroke-width=\"0\"><path d=\"m0 0H512V512H0\" fill=\"#fff\"></path><path d=\"m150 139c50-27 78-51 102-51s52 24 102 51a182 145 0 11-204 0z\" fill=\"#fbf0df\" stroke-width=\"12\"></path><path d=\"m126 356a199 167 9 00298-126A176 139 0 01126 356\" fill=\"#f6dece\"></path><path d=\"m224 114q-18 36-54 46 44 0 54-46zm15-7q0 38-29 64 39-16 29-64zm11-1q19 30 9 69 24-36-9-69zm14-1q31 24 35 60 9-42-35-60z\" fill=\"#ccbea7\" stroke=\"#ccbea7\" stroke-width=\"3\" stroke-linejoin=\"round\"></path><path d=\"m175 264a29 17 0 102 0h150a29 17 0 102 0\" fill=\"#febbd0\"></path><path d=\"m190 219a28 28 0 101 0h123a28 28 0 101 0m92-45A190 151 1 11111 359q249 122 325-93\"></path><path d=\"m76 265c31-108 86-116 109-130s54-40 82-38c-30-11-57 16-101 40s-90 57-90 128m105-37a10 10 0 101 0h123a10 10 0 101 0\" fill=\"#fff\"></path><path d=\"M284 292c10 0-8 35-32 37-24-2-42-37-32-37Z\" fill=\"#b71422\" stroke-width=\"6\"></path><path d=\"m229 316a31 31 0 0149-3q-25 30-49 3\" fill=\"#ff6164\" stroke-width=\"5\"></path></svg>",
 		"@super-tiny-icons,bun",
 		"Super Tiny Icons"
 	],
@@ -1135,6 +1135,11 @@
 		"Super Tiny Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"lastfm\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#e11c23\"></path><path d=\"m235.4 332.9s-21 21-65 21c-55 0-85-32-85-92 0-62 31-98 88-98 52 0 78 19 95 70l13 39c9 29 26 49 65 49 27 0 41-6 41-20 0-11-7-20-27-24l-27-6c-32-8-45-25-45-51 0-43 34-56 70-56 40 0 64 14 67 50l-39 5c-2-17-12-24-31-24-17 0-28 8-28 21 0 12 5 19 22 23l25 6c34 8 52 24 52 56 0 39-33 54-81 54-68 0-91-31-104-68l-13-39c-9-29-20-51-55-51-24 0-48 17-48 65 0 38 19 61 46 61 31 0 51-23 51-23l13 32\" fill=\"#fff\"></path></svg>",
+		"@super-tiny-icons,lastfm",
+		"Super Tiny Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"LastPass\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#d32d27\"></path><g stroke-linecap=\"round\" stroke=\"#fff\"><path d=\"M108 256zm119 0zm120 0z\" stroke-width=\"88\"></path><path d=\"M438 170v172\" stroke-width=\"20\"></path></g></svg>",
 		"@super-tiny-icons,lastpass",
 		"Super Tiny Icons"
@@ -1262,6 +1267,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"McDonald's\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#fff\"></path><path fill=\"#ffcc00\" d=\"M320.8 142.9c23.3 0 42.2 98.3 42.2 219.7h34c0-130.7-34.3-236.5-76.3-236.5-24 0-45.2 31.7-59.2 81.5-14-49.8-35.2-81.5-59-81.5-42 0-76.2 105.7-76.2 236.4h34c0-121.4 18.7-219.6 42-219.6s42.2 90.8 42.2 202.8h33.8c0-112 19-202.8 42.3-202.8\"></path></svg>",
 		"@super-tiny-icons,mcdonald,s",
+		"Super Tiny Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"MediaWiki\" role=\"img\" viewBox=\"0 0 512 512\"><path fill=\"#fff\" d=\"M0 0h512v512H0\"></path><linearGradient id=\"d\" y1=\"1\"><stop stop-color=\"#0a00b2a6\"></stop><stop offset=\".5\" stop-color=\"#ff0000a6\"></stop><stop offset=\"1\" stop-color=\"#fffc00a6\"></stop></linearGradient><mask id=\"e\"><g id=\"c\" fill=\"#fff\"><g id=\"b\"><path id=\"a\" d=\"M-25-166q-7 22 0 46A44 44 90 0 0-4-98a11 11 90 0 0 10 0q21-13 23-38c3-29-10-53-28-76q-18 22-26 46\"></path><use href=\"#a\" transform=\"rotate(24)\"></use><use href=\"#a\" transform=\"rotate(48)\"></use></g><use href=\"#b\" transform=\"rotate(72)\"></use><use href=\"#b\" transform=\"rotate(144)\"></use><use href=\"#b\" transform=\"rotate(216)\"></use><use href=\"#b\" transform=\"rotate(288)\"></use></g></mask><mask id=\"f\"><use href=\"#c\" transform=\"rotate(12)\"></use></mask><g fill=\"url(#d)\" transform=\"translate(256 256)\"><circle r=\"256\" mask=\"url(#e)\"></circle><circle r=\"256\" mask=\"url(#f)\"></circle></g></svg>",
+		"@super-tiny-icons,mediawiki",
 		"Super Tiny Icons"
 	],
 	[
@@ -1567,6 +1577,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"Postman\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"M0 0h512v512H0\" fill=\"#fff\"></path><circle cx=\"256\" cy=\"256\" r=\"192\" fill=\"#ff6c37\"></circle><g fill=\"#fff\"><path d=\"m203 268 30-7-13-13zm144-132a29 29 0 1 0 12 55l-20-20v-3l26-26a29 29 0 0 0-18-6\"></path><path d=\"m368 146-24 24 19 18 4-3a29 29 0 0 0 1-39m-48 44h-3l-1 1h-1l-1 1-71 71 9 9 75-66 1-1 1-3 1-1v-4a9 9 0 0 0-8-7zm-95 55 14 15 71-71q4-3 9-4c-13-10-26-7-94 60m106-36-1 1-75 66 13 12c31-30 59-58 63-79M144 363l33 3-18-19zm18-19 19 19 1 1 1-1 1-1-3-14a4 4 0 0 1 2-5q51-25 81-52l-13-13-29 6zm84-70-7-7-10 10 1 1z\"></path></g><path fill=\"#ff6c37\" d=\"M368.9 161.3a2.2 2.2 0 1 0-4 2 7 7 0 0 1-.8 7.2 2.2 2.2 0 0 0 3.4 2.8 11 11 0 0 0 1.4-12\"></path></svg>",
 		"@super-tiny-icons,postman",
+		"Super Tiny Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" aria-label=\"postmarketOS\" role=\"img\" viewBox=\"0 0 512 512\"><path d=\"m0 0H512V512H0\" fill=\"#232729\"></path><path d=\"m256 131-43.4 75 11.2 29.9 31.2-5.4 1.4-.5 50.8 88 11.1-29.8 31.4 5.2zm-50.5 87.5L111.6 381h86.7l20.2-24.7-20.3-24.4-1.1-1 50.8-88-31.4 5.2zm120.1 82.3-11 29.7-.3 1.4H212.7l20.2 24.6L212.7 381h187.7l-43.3-75.1z\" fill=\"#008443\"></path></svg>",
+		"@super-tiny-icons,postmarketos",
 		"Super Tiny Icons"
 	],
 	[
