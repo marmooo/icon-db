@@ -525,17 +525,17 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5.343 7.343a8 8 0 1 1 11.314 11.314z\"></path><path d=\"M10.828 13.34l-4.242 4.243a2 2 0 1 0 2.828 2.828\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5.343 7.343a8 8 0 1 1 11.314 11.314l-11.314 -11.314\"></path><path d=\"M10.828 13.34l-4.242 4.243a2 2 0 1 0 2.828 2.828\"></path></svg>",
 		"@tabler-icons,outline,umbrella,2",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6.697 12.071l11.313 -7.071l-7.07 11.314z\"></path><path d=\"M8.743 14.475l-2.121 2.121c-1.886 1.886 .943 4.715 2.828 2.829\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6.697 12.071l11.313 -7.071l-7.07 11.314l-4.243 -4.243\"></path><path d=\"M8.743 14.475l-2.121 2.121c-1.886 1.886 .943 4.715 2.828 2.829\"></path></svg>",
 		"@tabler-icons,outline,umbrella,closed,2",
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 16l3 -13l3 13z\"></path><path d=\"M12 16v3c0 2.667 4 2.667 4 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 16l3 -13l3 13l-6 0\"></path><path d=\"M12 16v3c0 2.667 4 2.667 4 0\"></path></svg>",
 		"@tabler-icons,outline,umbrella,closed",
 		"Tabler Icons"
 	],
@@ -545,7 +545,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 12a8 8 0 0 1 16 0z\"></path><path d=\"M12 12v6a2 2 0 0 0 4 0\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 12a8 8 0 0 1 16 0l-16 0\"></path><path d=\"M12 12v6a2 2 0 0 0 4 0\"></path></svg>",
 		"@tabler-icons,outline,umbrella",
 		"Tabler Icons"
 	],
@@ -1393,6 +1393,21 @@
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.75 1.5C12.75 1.08579 12.4142 0.75 12 0.75C11.5858 0.75 11.25 1.08579 11.25 1.5V2.52917C6.40335 2.90769 2.57803 6.92332 2.50118 11.849C2.496 12.1813 2.73598 12.4629 3.05852 12.5167C5.77115 12.9688 8.5095 13.2137 11.25 13.2515V19C11.25 19.4142 10.9142 19.75 10.5 19.75C10.0858 19.75 9.75 19.4142 9.75 19V18.5C9.75 18.0858 9.41421 17.75 9 17.75C8.58579 17.75 8.25 18.0858 8.25 18.5V19C8.25 20.2426 9.25736 21.25 10.5 21.25C11.7426 21.25 12.75 20.2426 12.75 19V13.2515C15.4905 13.2137 18.2289 12.9688 20.9415 12.5167C21.264 12.4629 21.504 12.1813 21.4988 11.849C21.422 6.92331 17.5967 2.90768 12.75 2.52917V1.5Z\" fill=\"black\"></path></svg>",
 		"@basil-icons,solid,general,umbrella",
 		"Basil Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" fill-opacity=\".16\" d=\"M12 2c5.523 0 10 4.477 10 10H2C2 6.477 6.477 2 12 2\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M17.217 19.39c.044 1.391-1.087 2.565-2.521 2.609h-.088c-1.39.043-2.565-1.087-2.608-2.522V12m10 0c0-5.523-4.477-10-10-10S2 6.477 2 12z\"></path></svg>",
+		"@sargam-icons,twotone,si,umbrella",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#000\" d=\"M17.186 18.39a1 1 0 0 1 1.03.97c.062 1.968-1.529 3.579-3.49 3.638l-.03.001h-.088c-1.954.044-3.549-1.54-3.608-3.491V13H2a1 1 0 0 1-1-1C1 5.925 5.925 1 12 1s11 4.925 11 11a1 1 0 0 1-1 1h-9v6.447l.013.167c.106.821.801 1.409 1.564 1.385h.088c.907-.027 1.578-.763 1.553-1.577a1 1 0 0 1 .968-1.031\"></path></svg>",
+		"@sargam-icons,filled,si,umbrella",
+		"Sargam Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" stroke-width=\"1.5\" d=\"M17.217 19.39c.044 1.391-1.087 2.565-2.521 2.609h-.088c-1.39.043-2.565-1.087-2.608-2.522V12m10 0c0-5.523-4.477-10-10-10S2 6.477 2 12z\"></path></svg>",
+		"@sargam-icons,line,si,umbrella",
+		"Sargam Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 2048 2048\" className=\"umbrella\" focusable=\"false\"><path d=\"M960 128q183 0 351 66t303 192q137 128 211 285t91 344v3q0 1 1 4 0 12-4 23t-13 21-20 14-23 6q-6 0-14-1t-15-4q-8-4-14-8t-12-12q-41-48-89-74t-113-27q-61 0-115 27t-90 77q-9 12-15 24t-14 26q-9 17-24 27t-35 11h-54q-20 0-35-10t-24-28q-15-28-31-51t-37-41-45-32-57-22v696q0 52-20 98t-56 82-81 55-99 21q-52 0-98-20t-82-56-55-81-21-99v-40q0-22 4-42t18-33 42-13q28 0 41 13t19 32 5 42-1 41q0 26 10 49t28 40 41 28 49 11q25 0 48-10t41-28 28-41 11-49V968q-32 9-57 22t-45 31-36 42-32 51q-9 17-24 27t-35 11h-54q-20 0-35-10t-24-28q-7-13-13-25t-16-25q-36-49-90-76t-115-28q-66 0-113 26t-89 75q-11 12-22 18t-29 7q-26 0-45-19t-19-46v-4q11-125 50-240t104-213 150-179 189-138 220-88 244-31zm640 704q42 0 82 9t79 27q-37-135-114-247t-184-194-234-126-269-45q-140 0-269 45T456 427 273 620 159 868q38-18 78-27t83-9q97 0 181 45t139 127q54-81 138-126t182-46q97 0 181 45t139 127q54-81 138-126t182-46z\"></path></svg>",

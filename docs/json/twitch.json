@@ -100,7 +100,7 @@
 		"Ionicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 5v11a1 1 0 0 0 1 1h2v4l4 -4h5.584c.266 0 .52 -.105 .707 -.293l2.415 -2.414c.187 -.188 .293 -.442 .293 -.708v-8.585a1 1 0 0 0 -1 -1h-14a1 1 0 0 0 -1 1z\"></path><path d=\"M16 8l0 4\"></path><path d=\"M12 8l0 4\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 5v11a1 1 0 0 0 1 1h2v4l4 -4h5.584c.266 0 .52 -.105 .707 -.293l2.415 -2.414c.187 -.188 .293 -.442 .293 -.708v-8.585a1 1 0 0 0 -1 -1h-14a1 1 0 0 0 -1 1l.001 0\"></path><path d=\"M16 8l0 4\"></path><path d=\"M12 8l0 4\"></path></svg>",
 		"@tabler-icons,outline,brand,twitch",
 		"Tabler Icons"
 	],
@@ -210,6 +210,16 @@
 		"Jam Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><title>twitch_fill</title><g fill=\"none\" fill-rule=\"nonzero\"><path d=\"M24 0v24H0V0zM12.594 23.258l-.012.002-.071.035-.02.004-.014-.004-.071-.036q-.016-.004-.024.006l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104-.074.012-.016.004-.017-.017-.427q-.004-.016-.016-.018m.264-.113-.014.002-.184.093-.01.01-.003.011.018.43.005.012.008.008.201.092q.019.005.029-.008l.004-.014-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014-.034.614q.001.018.017.024l.015-.002.201-.093.01-.008.003-.011.018-.43-.003-.012-.01-.01z\"></path><path fill=\"#09244b\" d=\"M20 2a1 1 0 0 1 1 1v9a1 1 0 0 1-.2.6l-3 4q-.076.102-.175.181l-2.5 2A1 1 0 0 1 14.5 19h-3.086l-2.707 2.707A1 1 0 0 1 7 21v-2H4a1 1 0 0 1-1-1V6l.005-.099a1 1 0 0 1 .288-.608l3-3 .073-.066A1 1 0 0 1 7 2zM8 15h2a1 1 0 0 1 1 1v.364l1.36-1.133c.18-.15.406-.231.64-.231h3.501L19 11.667V4H8zm3-4V7.5a1 1 0 1 1 2 0V11a1 1 0 1 1-2 0m4 0V7.5a1 1 0 1 1 2 0V11a1 1 0 1 1-2 0\"></path></g></svg>",
+		"@mingcute-icon,logo,twitch,filled",
+		"MingCute Icon"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><title>twitch_line</title><g fill=\"none\" fill-rule=\"nonzero\"><path d=\"M24 0v24H0V0zM12.594 23.258l-.012.002-.071.035-.02.004-.014-.004-.071-.036q-.016-.004-.024.006l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104-.074.012-.016.004-.017-.017-.427q-.004-.016-.016-.018m.264-.113-.014.002-.184.093-.01.01-.003.011.018.43.005.012.008.008.201.092q.019.005.029-.008l.004-.014-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014-.034.614q.001.018.017.024l.015-.002.201-.093.01-.008.003-.011.018-.43-.003-.012-.01-.01z\"></path><path fill=\"#09244b\" d=\"M20 2a1 1 0 0 1 1 1v9a1 1 0 0 1-.2.6l-3 4q-.078.101-.176.18l-2.499 2.001A1 1 0 0 1 14.5 19h-3.086l-2.707 2.707A1 1 0 0 1 7 21v-2H4a1 1 0 0 1-1-1V6l.005-.099a1 1 0 0 1 .288-.608l3-3A1 1 0 0 1 7 2zM6 5.414l-1 1V17h2a1 1 0 0 1-1-1zM19 4H8v11h2a1 1 0 0 1 1 1v.364l1.36-1.133c.18-.15.406-.231.64-.231h3.501L19 11.667zm-7 2.5a1 1 0 0 1 1 1V11a1 1 0 1 1-2 0V7.5a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1V11a1 1 0 1 1-2 0V7.5a1 1 0 0 1 1-1\"></path></g></svg>",
+		"@mingcute-icon,logo,twitch,line",
+		"MingCute Icon"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"#6441A5\" fill-rule=\"evenodd\" d=\"m16.673 16.163 3.43-3.429V1.959H3.939v14.204h4.408v2.939l2.94-2.939h5.386ZM1 3.92 1.98 0h20.08v13.715l-7.836 7.835h-3.917L7.857 24H5.409v-2.45H1V3.92Zm10.286 7.836h-1.96V5.877h1.96v5.878Zm5.387 0h-1.959V5.877h1.96v5.878Z\" clip-rule=\"evenodd\"></path></svg>",
 		"@grommet-icons,twitch",
 		"grommet-icons"
@@ -296,7 +306,7 @@
 	],
 	[
 		"<svg width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15.556 11.1V7.5M20 3H4v14.4h4.444V21L12 17.4h4.444L20 13.8zm-8.889 8.1V7.5z\"></path></svg>",
-		"@mynaui-icons,brand,twitch",
+		"@mynaui-icons,twitch",
 		"MynaUI Icons"
 	],
 	[
