@@ -1000,6 +1000,16 @@
 		"TDesign Icons"
 	],
 	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17 7C20.866 7 24 10.134 24 14L23.9912 14.3604C23.8097 17.9395 20.9395 20.8097 17.3604 20.9912L17 21C13.2549 21 10.1963 18.0589 10.0088 14.3604L10 14C10 10.134 13.134 7 17 7ZM16 14.4141L18.333 16.7471L19.7471 15.333L18 13.5859V11.3359H16V14.4141Z\" fill=\"black\"></path><path d=\"M8 20H0V18H8V20Z\" fill=\"black\"></path><path d=\"M8 15H0V13H8V15Z\" fill=\"black\"></path><path d=\"M8 10H0V8H8V10Z\" fill=\"black\"></path><path d=\"M24 5H0V3H24V5Z\" fill=\"black\"></path></svg>",
+		"@tdesign-icons,dialog,history,filled",
+		"TDesign Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"dialog-history\"><path id=\"fill2\" d=\"M11 14C11 17.3137 13.6863 20 17 20C20.3137 20 23 17.3137 23 14C23 10.6863 20.3137 8 17 8C13.6863 8 11 10.6863 11 14Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M1 4H23M1 9H7M1 14H7M1 19H7\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M17 12.336V13.9999L18.3333 15.3334M17 20C13.6863 20 11 17.3137 11 14C11 10.6863 13.6863 8 17 8C20.3137 8 23 10.6863 23 14C23 17.3137 20.3137 20 17 20Z\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
+		"@tdesign-icons,dialog,history",
+		"TDesign Icons"
+	],
+	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\" history-setting\"><path id=\"fill2\" d=\"M21 18.5001C21 19.8808 19.8807 21.0001 18.5 21.0001C17.1193 21.0001 16 19.8808 16 18.5001C16 17.1194 17.1193 16.0001 18.5 16.0001C19.8807 16.0001 21 17.1194 21 18.5001Z\" fill=\"white\"></path><path id=\"stroke1\" d=\"M21.5 12C21.5 6.7533 17.2467 2.5 12 2.5C10.3719 2.5 8.8394 2.90957 7.5 3.63131C5.69871 4.60193 4.24661 6.13714 3.38065 8M12 7V12L13.25 13.25M11.9998 21.5C7.09079 21.5 3.05145 17.7767 2.55176 13M2.5 3.5V8.5H7.5\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M18.4999 16.0001C17.1192 16.0001 15.9999 17.1194 15.9999 18.5001C15.9999 19.8808 17.1192 21.0001 18.4999 21.0001C19.8806 21.0001 20.9999 19.8808 20.9999 18.5001C20.9999 17.1194 19.8806 16.0001 18.4999 16.0001ZM18.4999 16.0001V15.0046M18.4999 22.0001V21.0046M16.3328 17.2513L15.4708 16.7536M21.529 20.2513L20.6669 19.7536M20.6669 17.2512L21.5289 16.7535M15.4707 20.2512L16.3328 19.7535\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,history,setting",
 		"TDesign Icons"
@@ -1375,7 +1385,12 @@
 		"IconaMoon"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" color=\"currentColor\"><path d=\"M11.0065 21H9.60546C6.02021 21 4.22759 21 3.11379 19.865C2 18.7301 2 16.9034 2 13.25C2 9.59661 2 7.76992 3.11379 6.63496C4.22759 5.5 6.02021 5.5 9.60546 5.5H13.4082C16.9934 5.5 18.7861 5.5 19.8999 6.63496C20.7568 7.50819 20.9544 8.7909 21 11\" stroke=\"currentColor\"></path><path d=\"M18.85 18.85L17.5 17.95V15.7M13 17.5C13 19.9853 15.0147 22 17.5 22C19.9853 22 22 19.9853 22 17.5C22 15.0147 19.9853 13 17.5 13C15.0147 13 13 15.0147 13 17.5Z\" stroke=\"currentColor\"></path><path d=\"M16 5.5L15.9007 5.19094C15.4056 3.65089 15.1581 2.88087 14.5689 2.44043C13.9796 2 13.197 2 11.6316 2H11.3684C9.80304 2 9.02036 2 8.43111 2.44043C7.84186 2.88087 7.59436 3.65089 7.09934 5.19094L7 5.5\" stroke=\"currentColor\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" color=\"currentColor\"><path d=\"M19 10.5V9.99995C19 6.22876 18.9999 4.34311 17.8284 3.17154C16.6568 2 14.7712 2 11 2C7.22889 2 5.34326 2.00006 4.17169 3.17159C3.00015 4.34315 3.00013 6.22872 3.0001 9.99988L3.00006 14.5C3.00003 17.7874 3.00002 19.4312 3.90794 20.5375C4.07418 20.7401 4.25992 20.9258 4.46249 21.0921C5.56883 22 7.21255 22 10.5 22\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path><path d=\"M7 7H15M7 11H11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path><path d=\"M18 18.5L16.5 17.95V15.5M12 17.5C12 19.9853 14.0147 22 16.5 22C18.9853 22 21 19.9853 21 17.5C21 15.0147 18.9853 13 16.5 13C14.0147 13 12 15.0147 12 17.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path></svg>",
+		"@hugeicons,transaction,history",
+		"HugeIcons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" color=\"currentColor\"><path d=\"M11.0065 21H9.60546C6.02021 21 4.22759 21 3.11379 19.865C2 18.7301 2 16.9034 2 13.25C2 9.59661 2 7.76992 3.11379 6.63496C4.22759 5.5 6.02021 5.5 9.60546 5.5H13.4082C16.9934 5.5 18.7861 5.5 19.8999 6.63496C20.7568 7.50819 20.9544 8.7909 21 11\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path><path d=\"M18.85 18.85L17.5 17.95V15.7M13 17.5C13 19.9853 15.0147 22 17.5 22C19.9853 22 22 19.9853 22 17.5C22 15.0147 19.9853 13 17.5 13C15.0147 13 13 15.0147 13 17.5Z\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path><path d=\"M16 5.5L15.9007 5.19094C15.4056 3.65089 15.1581 2.88087 14.5689 2.44043C13.9796 2 13.197 2 11.6316 2H11.3684C9.80304 2 9.02036 2 8.43111 2.44043C7.84186 2.88087 7.59436 3.65089 7.09934 5.19094L7 5.5\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path></svg>",
 		"@hugeicons,work,history",
 		"HugeIcons"
 	],
