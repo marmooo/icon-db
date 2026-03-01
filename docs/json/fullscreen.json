@@ -180,12 +180,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M420-378 143-101q-9 9-21 9t-21-9q-9-9-9-21t9-21l277-277H190q-12.75 0-21.37-8.68-8.63-8.67-8.63-21.5 0-12.82 8.63-21.32 8.62-8.5 21.37-8.5h260q12.75 0 21.38 8.62Q480-462.75 480-450v260q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-188Zm162-162h188q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5H510q-12.75 0-21.37-8.63Q480-497.25 480-510v-260q0-12.75 8.68-21.38 8.67-8.62 21.5-8.62 12.82 0 21.32 8.62 8.5 8.63 8.5 21.38v188l277-277q9-9 21-9t21 9q9 9 9 21t-9 21L582-540Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M420-378 143-101q-9 9-21 9t-21-9q-9-9-9-21t9-21l277-277H190q-13 0-21.5-8.5T160-450q0-13 8.5-21.5T190-480h260q13 0 21.5 8.5T480-450v260q0 13-8.5 21.5T450-160q-13 0-21.5-8.5T420-190v-188Zm162-162h188q13 0 21.5 8.5T800-510q0 13-8.5 21.5T770-480H510q-13 0-21.5-8.5T480-510v-260q0-13 8.5-21.5T510-800q13 0 21.5 8.5T540-770v188l277-277q9-9 21-9t21 9q9 9 9 21t-9 21L582-540Z\"></path></svg>",
 		"@material-symbols,rounded,close,fullscreen,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M420-378 143-101q-9 9-21 9t-21-9q-9-9-9-21t9-21l277-277H190q-12.75 0-21.37-8.68-8.63-8.67-8.63-21.5 0-12.82 8.63-21.32 8.62-8.5 21.37-8.5h260q12.75 0 21.38 8.62Q480-462.75 480-450v260q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-188Zm162-162h188q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5H510q-12.75 0-21.37-8.63Q480-497.25 480-510v-260q0-12.75 8.68-21.38 8.67-8.62 21.5-8.62 12.82 0 21.32 8.62 8.5 8.63 8.5 21.38v188l277-277q9-9 21-9t21 9q9 9 9 21t-9 21L582-540Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M420-378 143-101q-9 9-21 9t-21-9q-9-9-9-21t9-21l277-277H190q-13 0-21.5-8.5T160-450q0-13 8.5-21.5T190-480h260q13 0 21.5 8.5T480-450v260q0 13-8.5 21.5T450-160q-13 0-21.5-8.5T420-190v-188Zm162-162h188q13 0 21.5 8.5T800-510q0 13-8.5 21.5T770-480H510q-13 0-21.5-8.5T480-510v-260q0-13 8.5-21.5T510-800q13 0 21.5 8.5T540-770v188l277-277q9-9 21-9t21 9q9 9 9 21t-9 21L582-540Z\"></path></svg>",
 		"@material-symbols,rounded,close,fullscreen",
 		"Material Symbols"
 	],
@@ -391,12 +391,32 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 4H8v4H4v2h6zM8 20h2v-6H4v2h4zm12-6h-6v6h2v-4h4zm0-6h-4V4h-2v6h6z\"></path></svg>",
-		"@boxicons,regular,exit,fullscreen",
-		"Boxicons"
+		"@boxicons-v2,regular,exit,fullscreen",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M5 5h5V3H3v7h2zm5 14H5v-5H3v7h7zm11-5h-2v5h-5v2h7zm-2-4h2V3h-7v2h5z\"></path></svg>",
-		"@boxicons,regular,fullscreen",
+		"@boxicons-v2,regular,fullscreen",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 4H8v4H4v2h6zM10 20v-6H4v2h4v4zM16 16h4v-2h-6v6h2zM20 8h-4V4h-2v6h6z\"></path></svg>",
+		"@boxicons,basic,fullscreen,exit",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 3H3v7h2V5h5zM10 19H5v-5H3v7h7zM21 14h-2v5h-5v2h7zM21 3h-7v2h5v5h2z\"></path></svg>",
+		"@boxicons,basic,fullscreen",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 4H8v4H4v2h6zM10 20v-6H4v2h4v4zM16 16h4v-2h-6v6h2zM20 8h-4V4h-2v6h6z\"></path></svg>",
+		"@boxicons,filled,fullscreen,exit",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 3H3v7h2V5h5zM10 19H5v-5H3v7h7zM21 14h-2v5h-5v2h7zM21 3h-7v2h5v5h2z\"></path></svg>",
+		"@boxicons,filled,fullscreen",
 		"Boxicons"
 	],
 	[

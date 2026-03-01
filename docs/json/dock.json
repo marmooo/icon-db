@@ -326,42 +326,242 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 2v9H5V5zM5 19v-3h14v3z\"></path></svg>",
-		"@boxicons,regular,dock,bottom",
-		"Boxicons"
+		"@boxicons-v2,regular,dock,bottom",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM5 5h3v14H5zm5 14V5h9v14z\"></path></svg>",
-		"@boxicons,regular,dock,left",
-		"Boxicons"
+		"@boxicons-v2,regular,dock,left",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zM5 5h9v14H5zm11 14V5h3v14z\"></path></svg>",
-		"@boxicons,regular,dock,right",
-		"Boxicons"
+		"@boxicons-v2,regular,dock,right",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 2v3H5V5zM5 19v-9h14v9z\"></path></svg>",
-		"@boxicons,regular,dock,top",
-		"Boxicons"
+		"@boxicons-v2,regular,dock,top",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M5 21h14c1.103 0 2-.897 2-2V5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2zM19 5l.001 9H5V5h14z\"></path></svg>",
-		"@boxicons,solid,bxs,dock,bottom",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,dock,bottom",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21 19V5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2zm-11 0V5h9l.002 14H10z\"></path></svg>",
-		"@boxicons,solid,bxs,dock,left",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,dock,left",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M21 5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2V5zM5 5h9v14H5V5z\"></path></svg>",
-		"@boxicons,solid,bxs,dock,right",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,dock,right",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M3 5v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2V5c0-1.103-.897-2-2-2H5c-1.103 0-2 .897-2 2zm2 14v-9h14.001l.001 9H5z\"></path></svg>",
-		"@boxicons,solid,bxs,dock,top",
+		"@boxicons-v2,solid,bxs,dock,top",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,21H5c-1.1,0-2-.9-2-2V5c0-1.1.9-2,2-2h14c1.1,0,2,.9,2,2v14c0,1.1-.9,2-2,2ZM5,5v14h14V5H5Z\"></path><path d=\"M7 15H17V17H7z\"></path></svg>",
+		"@boxicons,basic,dock,bottom",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5v-3h14v3Zm0-5H5V5h14v9Z\"></path><path d=\"M16.21 7.96 14.79 6.54 12 9.34 9.21 6.54 7.79 7.96 12 12.16 16.21 7.96z\"></path></svg>",
+		"@boxicons,basic,dock,bottom,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h3v9h-3V5Zm0,14v-3h3v3h-3Zm14,0h-9v-3h9v3Zm0-5h-9V5h9v9Z\"></path></svg>",
+		"@boxicons,basic,dock,bottom,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h3v9h-3V5Zm14,14H5v-3h14v3Zm0-5h-9V5h9v9Z\"></path></svg>",
+		"@boxicons,basic,dock,bottom,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h9v9H5V5Zm0,14v-3h9v3H5Zm14,0h-3v-3h3v3Zm0-5h-3V5h3v9Z\"></path></svg>",
+		"@boxicons,basic,dock,bottom,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h9v9H5V5Zm14,14H5v-3h14v3Zm0-5h-3V5h3v9Z\"></path></svg>",
+		"@boxicons,basic,dock,bottom,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5v-3h14v3Zm0-5H5V5h14v9Z\"></path></svg>",
+		"@boxicons,basic,dock,bottom",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,21H5c-1.1,0-2-.9-2-2V5c0-1.1.9-2,2-2h14c1.1,0,2,.9,2,2v14c0,1.1-.9,2-2,2ZM5,5v14h14V5H5Z\"></path><path d=\"M7 7H9V17H7z\"></path></svg>",
+		"@boxicons,basic,dock,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h3v14h-3Zm5,0V5h9v14s-9,0-9,0Z\"></path><path d=\"M16.04 7.79 11.84 12 16.04 16.21 17.46 14.79 14.66 12 17.46 9.21 16.04 7.79z\"></path></svg>",
+		"@boxicons,basic,dock,left,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h3v14h-3Zm5,0V5h9v14s-9,0-9,0Z\"></path></svg>",
+		"@boxicons,basic,dock,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,21H5c-1.1,0-2-.9-2-2V5c0-1.1.9-2,2-2h14c1.1,0,2,.9,2,2v14c0,1.1-.9,2-2,2Zm0-16H5v14h14V5Z\"></path><path d=\"M15 7H17V17H15z\"></path></svg>",
+		"@boxicons,basic,dock,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h9v14H5Zm14,0h-3V5h3v14Z\"></path><path d=\"M6.54 9.21 9.34 12 6.54 14.79 7.96 16.21 12.16 12 7.96 7.79 6.54 9.21z\"></path></svg>",
+		"@boxicons,basic,dock,right,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h9v14H5Zm14,0h-3V5h3v14Z\"></path></svg>",
+		"@boxicons,basic,dock,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,21H5c-1.1,0-2-.9-2-2V5c0-1.1.9-2,2-2h14c1.1,0,2,.9,2,2v14c0,1.1-.9,2-2,2ZM5,5v14h14V5H5Z\"></path><path d=\"M7 7H17V9H7z\"></path></svg>",
+		"@boxicons,basic,dock,top",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5s0-9,0-9h14v9Zm0-11H5v-3h14v3Z\"></path><path d=\"M12 14.66 14.79 17.46 16.21 16.04 12 11.84 7.79 16.04 9.21 17.46 12 14.66z\"></path></svg>",
+		"@boxicons,basic,dock,top,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h3v3h-3v-3Zm0,14v-9h3v9h-3Zm5,0v-9h9v-2h-9v-3h9v14s-9,0-9,0Z\"></path></svg>",
+		"@boxicons,basic,dock,top,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19v-9h3v9h-3Zm5,0v-9h9v-2H5v-3h14v14s-9,0-9,0Z\"></path></svg>",
+		"@boxicons,basic,dock,top,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h9v3H5v-3Zm0,14v-9h9v9H5Zm11,0v-9h3v-2h-3v-3h3v14s-3,0-3,0Z\"></path></svg>",
+		"@boxicons,basic,dock,top,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19v-9h9v9H5Zm11,0v-9h3v-2H5v-3h14v14s-3,0-3,0Z\"></path></svg>",
+		"@boxicons,basic,dock,top,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5s0-9,0-9h14v9Zm0-11H5v-3h14v3Z\"></path></svg>",
+		"@boxicons,basic,dock,top",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-2,14H7v-2h10v2Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,11H5V5h14v9Z\"></path><path d=\"M16.21 7.96 14.79 6.54 12 9.34 9.21 6.54 7.79 7.96 12 12.16 16.21 7.96z\"></path></svg>",
+		"@boxicons,filled,dock,bottom,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m8,3h-3c-1.1,0-2,.9-2,2v9h5V3Z\"></path><path d=\"m5,21h3v-5H3v3c0,1.1.9,2,2,2Z\"></path><path d=\"m19,3h-9v11h11V5c0-1.1-.9-2-2-2Z\"></path><path d=\"m10,21h9c1.1,0,2-.9,2-2v-3h-11v5Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m8,3h-3c-1.1,0-2,.9-2,2v9h5V3Z\"></path><path d=\"m19,3h-9v11h11V5c0-1.1-.9-2-2-2Z\"></path><path d=\"m8,16H3v3c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2v-3h-13Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m3,5v9h11V3H5c-1.1,0-2,.9-2,2Z\"></path><path d=\"m3,19c0,1.1.9,2,2,2h9v-5H3v3Z\"></path><path d=\"m19,3h-3v11h5V5c0-1.1-.9-2-2-2Z\"></path><path d=\"m16,21h3c1.1,0,2-.9,2-2v-3h-5v5Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3h-3v11h5V5c0-1.1-.9-2-2-2Z\"></path><path d=\"m14,3H5c-1.1,0-2,.9-2,2v9h11V3Z\"></path><path d=\"m14,16H3v3c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2v-3h-7Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,11H5V5h14v9Z\"></path></svg>",
+		"@boxicons,filled,dock,bottom",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m21,19V5c0-1.1-.9-2-2-2H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2Zm-14-2V7h2v10h-2Z\"></path></svg>",
+		"@boxicons,filled,dock,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-9,16V5h9v14s-9,0-9,0Z\"></path><path d=\"M16.04 7.79 11.84 12 16.04 16.21 17.46 14.79 14.66 12 17.46 9.21 16.04 7.79z\"></path></svg>",
+		"@boxicons,filled,dock,left,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-9,16V5h9v14s-9,0-9,0Z\"></path></svg>",
+		"@boxicons,filled,dock,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m3,5v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2H5c-1.1,0-2,.9-2,2Zm14,2v10h-2V7h2Z\"></path></svg>",
+		"@boxicons,filled,dock,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h9v14H5Z\"></path><path d=\"M6.54 9.21 9.34 12 6.54 14.79 7.96 16.21 12.16 12 7.96 7.79 6.54 9.21z\"></path></svg>",
+		"@boxicons,filled,dock,right,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V5h9v14H5Z\"></path></svg>",
+		"@boxicons,filled,dock,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m21,19V5c0-1.1-.9-2-2-2H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2Zm-4-10H7v-2h10v2Z\"></path></svg>",
+		"@boxicons,filled,dock,top",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5s0-9,0-9h14v9Z\"></path><path d=\"M12 14.66 14.79 17.46 16.21 16.04 12 11.84 7.79 16.04 9.21 17.46 12 14.66z\"></path></svg>",
+		"@boxicons,filled,dock,top,arrow",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m8,3h-3c-1.1,0-2,.9-2,2v3h5V3Z\"></path><path d=\"m5,21h3v-11H3v9c0,1.1.9,2,2,2Z\"></path><path d=\"m10,21h9c1.1,0,2-.9,2-2v-9h-11v11Z\"></path><path d=\"m19,3h-9v5h11v-3c0-1.1-.9-2-2-2Z\"></path></svg>",
+		"@boxicons,filled,dock,top,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m5,21h3v-11H3v9c0,1.1.9,2,2,2Z\"></path><path d=\"m19,3H5c-1.1,0-2,.9-2,2v3h18v-3c0-1.1-.9-2-2-2Z\"></path><path d=\"m10,21h9c1.1,0,2-.9,2-2v-9h-11v11Z\"></path></svg>",
+		"@boxicons,filled,dock,top,left",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3h-3v5h5v-3c0-1.1-.9-2-2-2Z\"></path><path d=\"m3,5v3h11V3H5c-1.1,0-2,.9-2,2Z\"></path><path d=\"m3,19c0,1.1.9,2,2,2h9v-11H3v9Z\"></path><path d=\"m16,21h3c1.1,0,2-.9,2-2v-9h-5v11Z\"></path></svg>",
+		"@boxicons,filled,dock,top,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m5,21h9v-11H3v9c0,1.1.9,2,2,2Z\"></path><path d=\"m16,21h3c1.1,0,2-.9,2-2v-9h-5v11Z\"></path><path d=\"m19,3H5c-1.1,0-2,.9-2,2v3h18v-3c0-1.1-.9-2-2-2Z\"></path></svg>",
+		"@boxicons,filled,dock,top,right",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm0,16H5s0-9,0-9h14v9Z\"></path></svg>",
+		"@boxicons,filled,dock,top",
 		"Boxicons"
 	],
 	[
@@ -398,6 +598,16 @@
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M6.64746 6.14844C6.84246 5.95344 7.15852 5.95344 7.35352 6.14844L8.85352 7.64844L8.85547 7.64648C9.05032 7.84133 9.05001 8.15848 8.85547 8.35352L7.35547 9.85352C7.25747 9.95052 7.12898 10 7.00098 10C6.87299 9.99999 6.74546 9.9515 6.64746 9.85352C6.45246 9.65852 6.45246 9.34148 6.64746 9.14648L7.29297 8.50098H3.5C3.22401 8.50098 3.00001 8.27697 3 8.00098C3 7.72498 3.224 7.50098 3.5 7.50098H7.29297L6.64746 6.85449C6.45247 6.65949 6.45247 6.34344 6.64746 6.14844Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12.5 1C13.881 1 15 2.119 15 3.5L15 12.5C15 13.881 13.881 15 12.5 15H3.5C2.119 15 1 13.881 1 12.5L1 3.5C1 2.119 2.119 1 3.5 1L12.5 1ZM3.5 2C2.672 2 2 2.672 2 3.5L2 12.5C2 13.328 2.672 14 3.5 14H10L10 2H3.5Z\"></path></svg>",
 		"@codicons,layout,sidebar,right,dock",
 		"Codicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M2 4h20v2H2zm0 14h20v2H2zM2 6h2v12H2zm18 0h2v12h-2zM4 8h16v2H4zm2 6h12v2H6z\"></path></svg>",
+		"@pixelarticons,dock,sharp",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M4 4h16v2H4zm0 14h16v2H4zM2 6h2v12H2zm18 0h2v12h-2zM4 8h16v2H4zm2 6h12v2H6z\"></path></svg>",
+		"@pixelarticons,dock",
+		"Pixelarticons"
 	],
 	[
 		"<?xml version=\"1.0\" encoding=\"utf-8\"?><!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path fill=\"#444\" d=\"M0 11v5h16v-5h-16zM12 15h-3v-3h3v3z\"></path><path fill=\"#444\" d=\"M12 7v-2c0-5-8-5-8-5s5 0 5 5v2h-2l3.5 3 3.5-3h-2z\"></path></svg>",

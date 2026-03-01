@@ -95,6 +95,11 @@
 		"Elementor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1000\" height=\"1000\" viewBox=\"0 0 1000 1000\"><path d=\"M140 750v-500c0-29 12-57 32-78 21-21 49-32 78-32h375c15 0 27 12 27 27 0 14-12 26-27 26h-375c-15 0-29 6-40 17-11 11-17 25-17 40v500c0 15 6 29 17 40 11 11 25 17 40 17h500c15 0 29-6 40-17 11-11 17-25 17-40v-250c0-15 12-27 26-27 15 0 27 12 27 27v250c0 29-11 57-32 78-21 20-49 32-78 32h-500c-29 0-57-12-78-32-20-21-32-49-32-78z m674-519c11-10 28-10 38 0 11 10 11 27 0 38l-333 333c-11 11-27 11-38 0l-125-125c-10-10-10-27 0-38 11-10 27-10 38 0l106 106 314-314z\"></path></svg>",
+		"@elementor-icons,atomic,checkbox",
+		"Elementor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1024\" height=\"1024\" viewBox=\"0 0 1024 1024\"><path d=\"M896 1024h-768q-53 0-90.5-37.5t-37.5-90.5v-768q0-53 37.5-90t90.5-37h768q27 0 53 11l-117 116h-640q-26 0-45 19t-19 45v640q0 27 18.5 45.5t45.5 18.5h640q26 0 45-18.5t19-45.5v-384l128-128v576q0 53-37.5 90.5t-90.5 37.5zM558 685q-19 19-47 18-29 1-48-19l-188-187q-19-20-19-47.5t19.5-46.5 46.5-19 47 19l144 144 488-491q23 33 23 72v68q-8 31-20 42z\"></path></svg>",
 		"@webhostinghub-glyphs,checkbox",
 		"WebHostingHub Glyphs"
@@ -581,37 +586,67 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7 5c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2V7c0-1.103-.897-2-2-2H7zm0 12V7h10l.002 10H7z\"></path><path d=\"M10.996 12.556 9.7 11.285l-1.4 1.43 2.704 2.647 4.699-4.651-1.406-1.422z\"></path></svg>",
-		"@boxicons,regular,checkbox,checked",
-		"Boxicons"
+		"@boxicons-v2,regular,checkbox,checked",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M9.01 11h6v2h-6z\"></path><path d=\"M17 5H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zM7 17V7h10v10z\"></path></svg>",
-		"@boxicons,regular,checkbox,minus",
-		"Boxicons"
+		"@boxicons-v2,regular,checkbox,minus",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M9 9h6v6H9z\"></path><path d=\"M19 17V7c0-1.103-.897-2-2-2H7c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2zM7 7h10l.002 10H7V7z\"></path></svg>",
-		"@boxicons,regular,checkbox,square",
-		"Boxicons"
+		"@boxicons-v2,regular,checkbox,square",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7 5c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2V7c0-1.103-.897-2-2-2H7zm0 12V7h10l.002 10H7z\"></path></svg>",
-		"@boxicons,regular,checkbox",
-		"Boxicons"
+		"@boxicons-v2,regular,checkbox",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7 5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H7zm4 10.414-2.707-2.707 1.414-1.414L11 12.586l3.793-3.793 1.414 1.414L11 15.414z\"></path></svg>",
-		"@boxicons,solid,bxs,checkbox,checked",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,checkbox,checked",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 5H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm-1 8H8v-2h8z\"></path></svg>",
-		"@boxicons,solid,bxs,checkbox,minus",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,checkbox,minus",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7 19h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2z\"></path></svg>",
-		"@boxicons,solid,bxs,checkbox",
+		"@boxicons-v2,solid,bxs,checkbox",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 5H7c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2M7 17V7h10v10z\"></path><path d=\"m11 12.59-1.29-1.3-1.42 1.42 2.71 2.7 4.71-4.7-1.42-1.42z\"></path></svg>",
+		"@boxicons,basic,checkbox,checked",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 7c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2zM7 17V7h10v10z\"></path><path d=\"M9 9h6v6H9z\"></path></svg>",
+		"@boxicons,basic,checkbox,square",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 7c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2zM7 17V7h10v10z\"></path></svg>",
+		"@boxicons,basic,checkbox",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 5H7c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m-6 10.41L8.29 12.7l1.41-1.41 1.29 1.29 3.29-3.29 1.41 1.41-4.71 4.71Z\"></path></svg>",
+		"@boxicons,filled,checkbox,checked",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 7c0-1.1-.9-2-2-2H7c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2zm-4 8H9V9h6z\"></path></svg>",
+		"@boxicons,filled,checkbox,square",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><rect width=\"14\" height=\"14\" x=\"5\" y=\"5\" rx=\"2\" ry=\"2\"></rect></svg>",
+		"@boxicons,filled,checkbox",
 		"Boxicons"
 	],
 	[
@@ -670,12 +705,22 @@
 		"Majesticons"
 	],
 	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M3 3h18v18H3V3zm16 16V5H5v14h14z\" fill=\"currentColor\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M2 2h20v2H2zm0 18h20v2H2zM2 4h2v16H2zm18 0h2v16h-2zM7 12h2v2H7zm2 2h2v2H9zm2-2h2v2h-2zm2-2h2v2h-2zm2-2h2v2h-2z\"></path></svg>",
+		"@pixelarticons,checkbox,on,sharp",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M4 2h16v2H4zm0 18h16v2H4zM2 4h2v16H2zm18 0h2v16h-2zM7 12h2v2H7zm2 2h2v2H9zm2-2h2v2h-2zm2-2h2v2h-2zm2-2h2v2h-2z\"></path></svg>",
 		"@pixelarticons,checkbox,on",
 		"Pixelarticons"
 	],
 	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M5 3H3v18h18V3H5zm0 2h14v14H5V5zm4 7H7v2h2v2h2v-2h2v-2h2v-2h2V8h-2v2h-2v2h-2v2H9v-2z\" fill=\"currentColor\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M2 2h20v2H2zm0 18h20v2H2zM2 4h2v16H2zm18 0h2v16h-2z\"></path></svg>",
+		"@pixelarticons,checkbox,sharp",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M4 2h16v2H4zm0 18h16v2H4zM2 4h2v16H2zm18 0h2v16h-2z\"></path></svg>",
 		"@pixelarticons,checkbox",
 		"Pixelarticons"
 	],

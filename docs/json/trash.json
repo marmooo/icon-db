@@ -545,7 +545,7 @@
 		"Tabler Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 6a1 1 0 0 1 .117 1.993l-.117 .007h-.081l-.919 11a3 3 0 0 1 -2.824 2.995l-.176 .005h-8c-1.598 0 -2.904 -1.249 -2.992 -2.75l-.005 -.167l-.923 -11.083h-.08a1 1 0 0 1 -.117 -1.993l.117 -.007h16z\"></path><path d=\"M14 2a2 2 0 0 1 2 2a1 1 0 0 1 -1.993 .117l-.007 -.117h-4l-.007 .117a1 1 0 0 1 -1.993 -.117a2 2 0 0 1 1.85 -1.995l.15 -.005h4z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M20 6a1 1 0 0 1 .117 1.993l-.117 .007h-.081l-.919 11a3 3 0 0 1 -2.824 2.995l-.176 .005h-8c-1.598 0 -2.904 -1.249 -2.992 -2.75l-.005 -.167l-.923 -11.083h-.08a1 1 0 0 1 -.117 -1.993l.117 -.007zm-10 4a1 1 0 0 0 -1 1v6a1 1 0 0 0 2 0v-6a1 1 0 0 0 -1 -1m4 0a1 1 0 0 0 -1 1v6a1 1 0 0 0 2 0v-6a1 1 0 0 0 -1 -1\"></path><path d=\"M14 2a2 2 0 0 1 2 2a1 1 0 0 1 -1.993 .117l-.007 -.117h-4l-.007 .117a1 1 0 0 1 -1.993 -.117a2 2 0 0 1 1.85 -1.995l.15 -.005z\"></path></svg>",
 		"@tabler-icons,filled,trash",
 		"Tabler Icons"
 	],
@@ -621,22 +621,52 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15 2H9c-1.103 0-2 .897-2 2v2H3v2h2v12c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2V8h2V6h-4V4c0-1.103-.897-2-2-2zM9 4h6v2H9V4zm8 16H7V8h10v12z\"></path></svg>",
-		"@boxicons,regular,trash",
-		"Boxicons"
+		"@boxicons-v2,regular,trash",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M5 20a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8h2V6h-4V4a2 2 0 0 0-2-2H9a2 2 0 0 0-2 2v2H3v2h2zM9 4h6v2H9zM8 8h9v12H7V8z\"></path><path d=\"M9 10h2v8H9zm4 0h2v8h-2z\"></path></svg>",
-		"@boxicons,regular,trash",
-		"Boxicons"
+		"@boxicons-v2,regular,trash",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M6 7H5v13a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7H6zm10.618-3L15 2H9L7.382 4H3v2h18V4z\"></path></svg>",
-		"@boxicons,solid,bxs,trash",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,trash",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M6 7H5v13a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7H6zm4 12H8v-9h2v9zm6 0h-2v-9h2v9zm.618-15L15 2H9L7.382 4H3v2h18V4z\"></path></svg>",
-		"@boxicons,solid,bxs,trash",
+		"@boxicons-v2,solid,bxs,trash",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 6V4c0-1.1-.9-2-2-2H9c-1.1 0-2 .9-2 2v2H2v2h2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8h2V6zM9 4h6v2H9zM6 20V8h12v12z\"></path></svg>",
+		"@boxicons,basic,trash",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m17,6v-2c0-1.1-.9-2-2-2h-6c-1.1,0-2,.9-2,2v2H2v2h2v12c0,1.1.9,2,2,2h12c1.1,0,2-.9,2-2v-12h2v-2h-5Zm-8-2h6v2h-6v-2Zm9,16H6v-12h12v12Z\"></path><path d=\"M14.29 10.29 12 12.59 9.71 10.29 8.29 11.71 10.59 14 8.29 16.29 9.71 17.71 12 15.41 14.29 17.71 15.71 16.29 13.41 14 15.71 11.71 14.29 10.29z\"></path></svg>",
+		"@boxicons,basic,trash,x",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 6V4c0-1.1-.9-2-2-2H9c-1.1 0-2 .9-2 2v2H2v2h2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8h2V6zM9 4h6v2H9zM6 20V8h12v12z\"></path><path d=\"M9 10h2v8H9zM13 10h2v8h-2z\"></path></svg>",
+		"@boxicons,basic,trash",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M17 6V4c0-1.1-.9-2-2-2H9c-1.1 0-2 .9-2 2v2H2v2h2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8h2V6zm-2 0H9V4h6z\"></path></svg>",
+		"@boxicons,filled,trash",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m19,6h-2v-2c0-1.1-.9-2-2-2h-6c-1.1,0-2,.9-2,2v2H2v2h2v12c0,1.1.9,2,2,2h12c1.1,0,2-.9,2-2v-12h2v-2h-3Zm-10-2h6v2h-6v-2Zm6.71,12.29l-1.41,1.41-2.29-2.29-2.29,2.29-1.41-1.41,2.29-2.29-2.29-2.29,1.41-1.41,2.29,2.29,2.29-2.29,1.41,1.41-2.29,2.29,2.29,2.29Z\"></path></svg>",
+		"@boxicons,filled,trash,x",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m17,6v-2c0-1.1-.9-2-2-2h-6c-1.1,0-2,.9-2,2v2H2v2h2v12c0,1.1.9,2,2,2h12c1.1,0,2-.9,2-2v-12h2v-2h-5Zm-8-2h6v2h-6v-2Zm1,14h-2v-8h2v8Zm6,0h-2v-8h2v8Z\"></path></svg>",
+		"@boxicons,filled,trash",
 		"Boxicons"
 	],
 	[
@@ -803,16 +833,6 @@
 		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Clarity Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Clarity Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"m 57.407804,14.075479 c -3.481607,0 -6.279635,2.798032 -6.279635,6.279635 l 0,0.909269 25.743662,0 0,-0.909269 c 0,-3.481603 -2.798019,-6.279635 -6.279635,-6.279635 l -13.184392,0 z M 39.56341,23.196578 c -6.903611,0 -12.474026,5.542004 -12.474026,12.445612 l 0,0.454634 73.821236,0 0,-0.454634 c 0,-6.903608 -5.570419,-12.445612 -12.47403,-12.445612 l -48.87318,0 z m -6.847928,15.173418 0,67.001714 c 0,4.73635 3.816464,8.55281 8.552807,8.55281 l 45.491837,0 c 4.736343,0 8.552806,-3.81646 8.552806,-8.55281 l 0,-67.001714 -62.59745,0 z m 13.468539,9.547318 c 1.539901,0 2.784635,1.244733 2.784635,2.784635 l 0,50.890621 c 0,1.5399 -1.244734,2.78463 -2.784635,2.78463 -1.5399,0 -2.784634,-1.24473 -2.784634,-2.78463 l 0,-50.890621 c 0,-1.539902 1.244734,-2.784635 2.784634,-2.784635 z m 17.815979,0 c 1.539901,0 2.784635,1.244733 2.784635,2.784635 l 0,50.890621 c 0,1.5399 -1.244734,2.78463 -2.784635,2.78463 -1.539901,0 -2.784635,-1.24473 -2.784635,-2.78463 l 0,-50.890621 c 0,-1.539902 1.244734,-2.784635 2.784635,-2.784635 z m 17.815979,0 c 1.5399,0 2.784634,1.244733 2.784634,2.784635 l 0,50.890621 c 0,1.5399 -1.244734,2.78463 -2.784634,2.78463 -1.539901,0 -2.784635,-1.24473 -2.784635,-2.78463 l 0,-50.890621 c 0,-1.539902 1.244734,-2.784635 2.784635,-2.784635 z\" style=\"fill:#aaaaaa\"></path></svg>",
 		"@clarity,places,user,trash",
 		"Clarity"
-	],
-	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M16 2v4h6v2h-2v14H4V8H2V6h6V2h8zm-2 2h-4v2h4V4zm0 4H6v12h12V8h-4z\" fill=\"currentColor\"></path></svg>",
-		"@pixelarticons,trash",
-		"Pixelarticons"
-	],
-	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M16 2v4h6v2h-2v14H4V8H2V6h6V2h8zm-2 2h-4v2h4V4zm0 4H6v12h12V8h-4zm-5 2h2v8H9v-8zm6 0h-2v8h2v-8z\" fill=\"currentColor\"></path></svg>",
-		"@pixelarticons,trash",
-		"Pixelarticons"
 	],
 	[
 		"<svg height=\"21\" viewBox=\"0 0 21 21\" width=\"21\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" transform=\"translate(3 2)\"><path d=\"m2.5 2.5h10v12c0 1.1045695-.8954305 2-2 2h-6c-1.1045695 0-2-.8954305-2-2zm5-2c1.0543618 0 1.91816512.81587779 1.99451426 1.85073766l.00548574.14926234h-4c0-1.1045695.8954305-2 2-2z\"></path><path d=\"m.5 2.5h14\"></path><path d=\"m5.5 5.5v8\"></path><path d=\"m9.5 5.5v8\"></path></g></svg>",

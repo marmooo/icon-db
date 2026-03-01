@@ -430,7 +430,7 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M270-400h420q12.75 0 21.38-8.68 8.62-8.67 8.62-21.5 0-12.82-8.62-21.32-8.63-8.5-21.38-8.5H270q-12.75 0-21.37 8.68-8.63 8.67-8.63 21.5 0 12.82 8.63 21.32 8.62 8.5 21.37 8.5Zm0-130h420q12.75 0 21.38-8.68 8.62-8.67 8.62-21.5 0-12.82-8.62-21.32-8.63-8.5-21.38-8.5H270q-12.75 0-21.37 8.68-8.63 8.67-8.63 21.5 0 12.82 8.63 21.32 8.62 8.5 21.37 8.5Zm0-130h420q12.75 0 21.38-8.68 8.62-8.67 8.62-21.5 0-12.82-8.62-21.32-8.63-8.5-21.38-8.5H270q-12.75 0-21.37 8.68-8.63 8.67-8.63 21.5 0 12.82 8.63 21.32 8.62 8.5 21.37 8.5ZM140-240q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v668q0 19.69-18.5 27.34Q843-117 829-131L720-240H140Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M270-400h420q13 0 21.5-8.5T720-430q0-13-8.5-21.5T690-460H270q-13 0-21.5 8.5T240-430q0 13 8.5 21.5T270-400Zm0-130h420q13 0 21.5-8.5T720-560q0-13-8.5-21.5T690-590H270q-13 0-21.5 8.5T240-560q0 13 8.5 21.5T270-530Zm0-130h420q13 0 21.5-8.5T720-690q0-13-8.5-21.5T690-720H270q-13 0-21.5 8.5T240-690q0 13 8.5 21.5T270-660ZM140-240q-24 0-42-18t-18-42v-520q0-24 18-42t42-18h680q24 0 42 18t18 42v668q0 20-18.5 27.5T829-131L720-240H140Z\"></path></svg>",
 		"@material-symbols,rounded,comment,filled",
 		"Material Symbols"
 	],
@@ -652,6 +652,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z\"></path><path d=\"M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z\"></path></svg>",
 		"@octicons,comment,discussion",
+		"Octicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M12 6a3 3 0 0 1 3 3v1.168c.591.281 1 .884 1 1.582v2.5A1.75 1.75 0 0 1 14.25 16h-4.5A1.75 1.75 0 0 1 8 14.25v-2.5c0-.698.409-1.301 1-1.582V9a3 3 0 0 1 3-3Zm0 1.5A1.5 1.5 0 0 0 10.5 9v1h3V9A1.5 1.5 0 0 0 12 7.5Z\"></path><path d=\"M10.25 1A1.75 1.75 0 0 1 12 2.75v1.5a.75.75 0 0 1-1.5 0v-1.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25v5.5a.25.25 0 0 0 .25.25h1c.199 0 .39.079.53.22.141.14.22.331.22.53v2.19l2.72-2.72a.747.747 0 0 1 .53-.22h.35a.75.75 0 0 1 0 1.5h-.039l-2.574 2.573A1.457 1.457 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5A1.75 1.75 0 0 1 1.75 1h8.5Zm4 2c.966 0 1.75.784 1.75 1.75v.75c0-.061-.003-.115-.006-.164A.75.75 0 0 1 14.5 5.25v-.5a.25.25 0 0 0-.25-.25h-.5a.747.747 0 0 1-.53-.22.747.747 0 0 1 0-1.06.747.747 0 0 1 .53-.22h.5Z\"></path></svg>",
+		"@octicons,comment,locked",
 		"Octicons"
 	],
 	[
@@ -1431,93 +1436,93 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M11 14h2v-3h3V9h-3V6h-2v3H8v2h3z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,add",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,add",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m17.207 8.207-1.414-1.414L11 11.586 8.707 9.293l-1.414 1.414L11 14.414z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,check",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,check",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M7 7h10v2H7zm0 4h7v2H7z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,detail",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,detail",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path><circle cx=\"15\" cy=\"10\" r=\"2\"></circle><circle cx=\"9\" cy=\"10\" r=\"2\"></circle></svg>",
-		"@boxicons,regular,comment,dots",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,dots",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"m13.771 9.123-1.399-1.398-3.869 3.864v1.398h1.398zM14.098 6l1.398 1.398-1.067 1.067-1.398-1.398z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,edit",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,edit",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M11 6h2v5h-2zm0 6h2v2h-2z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,error",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,error",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M8 9h8v2H8z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,minus",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,minus",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M9.707 13.707 12 11.414l2.293 2.293 1.414-1.414L13.414 10l2.293-2.293-1.414-1.414L12 8.586 9.707 6.293 8.293 7.707 10.586 10l-2.293 2.293z\"></path><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment,x",
-		"Boxicons"
+		"@boxicons-v2,regular,comment,x",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l5.333-4H20c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm0 14H6.667L4 18V4h16v12z\"></path></svg>",
-		"@boxicons,regular,comment",
-		"Boxicons"
+		"@boxicons-v2,regular,comment",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-3 9h-4v4h-2v-4H7V9h4V5h2v4h4v2z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,add",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,add",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-9 11.914-3.707-3.707 1.414-1.414L11 11.086l4.793-4.793 1.414 1.414L11 13.914z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,check",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,check",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 1.999H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2v-12c0-1.103-.897-2-2-2zm-6 11H7v-2h7v2zm3-4H7v-2h10v2z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,detail",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,detail",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zM9 12a2 2 0 1 1 .001-4.001A2 2 0 0 1 9 12zm6 0a2 2 0 1 1 .001-4.001A2 2 0 0 1 15 12z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,dots",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,dots",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zM8.999 14.987H7v-1.999l5.53-5.522 1.998 1.999-5.529 5.522zm6.472-6.464-1.999-1.999 1.524-1.523L16.995 7l-1.524 1.523z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,edit",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,edit",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-7 13h-2v-2h2v2zm0-4h-2V5h2v6z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,error",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,error",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-4 9H8V9h8v2z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,minus",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,minus",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2zm-3.294 11.543-1.414 1.414-3.293-3.292-3.292 3.292-1.414-1.414 3.292-3.292-3.292-3.293 1.414-1.414 3.292 3.292 3.293-3.292 1.414 1.414-3.292 3.293 3.292 3.292z\"></path></svg>",
-		"@boxicons,solid,bxs,comment,x",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment,x",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.103 0-2 .897-2 2v18l4-4h14c1.103 0 2-.897 2-2V4c0-1.103-.897-2-2-2z\"></path></svg>",
-		"@boxicons,solid,bxs,comment",
-		"Boxicons"
+		"@boxicons-v2,solid,bxs,comment",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M496,496H480a273.39,273.39,0,0,1-179.025-66.782l-16.827-14.584C274.814,415.542,265.376,416,256,416c-63.527,0-123.385-20.431-168.548-57.529C41.375,320.623,16,270.025,16,216S41.375,111.377,87.452,73.529C132.615,36.431,192.473,16,256,16S379.385,36.431,424.548,73.529C470.625,111.377,496,161.975,496,216a171.161,171.161,0,0,1-21.077,82.151,201.505,201.505,0,0,1-47.065,57.537,285.22,285.22,0,0,0,63.455,97L496,457.373ZM294.456,381.222l27.477,23.814a241.379,241.379,0,0,0,135,57.86,317.5,317.5,0,0,1-62.617-105.583v0l-4.395-12.463,9.209-7.068C440.963,305.678,464,262.429,464,216c0-92.636-93.309-168-208-168S48,123.364,48,216s93.309,168,208,168a259.114,259.114,0,0,0,31.4-1.913Z\" class=\"ci-primary\"></path></svg>",
@@ -2000,7 +2005,22 @@
 		"Majesticons"
 	],
 	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M22 2H2v14h2V4h16v12h-8v2h-2v2H8v-4H2v2h4v4h4v-2h2v-2h10V2z\" fill=\"currentColor\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M2 2h20v2H2zm0 14h16v2H2zM2 4h2v12H2zm18 0h2v18h-2zm-2 14h2v2h-2z\"></path></svg>",
+		"@pixelarticons,comment,sharp",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M2 2h20v2H2zm0 14h16v2H2zm4-6h6v2H6zm0-4h12v2H6zM2 4h2v12H2zm18 0h2v18h-2zm-2 14h2v2h-2z\"></path></svg>",
+		"@pixelarticons,comment,text,sharp",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M4 2h16v2H4zm0 14h14v2H4zm2-6h6v2H6zm0-4h12v2H6zM2 4h2v12H2zm18 0h2v18h-2zm-2 14h2v2h-2z\"></path></svg>",
+		"@pixelarticons,comment,text",
+		"Pixelarticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M4 2h16v2H4zm0 14h14v2H4zM2 4h2v12H2zm18 0h2v18h-2zm-2 14h2v2h-2z\"></path></svg>",
 		"@pixelarticons,comment",
 		"Pixelarticons"
 	],

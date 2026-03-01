@@ -551,12 +551,72 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 18v-8a1 1 0 0 0-1-1h-6V6l-5 4 5 4v-3h5v7h2z\"></path><path d=\"M9 12.4 6 10l3-2.4V6l-5 4 5 4z\"></path></svg>",
-		"@boxicons,regular,reply,all",
-		"Boxicons"
+		"@boxicons-v2,regular,reply,all",
+		"Boxicons v2"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 11h6v7h2v-8a1 1 0 0 0-1-1h-7V6l-5 4 5 4v-3z\"></path></svg>",
-		"@boxicons,regular,reply",
+		"@boxicons-v2,regular,reply",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m12,3C6.49,3,2,6.59,2,11s4.3,7.85,9.66,8l3.74,2.8c.18.13.39.2.6.2.15,0,.31-.04.45-.11.34-.17.55-.52.55-.89v-3.07c3.1-1.42,5-4.03,5-6.93,0-4.41-4.49-8-10-8Zm3.64,13.34c-.39.15-.64.52-.64.93v1.73l-2.4-1.8c-.17-.13-.38-.2-.6-.2-4.41,0-8-2.69-8-6s3.59-6,8-6,8,2.69,8,6c0,2.26-1.67,4.3-4.36,5.34Z\"></path></svg>",
+		"@boxicons,basic,message,bubble,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m12,2C6.49,2,2,6.49,2,12s4.49,10,10,10h9c.37,0,.71-.21.89-.54.17-.33.15-.73-.06-1.03l-1.75-2.53c1.25-1.71,1.93-3.78,1.93-5.9,0-5.51-4.49-10-10-10Zm6,16.43l1.09,1.57h-7.09c-4.41,0-8-3.59-8-8S7.59,4,12,4s8,3.59,8,8c0,1.91-.69,3.75-1.93,5.21-.3.34-.32.85-.06,1.22Z\"></path></svg>",
+		"@boxicons,basic,message,circle,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m20,2H4c-1.1,0-2,.9-2,2v12c0,1.1.9,2,2,2h6.72l4.76,2.86c.16.09.34.14.51.14s.34-.04.49-.13c.31-.18.51-.51.51-.87v-2h3c1.1,0,2-.9,2-2V4c0-1.1-.9-2-2-2Zm0,14h-4c-.55,0-1,.45-1,1v1.23l-3.49-2.09c-.16-.09-.33-.14-.51-.14h-7V4h16v12Z\"></path></svg>",
+		"@boxicons,basic,message,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m14,8h-1v-4c0-.39-.23-.75-.59-.91-.36-.16-.78-.1-1.07.17L2.34,11.25c-.21.19-.34.46-.34.75s.12.56.34.75l9,8c.29.26.72.33,1.07.17.36-.16.59-.52.59-.91v-4h.64c1.83,0,3.54.82,4.69,2.25l1.9,2.37c.19.24.48.38.78.38.11,0,.22-.02.33-.06.4-.14.67-.52.67-.94v-4c0-4.41-3.59-8-8-8Zm6,9.15l-.12-.15c-1.53-1.91-3.8-3-6.25-3h-2.64v3.77l-6.49-5.77,6.49-5.77v3.77h3c3.31,0,6,2.69,6,6v1.15Z\"></path></svg>",
+		"@boxicons,basic,reply,big",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m9.16,12.25l-2.53-2.25h8.37c2.21,0,4,1.79,4,4v6h2v-6c0-3.31-2.69-6-6-6H6.63l2.53-2.25-1.33-1.49-5.34,4.75,5.34,4.75,1.33-1.49Z\"></path></svg>",
+		"@boxicons,basic,reply,stroke",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m9,10h6c2.21,0,4,1.79,4,4v6h2v-6c0-3.31-2.69-6-6-6h-6v-4l-6,5,6,5v-4Z\"></path></svg>",
+		"@boxicons,basic,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m12,3C6.49,3,2,6.59,2,11s4.3,7.85,9.66,8l3.74,2.8c.18.13.39.2.6.2.15,0,.31-.04.45-.11.34-.17.55-.52.55-.89v-3.07c3.1-1.42,5-4.03,5-6.93,0-4.41-4.49-8-10-8Z\"></path></svg>",
+		"@boxicons,filled,message,bubble,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m12,2C6.49,2,2,6.49,2,12s4.49,10,10,10h9c.37,0,.71-.21.89-.54.17-.33.15-.73-.06-1.03l-1.75-2.53c1.25-1.71,1.93-3.77,1.93-5.9,0-5.51-4.49-10-10-10Z\"></path></svg>",
+		"@boxicons,filled,message,circle,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m4,2h16c1.1,0,2,.9,2,2v12c0,1.1-.9,2-2,2h-3s0,2,0,2c0,.36-.19.69-.51.87-.15.09-.32.13-.49.13s-.36-.05-.51-.14l-4.76-2.86H4c-1.1,0-2-.9-2-2V4c0-1.1.9-2,2-2Z\"></path></svg>",
+		"@boxicons,filled,message,reply",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m10.16,4.74l-7.74,6.88c-.23.2-.23.55,0,.75l7.74,6.88c.32.29.84.06.84-.38v-3.88h3.64c2.13,0,4.14.97,5.47,2.63l1,1.25c.3.37.9.16.9-.31v-1.57c0-4.42-3.58-8-8-8h-3v-3.88c0-.43-.51-.66-.84-.38Z\"></path></svg>",
+		"@boxicons,filled,reply,big",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m9.16,12.25l-2.53-2.25h8.37c2.21,0,4,1.79,4,4v6h2v-6c0-3.31-2.69-6-6-6H6.63l2.53-2.25-1.33-1.49-5.34,4.75,5.34,4.75,1.33-1.49Z\"></path></svg>",
+		"@boxicons,filled,reply,stroke",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"m9,10h6c2.21,0,4,1.79,4,4v6h2v-6c0-3.31-2.69-6-6-6h-6v-4l-6,5,6,5v-4Z\"></path></svg>",
+		"@boxicons,filled,reply",
 		"Boxicons"
 	],
 	[
@@ -628,21 +688,6 @@
 		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Email Replay Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Email Replay Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"M 32.8125 26.875 C 30.68088 26.86464 29.002541 26.987027 27.0625 28.375 C 25.49321 29.497729 25.030501 33.332608 27.5625 35.3125 L 59.125 60 C 60.40714 61.002563 62.08076 61.5 63.75 61.5 C 65.41924 61.5 67.09286 61.002563 68.375 60 L 99.9375 35.3125 C 102.46949 33.332608 101.97554 29.497729 100.40625 28.375 C 98.466216 26.987027 96.81823 26.8125 94.6875 26.875 C 73.06292 27.509306 55.426891 26.984888 32.8125 26.875 z M 110.65625 39.6875 L 70.125 71.4375 C 66.56745 74.219313 60.8388 74.219313 57.28125 71.4375 L 16.75 39.78125 C 12.95131 40.47833 10.125 43.806309 10.125 47.8125 L 10.125 93 C 10.125 97.51604 13.733961 101.15625 18.25 101.15625 L 48.625 101.15625 L 48.625 79.25 A 2.5242318 2.5242318 0 0 1 51.15625 76.71875 L 89.34375 76.71875 L 89.34375 67 A 2.5242318 2.5242318 0 0 1 91.84375 64.46875 A 2.5242318 2.5242318 0 0 1 93.46875 65.03125 L 117.875 85 L 117.875 47.8125 C 117.875 43.610527 114.73189 40.145615 110.65625 39.6875 z M 91.875 67 L 91.875 79.25 L 51.15625 79.25 L 51.15625 105.5625 L 91.875 105.5625 L 91.875 117.5625 L 122.78125 92.28125 L 91.875 67 z \" style=\"fill:#aaaaaa\"></path></svg>",
 		"@clarity,actions,mail,reply,sender",
 		"Clarity"
-	],
-	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M4 2h18v20h-2V4H4v12h14v2h2v2h-2v-2H2V2h2z\" fill=\"currentColor\"></path></svg>",
-		"@pixelarticons,message,reply",
-		"Pixelarticons"
-	],
-	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M13 19h2v-4h7V9h-7V5h-2v2h-2v2H9v2H7v2h2v2h2v2h2v2zM8 7H6v2H4v2H2v2h2v2h2v2h2v2h2v-2H8v-2H6v-2H4v-2h2V9h2V7zm0 0h2V5H8v2z\" fill=\"currentColor\"></path></svg>",
-		"@pixelarticons,reply,all",
-		"Pixelarticons"
-	],
-	[
-		"<svg fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 19h-2v-2H8v-2H6v-2H4v-2h2V9h2V7h2V5h2v4h8v6h-8v4z\" fill=\"currentColor\"></path></svg>",
-		"@pixelarticons,reply",
-		"Pixelarticons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"m14.25 13.25c-.5-6-5.5-7.5-8-7v-3.5l-4.5 5.25 4.5 5.25v-3.5c2.50001-0.5 6.5 0.5 8 3.5z\"></path></svg>",

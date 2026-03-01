@@ -95,12 +95,12 @@
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M419.82-160q-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-230h-40q-78.85 0-134.43-55.61Q160-531.21 160-610.11q0-78.89 55.57-134.39Q271.15-800 350-800h340q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5h-80v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-550H450v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M398.5-168.63Q390-177.25 390-190v-230h-40q-78.85 0-134.43-55.61Q160-531.21 160-610.11q0-78.89 55.57-134.39Q271.15-800 350-800h340q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5h-80v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-550H450v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63Z\"></path></svg>",
 		"@material-symbols,rounded,format,paragraph,filled",
 		"Material Symbols"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M419.82-160q-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-230h-40q-78.85 0-134.43-55.61Q160-531.21 160-610.11q0-78.89 55.57-134.39Q271.15-800 350-800h340q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5h-80v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-550H450v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 -960 960 960\"><path d=\"M398.5-168.63Q390-177.25 390-190v-230h-40q-78.85 0-134.43-55.61Q160-531.21 160-610.11q0-78.89 55.57-134.39Q271.15-800 350-800h340q12.75 0 21.38 8.68 8.62 8.67 8.62 21.5 0 12.82-8.62 21.32-8.63 8.5-21.38 8.5h-80v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63-8.5-8.62-8.5-21.37v-550H450v550q0 12.75-8.68 21.37-8.67 8.63-21.5 8.63-12.82 0-21.32-8.63Z\"></path></svg>",
 		"@material-symbols,rounded,format,paragraph",
 		"Material Symbols"
 	],
@@ -441,7 +441,27 @@
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M9 16h2v4h2V6h2v14h2V6h3V4H9c-3.309 0-6 2.691-6 6s2.691 6 6 6zM9 6h2v8H9c-2.206 0-4-1.794-4-4s1.794-4 4-4z\"></path></svg>",
-		"@boxicons,regular,paragraph",
+		"@boxicons-v2,regular,paragraph",
+		"Boxicons v2"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"M2 8H15V10H2z\"></path><path d=\"M2 4H15V6H2z\"></path><path d=\"M2 12H15V14H2z\"></path><path d=\"M22 22 22 14 17 18 22 22z\"></path><path d=\"M2 16H15V20H2z\"></path></svg>",
+		"@boxicons,basic,paragraph,spacing",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M4 10c0 3.31 2.69 6 6 6h2v4h2V6h2v14h2V6h3V4H10c-3.31 0-6 2.69-6 6m8 4h-2c-2.21 0-4-1.79-4-4s1.79-4 4-4h2z\"></path></svg>",
+		"@boxicons,basic,paragraph",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"24\" height=\"24\"><path d=\"M2 8H15V10H2z\"></path><path d=\"M2 4H15V6H2z\"></path><path d=\"M2 12H15V14H2z\"></path><path d=\"M22 22 22 14 17 18 22 22z\"></path><path d=\"M2 16H15V20H2z\"></path></svg>",
+		"@boxicons,filled,paragraph,spacing",
+		"Boxicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M4 10c0 3.31 2.69 6 6 6h2v4h2V6h2v14h2V6h3V4H10c-3.31 0-6 2.69-6 6m8 4h-2c-2.21 0-4-1.79-4-4s1.79-4 4-4h2z\"></path></svg>",
+		"@boxicons,filled,paragraph",
 		"Boxicons"
 	],
 	[
