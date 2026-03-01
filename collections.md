@@ -157,8 +157,6 @@
   [MIT](https://github.com/lipis/flag-icons/blob/main/LICENSE)
 - [FlatKit](https://github.com/madebybowtie/FlagKit) licensed under the
   [MIT](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE)
-- [Boxicons](https://github.com/atisawd/boxicons) licensed under the
-  [MIT](https://boxicons.com/usage#license)
 - [Typicons](https://github.com/stephenhutchings/typicons.font) licensed under
   the [CC-BY-SA-4.0](https://github.com/stephenhutchings/typicons.font)
 - [CoreUI Icons Brand Icons](https://github.com/coreui/coreui-icons) licensed
@@ -433,3 +431,7 @@
 - [Siemens Industrial Experience Icons](https://github.com/siemens/ix-icons)
   licensed under the
   [MIT](https://github.com/siemens/ix-icons/blob/main/LICENSE.md)
+- [Boxicons v2](https://github.com/atisawd/boxicons) licensed under the
+  [MIT](https://boxicons.com/usage#license)
+- [Boxicons](https://github.com/box-icons/boxicons-core) licensed under the
+  [MIT](https://github.com/box-icons/boxicons-core/blob/main/LICENSE)
