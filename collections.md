@@ -435,3 +435,9 @@
   [MIT](https://boxicons.com/usage#license)
 - [Boxicons](https://github.com/box-icons/boxicons-core) licensed under the
   [MIT](https://github.com/box-icons/boxicons-core/blob/main/LICENSE)
+- [Glyphs Core Icons](https://github.com/gorango/glyphs) licensed under the
+  [MIT](https://github.com/gorango/glyphs/blob/main/license)
+- [Glyphs Brands Icons](https://github.com/gorango/glyphs) licensed under the
+  [MIT](https://github.com/gorango/glyphs/blob/main/license)
+- [Glyphs Flags Icons](https://github.com/gorango/glyphs) licensed under the
+  [MIT](https://github.com/gorango/glyphs/blob/main/license)
