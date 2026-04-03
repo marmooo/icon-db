@@ -105,12 +105,12 @@
 		"Emoji Two"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><g id=\"M_Button\"><circle cx=\"36\" cy=\"35.9583\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"45.429 46.458 45.429 24.458 36 43.315 26.571 24.458 26.571 46.458\"></polyline></g></g><g id=\"line\"></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\" transform=\"matrix(1.09,0,0,1.09,-3.216,-3.216)\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\"><path transform=\"matrix(0 -2.795 -2.795 0 45.66 27.65)\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"m-6.5 0.5h7l-6 3 6 3h-7\"></path><circle cx=\"-3.505\" cy=\"2.983\" r=\"9.189\" transform=\"matrix(2.795 0 0 2.795 45.78 27.64)\" stroke-width=\"0.6564\"></circle></g></svg>",
 		"@openmoji,circled,m",
 		"OpenMoji"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line-supplement\"><g id=\"M_Button\"><circle cx=\"36\" cy=\"35.9583\" r=\"28\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><polyline fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"45.429 46.458 45.429 24.458 36 43.315 26.571 24.458 26.571 46.458\"></polyline></g></g><g id=\"color\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"#1e50a0\"></circle></g><g id=\"line\"></g><g id=\"color-foreground\"><g id=\"M_Button-2\"><circle cx=\"36\" cy=\"36\" r=\"28\" fill=\"none\" stroke=\"#fff\" stroke-linejoin=\"round\" stroke-width=\"2\"></circle><polyline fill=\"none\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" points=\"45.429 46.5 45.429 24.5 36 43.357 26.571 24.5 26.571 46.5\"></polyline></g></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\" transform=\"matrix(.3013 0 0 .3013 -523.2 -12.34)\"><circle cx=\"-3.505\" cy=\"2.983\" r=\"9.189\" transform=\"matrix(10.11 0 0 10.11 1891 130.3)\" fill=\"#92d3f5\" stroke-width=\"0.3282\"></circle></g><g id=\"line\" transform=\"matrix(1.09,0,0,1.09,-3.216,-3.216)\" fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\"><path transform=\"matrix(0 -2.795 -2.795 0 45.66 27.65)\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"m-6.5 0.5h7l-6 3 6 3h-7\"></path><circle cx=\"-3.505\" cy=\"2.983\" r=\"9.189\" transform=\"matrix(2.795 0 0 2.795 45.78 27.64)\" stroke-width=\"0.6564\"></circle></g></svg>",
 		"@openmoji,circled,m,color",
 		"OpenMoji"
 	],
@@ -523,6 +523,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.062 2c.454 0 .876.234 1.115.62L8 7.162l2.823-4.542a1.312 1.312 0 0 1 2.427.692v9.938a.75.75 0 0 1-1.5 0V3.97L8.637 8.98a.75.75 0 0 1-1.274 0L4.25 3.97v9.28a.75.75 0 0 1-1.5 0V3.312C2.75 2.588 3.338 2 4.062 2\" clip-rule=\"evenodd\"></path></svg>",
 		"@gravity-ui-icons,letter,m",
 		"Gravity UI Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 20V4.21293C5 4.14699 5.08476 4.12009 5.12279 4.17395L11.6102 12.0281C11.8065 12.2658 12.1751 12.2519 12.3529 12L18.8772 4.17395C18.9152 4.12008 19 4.14699 19 4.21292V20\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@scarlab-icons,char,m",
+		"Scarlab Icons"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"36\" viewBox=\"0 0 36 36\" width=\"36\"><path d=\"M33 4H3a1 1 0 0 0-1 1v26a1 1 0 0 0 1 1h30a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1Zm-1 26H4V10h28Z\"></path><path d=\"M6 12h2v2H6zM6 22h2v2H6zM10 12h4v2h-4zM16 12h4v2h-4zM22 12h4v2h-4zM10 26h4v2h-4zM16 26h4v2h-4zM22 26h4v2h-4zM28 12h2v2h-2zM28 16h2v2h-2zM6 16h2v4H6zM28 20h2v4h-2zM6 26h2v2H6zM28 26h2v2h-2z\"></path></svg>",

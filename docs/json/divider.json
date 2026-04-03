@@ -155,12 +155,12 @@
 		"Arcticons"
 	],
 	[
-		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 7.5C2 7.22386 2.22386 7 2.5 7H12.5C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H2.5C2.22386 8 2 7.77614 2 7.5Z\" fill=\"currentColor\"></path></svg>",
+		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12.5 7C12.7761 7 13 7.22386 13 7.5C13 7.77614 12.7761 8 12.5 8H2.5C2.22386 8 2 7.77614 2 7.5C2 7.22386 2.22386 7 2.5 7H12.5Z\" fill=\"currentColor\"></path></svg>",
 		"@radix-icons,divider,horizontal",
 		"Radix Icons"
 	],
 	[
-		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.5 2C7.77614 2 8 2.22386 8 2.5L8 12.5C8 12.7761 7.77614 13 7.5 13C7.22386 13 7 12.7761 7 12.5L7 2.5C7 2.22386 7.22386 2 7.5 2Z\" fill=\"currentColor\"></path></svg>",
+		"<svg width=\"15\" height=\"15\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.5 2C7.77614 2 8 2.22386 8 2.5V12.5C8 12.7761 7.77614 13 7.5 13C7.22386 13 7 12.7761 7 12.5V2.5C7 2.22386 7.22386 2 7.5 2Z\" fill=\"currentColor\"></path></svg>",
 		"@radix-icons,divider,vertical",
 		"Radix Icons"
 	],
@@ -182,6 +182,11 @@
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"component-divider-vertical\"><g id=\"fill1\"><path d=\"M18 3H6V8H18V3Z\" fill=\"white\"></path><path d=\"M18 16H6V21H18V16Z\" fill=\"white\"></path></g><g id=\"stroke1\"><path d=\"M18 3H6V8H18V3Z\" stroke=\"black\" stroke-width=\"2\"></path><path d=\"M18 16H6V21H18V16Z\" stroke=\"black\" stroke-width=\"2\"></path></g><path id=\"stroke2\" d=\"M3 12L21 12\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
 		"@tdesign-icons,component,divider,vertical",
+		"TDesign Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"divider-1\"><path id=\"stroke1\" d=\"M3 12H21\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path><path id=\"stroke2\" d=\"M3 19H6M10.5 19H13.4966M18 19H21M3 5H6M10.5 5H13.4966M18 5H21\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"square\"></path></g></svg>",
+		"@tdesign-icons,divider",
 		"TDesign Icons"
 	],
 	[

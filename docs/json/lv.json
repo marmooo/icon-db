@@ -15,7 +15,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"82\" r=\"16\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><circle cx=\"96\" cy=\"82\" r=\"60\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"M36 82c0 36 32.5 60.5 60 88 27.5-27.5 60-52 60-88\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"82\" r=\"16\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><circle cx=\"96\" cy=\"82\" r=\"60\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M36 82c0 36 32.5 60.5 60 88 27.5-27.5 60-52 60-88\"></path></svg>",
 		"@lawnicons,lsm,lv",
 		"Lawnicons"
 	],
@@ -90,7 +90,7 @@
 		"flag-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-lv\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#fff\" d=\"M0 0h640v480H0z\"></path><path fill=\"#981e32\" d=\"M0 0h640v192H0zm0 288h640v192H0z\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"flag-icons-lv\" viewBox=\"0 0 640 480\"><g fill-rule=\"evenodd\"><path fill=\"#981e32\" d=\"M0 0h640v192H0z\"></path><path fill=\"#fff\" d=\"M0 192h640v96H0z\"></path><path fill=\"#981e32\" d=\"M0 288h640v192H0z\"></path></g></svg>",
 		"@flag-icons,lv,flag",
 		"flag-icons"
 	],

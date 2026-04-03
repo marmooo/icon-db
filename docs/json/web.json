@@ -15,7 +15,7 @@
 		"SVG Logos"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><path d=\"M25 53v108a6 6 0 0 0 6 6h108\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M53 31a6 6 0 0 1 6-6h102a6 6 0 0 1 6 6v102a6 6 0 0 1-6 6H59a6 6 0 0 1-6-6V31Zm24 21h66M77 82h66m-66 30h36\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M25 53v108a6 6 0 0 0 6 6h108\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M53 31a6 6 0 0 1 6-6h102a6 6 0 0 1 6 6v102a6 6 0 0 1-6 6H59a6 6 0 0 1-6-6zm24 21h66M77 82h66m-66 30h36\"></path></svg>",
 		"@lawnicons,calibre,web,companion",
 		"Lawnicons"
 	],
@@ -870,6 +870,11 @@
 		"Arcticons"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"c\" cx=\"24\" cy=\"24\" r=\"21.5\"></circle><path class=\"c\" d=\"M2.5722,25.6452c.4895-.0544,1.0061-.068,1.5092-.068,10.9994,0,19.9186,8.9192,19.9186,19.9186\"></path><line class=\"c\" x1=\"24\" y1=\"2.5\" x2=\"24\" y2=\"13.9362\"></line><path class=\"c\" d=\"M10.4474,26.6166c-.6028-12.0609,5.2297-18.3985,13.5526-22.363\"></path><path class=\"c\" d=\"M16.8667,30.2233c.2399-7.3669.8117-11.846,7.1333-16.2871\"></path><path class=\"c\" d=\"M45.4278,25.6452c-.4895-.0544-1.0061-.068-1.5092-.068-10.9994,0-19.9186,8.9192-19.9186,19.9186\"></path><path class=\"c\" d=\"M37.5526,26.6166c.6028-12.0609-5.2297-18.3985-13.5526-22.363\"></path><path class=\"c\" d=\"M31.1333,30.2233c-.2399-7.3669-.8117-11.846-7.1333-16.2871\"></path></svg>",
+		"@arcticons,black,kagi,small,web",
+		"Arcticons"
+	],
+	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.b{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"b\" d=\"M19.748,5.3811l14.078,21.029h-9.9l10.826,16.209,10.748-18.617-10.752-18.619-15-.002Z\"></path><path class=\"b\" d=\"M13.248,5.381L2.5,23.998l10.752,18.619,15,.002-14.078-21.029h9.9L13.248,5.381Z\"></path></svg>",
 		"@arcticons,black,logi,web,connect",
 		"Arcticons"
@@ -912,6 +917,11 @@
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"b\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.e{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path class=\"e\" d=\"M28.324,5.5c5.2051,2.2587,6.9777,12.41,4.0646,23.282-1.4546,5.4283-3.9141,10.336-6.8518,13.708\"></path><path class=\"e\" d=\"M11.952,42.49c-2.1796-4.5794-2.3055-11.903-.331-19.272,2.3759-8.8673,7.3047-15.958,12.27-17.718\"></path><path class=\"e\" d=\"M42.506,32.319c-2.2587,5.2051-12.41,6.9777-23.283,4.0646-5.4283-1.4546-10.357-3.9141-13.729-6.8518\"></path><path class=\"e\" d=\"M5.505,15.947c4.5794-2.1796,11.913-2.3055,19.282-.331,8.7933,2.356,15.889,7.2257,17.719,12.157\"></path><path class=\"e\" d=\"M5.4943,26.384c2.526-3.5505,6.4849-7.0085,11.135-9.6935,10.284-5.9373,21.027-6.5821,23.995-1.4402,2.9685,5.1417-2.9615,14.123-13.245,20.06-8.3575,4.8252-17.291,6.2749-21.859,3.5455\"></path><path class=\"e\" d=\"M22.389,42.49c-3.5505-2.526-7.0085-6.4646-9.6935-11.115-5.9373-10.284-6.5821-21.027-1.4402-23.995,5.1417-2.9685,14.123,2.9615,20.06,13.245,4.8295,8.3648,6.2772,17.3,3.5393,21.865\"></path><rect class=\"e\" x=\"5.505\" y=\"5.5\" width=\"37\" height=\"37\" rx=\"4\" ry=\"4\"></rect><path class=\"e\" d=\"M26.23,23.9c0-2.2869-1.8915-4.1406-4.225-4.1406h0c-2.3335,0-4.225,1.8538-4.225,4.1406v4.2188c0,2.2869,1.8915,4.1406,4.225,4.1406h0c2.3335,0,4.225-1.8538,4.225-4.1406h-4.225\"></path></svg>",
 		"@arcticons,white,g,web,browser",
+		"Arcticons"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><circle class=\"c\" cx=\"24\" cy=\"24\" r=\"21.5\"></circle><path class=\"c\" d=\"M2.5722,25.6452c.4895-.0544,1.0061-.068,1.5092-.068,10.9994,0,19.9186,8.9192,19.9186,19.9186\"></path><line class=\"c\" x1=\"24\" y1=\"2.5\" x2=\"24\" y2=\"13.9362\"></line><path class=\"c\" d=\"M10.4474,26.6166c-.6028-12.0609,5.2297-18.3985,13.5526-22.363\"></path><path class=\"c\" d=\"M16.8667,30.2233c.2399-7.3669.8117-11.846,7.1333-16.2871\"></path><path class=\"c\" d=\"M45.4278,25.6452c-.4895-.0544-1.0061-.068-1.5092-.068-10.9994,0-19.9186,8.9192-19.9186,19.9186\"></path><path class=\"c\" d=\"M37.5526,26.6166c.6028-12.0609-5.2297-18.3985-13.5526-22.363\"></path><path class=\"c\" d=\"M31.1333,30.2233c-.2399-7.3669-.8117-11.846-7.1333-16.2871\"></path></svg>",
+		"@arcticons,white,kagi,small,web",
 		"Arcticons"
 	],
 	[
@@ -1500,17 +1510,17 @@
 		"Audi Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.1\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 17C15.866 17 19 13.866 19 10C19 6.13401 15.866 3 12 3C8.13401 3 5 6.13401 5 10C5 13.866 8.13401 17 12 17ZM12 6.75C10.2051 6.75 8.75 8.20507 8.75 10C8.75 11.7949 10.2051 13.25 12 13.25C13.7949 13.25 15.25 11.7949 15.25 10C15.25 8.20507 13.7949 6.75 12 6.75Z\" fill=\"#323232\"></path><path d=\"M19 10C19 13.866 15.866 17 12 17C8.13401 17 5 13.866 5 10C5 6.13401 8.13401 3 12 3C15.866 3 19 6.13401 19 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 17L16.5 19V19C17.118 19.824 16.5301 21 15.5 21H12H8.5C7.46994 21 6.88197 19.824 7.5 19V19L9 17\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path opacity=\"0.1\" fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 17C15.866 17 19 13.866 19 10C19 6.13401 15.866 3 12 3C8.13401 3 5 6.13401 5 10C5 13.866 8.13401 17 12 17ZM12 6.75C10.2051 6.75 8.75 8.20507 8.75 10C8.75 11.7949 10.2051 13.25 12 13.25C13.7949 13.25 15.25 11.7949 15.25 10C15.25 8.20507 13.7949 6.75 12 6.75Z\" fill=\"#323232\"></path><path d=\"M19 10C19 13.866 15.866 17 12 17C8.13401 17 5 13.866 5 10C5 6.13401 8.13401 3 12 3C15.866 3 19 6.13401 19 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 17L16.5 19C17.118 19.824 16.5301 21 15.5 21H12H8.5C7.46994 21 6.88197 19.824 7.5 19L9 17\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@scarlab-icons,ghost,camera,web",
 		"Scarlab Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 10C19 13.866 15.866 17 12 17C8.13401 17 5 13.866 5 10C5 6.13401 8.13401 3 12 3C15.866 3 19 6.13401 19 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10Z\" stroke=\"#323232\" stroke-width=\"2\"></path><path d=\"M15 17L16.5 19V19C17.118 19.824 16.5301 21 15.5 21H12H8.5C7.46994 21 6.88197 19.824 7.5 19V19L9 17\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19 10C19 13.866 15.866 17 12 17C8.13401 17 5 13.866 5 10C5 6.13401 8.13401 3 12 3C15.866 3 19 6.13401 19 10Z\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10Z\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\"></path><path d=\"M15 17L16.5 19C17.118 19.824 16.5301 21 15.5 21H12H8.5C7.46994 21 6.88197 19.824 7.5 19L9 17\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
 		"@scarlab-icons,outline,camera,web",
 		"Scarlab Icons"
 	],
 	[
-		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 10C10 8.89543 10.8954 8 12 8C13.1046 8 14 8.89543 14 10C14 11.1046 13.1046 12 12 12C10.8954 12 10 11.1046 10 10Z\" fill=\"#323232\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C7.58172 2 4 5.58172 4 10C4 14.4183 7.58172 18 12 18C16.4183 18 20 14.4183 20 10C20 5.58172 16.4183 2 12 2ZM12 6C9.79086 6 8 7.79086 8 10C8 12.2091 9.79086 14 12 14C14.2091 14 16 12.2091 16 10C16 7.79086 14.2091 6 12 6Z\" fill=\"#323232\"></path><path d=\"M7.26079 17.6525L6.70018 18.4C5.58772 19.8833 6.64608 22 8.50018 22H15.5002C17.3543 22 18.4126 19.8833 17.3002 18.4L16.7395 17.6525C15.3631 18.5067 13.7392 19 12.0001 19C10.2611 19 8.63718 18.5067 7.26079 17.6525Z\" fill=\"#323232\"></path></svg>",
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C16.4183 2 20 5.58172 20 10C20 12.8637 18.495 15.3754 16.2331 16.7887C16.2008 16.8089 16.1684 16.8289 16.1357 16.8486L17.2998 18.4004C18.412 19.8836 17.354 21.9999 15.5 22H8.5C6.64596 22 5.58793 19.8837 6.7002 18.4004L7.86328 16.8486C7.83068 16.8289 7.79822 16.8089 7.76592 16.7887C5.50444 15.3753 4 12.8634 4 10C4 5.58172 7.58172 2 12 2ZM14.2568 17.6748C13.5409 17.885 12.7839 18 12 18C11.2157 18 10.4584 17.8852 9.74219 17.6748L9.65341 17.7933L8.2998 19.5996C8.1762 19.7644 8.29399 20 8.5 20H15.5C15.7059 19.9999 15.8237 19.7644 15.7002 19.5996L14.3457 17.7933L14.2568 17.6748ZM12 6C9.79086 6 8 7.79086 8 10C8 12.2091 9.79086 14 12 14C14.2091 14 16 12.2091 16 10C16 7.79086 14.2091 6 12 6Z\" fill=\"#323232\"></path><path d=\"M12 8C13.1046 8 14 8.89543 14 10C14 11.1046 13.1046 12 12 12C10.8954 12 10 11.1046 10 10C10 8.89543 10.8954 8 12 8Z\" fill=\"#323232\"></path></svg>",
 		"@scarlab-icons,solid,camera,web",
 		"Scarlab Icons"
 	],

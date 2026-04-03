@@ -30,7 +30,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><circle cx=\"46\" cy=\"146\" r=\"24\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></circle><path d=\"m32 22 9 41 109 105 20-18v-41\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"m170 109-20 18L32 22m137 27-56.714 44.44M164 22 93.81 77M124 22 75.08 60.333M84 22 56.35 43.667M169 79l-38.787 30.393\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"46\" cy=\"146\" r=\"24\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m32 22 9 41 109 105 20-18v-41\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m170 109-20 18L32 22m137 27-56.714 44.44M164 22 93.81 77M124 22 75.08 60.333M84 22 56.35 43.667M169 79l-38.787 30.393\"></path></svg>",
 		"@lawnicons,color,hole,3d",
 		"Lawnicons"
 	],
@@ -267,6 +267,16 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M6 17.6l-2 -1.1v-2.5\"></path><path d=\"M4 10v-2.5l2 -1.1\"></path><path d=\"M10 4.1l2 -1.1l2 1.1\"></path><path d=\"M18 6.4l2 1.1v2.5\"></path><path d=\"M20 14v2.5l-2 1.12\"></path><path d=\"M14 19.9l-2 1.1l-2 -1.1\"></path><path d=\"M12 12l2 -1.1\"></path><path d=\"M18 8.6l2 -1.1\"></path><path d=\"M12 12l0 2.5\"></path><path d=\"M12 18.5l0 2.5\"></path><path d=\"M12 12l-2 -1.12\"></path><path d=\"M6 8.6l-2 -1.1\"></path></svg>",
 		"@tabler-icons,outline,cube,3d,sphere",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 8a2 2 0 0 1 2 -2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2a2 2 0 0 1 -2 -2\"></path><path d=\"M8 6a3 3 0 0 1 3 -3h4a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3h-4a3 3 0 0 1 -3 -3v-12\"></path><path d=\"M13 14v2\"></path></svg>",
+		"@tabler-icons,outline,device,3d,camera",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18.005 14.64a3.98 3.98 0 0 0 .995 -2.64\"></path><path d=\"M12 4v16\"></path><path d=\"M15 5v14a7 7 0 0 0 0 -14\"></path><path d=\"M9 5v14a7 7 0 0 1 0 -14\"></path></svg>",
+		"@tabler-icons,outline,device,3d,lens",
 		"Tabler Icons"
 	],
 	[
@@ -720,7 +730,7 @@
 		"Vaadin Icons"
 	],
 	[
-		"<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18s-.41-.06-.57-.18l-7.9-4.44A.991.991 0 0 1 3 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18s.41.06.57.18l7.9 4.44c.32.17.53.5.53.88v9M12 4.15 6.04 7.5 12 10.85l5.96-3.35L12 4.15M5 15.91l6 3.38v-6.71L5 9.21v6.7m14 0v-6.7l-6 3.37v6.71z\" style=\"fill:#29b6f6\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"#29b6f6\" d=\"M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18s-.41-.06-.57-.18l-7.9-4.44A.99.99 0 0 1 3 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18s.41.06.57.18l7.9 4.44c.32.17.53.5.53.88zM12 4.15 6.04 7.5 12 10.85l5.96-3.35zM5 15.91l6 3.38v-6.71L5 9.21zm14 0v-6.7l-6 3.37v6.71z\"></path></svg>",
 		"@material-icon-theme,3d",
 		"Material Icon Theme"
 	],

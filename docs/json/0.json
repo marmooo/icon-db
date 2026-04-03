@@ -60,12 +60,12 @@
 		"Emoji Two"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\"><rect x=\"12.125\" y=\"11.916\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M35.8749,44.7791h0A4.7593,4.7593,0,0,1,31.1156,40.02V32.1464a4.76,4.76,0,0,1,4.7593-4.7595h0a4.76,4.76,0,0,1,4.76,4.7595V40.02A4.7593,4.7593,0,0,1,35.8749,44.7791Z\"></path></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"line\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-miterlimit=\"10\" stroke-width=\"4.781\" d=\"m35.88 44.45c-2.529 0-4.58-2.048-4.58-4.58v-7.572c0-2.529 2.051-4.58 4.58-4.58s4.58 2.051 4.58 4.58v7.572c0 2.531-2.051 4.58-4.58 4.58z\" clip-rule=\"evenodd\"></path><rect x=\"12\" y=\"12\" width=\"48\" height=\"48\" stroke-width=\"2\"></rect></g></svg>",
 		"@openmoji,keycap,0",
 		"OpenMoji"
 	],
 	[
-		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><rect x=\"11.875\" y=\"12.166\" width=\"48\" height=\"47.834\" fill=\"#d0cfce\"></rect></g><g id=\"line\"><rect x=\"12.125\" y=\"11.916\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></rect><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M35.8749,44.7791h0A4.7593,4.7593,0,0,1,31.1156,40.02V32.1464a4.76,4.76,0,0,1,4.7593-4.7595h0a4.76,4.76,0,0,1,4.76,4.7595V40.02A4.7593,4.7593,0,0,1,35.8749,44.7791Z\"></path></g></svg>",
+		"<svg id=\"emoji\" viewBox=\"0 0 72 72\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"color\"><rect x=\"12\" y=\"12\" width=\"48\" height=\"47.83\" fill=\"#92d3f5\"></rect></g><g id=\"line\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke-miterlimit=\"10\" stroke-width=\"4.781\" d=\"m35.88 44.45c-2.529 0-4.58-2.048-4.58-4.58v-7.572c0-2.529 2.051-4.58 4.58-4.58s4.58 2.051 4.58 4.58v7.572c0 2.531-2.051 4.58-4.58 4.58z\" clip-rule=\"evenodd\"></path><rect x=\"12\" y=\"12\" width=\"48\" height=\"48\" stroke-width=\"2\"></rect></g></svg>",
 		"@openmoji,keycap,0,color",
 		"OpenMoji"
 	],
@@ -438,6 +438,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"56\" height=\"56\" viewBox=\"0 0 56 56\"><path d=\"M 9.4633 42.0000 L 40.8481 42.0000 C 43.8786 42.0000 46.4304 41.7165 48.2379 39.9089 C 50.0457 38.1013 50.2935 35.5848 50.2935 32.5545 L 50.2935 23.4633 C 50.2935 20.4329 50.0457 17.8987 48.2379 16.1089 C 46.4127 14.3013 43.8786 14.0000 40.8481 14.0000 L 9.4101 14.0000 C 6.4329 14.0000 3.8810 14.3013 2.0734 16.1089 C .2658 17.9164 0 20.4329 0 23.4101 L 0 32.5545 C 0 35.5848 .2658 38.1190 2.0734 39.9089 C 3.8810 41.7165 6.4329 42.0000 9.4633 42.0000 Z M 8.9671 39.1468 C 7.1418 39.1468 5.2279 38.8987 4.1646 37.8355 C 3.0835 36.7544 2.8532 34.8759 2.8532 33.0506 L 2.8532 23.0202 C 2.8532 21.1595 3.0835 19.2456 4.1468 18.1823 C 5.2279 17.1013 7.1595 16.8532 9.0203 16.8532 L 41.3442 16.8532 C 43.1520 16.8532 45.0836 17.1190 46.1470 18.1823 C 47.2278 19.2633 47.4405 21.1418 47.4405 22.9671 L 47.4405 33.0506 C 47.4405 34.8759 47.2100 36.7544 46.1470 37.8355 C 45.0836 38.9165 43.1520 39.1468 41.3442 39.1468 Z M 52.7216 32.4835 C 54.1214 32.3949 56 30.6051 56 27.8937 C 56 25.2000 54.1214 23.4101 52.7216 23.3215 Z\"></path></svg>",
 		"@framework7-icons,battery,0",
 		"Framework7 Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5 18L5 6C5 4.89543 5.89543 4 7 4L17 4C18.1046 4 19 4.89543 19 6L19 18C19 19.1046 18.1046 20 17 20L7 20C5.89543 20 5 19.1046 5 18Z\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M5.70646 19.2607L18.3027 4.72657\" stroke=\"#323232\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@scarlab-icons,int,0",
+		"Scarlab Icons"
 	],
 	[
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg width=\"512px\" height=\"512px\" viewBox=\"0 0 512 512\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><g id=\"Page-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"drop\" fill=\"#000000\" transform=\"translate(42.666667, 85.333333)\"><path d=\"M426.666667,1.42108547e-14 L426.666667,341.333333 L3.55271368e-14,341.333333 L426.666667,1.42108547e-14 Z M384,88.7466667 L121.6,298.666667 L384,298.666667 L384,88.7466667 Z\" id=\"Path\"></path></g></g></svg>",

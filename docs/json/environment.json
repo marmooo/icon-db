@@ -95,6 +95,16 @@
 		"Codicons"
 	],
 	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"Icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" version=\"1.1\" viewBox=\"0 0 32 32\"><defs><style> .st0 { fill: none; }</style></defs><path d=\"M4.0001,14.0001v4h-2v-4s2,0,2,0ZM30.0001,14.0001v4h-2v-4s2,0,2,0ZM4.0001,20.0001v4h-2v-4h2ZM6.0001,28.0001v2h-2c-1.1001,0-2-.9-2-2v-2h2v2h2ZM12.0001,28.0001v2h-4v-2h4ZM28,2H4c-1.1001,0-2,.9-2,2v8h2v-2h24v2h2V4c0-1.1-.8999-2-2-2ZM25.5802,22.4099l1.42-1.41,4,4-4,4-1.41-1.42,2.58-2.58-2.59-2.59ZM19.4202,27.5899l-1.42,1.41-4-4,4-4,1.41,1.42-2.58,2.58,2.59,2.59ZM24.9152,20.5769l-1.915-.577-2.915,9.423,1.915.577,2.915-9.423Z\"></path><rect id=\"__x3C_Transparent_Rectangle_x3E_\" class=\"st0\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,pre,prod,environment",
+		"Carbon"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"Icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" version=\"1.1\" viewBox=\"0 0 32 32\"><defs><style> .st0 { fill: none; }</style></defs><path d=\"M6,6c0-.5522.4477-1,1-1s1,.4478,1,1-.4478,1-1,1-1-.4476-1-1ZM11,7c.5522,0,1-.4476,1-1s-.4478-1-1-1-1,.4478-1,1,.4477,1,1,1ZM30,4v12.0001h-2v-6.0001H4v18.0001h7.9999v2h-7.9999c-1.1046,0-2-.8954-2-2V4c0-1.1046.8954-2,2-2h24c1.1046,0,2,.8954,2,2ZM28,4H4v4h24v-4ZM25.58,22.4101l1.42-1.41,4,4-4,4-1.41-1.42,2.58-2.58-2.59-2.59ZM19.42,27.5901l-1.42,1.41-4-4,4-4,1.41,1.42-2.58,2.58,2.59,2.59ZM24.915,20.5771l-1.915-.577-2.915,9.423,1.915.577,2.915-9.423Z\"></path><rect id=\"_x3C_Transparent_Rectangle_x3E_\" class=\"st0\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,production,environment",
+		"Carbon"
+	],
+	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"Environment / Bulb\"><path id=\"Vector\" d=\"M9 21H15M12 3C8.68629 3 6 5.68629 6 9C6 10.2145 6.36084 11.3447 6.98117 12.2893C7.93507 13.7418 8.41161 14.4676 8.47352 14.5761C9.02428 15.541 8.92287 15.2007 8.99219 16.3096C8.99998 16.4342 9 16.6229 9 17C9 17.5523 9.44772 18 10 18L14 18C14.5523 18 15 17.5523 15 17C15 16.6229 15 16.4342 15.0078 16.3096C15.0771 15.2007 14.9751 15.541 15.5259 14.5761C15.5878 14.4676 16.0651 13.7418 17.019 12.2893C17.6394 11.3447 18.0002 10.2145 18.0002 9C18.0002 5.68629 15.3137 3 12 3Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></g></svg>",
 		"@coolicons,environment,bulb",
 		"coolicons"
@@ -185,12 +195,12 @@
 		"Gitlab SVGs"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M28.96692,12H9.44152a2,2,0,0,0-1.89737,1.36754L4,24V10H28a2,2,0,0,0-2-2H15.1241a2,2,0,0,1-1.28038-.46357L12.5563,6.46357A2,2,0,0,0,11.27592,6H4A2,2,0,0,0,2,8V24a2,2,0,0,0,2,2H26l4.80523-11.21213A2,2,0,0,0,28.96692,12Z\" style=\"fill: #66bb6a\"></path><path d=\"M22.99968,16l-3.74826,4.99918,2.84907,3.79848-1.59918,1.20351-4.50016-6.00211L10,28H32Z\" style=\"fill: #c8e6c9;fill-rule: evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#66bb6a\" d=\"M28.967 12H9.442a2 2 0 0 0-1.898 1.368L4 24V10h24a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h22l4.805-11.212A2 2 0 0 0 28.967 12\"></path><path fill=\"#c8e6c9\" d=\"m23 16-3.749 5 2.85 3.798L20.5 26l-4.499-6L10 28h22Z\"></path></svg>",
 		"@material-icon-theme,folder,environment,open",
 		"Material Icon Theme"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path d=\"M13.84376,7.53645l-1.28749-1.0729A2,2,0,0,0,11.27591,6H4A2,2,0,0,0,2,8V24a2,2,0,0,0,2,2H28a2,2,0,0,0,2-2V10a2,2,0,0,0-2-2H15.12412A2,2,0,0,1,13.84376,7.53645Z\" style=\"fill: #66bb6a\"></path><path d=\"M22.99968,16l-3.74826,4.99918,2.84907,3.79848-1.59918,1.20351-4.50016-6.00211L10,28H32Z\" style=\"fill: #c8e6c9;fill-rule: evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#66bb6a\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464\"></path><path fill=\"#c8e6c9\" d=\"m23 16-3.749 5 2.85 3.798L20.5 26l-4.499-6L10 28h22Z\"></path></svg>",
 		"@material-icon-theme,folder,environment",
 		"Material Icon Theme"
 	],
