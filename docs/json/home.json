@@ -15,6 +15,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"73\" cy=\"100\" r=\"20\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M170 161 129.701 54.23c-11.69-30.973-55.712-30.973-67.402 0L22 161\"></path></svg>",
+		"@lawnicons,aqara,home",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"31\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><circle cx=\"165\" cy=\"157\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><circle cx=\"140\" cy=\"110\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"119\" cy=\"72\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"27\" cy=\"157\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m26 158 35-64m105 64L61 94m35-64L61 94m79 16L61 94m58-22L61 94\"></path></svg>",
 		"@lawnicons,aranet,home",
 		"Lawnicons"
@@ -157,11 +162,6 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M162 112H78m36-32H30m84-50v82M78 80v82\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
 		"@lawnicons,square,home",
-		"Lawnicons"
-	],
-	[
-		"<svg width=\"192\" height=\"192\" viewBox=\"0 0 50.8 50.8\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.408 44.98h4.396l23.703-23.7a1.587 1.587 0 0 0 0-2.246l-3.736-3.736a1.59 1.59 0 0 0-2.246 0L5.821 38.996v4.396a1.587 1.587 0 0 0 1.587 1.587M42.254 6.657a2.89 2.89 0 0 0-4.093 0L36.259 8.56a1.59 1.59 0 0 0 0 2.245l3.736 3.736a1.59 1.59 0 0 0 2.245 0l1.902-1.902a2.89 2.89 0 0 0 0-4.094z\" style=\"fill:none;stroke:#000;stroke-width:3.17499;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1\"></path></svg>",
-		"@lawnicons,vectorify,da,home",
 		"Lawnicons"
 	],
 	[
@@ -3330,7 +3330,7 @@
 		"Typicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M469.666,216.45,271.078,33.749a34,34,0,0,0-47.062.98L41.373,217.373,32,226.745V496H208V328h96V496H480V225.958ZM248.038,56.771c.282,0,.108.061-.013.18C247.9,56.832,247.756,56.771,248.038,56.771ZM448,464H336V328a32,32,0,0,0-32-32H208a32,32,0,0,0-32,32V464H64V240L248.038,57.356c.013-.012.014-.023.024-.035L448,240Z\" class=\"ci-primary\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M469.666 216.45 271.078 33.749a34 34 0 0 0-47.062.98L41.373 217.373 32 226.745V496h176V328h96v168h176V225.958ZM248.038 56.771c.282 0 .108.061-.013.18-.125-.119-.269-.18.013-.18M448 464H336V328a32 32 0 0 0-32-32h-96a32 32 0 0 0-32 32v136H64V240L248.038 57.356c.013-.012.014-.023.024-.035L448 240Z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,home",
 		"CoreUI Icons Free Icons"
 	],
@@ -4310,12 +4310,12 @@
 		"grommet-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M6.92 1.395a1.75 1.75 0 0 1 2.16 0l5.25 4.12c.421.331.67.84.67 1.377v7.359a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-7.36a.26.26 0 0 0-.096-.197l-5.25-4.119a.254.254 0 0 0-.308 0l-5.25 4.12a.25.25 0 0 0-.096.197v7.359a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-7.36c0-.536.247-1.045.67-1.376zm2.83 7.606c.688.002 1.25.561 1.25 1.25v4a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-3.75h-3v3.75a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-4c0-.69.56-1.25 1.25-1.25z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M6.92 1.396a1.75 1.75 0 0 1 2.16 0l5.25 4.119c.42.331.67.84.67 1.377v7.36a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-7.36a.26.26 0 0 0-.096-.198l-5.25-4.119a.254.254 0 0 0-.308 0l-5.25 4.12a.25.25 0 0 0-.096.197v7.36a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-7.36c0-.537.247-1.046.67-1.377zM9.75 9c.688.002 1.25.562 1.25 1.25v4a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-3.75h-3v3.75a.755.755 0 0 1-.75.75.75.75 0 0 1-.75-.75v-4c0-.69.56-1.25 1.25-1.25z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,home",
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M10.927 1.635a1.75 1.75 0 0 1 2.146 0l8.25 6.408c.427.331.677.842.677 1.382V21.25a.751.751 0 0 1-1.5 0V9.425a.25.25 0 0 0-.097-.197l-8.25-6.408a.25.25 0 0 0-.306 0l-8.25 6.408a.26.26 0 0 0-.097.197V21.25a.751.751 0 0 1-1.5 0V9.425c0-.54.251-1.05.677-1.382zM14.25 14c.966 0 1.75.784 1.75 1.75v5.5a.751.751 0 0 1-1.5 0v-5.5a.25.25 0 0 0-.25-.25h-4.5a.25.25 0 0 0-.25.25v5.5a.751.751 0 0 1-1.5 0v-5.5c0-.965.785-1.749 1.75-1.75z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M10.927 1.635a1.75 1.75 0 0 1 2.146 0l8.25 6.408c.427.332.677.842.677 1.382V21.25a.751.751 0 0 1-1.5 0V9.425a.25.25 0 0 0-.097-.197l-8.25-6.408a.25.25 0 0 0-.306 0l-8.25 6.408a.26.26 0 0 0-.097.197V21.25a.751.751 0 0 1-1.5 0V9.425c0-.54.251-1.05.677-1.382zM14.25 14c.966 0 1.75.784 1.75 1.75v5.5a.751.751 0 0 1-1.5 0v-5.5a.25.25 0 0 0-.25-.25h-4.5a.25.25 0 0 0-.25.25v5.5a.751.751 0 0 1-1.5 0v-5.5c0-.965.785-1.749 1.75-1.75z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,home",
 		"flight-icons"
 	],

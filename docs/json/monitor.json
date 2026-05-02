@@ -1,6 +1,6 @@
 [
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><path d=\"M31.781 5.693c-0.385-0.553-1.145-0.688-1.699-0.303l-29.864 20.916c0.219 0.313 0.584 0.521 0.995 0.521h29.573c0.672 0 1.213-0.547 1.213-1.219v-19.235c-0.005-0.235-0.079-0.468-0.219-0.681zM1.917 5.391c-0.553-0.385-1.313-0.251-1.699 0.303-0.14 0.208-0.213 0.443-0.219 0.681v19.265l14.219-11.651z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><path d=\"M31.781 5.693a1.22 1.22 0 0 0-1.699-.303L.218 26.306c.219.313.584.521.995.521h29.573c.672 0 1.213-.547 1.213-1.219V6.373a1.3 1.3 0 0 0-.219-.681zM1.917 5.391a1.22 1.22 0 0 0-1.918.984V25.64l14.219-11.651z\"></path></svg>",
 		"@coreui-icons-brand-icons,campaign,monitor",
 		"CoreUI Icons Brand Icons"
 	],
@@ -67,6 +67,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\" d=\"m64 83 2 8M53 81l-2 8m24-10 4 5m-28-5c17 10 24-4 24-4\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 170c40.869 0 74-33.131 74-74a75 75 0 0 0-.335-7.088 48 48 0 0 1-66.577-66.577A75 75 0 0 0 96 22c-40.87 0-74 33.13-74 74s33.13 74 74 74\"></path></svg>",
 		"@lawnicons,sleep,monitor",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"139\" r=\"6\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M22 29a6 6 0 0 1 6-6h136a6 6 0 0 1 6 6v46a6 6 0 0 1-6 6H28a6 6 0 0 1-6-6z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M117 81 96 47 75 81m-23 40a6 6 0 0 1 6-6h13.416a6 6 0 0 0 5.283-3.155l3.602-6.69A6 6 0 0 1 85.584 102h20.832a6 6 0 0 1 5.283 3.155l3.602 6.69a6 6 0 0 0 5.283 3.155H134a6 6 0 0 1 6 6v42a6 6 0 0 1-6 6H58a6 6 0 0 1-6-6z\"></path></svg>",
+		"@lawnicons,sony,external,monitor",
 		"Lawnicons"
 	],
 	[
@@ -980,7 +985,7 @@
 		"Boxicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M472,16H40A24.028,24.028,0,0,0,16,40V376a24.028,24.028,0,0,0,24,24H240v64H160v32H352V464H272V400H472a24.028,24.028,0,0,0,24-24V40A24.028,24.028,0,0,0,472,16Zm-8,352H48V272H464Zm0-128H48V48H464Z\" class=\"ci-primary\"></path><rect width=\"32\" height=\"32\" x=\"400\" y=\"304\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M472 16H40a24.03 24.03 0 0 0-24 24v336a24.03 24.03 0 0 0 24 24h200v64h-80v32h192v-32h-80v-64h200a24.03 24.03 0 0 0 24-24V40a24.03 24.03 0 0 0-24-24m-8 352H48v-96h416Zm0-128H48V48h416Z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M400 304h32v32h-32z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,monitor",
 		"CoreUI Icons Free Icons"
 	],

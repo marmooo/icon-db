@@ -15,11 +15,6 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M112 108H80m73.509 34.57a74.01 74.01 0 0 0 4.553-86.873A74 74 0 0 0 76.847 24.52M32.57 57.887a74 74 0 0 0 69.88 111.831\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M141.937 98.407a46 46 0 0 1-34.031 42.026 46 46 0 0 1-50.485-19.38 46 46 0 0 1 55.064-67.998\"></path><circle cx=\"51\" cy=\"37\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"135\" cy=\"71\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"96\" cy=\"83\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"131\" cy=\"161\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle></svg>",
-		"@lawnicons,family,space",
-		"Lawnicons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"12\" d=\"M22 58a6 6 0 0 1 6-6h136a6 6 0 0 1 6 6v76a6 6 0 0 1-1.757 4.243A6 6 0 0 1 164 140H28a6 6 0 0 1-6-6zm42 38V78m0 18h18m-18 0v18m0-18H46\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-width=\"10\" d=\"M141 88a5 5 0 1 0 0-10 5 5 0 0 0 0 10Zm-24 26a5 5 0 1 0-.001-10.001A5 5 0 0 0 117 114Z\"></path></svg>",
 		"@lawnicons,game,space",
 		"Lawnicons"
@@ -37,6 +32,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M43 96h27m29 0h50\"></path><ellipse cx=\"96\" cy=\"96\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"54\" ry=\"74\"></ellipse><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M149 96c0 8.665-1.506 17.203-4.391 24.893-2.885 7.689-7.064 14.305-12.184 19.287-5.12 4.983-11.031 8.186-17.233 9.339-6.203 1.154-12.515.224-18.403-2.711s-11.18-7.79-15.428-14.153-7.327-14.048-8.979-22.406-1.826-17.143-.508-25.614c1.317-8.472 4.087-16.38 8.076-23.056\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"M85 129.775c4.257-3.423 7.791-8.346 10.249-14.275C97.706 109.571 99 102.846 99 96s-1.294-13.571-3.751-19.5C92.79 70.571 89.257 65.648 85 62.225S75.915 57 71 57s-9.743 1.802-14 5.225-7.791 8.346-10.249 14.275C44.294 82.429 43 89.154 43 96\"></path></svg>",
 		"@lawnicons,honor,ai,space",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M112 108H80m73.509 34.57a74.01 74.01 0 0 0 4.553-86.873A74 74 0 0 0 76.847 24.52M32.57 57.887a74 74 0 0 0 69.88 111.831\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M141.937 98.407a46 46 0 0 1-34.031 42.026 46 46 0 0 1-50.485-19.38 46 46 0 0 1 55.064-67.998\"></path><circle cx=\"51\" cy=\"37\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"135\" cy=\"71\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"96\" cy=\"83\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle><circle cx=\"131\" cy=\"161\" r=\"5\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\"></circle></svg>",
+		"@lawnicons,moto,family,space",
 		"Lawnicons"
 	],
 	[
@@ -880,7 +880,7 @@
 		"Boxicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"40 288 40 416 464 416 464 288 432 288 432 384 72 384 72 288 40 288\" class=\"ci-primary\"></polygon></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M40 288v128h424V288h-32v96H72v-96z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,space,bar",
 		"CoreUI Icons Free Icons"
 	],

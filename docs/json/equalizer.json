@@ -1,10 +1,5 @@
 [
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path d=\"M36 22v148m0-148v148M156 22v148\" style=\"fill:none;stroke:#000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></path><circle cx=\"36\" cy=\"90.192\" r=\"7\" style=\"fill:none;stroke:#000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></circle><circle cx=\"96\" cy=\"128.213\" r=\"7\" style=\"fill:none;stroke:#000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></circle><circle cx=\"156\" cy=\"73.889\" r=\"7\" style=\"fill:none;stroke:#000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></circle><path d=\"M96 22v148\" style=\"fill:none;stroke:#000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></path><circle cx=\"36\" cy=\"90.192\" r=\"7\" style=\"fill:none;stroke:#000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none\"></circle></svg>",
-		"@lawnicons,eqfy,equalizer,for,spotify",
-		"Lawnicons"
-	],
-	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" viewBox=\"0 0 192 192\"><circle cx=\"39\" cy=\"95\" r=\"17\"></circle><circle cx=\"96\" cy=\"117\" r=\"17\"></circle><circle cx=\"153\" cy=\"73\" r=\"17\"></circle><path d=\"M39 30v48m57-48v70m57-70v26M39 112v50m57-28v28m57-72v72\"></path></svg>",
 		"@lawnicons,flat,equalizer",
 		"Lawnicons"
@@ -15,8 +10,13 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 66v54m32-46v46m-64-14v14\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M82 65c0-5.523 4.477-10 10-10h6c5.523 0 10 4.477 10 10v54c0 5.523-4.477 10-10 10h-6c-5.523 0-10-4.477-10-10zm26 14c0-5.523 4.477-10 10-10h6c5.523 0 10 4.477 10 10v40c0 5.523-4.477 10-10 10h-6c-5.523 0-10-4.477-10-10zm-52 34c0-5.523 4.477-10 10-10h6c5.523 0 10 4.477 10 10v6c0 5.523-4.477 10-10 10h-6c-5.523 0-10-4.477-10-10z\"></path></svg>",
 		"@lawnicons,poweramp,equalizer",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"m44 96 5-5 7 7 10-12 11 17 16-22 14 29 16-36 21 40\"></path></svg>",
+		"@lawnicons,poweramp,equalizer,zap,icon",
 		"Lawnicons"
 	],
 	[
@@ -200,7 +200,7 @@
 		"Boxicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M96,146.025V16H64V146.025a64.009,64.009,0,0,0,0,123.95V496H96V269.975a64.009,64.009,0,0,0,0-123.95ZM80,240a32,32,0,1,1,32-32A32.036,32.036,0,0,1,80,240Z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M272,290.025V16H240V290.025a64.009,64.009,0,0,0,0,123.95V496h32V413.975a64.009,64.009,0,0,0,0-123.95ZM256,384a32,32,0,1,1,32-32A32.036,32.036,0,0,1,256,384Z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M448,82.025V16H416V82.025a64.009,64.009,0,0,0,0,123.95V496h32V205.975a64.009,64.009,0,0,0,0-123.95ZM432,176a32,32,0,1,1,32-32A32.036,32.036,0,0,1,432,176Z\" class=\"ci-primary\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M96 146.025V16H64v130.025a64.009 64.009 0 0 0 0 123.95V496h32V269.975a64.009 64.009 0 0 0 0-123.95M80 240a32 32 0 1 1 32-32 32.036 32.036 0 0 1-32 32m192 50.025V16h-32v274.025a64.009 64.009 0 0 0 0 123.95V496h32v-82.025a64.009 64.009 0 0 0 0-123.95M256 384a32 32 0 1 1 32-32 32.036 32.036 0 0 1-32 32M448 82.025V16h-32v66.025a64.009 64.009 0 0 0 0 123.95V496h32V205.975a64.009 64.009 0 0 0 0-123.95M432 176a32 32 0 1 1 32-32 32.036 32.036 0 0 1-32 32\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,equalizer",
 		"CoreUI Icons Free Icons"
 	],

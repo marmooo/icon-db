@@ -85,7 +85,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><g stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" rx=\"28\"></rect><path d=\"M25 115.481c48.239 13.111 95.044 2.405 142-5.787M25 78.477c48.239 13.111 95.044 2.405 142-5.787\" style=\"paint-order:fill markers stroke\"></path></g></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M25 31a6 6 0 0 1 6-6h130a6 6 0 0 1 6 6v130a6 6 0 0 1-6 6H31a6 6 0 0 1-6-6z\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M25 115c59 16 142-7 142-7M25 78c59 16 142-7 142-7\"></path></svg>",
 		"@lawnicons,wave,lines,live,wallpaper",
 		"Lawnicons"
 	],
@@ -240,7 +240,7 @@
 		"Boxicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><rect width=\"40\" height=\"40\" x=\"344\" y=\"112\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"72 72 224 72 224 40 40 40 40 224 72 224 72 72\" class=\"ci-primary\"></polygon><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"288 40 288 72 440 72 440 224 472 224 472 40 288 40\" class=\"ci-primary\"></polygon><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"72 288 40 288 40 472 224 472 224 440 72 440 72 288\" class=\"ci-primary\"></polygon><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"280.5 308.873 189.5 217.873 104 303.373 104 348.627 189.5 263.128 334.372 408 379.627 408 303.127 331.5 375.231 259.396 440 324.165 440 440 288 440 288 472 472 472 472 312 375.231 214.143 280.5 308.873\" class=\"ci-primary\"></polygon></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M344 112h40v40h-40zM72 72h152V40H40v184h32z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M288 40v32h152v152h32V40zM72 288H40v184h184v-32H72z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"m280.5 308.873-91-91-85.5 85.5v45.254l85.5-85.499L334.372 408h45.255l-76.5-76.5 72.104-72.104L440 324.165V440H288v32h184V312l-96.769-97.857z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,wallpaper",
 		"CoreUI Icons Free Icons"
 	],

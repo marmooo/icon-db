@@ -4725,32 +4725,47 @@
 		"Boxicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><rect width=\"480\" height=\"32\" x=\"16\" y=\"64\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"320\" height=\"32\" x=\"96\" y=\"152\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"240\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"320\" height=\"32\" x=\"96\" y=\"328\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"416\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M16 64h480v32H16zm80 88h320v32H96zm-80 88h480v32H16zm80 88h320v32H96zm-80 88h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,align,center",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><rect width=\"480\" height=\"32\" x=\"16\" y=\"64\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"328\" height=\"32\" x=\"16\" y=\"152\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"240\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"328\" height=\"32\" x=\"16\" y=\"328\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"416\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M16 64h480v32H16zm0 88h328v32H16zm0 88h480v32H16zm0 88h328v32H16zm0 88h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,align,left",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><rect width=\"480\" height=\"32\" x=\"16\" y=\"64\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"328\" height=\"32\" x=\"168\" y=\"152\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"240\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"328\" height=\"32\" x=\"168\" y=\"328\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><rect width=\"480\" height=\"32\" x=\"16\" y=\"416\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M16 64h480v32H16zm152 88h328v32H168zM16 240h480v32H16zm152 88h328v32H168zM16 416h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,align,right",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"356.117 316.117 333.49 293.49 272 354.98 272 56 240 56 240 354.98 178.51 293.49 155.883 316.117 256 416.236 356.117 316.117\" class=\"ci-primary\"></polygon><rect width=\"480\" height=\"32\" x=\"16\" y=\"464\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M356.117 316.117 333.49 293.49 272 354.98V56h-32v298.98l-61.49-61.49-22.627 22.627L256 416.236zM16 464h480v32H16z\" class=\"ci-primary\"></path></svg>",
+		"@coreui-icons-free-icons,text,vertical,align,bottom",
+		"CoreUI Icons Free Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M240 16v146.177l-53.491-53.49-22.627 22.626L256 223.431l92.118-92.118-22.627-22.626L272 162.177V16zM16 240h480v32H16zm147.882 140.687 22.627 22.626L240 349.823V496h32V349.823l53.491 53.49 22.627-22.626L256 288.569z\" class=\"ci-primary\"></path></svg>",
+		"@coreui-icons-free-icons,text,vertical,align,center",
+		"CoreUI Icons Free Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M16 16h480v32H16zm139.883 179.883 22.627 22.627L240 157.02V456h32V157.02l61.49 61.49 22.627-22.627L256 95.764z\" class=\"ci-primary\"></path></svg>",
+		"@coreui-icons-free-icons,text,vertical,align,top",
+		"CoreUI Icons Free Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M144 16H16v424h128Zm-32 392H48V48h64Zm80-238.433V440h128V169.567ZM288 408h-64V201.567h64Zm80 32h128V16H368Zm32-392h64v360h-64ZM16 464h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,vertical,align,bottom",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"240 16 240 162.177 186.509 108.687 163.882 131.313 256 223.431 348.118 131.313 325.491 108.687 272 162.177 272 16 240 16\" class=\"ci-primary\"></polygon><rect width=\"480\" height=\"32\" x=\"16\" y=\"240\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"163.882 380.687 186.509 403.313 240 349.823 240 496 272 496 272 349.823 325.491 403.313 348.118 380.687 256 288.569 163.882 380.687\" class=\"ci-primary\"></polygon></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M368 496h128V304H368Zm32-160h64v128h-64Zm-208 88h128V304H192Zm32-88h64v56h-64ZM16 496h128V304H16Zm32-160h64v128H48Zm96-320H16v192h128Zm-32 160H48V48h64Zm80-80v112h128V96Zm96 80h-64v-48h64Zm80 32h128V16H368Zm32-160h64v128h-64ZM16 240h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,vertical,align,center",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><rect width=\"480\" height=\"32\" x=\"16\" y=\"16\" fill=\"var(--ci-primary-color, currentColor)\" class=\"ci-primary\"></rect><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"155.883 195.883 178.51 218.51 240 157.02 240 456 272 456 272 157.02 333.49 218.51 356.117 195.883 256 95.764 155.883 195.883\" class=\"ci-primary\"></polygon></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M368 496h128V80H368Zm32-384h64v352h-64ZM192 344h128V80H192Zm32-232h64v200h-64ZM16 496h128V80H16Zm32-384h64v352H48ZM16 16h480v32H16z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,vertical,align,top",
 		"CoreUI Icons Free Icons"
 	],

@@ -20,7 +20,7 @@
 		"File Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><path d=\"M1.734 32l15.068-15.333 15.198 15.333zM0 0h16l-16 16.667zM17.865 0l-17.865 18.667v13.333l32-32z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><path d=\"m1.734 32 15.068-15.333L32 32zM0 0h16L0 16.667zm17.865 0L0 18.667V32L32 0z\"></path></svg>",
 		"@coreui-icons-brand-icons,kotlin",
 		"CoreUI Icons Brand Icons"
 	],
@@ -158,6 +158,16 @@
 		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"a\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><defs><style>.h{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style></defs><path id=\"b\" class=\"h\" d=\"m11.2826,9.3043v6.7826h-6.7826l6.7826-6.7826Z\"></path><path id=\"c\" class=\"h\" d=\"m20.3261,30.7826l21.8626-21.4783h-13.9496l-14.6957,14.6957\"></path><path id=\"d\" class=\"h\" d=\"m28.2391,23.4348l15.2609,15.2609h-2.8261l-13.8478-13.8478\"></path><path id=\"e\" class=\"h\" d=\"m17.5,20.0435v-7.3478l2.2609,2.2609v2.5435\"></path><path id=\"f\" class=\"h\" d=\"m15.8043,21.7391v-10.1739l-2.2609-2.2609v14.6957l14.6957,14.6957h2.8261l-9.0435-9.0435\"></path><path id=\"g\" class=\"h\" d=\"m23.7174,27.9565l10.7391,10.7391h2.8261l-12.1522-12.1522\"></path></svg>",
 		"@arcticons,white,kotlin,conf",
 		"Arcticons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"#9c27b0\" d=\"M14.483 6H4.721a1 1 0 0 0-.949.684L2 12V5h12a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232l-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h11l2.403-5.606A1 1 0 0 0 14.483 6\"></path><path fill=\"#e1bee7\" d=\"M8 6v8h8l-4-4 4-4z\"></path></svg>",
+		"@material-icon-theme,folder,kotlin,open",
+		"Material Icon Theme"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"#9c27b0\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><path fill=\"#e1bee7\" d=\"M8 6v8h8l-4-4 4-4z\"></path></svg>",
+		"@material-icon-theme,folder,kotlin",
+		"Material Icon Theme"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 24 24\"><defs><linearGradient id=\"a\" x1=\"1.725\" x2=\"22.185\" y1=\"22.67\" y2=\"1.982\" gradientTransform=\"translate(1.306 1.129)scale(.89324)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#7c4dff\"></stop><stop offset=\".5\" stop-color=\"#d500f9\"></stop><stop offset=\"1\" stop-color=\"#ef5350\"></stop></linearGradient></defs><path fill=\"url(#a)\" d=\"M2.975 2.976v18.048h18.05v-.03l-4.478-4.511-4.48-4.515 4.48-4.515 4.443-4.477z\"></path></svg>",

@@ -135,7 +135,7 @@
 		"vscode-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M16,64V448H496V64ZM464,240H352V96H464Zm-272,0V96H320V240Zm128,32V416H192V272ZM160,96V240H48V96ZM48,272H160V416H48ZM352,416V272H464V416Z\" class=\"ci-primary\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M16 64v384h480V64Zm448 176H352V96h112Zm-272 0V96h128v144Zm128 32v144H192V272ZM160 96v144H48V96ZM48 272h112v144H48Zm304 144V272h112v144Z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,view,module",
 		"CoreUI Icons Free Icons"
 	],
@@ -170,12 +170,12 @@
 		"TDesign Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.309.123A2.25 2.25 0 0 1 15 2.33v9.44a2.25 2.25 0 0 1-1.809 2.206l-9.5 1.9A2.25 2.25 0 0 1 1 13.67V4.228a2.25 2.25 0 0 1 1.809-2.206zM13.5 2.33a.75.75 0 0 0-.898-.736l-9.5 1.9a.75.75 0 0 0-.602.735v9.44a.75.75 0 0 0 .897.736l9.5-1.9a.75.75 0 0 0 .603-.735zm-2.898 1.684a.752.752 0 0 1 .898.736v5.4a.75.75 0 0 1-.602.735l-5.5 1.1a.75.75 0 0 1-.898-.735v-5.4a.75.75 0 0 1 .603-.736zM6 6.464v3.87l4-.8v-3.87z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.309.123A2.25 2.25 0 0 1 15 2.33v9.44a2.25 2.25 0 0 1-1.809 2.206l-9.5 1.9A2.25 2.25 0 0 1 1 13.67V4.23a2.25 2.25 0 0 1 1.809-2.207zM13.5 2.33a.75.75 0 0 0-.898-.736l-9.5 1.9a.75.75 0 0 0-.602.735v9.44a.75.75 0 0 0 .897.736l9.5-1.9a.75.75 0 0 0 .603-.735zm-2.898 1.684a.75.75 0 0 1 .898.736v5.4a.75.75 0 0 1-.602.736l-5.5 1.1a.75.75 0 0 1-.898-.736v-5.4a.75.75 0 0 1 .603-.736zM6 6.464v3.87l4-.8v-3.87z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,module",
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M17.68 2.028A2.75 2.75 0 0 1 21 4.718V17.63a2.75 2.75 0 0 1-2.18 2.69l-12.5 2.652A2.75 2.75 0 0 1 3 20.282V7.37c0-1.298.91-2.42 2.18-2.69zm1.82 2.69a1.25 1.25 0 0 0-1.51-1.222L5.49 6.147A1.25 1.25 0 0 0 4.5 7.37v12.911a1.25 1.25 0 0 0 1.51 1.223l12.5-2.652a1.25 1.25 0 0 0 .99-1.222zm-4.008 1.926A1.25 1.25 0 0 1 17 7.866v7.69a1.25 1.25 0 0 1-.992 1.223l-7.5 1.578A1.25 1.25 0 0 1 7 17.134v-7.69c0-.59.414-1.102.992-1.223zM8.5 9.647v7.18l7-1.474V8.176z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M17.68 2.028A2.75 2.75 0 0 1 21 4.718V17.63a2.75 2.75 0 0 1-2.18 2.69l-12.5 2.652A2.75 2.75 0 0 1 3 20.282V7.37c0-1.298.91-2.42 2.18-2.69zm1.82 2.69a1.25 1.25 0 0 0-1.51-1.222L5.49 6.148A1.25 1.25 0 0 0 4.5 7.37v12.911a1.25 1.25 0 0 0 1.51 1.223l12.5-2.651a1.25 1.25 0 0 0 .99-1.223zm-4.008 1.926A1.25 1.25 0 0 1 17 7.866v7.69a1.25 1.25 0 0 1-.992 1.223l-7.5 1.579A1.25 1.25 0 0 1 7 17.134v-7.69c0-.59.414-1.101.992-1.223zM8.5 9.648v7.178l7-1.472v-7.18z\" clip-rule=\"evenodd\"></path></svg>",
 		"@flight-icons,module",
 		"flight-icons"
 	],

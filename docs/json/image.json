@@ -10,6 +10,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 22v24m0 0L86 36m10 10 10-10M96 170v-24m0 0-10 10m10-10 10 10\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m50 131 32-38 10 11 14-16 36 43\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M50 61v70s18-7 46-7 46 7 46 7V61s-18 7-46 7-46-7-46-7\"></path></svg>",
+		"@lawnicons,compress,image",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 51v64M72 92l24 24m24-24-24 24m24 23H72\"></path><rect width=\"142\" height=\"142\" x=\"25\" y=\"25\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" rx=\"6\"></rect></svg>",
 		"@lawnicons,downloader,video,and,image",
 		"Lawnicons"
@@ -3185,17 +3190,17 @@
 		"Typicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"40 472 472 472 472 312 440 312 440 440 72 440 72 312 40 312 40 472\" class=\"ci-primary\"></polygon><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M40,265.755l49.373,25.437,53.82-46.829,56.159,50.528L256,247.052l56.648,47.839,56.159-50.528,53.82,46.829L472,265.755V40H40ZM72,72H440V246.244l-12.738,6.564-58.809-51.171-56.471,50.806L256,205.167l-55.982,47.276-56.471-50.806L84.738,252.808,72,246.244Z\" class=\"ci-primary\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M40 472h432V312h-32v128H72V312H40zm0-206.245 49.373 25.437 53.82-46.829 56.159 50.528L256 247.052l56.648 47.839 56.159-50.528 53.82 46.829L472 265.755V40H40ZM72 72h368v174.244l-12.738 6.564-58.809-51.171-56.471 50.806L256 205.167l-55.982 47.276-56.471-50.806-58.809 51.171L72 246.244Z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,image,broken",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M336,72V40H40V472H472V184H440v25.68l-64.769-64.77L306,214.142l-100-100-134,134V72Zm39.231,118.166L440,254.935v93.207L328.628,236.769ZM206,159.4l234,234V440H72V293.4Z\" class=\"ci-primary\"></path><polygon fill=\"var(--ci-primary-color, currentColor)\" points=\"448 16 416 16 416 64 368 64 368 96 416 96 416 144 448 144 448 96 496 96 496 64 448 64 448 16\" class=\"ci-primary\"></polygon></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M336 72V40H40v432h432V184h-32v25.68l-64.769-64.77L306 214.142l-100-100-134 134V72Zm39.231 118.166L440 254.935v93.207L328.628 236.769ZM206 159.4l234 234V440H72V293.4Z\" class=\"ci-primary\"></path><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M448 16h-32v48h-48v32h48v48h32V96h48V64h-48z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,image,plus",
 		"CoreUI Icons Free Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentColor)\" d=\"M40,472H472V40H40ZM440,348.142,328.628,236.769l46.6-46.6L440,254.935ZM72,72H440V209.68l-64.769-64.77L306,214.142l-100-100-134,134Zm0,221.4,134-134,234,234V440H72Z\" class=\"ci-primary\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path fill=\"var(--ci-primary-color, currentcolor)\" d=\"M40 40v432h432V40Zm400 32v137.68l-64.77-64.77L306 214.142l-100-100-134 134V72Zm0 276.143L328.627 236.769l46.6-46.6L440 254.935ZM72 440V293.4l134-134 234 234V440Z\" class=\"ci-primary\"></path></svg>",
 		"@coreui-icons-free-icons,image",
 		"CoreUI Icons Free Icons"
 	],
