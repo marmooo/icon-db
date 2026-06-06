@@ -209,7 +209,7 @@
 - [Carbon](https://github.com/carbon-design-system/carbon) licensed under the
   [Apache-2.0](https://github.com/carbon-design-system/carbon/blob/main/LICENSE)
 - [Clarity](undefined) licensed under the
-  [CC-BY-SA-3.0](https://github.com/jcubic/Clarity)
+  [CC-BY-SA-4.0](https://github.com/jcubic/Clarity)
 - [Majesticons](https://github.com/halfmage/majesticons) licensed under the
   [MIT](https://github.com/halfmage/majesticons/blob/main/LICENSE)
 - [Pixelarticons](https://github.com/halfmage/pixelarticons) licensed under the
