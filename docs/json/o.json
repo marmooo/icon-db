@@ -10,6 +10,16 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><circle cx=\"84\" cy=\"84\" r=\"30\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M28 28a6 6 0 0 1 6-6h124a6 6 0 0 1 6 6v112a6 6 0 0 1-6 6H80.22a6 6 0 0 0-3.905 1.444L50 170v-18a6 6 0 0 0-6-6H34a6 6 0 0 1-6-6zm109 25v37\"></path><circle cx=\"137\" cy=\"112\" r=\"4\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"8\"></circle></svg>",
+		"@lawnicons,my,o,plus,bank",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 22c-16 0-25 4-25 4v17s3 3 13 5v12S66 70 66 93s17 33 17 47-8 26-8 26 5 4 21 4 21-4 21-4-8-12-8-26 17-24 17-47-18-33-18-33V48c10-2 13-5 13-5V26s-9-4-25-4\"></path></svg>",
+		"@lawnicons,o,boticario",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M66 122s7-87 97-95c0 0 6 12.5 6 37 0 56-37 101-103 101 0 0-43-19-43-61 0-24 12-37 12-37 24 13 33 41 33 41\"></path></svg>",
 		"@lawnicons,o,key",
 		"Lawnicons"
@@ -708,6 +718,11 @@
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><g id=\"file-o\"><path d=\"M18.53,9,13,3.47a.75.75,0,0,0-.53-.22H8A2.75,2.75,0,0,0,5.25,6V18A2.75,2.75,0,0,0,8,20.75h8A2.75,2.75,0,0,0,18.75,18V9.5A.75.75,0,0,0,18.53,9ZM13.25,5.81l2.94,2.94H13.25ZM16,19.25H8A1.25,1.25,0,0,1,6.75,18V6A1.25,1.25,0,0,1,8,4.75h3.75V9.5a.76.76,0,0,0,.75.75h4.75V18A1.25,1.25,0,0,1,16,19.25Z\"></path></g></svg>",
 		"@prime-icons,file,o",
 		"Prime Icons"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> share</title><path d=\"M6 9H4v9h12V9h-2V7h4v13H2V7h4z\"></path><path d=\"m10.707.002 3.707 3.709L13 5.125l-2-2v10.896H9V3.124l-2 2L5.586 3.71 9.293.002z\"></path></svg>",
+		"@ooui,share,i,o,s",
+		"OOUI"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 9C8 7.68409 8.94673 6.5 10.25 6.5C11.5533 6.5 12.5 7.68409 12.5 9C12.5 10.3159 11.5533 11.5 10.25 11.5C8.94673 11.5 8 10.3159 8 9ZM10.25 7.5C9.62027 7.5 9 8.10677 9 9C9 9.89323 9.62027 10.5 10.25 10.5C10.8797 10.5 11.5 9.89323 11.5 9C11.5 8.10677 10.8797 7.5 10.25 7.5Z\" fill=\"currentColor\"></path><path d=\"M13.5 8.5C13.2239 8.5 13 8.72386 13 9C13 9.27614 13.2239 9.5 13.5 9.5H15.5C15.7761 9.5 16 9.27614 16 9C16 8.72386 15.7761 8.5 15.5 8.5H13.5Z\" fill=\"currentColor\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 17.0153C5 18.1114 5.89543 19 7 19H9V20H11V22H13V20H15V19H17C18.1046 19 19 18.1114 19 17.0153V5.16367C19 4.06754 18.1046 3.17895 17 3.17895H14L13.434 2.60121C12.6486 1.7996 11.3514 1.7996 10.566 2.60121L10 3.17895H7C5.89543 3.17895 5 4.06754 5 5.16367V17.0153ZM14 5.17895C13.4625 5.17895 12.9475 4.96257 12.5714 4.57859L12.0054 4.00086C12.0043 4.00065 12.0023 4 12 4C11.9977 4 11.9961 4.00025 11.995 4.00046L11.4286 4.57859C11.0525 4.96257 10.5375 5.17895 10 5.17895H7V13.6156C7.34039 13.615 7.66992 13.6172 7.9872 13.6193L8.26853 13.6211C8.98105 13.6252 9.62473 13.6244 10.2328 13.5885C11.4376 13.5173 12.4419 13.3108 13.3949 12.7729C14.7937 11.9835 16.0644 12.1638 17 12.5977V5.17895H14Z\" fill=\"currentColor\"></path></svg>",

@@ -100,8 +100,18 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M70 116a24.001 24.001 0 0 0-40.97-16.97A24 24 0 0 0 46 140m88 0a36 36 0 0 0 27.066-12.264 36 36 0 0 0 3.505-42.746 36 36 0 0 0-13.42-12.642M46 88a44 44 0 0 1 88 0m-4.655-19.698a36 36 0 0 1 21.806 4.046m0 0c.554-2.022.849-4.15.849-6.348 0-13.255-10.745-24-24-24s-24 10.745-24 24 10.745 24 24 24c2.072 0 4.082-.263 6-.756M46 88v68m24-40v24m64-52v52m-64 0h64m-88 16 24-16\"></path></svg>",
+		"@lawnicons,schul,cloud",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M82.2 100C47.081 98 23 102.47 23 120c0 23.206 41.14 24 51.173 24 26.088 0 49.166-8 49.166-31s-15.051-23.6-15.051-47c0-8.6 2.733-20 35.472-20 39.662 0 20.719 21 20.719 21\"></path></svg>",
 		"@lawnicons,shelly,cloud",
+		"Lawnicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M22 42c0-8.837 7.163-16 16-16h132l-8 26H54a6 6 0 0 0-6 6v76a6 6 0 0 0 6 6h108l8 26H38c-8.837 0-16-7.163-16-16zm130 54H70m82 22H70m82-44H70\"></path></svg>",
+		"@lawnicons,taiwan,cloud,library",
 		"Lawnicons"
 	],
 	[
@@ -5320,6 +5330,11 @@
 		"Ant Design Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"currentColor\"><path d=\"M9 10H3C1.35 10 0 8.65 0 7C0 5.51 1.1 4.26 2.53 4.04C2.76 2.33 4.23 1 6 1C7.77 1 9.24 2.32 9.47 4.04C10.9 4.27 12 5.51 12 7C12 8.65 10.65 10 9 10ZM6 2C4.62 2 3.5 3.12 3.5 4.5C3.5 4.78 3.28 5 3 5C1.9 5 1 5.9 1 7C1 8.1 1.9 9 3 9H9C10.1 9 11 8.1 11 7C11 5.9 10.1 5 9 5C8.72 5 8.5 4.78 8.5 4.5C8.5 3.12 7.38 2 6 2Z\"></path></svg>",
+		"@codicons,cloud,compact",
+		"Codicons"
+	],
+	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M11.5 7C9.015 7 7 9.015 7 11.5C7 13.985 9.015 16 11.5 16C13.985 16 16 13.985 16 11.5C16 9.015 13.985 7 11.5 7ZM13.854 11.854L11.854 13.854C11.806 13.902 11.751 13.938 11.692 13.963C11.634 13.987 11.57 14 11.504 14.001H11.498C11.431 14.001 11.368 13.987 11.31 13.963C11.252 13.939 11.197 13.903 11.15 13.857L11.147 13.854L9.147 11.854C8.952 11.659 8.952 11.342 9.147 11.147C9.342 10.952 9.659 10.952 9.854 11.147L11 12.294V9.001C11 8.725 11.224 8.501 11.5 8.501C11.776 8.501 12 8.725 12 9.001V12.294L13.146 11.147C13.341 10.952 13.658 10.952 13.853 11.147C14.048 11.342 14.048 11.659 13.853 11.854H13.854ZM4.25 12H6V13H4.25C2.455 13 1 11.545 1 9.75C1 8.029 2.338 6.62 4.03 6.507C4.273 4.53 5.958 3 8 3C9.862 3 11.411 4.278 11.857 6H10.811C10.397 4.838 9.303 4 8 4C6.343 4 5 5.343 5 7C5 7.276 4.776 7.5 4.5 7.5H4.25C3.007 7.5 2 8.507 2 9.75C2 10.993 3.007 12 4.25 12Z\"></path></svg>",
 		"@codicons,cloud,download",
 		"Codicons"
@@ -7250,12 +7265,7 @@
 		"Gitlab SVGs"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\" fill-rule=\"evenodd\" stroke-linejoin=\"round\" stroke-miterlimit=\"2\" clip-rule=\"evenodd\" viewBox=\"0 0 32 32\"><defs><path id=\"a\" fill=\"#bbdefb\" d=\"m26 14 2-2 4 4-2 2z\"></path></defs><path fill=\"#2196f3\" fill-rule=\"nonzero\" d=\"M28.967 12H9.442c-.859 0-1.627.553-1.898 1.368L4 24V10h24c0-1.097-.903-2-2-2H15.124c-.468 0-.921-.164-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4c-1.097 0-2 .903-2 2v16c0 1.097.903 2 2 2h22l4.805-11.212c.107-.249.162-.517.162-.788 0-1.097-.903-2-2-2\"></path><path fill=\"#bbdefb\" d=\"M21.982 17.988h2.037v1.996h-2.037zm-2.983.021h2.037v1.996h-2.037zm5.998 0h1.996v1.996h-1.996zM29 14h3v10h-3z\"></path><use xlink:href=\"#a\" transform=\"translate(0 -2)\"></use><use xlink:href=\"#a\" transform=\"matrix(1 0 0 -1 0 40)\"></use><path fill=\"#bbdefb\" d=\"M14 14h3v10h-3z\"></path><use xlink:href=\"#a\" transform=\"matrix(-1 0 0 1 46 -2)\"></use><use xlink:href=\"#a\" transform=\"rotate(180 23 20)\"></use></svg>",
-		"@material-icon-theme,folder,cloud,functions,open",
-		"Material Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\" fill-rule=\"evenodd\" stroke-linejoin=\"round\" stroke-miterlimit=\"2\" clip-rule=\"evenodd\" viewBox=\"0 0 32 32\"><defs><path id=\"a\" fill=\"#bbdefb\" d=\"m26 14 2-2 4 4-2 2z\"></path></defs><path fill=\"#2196f3\" fill-rule=\"nonzero\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4c-1.097 0-2 .903-2 2v16c0 1.097.903 2 2 2h24c1.097 0 2-.903 2-2V10c0-1.097-.903-2-2-2H15.124c-.468 0-.921-.164-1.28-.464\"></path><path fill=\"#bbdefb\" d=\"M21.982 17.988h2.037v1.996h-2.037zm-2.983.021h2.037v1.996h-2.037zm5.998 0h1.996v1.996h-1.996zM29 14h3v10h-3z\"></path><use xlink:href=\"#a\" transform=\"translate(0 -2)\"></use><use xlink:href=\"#a\" transform=\"matrix(1 0 0 -1 0 40)\"></use><path fill=\"#bbdefb\" d=\"M14 14h3v10h-3z\"></path><use xlink:href=\"#a\" transform=\"matrix(-1 0 0 1 46 -2)\"></use><use xlink:href=\"#a\" transform=\"rotate(180 23 20)\"></use></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\" fill-rule=\"evenodd\" stroke-linejoin=\"round\" stroke-miterlimit=\"2\" viewBox=\"0 0 16 16\"><defs><path id=\"a\" fill=\"#bbdefb\" d=\"m13 7 1-1 2 2-1 1z\"></path></defs><path id=\"folder\" fill=\"#2196f3\" fill-rule=\"nonzero\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><g id=\"motive\"><path fill=\"#bbdefb\" d=\"M10.991 8.994h1.019v.998h-1.02zm-1.491.01h1.018v.999H9.499zm2.998 0h.999v.999h-.999zM14.5 7H16v5h-1.5z\"></path><use xlink:href=\"#a\" transform=\"translate(0 -1)\"></use><use xlink:href=\"#a\" transform=\"matrix(1 0 0 -1 0 20)\"></use><path fill=\"#bbdefb\" d=\"M7 7h1.5v5H7z\"></path><use xlink:href=\"#a\" transform=\"matrix(-1 0 0 1 23 -1)\"></use><use xlink:href=\"#a\" transform=\"rotate(180 11.5 10)\"></use></g></svg>",
 		"@material-icon-theme,folder,cloud,functions",
 		"Material Icon Theme"
 	],

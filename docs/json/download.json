@@ -20,7 +20,7 @@
 		"Lawnicons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M84 98H60m72 0h-24m0 0V64a6 6 0 0 0-6-6H90a6 6 0 0 0-6 6v34m-24 0 36 36m36-36-36 36\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M84 99H60m72 0h-24m0 0V65a6 6 0 0 0-6-6H90a6 6 0 0 0-6 6v34m-24 0 31.757 31.757a6 6 0 0 0 8.486 0L132 99\"></path><circle cx=\"96\" cy=\"96\" r=\"74\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\"></circle></svg>",
 		"@lawnicons,download,twitter,videos",
 		"Lawnicons"
 	],
@@ -42,6 +42,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M41 144v20a6 6 0 0 0 6 6h98a6 6 0 0 0 6-6v-20M96 22v112m34-32-34 38-34-38\"></path></svg>",
 		"@lawnicons,generic,download,shelf",
+		"Lawnicons"
+	],
+	[
+		"<svg width=\"192\" height=\"192\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 192\"><path d=\"M96 60v68M62 98l34 30 34-30\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M157.006 52.276A74.866 74.866 0 0 1 170 83.841m0 24.318a74.864 74.864 0 0 1-12.994 31.565m-17.083 17.195c-9.124 6.605-19.793 11.183-31.357 13.081m-24.158 0C49.014 164.19 22 133.271 22 96c0-37.27 27.014-68.19 62.408-74m24.158 0c11.564 1.898 22.233 6.476 31.357 13.08\" stroke=\"#000\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+		"@lawnicons,punch,hole,download,progress",
 		"Lawnicons"
 	],
 	[
@@ -2240,7 +2245,7 @@
 		"Jam Icons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> download</title><path d=\"M17 12v5H3v-5H1v5a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5z\"></path><path d=\"M15 9h-4V1H9v8H5l5 6z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> download</title><path d=\"M19 19H1v-2h18zm-8-7.104 3.5-3.5 1.414 1.414-5.207 5.208H9.293L4.086 9.81 5.5 8.396l3.5 3.5V1h2z\"></path></svg>",
 		"@ooui,download",
 		"OOUI"
 	],
@@ -2550,12 +2555,7 @@
 		"Gitlab SVGs"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#4caf50\" d=\"M28.967 12H9.442a2 2 0 0 0-1.898 1.368L4 24V10h24a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h22l4.805-11.212A2 2 0 0 0 28.967 12\"></path><path fill=\"#c8e6c9\" d=\"M26 10v6h4l-7 8-7-8h4v-6zm4 16v2H16v-2Z\"></path></svg>",
-		"@material-icon-theme,folder,download,open",
-		"Material Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#4caf50\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464\"></path><path fill=\"#c8e6c9\" d=\"M26 10v6h4l-7 8-7-8h4v-6zm4 16v2H16v-2Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path id=\"folder\" fill=\"#4caf50\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><path id=\"motive\" fill=\"#c8e6c9\" d=\"M13 5v3h2l-3.5 4L8 8h2V5Zm2 8v1H8v-1z\"></path></svg>",
 		"@material-icon-theme,folder,download",
 		"Material Icon Theme"
 	],

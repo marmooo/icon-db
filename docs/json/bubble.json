@@ -1390,23 +1390,33 @@
 		"Pepicons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> speech bubble</title><path d=\"M6 14H0v6z\"></path><rect width=\"20\" height=\"16\" rx=\"2\"></rect></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> speech bubble</title><path d=\"M19 16h-6.685l-4.742 3.32L6 18.5V16H1V2h18zM3 14h5v2.58L11.685 14H17V4H3z\"></path></svg>",
 		"@ooui,speech,bubble,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> speech bubble</title><path d=\"M14 14h6v6z\"></path><rect width=\"20\" height=\"16\" rx=\"2\"></rect></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> speech bubble</title><path d=\"M19 2v14h-5v2.5l-1.573.82L7.685 16H1V2zM3 4v10h5.315L12 16.58V14h5V4z\"></path></svg>",
 		"@ooui,speech,bubble,rtl",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add speech bubble</title><path d=\"M3 1a2 2 0 0 0-2 2v16l4-4h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2zm12 8h-4v4H9V9H5V7h4V3h2v4h4z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add speech bubble</title><path d=\"M9 5H3v9h5v2.58L11.685 14H15v-3h2v5h-4.685l-4.742 3.32L6 18.5V16H1V3h8zm8-2h3v2h-3v3h-2V5h-3V3h3V0h2z\"></path></svg>",
 		"@ooui,speech,bubble,add,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add speech bubble</title><path d=\"M1 3v10c0 1.1.9 2 2 2h12l4 4V3c0-1.1-.9-2-2-2H3c-1.1 0-2 .9-2 2m4 4h4V3h2v4h4v2h-4v4H9V9H5z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add speech bubbles</title><path d=\"M20 3v13h-5v2.5l-1.573.82L8.685 16H4v-5h2v3h3.315L13 16.58V14h5V5h-6V3zM6 0v3h3v2H6v3H4V5H1V3h3V0z\"></path></svg>",
 		"@ooui,speech,bubble,add,rtl",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> alert speech bubble</title><path d=\"M6 4H3v10h5v2.58L11.685 14H17V4h-3V2h5v14h-6.685l-4.742 3.32L6 18.5V16H1V2h5z\"></path><path d=\"M11 12H9v-2h2zm0-4H9V2h2z\"></path></svg>",
+		"@ooui,speech,bubble,alert,ltr",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> speech bubbles alert</title><path d=\"M6 2v2H3v10h5.315L12 16.58V14h5V4h-3V2h5v14h-5v2.5l-1.573.82L7.685 16H1V2z\"></path><path d=\"M11 10v2H9v-2zm0-8v6H9V2z\"></path></svg>",
+		"@ooui,speech,bubble,alert,rtl",
 		"OOUI"
 	],
 	[

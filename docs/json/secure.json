@@ -60,6 +60,11 @@
 		"Lawnicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 170S22 142 22 36c46 8 74-14 74-14m0 148s74-28 74-134c-46 8-74-14-74-14m0 148V22\"></path></svg>",
+		"@lawnicons,vodafone,secure,net",
+		"Lawnicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"192\" height=\"192\" fill=\"none\" viewBox=\"0 0 192 192\"><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M96 22S64 48 29 48c0 112 67 122 67 122m0-148s32 26 67 26c0 112-67 122-67 122\"></path><path stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"12\" d=\"M137.012 81.18c-5.386-4.178-11.779-7.493-18.816-9.755C111.159 69.164 103.617 68 96 68s-15.159 1.164-22.196 3.425-13.43 5.577-18.816 9.755m63.639 18.971c-2.971-1.95-6.499-3.497-10.381-4.552C104.363 94.543 100.202 94 96 94s-8.364.543-12.246 1.599c-3.882 1.055-7.41 2.602-10.381 4.552m31.112 22.192c-1.114-.743-2.437-1.332-3.893-1.734A17.3 17.3 0 0 0 96 120a17.3 17.3 0 0 0-4.592.609c-1.456.402-2.779.991-3.893 1.734\"></path></svg>",
 		"@lawnicons,vpn,fast,proxy,secure",
 		"Lawnicons"
@@ -290,7 +295,7 @@
 		"EOS Icons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> secure link</title><path d=\"M16.07 8H15V5s0-5-5-5-5 5-5 5v3H3.93A1.93 1.93 0 0 0 2 9.93v8.15A1.93 1.93 0 0 0 3.93 20h12.14A1.93 1.93 0 0 0 18 18.07V9.93A1.93 1.93 0 0 0 16.07 8M7 5.5C7 4 7 2 10 2s3 2 3 3.5V8H7zM10 16a2 2 0 1 1 2-2 2 2 0 0 1-2 2\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> secure link</title><path d=\"M11 15H9v-3h2z\"></path><path d=\"M10 1a4 4 0 0 1 4 4v3h3v11H3V8h3V5a4 4 0 0 1 4-4M5 17h10v-7H5zm5-14a2 2 0 0 0-2 2v3h4V5a2 2 0 0 0-2-2\"></path></svg>",
 		"@ooui,link,secure",
 		"OOUI"
 	],
@@ -320,12 +325,7 @@
 		"grommet-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#f9a825\" d=\"M28.967 12H9.442a2 2 0 0 0-1.898 1.368L4 24V10h24a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h22l4.805-11.212A2 2 0 0 0 28.967 12\"></path><path fill=\"#fff9c4\" d=\"M28 16v-3.828a4.116 4.116 0 0 0-3.607-4.153A4 4 0 0 0 20 12v4h-2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2Zm-4 8a2 2 0 1 1 2-2 2 2 0 0 1-2 2m2-8h-4v-4a2 2 0 0 1 4 0Z\"></path></svg>",
-		"@material-icon-theme,folder,secure,open",
-		"Material Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#f9a825\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464\"></path><path fill=\"#fff9c4\" d=\"M28 16v-3.828a4.116 4.116 0 0 0-3.607-4.153A4 4 0 0 0 20 12v4h-2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2Zm-4 8a2 2 0 1 1 2-2 2 2 0 0 1-2 2m2-8h-4v-4a2 2 0 0 1 4 0Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path id=\"folder\" fill=\"#f9a825\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><path id=\"motive\" fill=\"#fff9c4\" d=\"M14 8V6.086a2.06 2.06 0 0 0-1.804-2.076A2 2 0 0 0 10 6v2H9a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1zm-2 4a1 1 0 1 1 1-1 1 1 0 0 1-1 1m1-4h-2V6a1 1 0 0 1 2 0z\"></path></svg>",
 		"@material-icon-theme,folder,secure",
 		"Material Icon Theme"
 	],

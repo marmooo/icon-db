@@ -290,13 +290,18 @@
 		"System UIcons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> funnel</title><path d=\"M10 13 1 1h18z\"></path><path d=\"M8 9v8l4 2V9z\"></path></svg>",
-		"@ooui,funnel,ltr",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> funnel</title><path d=\"M18.8 3.6 13 11.333V18H7v-6.667L1.2 3.6 2 2h16zM9 10.667V16h2v-5.333L16 4H3.999z\"></path></svg>",
+		"@ooui,funnel",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> funnel</title><path d=\"M1 1h18l-9 12z\"></path><path d=\"m8 19 4-2V9H8z\"></path></svg>",
-		"@ooui,funnel,rtl",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> funnel match</title><path d=\"M18 4H3.999L9 10.667V16h2v-3h2v5H7v-6.667L1.2 3.6 2 2h16z\"></path><path d=\"M17 9h3v2h-3v3h-2v-3h-3V9h3V6h2z\"></path></svg>",
+		"@ooui,funnel,match,ltr",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> funnel match</title><path d=\"m19.2 2 .8 1.6-5.8 7.733V18h-6v-5h2v3h2v-5.333L17.201 4h-14V2h16Z\"></path><path d=\"M6.2 6v3h3v2h-3v3h-2v-3h-3V9h3V6z\"></path></svg>",
+		"@ooui,funnel,match,rtl",
 		"OOUI"
 	],
 	[

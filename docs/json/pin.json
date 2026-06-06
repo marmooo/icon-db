@@ -2775,17 +2775,17 @@
 		"Pepicons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> map pin</title><path d=\"M10 0a7.65 7.65 0 0 0-8 8c0 2.52 2 5 3 6s5 6 5 6 4-5 5-6 3-3.48 3-6a7.65 7.65 0 0 0-8-8m0 11.25A3.25 3.25 0 1 1 13.25 8 3.25 3.25 0 0 1 10 11.25\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> map pin</title><path d=\"M10 6a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3\"></path><path d=\"M4.937 2.649a7.16 7.16 0 0 1 10.94 9.152l-5.057 7.27H9.18L4.121 11.8a7.16 7.16 0 0 1 .815-9.152Zm8.712 1.414a5.16 5.16 0 0 0-7.886 6.597L10 16.75l4.236-6.09a5.16 5.16 0 0 0-.587-6.597\"></path></svg>",
 		"@ooui,map,pin",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add map pin</title><path d=\"M10 0a7.65 7.65 0 0 0-8 8c0 2.52 2 5 3 6s5 6 5 6 4-5 5-6 3-3.48 3-6a7.65 7.65 0 0 0-8-8m5 9h-4v4H9V9H5V7h4V3h2v4h4z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add map pin</title><path d=\"M11 7h2v2h-2v2H9V9H7V7h2V5h2z\"></path><path d=\"M4.937 2.649a7.16 7.16 0 0 1 10.94 9.152l-5.057 7.27H9.18L4.121 11.8a7.16 7.16 0 0 1 .815-9.152Zm8.712 1.414a5.16 5.16 0 0 0-7.886 6.597L10 16.75l4.236-6.09a5.16 5.16 0 0 0-.587-6.597\"></path></svg>",
 		"@ooui,map,pin,add",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> push pin</title><path d=\"M13 8V2a2 2 0 0 0 2-2H5a2 2 0 0 0 2 2v6H6a2 2 0 0 0-2 2v1h5v5l1 4 1-4v-5h5v-1a2 2 0 0 0-2-2z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> push pin</title><path d=\"M16 3h-2v3.764l2.895 5.789L16 14h-5v6H9v-6H4l-.895-1.447L6 6.763V3H4V1h12zM8 7.236 5.618 12h8.764L12 7.236V3H8z\"></path></svg>",
 		"@ooui,push,pin",
 		"OOUI"
 	],

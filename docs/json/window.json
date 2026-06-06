@@ -2315,6 +2315,11 @@
 		"Codicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"currentColor\"><path d=\"M9.5 0H2.5C1.121 0 0 1.122 0 2.5V9.5C0 10.878 1.121 12 2.5 12H9.5C10.879 12 12 10.878 12 9.5V2.5C12 1.122 10.879 0 9.5 0ZM2.5 1H9.5C10.327 1 11 1.673 11 2.5V3H1V2.5C1 1.673 1.673 1 2.5 1ZM9.5 11H2.5C1.673 11 1 10.327 1 9.5V4H11V9.5C11 10.327 10.327 11 9.5 11Z\"></path></svg>",
+		"@codicons,window,compact",
+		"Codicons"
+	],
+	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\"><path d=\"M4 1C2.34315 1 1 2.34315 1 4V12C1 13.6569 2.34315 15 4 15H12C13.6569 15 15 13.6569 15 12V4C15 2.34315 13.6569 1 12 1H4ZM2 4C2 2.89543 2.89543 2 4 2H12C13.1046 2 14 2.89543 14 4H2ZM2 5H14V12C14 13.1046 13.1046 14 12 14H4C2.89543 14 2 13.1046 2 12V5Z\"></path></svg>",
 		"@codicons,window",
 		"Codicons"
@@ -2440,18 +2445,23 @@
 		"Quill Icons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> new window</title><path d=\"M17 17H3V3h5V1H3a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5h-2z\"></path><path d=\"m11 1 3.3 3.3L8.6 10l1.4 1.4 5.7-5.7L19 9V1z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> new window</title><path d=\"M9 3H3v14h14v-6h2v8H1V1h8z\"></path><path d=\"M18 1.001 19 2v6h-2V4.414l-7 7L8.586 10l7-7H12V1z\"></path></svg>",
 		"@ooui,new,window,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> new window</title><path d=\"M3 12H1v5c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2h-5v2h5v14H3z\"></path><path d=\"m1 9 3.3-3.3 5.7 5.7 1.4-1.4-5.7-5.7L9 1H1z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> new window</title><path d=\"M19 1v18H1v-8h2v6h14V3h-6V1z\"></path><path d=\"M8 3H4.414l7 7L10 11.414l-7-7V8H1V2l1-.999L8 1z\"></path></svg>",
 		"@ooui,new,window,rtl",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> window</title><path d=\"M2 2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zm0 2h16v12H2z\"></path><path d=\"M4 6h12v2H4z\"></path></svg>",
-		"@ooui,window",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> window</title><path d=\"M4.5 5.5a1 1 0 1 1 0 2 1 1 0 0 1 0-2m11.5 2H6.5v-2H16z\"></path><path d=\"M20 18H0V2h20zM2 16h16V4H2z\"></path></svg>",
+		"@ooui,window,ltr",
+		"OOUI"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> window</title><path d=\"M13.5 5.5v2H4v-2zm2 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2\"></path><path d=\"M20 2v16H0V2zM2 4v12h16V4z\"></path></svg>",
+		"@ooui,window,rtl",
 		"OOUI"
 	],
 	[

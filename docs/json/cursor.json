@@ -880,7 +880,7 @@
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 22h-1a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h1\"></path><path d=\"M7 22h1a4 4 0 0 0 4-4v-1\"></path><path d=\"M7 2h1a4 4 0 0 1 4 4v1\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 22h-1a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h1\"></path><path d=\"M7 22h1a4 4 0 0 0 4-4\"></path><path d=\"M7 2h1a4 4 0 0 1 4 4\"></path></svg>",
 		"@lucide,text,cursor",
 		"Lucide"
 	],
@@ -1090,22 +1090,12 @@
 		"Material Icon Theme"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#e0e0e0\" d=\"M28.967 12H9.442a2 2 0 0 0-1.898 1.368L4 24V10h24a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h22l4.805-11.212A2 2 0 0 0 28.967 12\"></path><path fill=\"#424242\" fill-rule=\"evenodd\" d=\"m22 28 8-14v10Zm-8-14 8-4.675L30 14Zm0 0 8 4v10l-8-4Z\"></path></svg>",
-		"@material-icon-theme,folder,cursor,open",
-		"Material Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#424242\" d=\"M28.967 12H9.442a2 2 0 0 0-1.898 1.368L4 24V10h24a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464l-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h22l4.805-11.212A2 2 0 0 0 28.967 12\"></path><path fill=\"#9e9e9e\" fill-rule=\"evenodd\" d=\"m22 28 8-14v10Zm-8-14 8-4.675L30 14Zm0 0 8 4v10l-8-4Z\"></path></svg>",
-		"@material-icon-theme,folder,cursor,open,light",
-		"Material Icon Theme"
-	],
-	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#e0e0e0\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464\"></path><path fill=\"#424242\" fill-rule=\"evenodd\" d=\"m22 28 8-14v10Zm-8-14 8-4.675L30 14Zm0 0 8 4v10l-8-4Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path id=\"folder\" fill=\"#e0e0e0\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><path id=\"motive\" fill=\"#424242\" fill-rule=\"evenodd\" d=\"m11 14 4-7v5ZM7 7l4-2.337L15 7Zm0 0 4 2v5l-4-2Z\"></path></svg>",
 		"@material-icon-theme,folder,cursor",
 		"Material Icon Theme"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><path fill=\"#424242\" d=\"m13.844 7.536-1.288-1.072A2 2 0 0 0 11.276 6H4a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2H15.124a2 2 0 0 1-1.28-.464\"></path><path fill=\"#9e9e9e\" fill-rule=\"evenodd\" d=\"m22 28 8-14v10Zm-8-14 8-4.675L30 14Zm0 0 8 4v10l-8-4Z\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path id=\"folder\" fill=\"#424242\" d=\"m6.922 3.768-.644-.536A1 1 0 0 0 5.638 3H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7.562a1 1 0 0 1-.64-.232\"></path><path id=\"motive\" fill=\"#9e9e9e\" fill-rule=\"evenodd\" d=\"m11 14 4-7v5ZM7 7l4-2.337L15 7Zm0 0 4 2v5l-4-2Z\"></path></svg>",
 		"@material-icon-theme,folder,cursor,light",
 		"Material Icon Theme"
 	],
