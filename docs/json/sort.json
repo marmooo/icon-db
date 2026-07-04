@@ -110,7 +110,7 @@
 		"Dashicons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"utf-8\"?><svg version=\"1.1\" id=\"Livello_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"-192 128.64 40 40\" enable-background=\"new -192 128.64 40 40\" xml:space=\"preserve\"><g id=\"Livello_2_2_\"></g><g id=\"New_Symbol_232\"></g><g><path d=\"M-171.938,153.48l-7.938,9.58v-29.896c0-0.414-0.336-0.75-0.75-0.75s-0.75,0.336-0.75,0.75v29.854l-7.938-9.539\\r\\n\\t\\tc-0.265-0.319-0.738-0.363-1.057-0.097c-0.318,0.265-0.361,0.737-0.097,1.056l9.285,11.157c0.143,0.172,0.354,0.271,0.577,0.271\\r\\n\\t\\tc0,0,0,0,0.001,0c0.223,0,0.434-0.1,0.577-0.271l9.246-11.157c0.264-0.319,0.22-0.792-0.099-1.056\\r\\n\\t\\tC-171.202,153.116-171.674,153.161-171.938,153.48z\"></path><path d=\"M-153.533,142.842l-9.284-11.157c-0.143-0.171-0.354-0.271-0.576-0.271h-0.001c-0.223,0-0.435,0.1-0.576,0.271\\r\\n\\t\\tl-9.247,11.157c-0.264,0.319-0.22,0.792,0.099,1.056c0.319,0.264,0.792,0.22,1.056-0.099l7.938-9.579v29.896\\r\\n\\t\\tc0,0.414,0.336,0.75,0.75,0.75s0.75-0.336,0.75-0.75v-29.855l7.938,9.539c0.148,0.179,0.361,0.271,0.576,0.271\\r\\n\\t\\tc0.17,0,0.34-0.057,0.479-0.173C-153.312,143.633-153.268,143.16-153.533,142.842z\"></path></g></svg>",
+		"<?xml version=\"1.0\" encoding=\"utf-8\"?><svg version=\"1.1\" id=\"Livello_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"-192 128.64 40 40\" enable-background=\"new -192 128.64 40 40\" xml:space=\"preserve\"><g id=\"Livello_2_2_\"></g><g id=\"New_Symbol_232\"></g><g><path d=\"M-171.938,153.48l-7.938,9.58v-29.896c0-0.414-0.336-0.75-0.75-0.75s-0.75,0.336-0.75,0.75v29.854l-7.938-9.539 c-0.265-0.319-0.738-0.363-1.057-0.097c-0.318,0.265-0.361,0.737-0.097,1.056l9.285,11.157c0.143,0.172,0.354,0.271,0.577,0.271 c0,0,0,0,0.001,0c0.223,0,0.434-0.1,0.577-0.271l9.246-11.157c0.264-0.319,0.22-0.792-0.099-1.056 C-171.202,153.116-171.674,153.161-171.938,153.48z\"></path><path d=\"M-153.533,142.842l-9.284-11.157c-0.143-0.171-0.354-0.271-0.576-0.271h-0.001c-0.223,0-0.435,0.1-0.576,0.271 l-9.247,11.157c-0.264,0.319-0.22,0.792,0.099,1.056c0.319,0.264,0.792,0.22,1.056-0.099l7.938-9.579v29.896 c0,0.414,0.336,0.75,0.75,0.75s0.75-0.336,0.75-0.75v-29.855l7.938,9.539c0.148,0.179,0.361,0.271,0.576,0.271 c0.17,0,0.34-0.057,0.479-0.173C-153.312,143.633-153.268,143.16-153.533,142.842z\"></path></g></svg>",
 		"@iwwa-icons,sort,by",
 		"iwwa-icons"
 	],
@@ -1825,6 +1825,16 @@
 		"Radix Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 19h18\"></path><path d=\"M15 12H3\"></path><path d=\"M9 5H3\"></path></svg>",
+		"@lucide,list,sort,ascending",
+		"Lucide"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 12H3\"></path><path d=\"M3 5h18\"></path><path d=\"M9 19H3\"></path></svg>",
+		"@lucide,list,sort,descending",
+		"Lucide"
+	],
+	[
 		"<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 2L6 3V6H7V3H14V5.45306L14.2071 5.29286L15 6.08576V3L14 2H7ZM8 4H10V6H8V4ZM5 9H3V11H5V9ZM2 7L1 8V13L2 14H9L10 13V8L9 7H2ZM2 13V8H9V13H2ZM8 10H6V12H8V10ZM13 4H12V7.86388L10.818 6.68192L10.1109 7.38903L12.1465 9.42454L12.8536 9.42454L14.889 7.38908L14.1819 6.68197L13 7.86388V4Z\" fill=\"#C5C5C5\"></path></svg>",
 		"@visual-studio-code-icons,dark,sort,precedence",
 		"Visual Studio Code Icons"
@@ -1903,16 +1913,6 @@
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><polygon points=\"30 19.415 28.586 18 25 21.587 21.414 18 20 19.415 23.586 23 20 26.586 21.414 28 25 24.414 28.586 28 30 26.586 26.414 23 30 19.415\"></polygon><rect x=\"10\" y=\"18\" width=\"6\" height=\"2\"></rect><rect x=\"2\" y=\"6\" width=\"14\" height=\"2\"></rect><rect x=\"6\" y=\"12\" width=\"10\" height=\"2\"></rect><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,sort,remove",
 		"Carbon"
-	],
-	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Sort ASC Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Sort ASC Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"M 9.34375,64 C 9.34375,33.81417 33.81417,9.34375 64,9.34375 94.18583,9.34375 118.65625,33.81417 118.65625,64 118.65625,94.185828 94.18583,118.65625 64,118.65625 33.81417,118.65625 9.34375,94.185828 9.34375,64 z m 27.84375,11.15625 18.40625,0 -11,19 38.8125,0 -11,-19 18.40625,0 L 64,28.6875 37.1875,75.15625 z\" style=\"fill:#aaaaaa\"></path></svg>",
-		"@clarity,actions,gtk,sort,ascending",
-		"Clarity"
-	],
-	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><svg xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:cc=\"http://creativecommons.org/ns#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"128\" height=\"128\" version=\"1.1\" viewBox=\"0 0 128 128\"><title>Sort Desc Icon</title><desc>This is shape (source) for Clarity vector icon theme for gtk</desc><metadata><rdf:RDF><cc:Work><dc:title>Sort Desc Icon</dc:title><dc:description>This is shape (source) for Clarity vector icon theme for gtk</dc:description><dc:creator><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Jakub Jankiewicz</dc:title></cc:Agent></dc:rights><dc:date>2010</dc:date><dc:format>image/svg+xml</dc:format><dc:type rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"></dc:type><cc:license rdf:resource=\"http://creativecommons.org/licenses/by-sa/3.0/\"></cc:license></cc:Work></rdf:RDF></metadata><path d=\"m 9.34375,64 c 0,30.18583 24.47042,54.65625 54.65625,54.65625 30.18583,0 54.65625,-24.47042 54.65625,-54.65625 C 118.65625,33.814172 94.18583,9.34375 64,9.34375 33.81417,9.34375 9.34375,33.814172 9.34375,64 z m 27.84375,-11.15625 18.40625,0 -11,-19 38.8125,0 -11,19 18.40625,0 L 64,99.3125 37.1875,52.84375 z\" style=\"fill:#aaaaaa\"></path></svg>",
-		"@clarity,actions,gtk,sort,descending",
-		"Clarity"
 	],
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"currentColor\" viewBox=\"0 0 24 24\"><path d=\"M20 16v2H4v-2zm-10-2v2H6v-2zm0-2v2H8v-2zm0 6v2H6v-2zm0 2v2H8v-2zM4 6v2h16V6zm10-2v2h4V4zm0-2v2h2V2zm0 6v2h4V8zm0 2v2h2v-2z\"></path></svg>",
@@ -2075,7 +2075,7 @@
 		"Quill Icons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> sort vertical</title><path d=\"M14 14.5 10 18l-4-3.5V12h8zm0-9V8H6V5.5L10 2z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> sort vertical</title><path d=\"m15 13-5 5-5-5v-1h10zm0-6v1H5V7l5-5z\"></path></svg>",
 		"@ooui,sort,vertical",
 		"OOUI"
 	],

@@ -130,7 +130,7 @@
 		"Remix Icon"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"utf-8\"?><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 512 512\" enable-background=\"new 0 0 512 512\" xml:space=\"preserve\"><path d=\"M248,426.7c-58.9,0-112.6-21.9-153.8-57.7L56,512h384l-38.2-143.1C360.7,404.8,306.9,426.7,248,426.7z M248,277.3\\r\\n\\tc47.1,0,85.3-38.2,85.3-85.3s-38.2-85.3-85.3-85.3s-85.3,38.2-85.3,85.3S200.9,277.3,248,277.3z M226.7,149.3\\r\\n\\tc11.8,0,21.3,9.5,21.3,21.3c0,11.8-9.6,21.3-21.3,21.3c-11.8,0-21.3-9.5-21.3-21.3C205.4,158.9,214.9,149.3,226.7,149.3z M248,384\\r\\n\\tc106.1,0,192-86,192-192S354.1,0,248,0S56,86,56,192S142,384,248,384z M248,64c70.7,0,128,57.3,128,128s-57.3,128-128,128\\r\\n\\ts-128-57.3-128-128S177.3,64,248,64z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"utf-8\"?><svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 512 512\" enable-background=\"new 0 0 512 512\" xml:space=\"preserve\"><path d=\"M248,426.7c-58.9,0-112.6-21.9-153.8-57.7L56,512h384l-38.2-143.1C360.7,404.8,306.9,426.7,248,426.7z M248,277.3 c47.1,0,85.3-38.2,85.3-85.3s-38.2-85.3-85.3-85.3s-85.3,38.2-85.3,85.3S200.9,277.3,248,277.3z M226.7,149.3 c11.8,0,21.3,9.5,21.3,21.3c0,11.8-9.6,21.3-21.3,21.3c-11.8,0-21.3-9.5-21.3-21.3C205.4,158.9,214.9,149.3,226.7,149.3z M248,384 c106.1,0,192-86,192-192S354.1,0,248,0S56,86,56,192S142,384,248,384z M248,64c70.7,0,128,57.3,128,128s-57.3,128-128,128 s-128-57.3-128-128S177.3,64,248,64z\"></path></svg>",
 		"@subway-icon-set,webcam",
 		"Subway Icon Set"
 	],
@@ -230,9 +230,19 @@
 		"Unicons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22v-4\"></path><path d=\"M12.754 7.096a3 3 0 0 1 2.15 2.15\"></path><path d=\"M12.863 12.873a3 3 0 0 1-3.736-3.735\"></path><path d=\"M16.566 16.57A8 8 0 0 1 5.43 5.433\"></path><path d=\"m2 2 20 20\"></path><path d=\"M7 22h10\"></path><path d=\"M8.478 2.817a8 8 0 0 1 10.705 10.705\"></path></svg>",
+		"@lucide,webcam,off",
+		"Lucide"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"10\" r=\"8\"></circle><circle cx=\"12\" cy=\"10\" r=\"3\"></circle><path d=\"M7 22h10\"></path><path d=\"M12 22v-4\"></path></svg>",
 		"@lucide,webcam",
 		"Lucide"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4 20H20V18H22V22H2V18H4V20ZM6 18H4V16H6V18ZM16 18H8V16H16V18ZM20 18H18V16H20V18ZM8 16H6V14H8V16ZM18 16H16V14H18V16ZM6 14H4V6H6V14ZM14 8H16V12H14V14H10V12H8V8H10V10H12V8H10V6H14V8ZM20 14H18V6H20V14ZM8 6H6V4H8V6ZM18 6H16V4H18V6ZM16 4H8V2H16V4Z\" fill=\"black\"></path></svg>",
+		"@pixelarticons,webcam",
+		"Pixelarticons"
 	],
 	[
 		"<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M21.5 6.1c-.3-.2-.7-.2-1 0l-4.4 3V7c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2v-2.1l4.4 3c.2.1.4.2.6.2.2 0 .3 0 .5-.1.3-.2.5-.5.5-.9V7c0-.4-.2-.7-.5-.9zM14 17H4V7h10v10zm6-1.9l-4-2.7v-.9l4-2.7v6.3z\" fill=\"#0D0D0D\"></path></svg>",

@@ -35,6 +35,11 @@
 		"Elementor Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1000\" height=\"1000\" viewBox=\"0 0 1000 1000\"><path d=\"M464 375c6 0 12 2 16 7 5 5 7 10 7 17 0 6-2 11-7 16l-62 62 237-1c6 0 12 2 16 7 5 4 7 10 7 16 0 6-2 12-7 17-4 4-10 7-16 7l-231 1 58 61c4 5 7 10 7 16 0 7-3 12-7 17-5 5-10 7-16 7-6 0-12-2-16-7l-99-105c-5-4-7-10-7-16 0-6 2-12 7-17l97-98c5-5 10-7 16-7z m349-125c69 0 125 56 125 125v250c0 69-56 125-125 125h-625l-13-1c-63-6-112-59-112-124v-250c0-69 56-125 125-125h625z m-625 50c-42 0-75 34-75 75v250c0 41 33 75 75 75h625c41 0 75-34 75-75v-250c0-41-34-75-75-75h-625z\"></path></svg>",
+		"@elementor-icons,before",
+		"Elementor Icons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z\"></path></svg>",
 		"@material-design-icons,filled,navigate,before",
 		"Material Design Icons"
@@ -140,32 +145,32 @@
 		"Jam Icons"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table column before</title><path d=\"M9 9h2v2H9v2H7v-2H5V9h2V7h2z\"></path><path d=\"M15 2h4v16h-4v2H1V0h14zM3 18h10V2H3zm12-2h2V4h-2z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table column before</title><path d=\"M11 1v2h8v14h-8v2H1V1zm6 14V5h-2v10zm-4 0V5h-2v10zM3 11h2v2h2v-2h2V9H7V7H5v2H3z\"></path></svg>",
 		"@ooui,table,add,column,before,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table column before</title><path d=\"M13 7v2h2v2h-2v2h-2v-2H9V9h2V7z\"></path><path d=\"M19 0v20H5v-2H1V2h4V0zM7 2v16h10V2zM3 4v12h2V4z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table column before</title><path d=\"M9 1v2H1v14h8v2h10V1zM3 15V5h2v10zm4 0V5h2v10zm10-4h-2v2h-2v-2h-2V9h2V7h2v2h2z\"></path></svg>",
 		"@ooui,table,add,column,before,rtl",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table row before</title><path d=\"M11 7h2v2h-2v2H9V9H7V7h2V5h2z\"></path><path d=\"M20 15h-2v4H2v-4H0V1h20zM4 17h12v-2H4zm-2-4h16V3H2z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> add table row before</title><path d=\"M19 11h-2v8H3v-8H1V1h18zM5 17h10v-2H5zm0-4h10v-2H5zM9 3v2H7v2h2v2h2V7h2V5h-2V3z\"></path></svg>",
 		"@ooui,table,add,row,before",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table column before</title><path d=\"M19 19H1V1h18zM3 17h9v-4h2v4h3v-6H8.089l2 2-1.414 1.414-3.707-3.707V9.293l3.707-3.707L10.089 7l-2 2H17V3h-3v4h-2V3H3z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table column before</title><path d=\"M1 1h18v18H1zm11 10H8.089l2 2-1.414 1.414-3.707-3.707V9.293l3.707-3.707L10.089 7l-2 2H12V3H3v14h9zm5 0V9h-5v2z\"></path></svg>",
 		"@ooui,table,move,column,before,ltr",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table column before</title><path d=\"M19 1v18H1V1zM3 3v6h8.911l-2-2 1.414-1.414 3.707 3.707v1.414l-3.707 3.707L9.911 13l2-2H3v6h3v-4h2v4h9V3H8v4H6V3z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table column before</title><path d=\"M19 1H1v18h18zM8 11h3.911l-2 2 1.414 1.414 3.707-3.707V9.293l-3.707-3.707L9.911 7l2 2H8V3h9v14H8zm-5 0V9h5v2z\"></path></svg>",
 		"@ooui,table,move,column,before,rtl",
 		"OOUI"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table row before</title><path d=\"M19 19H1V1h18zM3 12h4v2H3v3h6V8.089l-2 2-1.414-1.414 3.707-3.708h1.414l3.707 3.708L13 10.089l-2-2V17h6v-3h-4v-2h4V3H3z\"></path></svg>",
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><title> move table row before</title><path d=\"M19 1v18H1V1zM9 12V8.089l-2 2-1.414-1.414 3.707-3.707h1.414l3.707 3.707L13 10.089l-2-2V12h6V3H3v9zm0 5h2v-5H9z\"></path></svg>",
 		"@ooui,table,move,row,before",
 		"OOUI"
 	],
