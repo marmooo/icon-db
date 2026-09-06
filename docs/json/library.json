@@ -665,6 +665,16 @@
 		"Material Design Icons"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><path d=\"M.49 15.201V.8c0-.442.353-.8.792-.8.438 0 .793.358.793.799V15.2a.796.796 0 0 1-.793.799.796.796 0 0 1-.794-.799m3.46 0V5.005c0-.44.356-.798.794-.798s.793.357.793.798v10.196a.796.796 0 0 1-.793.799.796.796 0 0 1-.794-.799m3.434 0V2.55c0-.441.356-.799.794-.799s.793.358.793.799V15.2a.796.796 0 0 1-.793.799.796.796 0 0 1-.794-.799m4.022-12.436a.793.793 0 0 1 .972.564l3.106 11.665a.793.793 0 1 1-1.533.413L10.844 3.744a.8.8 0 0 1 .561-.978\"></path></svg>",
+		"@octicons,library",
+		"Octicons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M.683 23.174V.826a.826.826 0 0 1 1.653 0v22.348a.826.826 0 0 1-1.653 0m5.406 0V7.354a.826.826 0 0 1 1.652 0v15.82a.827.827 0 0 1-1.652 0m5.363 0V3.542a.826.826 0 0 1 1.652 0v19.632a.827.827 0 0 1-1.652 0m5.975-18.899a.827.827 0 0 1 1.012.585l4.85 18.1a.826.826 0 0 1-1.597.428l-4.85-18.1a.827.827 0 0 1 .585-1.013\"></path></svg>",
+		"@octicons,library",
+		"Octicons"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"512\" height=\"512\" viewBox=\"0 0 512 512\"><rect x=\"32\" y=\"96\" width=\"64\" height=\"368\" rx=\"16\" ry=\"16\" style=\"fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px\"></rect><line x1=\"112\" y1=\"224\" x2=\"240\" y2=\"224\" style=\"fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px\"></line><line x1=\"112\" y1=\"400\" x2=\"240\" y2=\"400\" style=\"fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px\"></line><rect x=\"112\" y=\"160\" width=\"128\" height=\"304\" rx=\"16\" ry=\"16\" style=\"fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px\"></rect><rect x=\"256\" y=\"48\" width=\"96\" height=\"416\" rx=\"16\" ry=\"16\" style=\"fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px\"></rect><path d=\"M422.46,96.11l-40.4,4.25c-11.12,1.17-19.18,11.57-17.93,23.1l34.92,321.59c1.26,11.53,11.37,20,22.49,18.84l40.4-4.25c11.12-1.17,19.18-11.57,17.93-23.1L445,115C443.69,103.42,433.58,94.94,422.46,96.11Z\" style=\"fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px\"></path></svg>",
 		"@ionicons,library,outline",
 		"Ionicons"
@@ -947,6 +957,11 @@
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><polygon points=\"13 15 13 23 13 23 20 19 13 15\"></polygon><path d=\"M26,28H6a2.0021,2.0021,0,0,1-2-2V12a2.0021,2.0021,0,0,1,2-2H26a2.0021,2.0021,0,0,1,2,2V26A2.0021,2.0021,0,0,1,26,28ZM6,12V26H26V12Z\"></path><rect x=\"6\" y=\"6\" width=\"20\" height=\"2\"></rect><rect x=\"8\" y=\"2\" width=\"16\" height=\"2\"></rect><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,media,library",
+		"Carbon"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><path id=\"package--library\" d=\"M28,28H4c-1.103,0-2-.8975-2-2V6c0-1.103.897-2,2-2h10c1.103,0,2,.897,2,2v4h12c1.1025,0,2,.897,2,2v14c0,1.1025-.8975,2-2,2ZM4,12h-.0015l.0015,14h24v-14H4ZM4,10h10v-4H4v4ZM22,21H7v-2h15v2ZM25,17H7v-2h18v2Z\"></path><rect id=\"Transparent_Rectangle\" data-name=\"Transparent Rectangle\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,package,library",
 		"Carbon"
 	],
 	[
