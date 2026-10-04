@@ -3760,7 +3760,7 @@
 		"Radix Icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 9h18\"></path><path d=\"M9 3v18\"></path><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"></rect></svg>",
 		"@lucide,table",
 		"Lucide"
 	],
@@ -3872,6 +3872,11 @@
 	[
 		"<svg id=\"icon\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\"><defs><style>.cls-1{fill:none;}</style></defs><title>table</title><path d=\"M29,5a2,2,0,0,0-2-2H5A2,2,0,0,0,3,5V27a2,2,0,0,0,2,2H27a2,2,0,0,0,2-2ZM27,5V9H5V5Zm0,22H5V23H27Zm0-6H5V17H27Zm0-6H5V11H27Z\" transform=\"translate(0)\"></path><rect id=\"_Transparent_Rectangle_\" data-name=\"&lt;Transparent Rectangle&gt;\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
 		"@carbon,table",
+		"Carbon"
+	],
+	[
+		"<?xml version=\"1.0\" encoding=\"UTF-8\"?><svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\"><defs><style> .cls-1 { fill: none; }</style></defs><path id=\"view--table\" d=\"M27,2H5c-1.1,0-2,.9-2,2v24c0,1.1.9,2,2,2h22c1.1,0,2-.9,2-2V4c0-1.1-.9-2-2-2ZM27,12h-6v-6h6v6ZM27,20h-6v-6h6v6ZM5,6h6v6h-6v-6ZM19,6v6h-6v-6h6ZM5,14h6v6h-6v-6ZM13,14h6v6h-6v-6ZM5,22h6v6h-6v-6ZM13,22h6v6h-6v-6ZM27,28h-6v-6h6v6Z\"></path><rect id=\"Transparent_Rectangle\" data-name=\"Transparent Rectangle\" class=\"cls-1\" width=\"32\" height=\"32\"></rect></svg>",
+		"@carbon,view,table",
 		"Carbon"
 	],
 	[

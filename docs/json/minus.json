@@ -810,11 +810,6 @@
 		"Noto Emoji Twotone"
 	],
 	[
-		"<?xml version=\"1.0\" encoding=\"utf-8\"?><svg version=\"1.1\" id=\"Layer_2\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 128 128\" style=\"enable-background:new 0 0 128 128;\" xml:space=\"preserve\"><path style=\"fill:#464C4F;\" d=\"M3.93,71.05c0,0,0.08,5.36,0.08,6.41c0,1.05,0.37,2.66,2.97,2.66s111.67,0.23,113.4,0.16 c2.37-0.1,2.94-2.38,3-4.36c0.06-1.98,0.03-5.4,0.03-5.4l-27.08-8.89l-78.53,4.08L3.93,71.05z\"></path><path style=\"fill:#616266;\" d=\"M7.71,46.91c-2.47-0.06-3.51,0.85-3.7,3.02c-0.19,2.16-0.14,20.11-0.07,21.65s1.05,3.77,4.08,3.77 s110.5,0.25,112.11,0.19c1.61-0.06,3.15-1.55,3.28-4.45c0.12-2.91,0.06-19.29,0.12-20.96c0.06-1.67-0.68-3.03-3.77-3.09 C116.67,46.97,10.25,46.97,7.71,46.91z\"></path><path style=\"fill:#9A9A9A;\" d=\"M10.71,63.36c2.41,0.19,4.05-3.23,7.81-5.64s8.39-1.93,8.49-4.73c0.1-2.8-13.26-3.38-16.11-0.43 C8.06,55.5,7.87,63.14,10.71,63.36z\"></path></svg>",
-		"@noto-color-emoji,minus,color",
-		"Noto Color Emoji"
-	],
-	[
 		"<svg width=\"128\" height=\"128\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 128 128\"><path d=\"M8.57 51.69c-4.36 0-7.92 3.56-7.92 7.92v8.78c0 4.36 3.56 7.92 7.92 7.92h110.86c4.36 0 7.92-3.56 7.92-7.92v-8.78c0-4.36-3.56-7.92-7.92-7.92H8.57z\" fill=\"#40c0e7\"></path></svg>",
 		"@blobmoji,minus,color",
 		"Blobmoji"
@@ -1902,6 +1897,11 @@
 	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 12h6\"></path><path d=\"M12 3c7.2 0 9 1.8 9 9c0 7.2 -1.8 9 -9 9c-7.2 0 -9 -1.8 -9 -9c0 -7.2 1.8 -9 9 -9\"></path></svg>",
 		"@tabler-icons,outline,square,rounded,minus",
+		"Tabler Icons"
+	],
+	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 4l-8 4l8 4l8 -4l-8 -4\"></path><path d=\"M4 12l8 4\"></path><path d=\"M4 16l8 4\"></path><path d=\"M16 19h6\"></path></svg>",
+		"@tabler-icons,outline,stack,minus",
 		"Tabler Icons"
 	],
 	[
@@ -4470,7 +4470,7 @@
 		"Lucide"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M16 17h6\"></path><path d=\"M22 10H2\"></path><path d=\"M22 13V7a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2h8.536\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 13V7a2 2 0 00-2-2H4a2 2 0 00-2 2v10a2 2 0 002 2h8.536\"></path><path d=\"M22 10H2\"></path><path d=\"M6 14h2\"></path><path d=\"M16 17h6\"></path></svg>",
 		"@lucide,credit,card,minus",
 		"Lucide"
 	],
@@ -5580,12 +5580,12 @@
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.25 7.75a.75.75 0 0 1 .75.75V10h1.5a.75.75 0 1 1 0 1.5H13V13a.75.75 0 0 1-1.5 0v-1.5H10a.75.75 0 0 1 0-1.5h1.5V8.5a.75.75 0 0 1 .75-.75m-.53-4.53a.75.75 0 1 1 1.06 1.06l-8.5 8.5a.75.75 0 0 1-1.06-1.06zM6.75 4a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M12.25 7.75a.75.75 0 0 1 .75.75V10h1.5a.75.75 0 1 1 0 1.5H13V13a.75.75 0 0 1-1.5 0v-1.5H10a.75.75 0 0 1 0-1.5h1.5V8.5a.75.75 0 0 1 .75-.75m-.53-4.53a.75.75 0 1 1 1.06 1.06l-8.5 8.5a.75.75 0 0 1-1.06-1.06zM6.75 4a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5z\"></path></svg>",
 		"@flight-icons,minus,plus",
 		"flight-icons"
 	],
 	[
-		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M17.25 12.75a.75.75 0 0 1 .75.75V16h2.5a.75.75 0 0 1 0 1.5H18V20a.75.75 0 0 1-1.5 0v-2.5H14a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 .75-.75m.47-7.53a.75.75 0 1 1 1.06 1.06l-12.5 12.5a.75.75 0 0 1-1.06-1.06zM9.75 6a.75.75 0 0 1 0 1.5h-5.5a.75.75 0 0 1 0-1.5z\" clip-rule=\"evenodd\"></path></svg>",
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M17.25 12.75a.75.75 0 0 1 .75.75V16h2.5a.75.75 0 0 1 0 1.5H18V20a.75.75 0 0 1-1.5 0v-2.5H14a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 .75-.75m.47-7.53a.75.75 0 1 1 1.06 1.06l-12.5 12.5a.75.75 0 0 1-1.06-1.06zM9.75 6a.75.75 0 0 1 0 1.5h-5.5a.75.75 0 0 1 0-1.5z\"></path></svg>",
 		"@flight-icons,minus,plus",
 		"flight-icons"
 	],

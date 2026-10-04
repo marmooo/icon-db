@@ -165,8 +165,8 @@
   under the [CC0-1.0 and custom](https://github.com/coreui/coreui-icons)
 - [CoreUI Icons Free Icons](https://github.com/coreui/coreui-icons) licensed
   under the [CC-BY-4.0](https://github.com/coreui/coreui-icons)
-- [Teenyicons](https://github.com/teenyicons/teenyicons) licensed under the
-  [MIT](https://github.com/teenyicons/teenyicons/blob/master/LICENSE)
+- [Teenyicons](https://github.com/smhmd/teenyicons) licensed under the
+  [MIT](https://github.com/smhmd/teenyicons/blob/master/LICENSE)
 - [Maki](https://github.com/mapbox/maki) licensed under the
   [CC0-1.0](https://github.com/mapbox/maki/blob/main/LICENSE.txt)
 - [Simple Line Icons](https://github.com/thesabbir/simple-line-icons) licensed
@@ -242,8 +242,8 @@
   the [MIT](https://github.com/yourtempo/tempo-quill-icons/blob/main/LICENSE)
 - [Gala Icons](https://github.com/sisyphusion/gala-icons) licensed under the
   [GPL-3.0](https://github.com/sisyphusion/gala-icons/blob/main/LICENSE)
-- [Jam icons](https://github.com/michaelampr/jam) licensed under the
-  [MIT](https://github.com/michaelampr/jam/blob/master/LICENSE)
+- [Jam icons](https://github.com/marmooo/jam) licensed under the
+  [MIT](https://github.com/marmooo/jam/blob/master/LICENSE)
 - [Pepicons](https://github.com/CyCraft/pepicons) licensed under the
   [CC-BY-4.0](https://github.com/CyCraft/pepicons/blob/dev/LICENSE)
 - [OOUI](https://github.com/wikimedia/oojs-ui) licensed under the
@@ -405,8 +405,8 @@
   [MIT](https://github.com/la-moore/scarlab-icons/blob/master/LICENSE)
 - [HugeIcons](https://github.com/hugeicons/hugeicons-react) licensed under the
   [MIT](https://github.com/hugeicons/hugeicons-react/blob/main/LICENSE.md)
-- [JTB-Icons](https://github.com/JTBLabs/JTB-Icons) licensed under the
-  [MIT](https://github.com/JTBLabs/JTB-Icons/blob/main/LICENSE)
+- [JTB-Icons](https://github.com/marmooo/JTB-Icons) licensed under the
+  [MIT](https://github.com/marmooo/JTB-Icons/blob/main/LICENSE)
 - [Spectrum-CSS Workflow Icons v2](https://github.com/adobe/spectrum-css-workflow-icons)
   licensed under the
   [Apache-2.0](https://github.com/adobe/spectrum-css-workflow-icons/blob/main/LICENSE)

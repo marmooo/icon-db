@@ -2495,6 +2495,11 @@
 		"Lucide"
 	],
 	[
+		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 7v5l4 2\"></path><path d=\"M16 8h5V3\"></path><path d=\"m21 8-2.3-2.3A9.7 9.7 0 0012 3a9 9 0 109 9\"></path></svg>",
+		"@lucide,rotate,cw,clock",
+		"Lucide"
+	],
+	[
 		"<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3a9.75 9.75 0 0 1 6.74 2.74\"></path><path d=\"M18.74 5.74 21 8\"></path><path d=\"M21 8V3\"></path><path d=\"M7.5 19.794c-6-3.464-6-12.124 0-15.588\"></path><path d=\"M7.5 4.206A9 9 0 0 1 12 3\"></path><path d=\"M12 7v5l4 2\"></path><path d=\"M14 20.775A9 9 0 0 1 12 21\"></path><path d=\"M19 17.656a9 9 0 0 1-1.5 1.456\"></path><path d=\"M21 12a9 9 0 0 1-.228 2\"></path><path d=\"M21 8h-5\"></path></svg>",
 		"@lucide,rotate,cw,fading,clock",
 		"Lucide"
@@ -3552,6 +3557,26 @@
 	[
 		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M11.5 2H9V1h2.5A6.5 6.5 0 0 1 18 7.5v2.32l2.35-2.28.7.72-3.54 3.43-3.65-3.43.68-.72L17 9.84V7.5A5.5 5.5 0 0 0 11.5 2M1 6.5C1 5.67 1.67 5 2.5 5h7c.83 0 1.5.67 1.5 1.5v15c0 .83-.67 1.5-1.5 1.5h-7A1.5 1.5 0 0 1 1 21.5zM2.5 6a.5.5 0 0 0-.5.5v15c0 .28.22.5.5.5h7a.5.5 0 0 0 .5-.5v-15a.5.5 0 0 0-.5-.5zm18 8H12v-1h8.5c.83 0 1.5.67 1.5 1.5v7c0 .83-.67 1.5-1.5 1.5H12v-1h8.5a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.5-.5M9 21H3v-1h6z\"></path></svg>",
 		"@audi-icons,rotate,device,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13 4.48h1.76c2.9 0 5.24 2.35 5.24 5.25V12h1.5V9.73a6.75 6.75 0 0 0-6.74-6.75h-1.73l1.87-1.93-.54-.52-.54-.53-3.6 3.72 3.6 3.82L14.9 6.5zM9.5 5c.83 0 1.5.67 1.5 1.5v15c0 .83-.67 1.5-1.5 1.5h-7A1.5 1.5 0 0 1 1 21.5v-15C1 5.67 1.67 5 2.5 5zM3 21h6v-1H3zm17.5-8c.83 0 1.5.67 1.5 1.5v7c0 .83-.67 1.5-1.5 1.5H12V13z\"></path></svg>",
+		"@audi-icons,rotate,device,up,active,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"48\" height=\"48\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\"><path fill=\"currentColor\" d=\"M23 12.5c0-.83-.67-1.5-1.5-1.5h-12c-.83 0-1.5.67-1.5 1.5v27c0 .83.67 1.5 1.5 1.5h12c.83 0 1.5-.67 1.5-1.5zm17 27v-12c0-.83-.67-1.5-1.5-1.5H26v-1h12.5a2.5 2.5 0 0 1 2.5 2.5v12a2.5 2.5 0 0 1-2.5 2.5H26v-1h12.5c.83 0 1.5-.67 1.5-1.5M21 38v1H10v-1zm18-22.85c0-4.15-3.34-7.5-7.48-7.5h-7.79l4.15 4.14-.71.71-5.35-5.35 5.35-5.36.7.71-4.14 4.15h7.8c4.69 0 8.47 3.8 8.47 8.5V22h-1zM24 39.5a2.5 2.5 0 0 1-2.5 2.5h-12A2.5 2.5 0 0 1 7 39.5v-27A2.5 2.5 0 0 1 9.5 10h12a2.5 2.5 0 0 1 2.5 2.5z\"></path></svg>",
+		"@audi-icons,rotate,device,up,l",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M10 6.5a.5.5 0 0 0-.5-.5h-7a.5.5 0 0 0-.5.5v15c0 .28.22.5.5.5h7a.5.5 0 0 0 .5-.5zm11 15v-7a.5.5 0 0 0-.5-.5H12v-1h8.5c.83 0 1.5.67 1.5 1.5v7c0 .83-.67 1.5-1.5 1.5H12v-1h8.5a.5.5 0 0 0 .5-.5M9 20v1H3v-1zM20 9.56c0-3.04-2.48-5.5-5.52-5.5h-2.35l2.31 2.46-.36.34-.37.34-3.42-3.65L13.72.01l.36.35.36.35-2.28 2.35h2.32c3.58 0 6.52 2.9 6.52 6.5V12h-1zM11 21.5c0 .83-.67 1.5-1.5 1.5h-7A1.5 1.5 0 0 1 1 21.5v-15C1 5.67 1.67 5 2.5 5h7c.83 0 1.5.67 1.5 1.5z\"></path></svg>",
+		"@audi-icons,rotate,device,up,s",
+		"Audi Icons"
+	],
+	[
+		"<svg width=\"16\" height=\"17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 17\"><path fill=\"currentColor\" d=\"M6 5.52a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 0-.5.5v9c0 .28.22.5.5.5h4a.5.5 0 0 0 .5-.5zm6 9v-4a.5.5 0 0 0-.5-.5H8v-1h3.5c.83 0 1.5.68 1.5 1.5v4c0 .83-.67 1.5-1.5 1.5H8v-1h3.5a.5.5 0 0 0 .5-.5m-7-1.5v1H2v-1zm7-6.54a3.5 3.5 0 0 0-3.5-3.5H7.26l1.33 1.43-.36.34-.36.34L5.4 2.48 7.85 0l.35.35.36.35-1.27 1.28H8.5a4.5 4.5 0 0 1 4.5 4.5v1.54h-1zm-5 8.04c0 .83-.67 1.5-1.5 1.5h-4a1.5 1.5 0 0 1-1.5-1.5v-9c0-.82.67-1.5 1.5-1.5h4c.83 0 1.5.68 1.5 1.5z\"></path></svg>",
+		"@audi-icons,rotate,device,up,xs",
 		"Audi Icons"
 	],
 	[
